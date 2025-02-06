@@ -1,4 +1,4 @@
-Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+course_number,course_name,department,prerequisites,corequisites,description
 ACCT 23020,INTRODUCTION TO FINANCIAL ACCOUNTING,ACCT,None,,"
 (Equivalent to ACTT 11000) Introduction to the basic concepts and standards underlying financial accounting. Topics to be covered include revenue recognition, receivables, inventory, long-lived assets, liabilities and stockholders' equity. The impact of transactions on the accounting equation and financial statements (balance sheet, income statement and cash flows) is emphasized. "
 ACCT 23021,INTRODUCTION TO MANAGERIAL ACCOUNTING,ACCT,ACCT 23020 or ACTT 11000,,"

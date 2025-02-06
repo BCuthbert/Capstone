@@ -4,9 +4,10 @@ import re
 import pandas as pd
 
 save_path = "./Database"
+year = 2017
 
 def scrape(department, graduate=False):
-    URL = f"https://catalog.kent.edu/previous-catalogs/2017-2018//coursesaz/{department}/"
+    URL = f"https://catalog.kent.edu/previous-catalogs/{year}-{year+1}//coursesaz/{department}/"
 
     r = requests.get(URL) 
     soup = BeautifulSoup(r.content, "lxml")
@@ -55,16 +56,17 @@ def scrape(department, graduate=False):
             courses_cleaned.append(tuple([course_id, course_name, course_prerequisites, course_corequisites, course_description]))
     
     # Template for how each course will be represented in csv
-    output_df = pd.DataFrame(columns=["Course Number", "Course Name", "Department", "Prerequisites", "Corequesites", "Description"])
+    output_df = pd.DataFrame(columns=["course_name", "department", "prerequisites", "corequisites", "description", "year"]) ## updated this for the sql database
     
     # Adds each course to the dataframe
+
     output_data = []
     for course in courses_cleaned:
-        output_data.append({"Course Number": course[0], "Course Name": course[1], "Department": department.upper(), "Prerequisites": course[2], "Corequesites": course[3], "Description": course[4]})
+        output_data.append({"course_name": course[1], "department": department.upper(), "prerequisites": course[2], "corequisites": course[3], "description": course[4], "course_year": year})
     output_df = pd.DataFrame(output_data)
 
     # Saves the df
-    output_df.to_csv(f"{save_path}/{department}_data.csv", index=False)
+    output_df.to_csv(f"{save_path}/{department}_data{year}-{year+1}.csv", header=False, index=False) # no header, so that importing it into the SQL database is easy.
     
     
 scrape("acct")
