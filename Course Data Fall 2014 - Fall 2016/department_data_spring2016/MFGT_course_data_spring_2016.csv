@@ -1,0 +1,18 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+MFGT 12010 ,"SAFETY IN THE WORKPLACE
+",MFGT,None.,None,"Topics include Ohio general industry safety requirements. Discussion will include all workshops and factories,
+ metal casting, steel mills, and rubber and plastic industries."
+MFGT 13001 ,"COMPUTER NUMERICAL CONTROL PROGRAMMING
+",MFGT,MERT 12000 and MERT 12004.,None,"Lathe and mill computer numerical control (CNC) programming: conversational, M & G codes. Manual data input
+ and off-line programming: offsets, cutter compensation, linear, circular and helical interpolation."
+MFGT 21001 ,"STANDARD DESIGN PRACTICE FOR MANUFACTURING TECHNOLOGY
+",MFGT,"EERT 22002 and MERT12001 and MERT 12005.
+",None,"Analysis of fundamental machine design components. Discussion will include keys, fasteners, pulleys, gears,
+ chains, bearings, power transmission equipment and associated topics."
+MFGT 22014 ,"ADVANCED INDUSTRIAL ELECTRONICS
+",MFGT,EERT 22013.,None,"Advanced course in PLC program design and implementation. Emphasis on Boolean logic. Project definition and
+ completion."
+MFGT 23001 ,"COMPUTER-AIDED MANUFACTURING
+",MFGT,MFGT 13001 and MERT 12001.,None,"Theory and application of computer-aided manufacturing. Generation of CNC code using CAM applications both
+ from CAD drawings and directly from
+CAM package."

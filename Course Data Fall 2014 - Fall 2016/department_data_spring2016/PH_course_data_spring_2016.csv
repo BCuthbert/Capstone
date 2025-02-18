@@ -1,0 +1,379 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+PH 10000 ,"EXPLORING CAREERS IN PUBLIC HEALTH
+",PH,none.,None,"Provides an overview of the diverse career opportunities available in the field. Explores various public health
+ issues from the perspectives of public health professionals from the core disciplines in public health: social
+ behavioral sciences, environmental health, health policy and management, epidemiology and biostatistics.
+ Students learn about how
+public health professionals approach issues and the types of professional roles and
+ activities they bring to addressing each issue."
+PH 10001 ,"INTRODUCTION TO PUBLIC HEALTH
+",PH,none.,None,"An overview of the evolution and practices of the dynamic field of public health in the United States and
+ globally. Students are introduced
+to the structure and functions of public health organizations and public health
+ practice."
+PH 10002 ,"INTRODUCTION TO GLOBAL HEALTH
+",PH,none.,None,"An overview of the biological, social and environmental contributors to health and diseases in populations
+ around the world, including case studies of selected infectious diseases, nutritional deficiencies and health
+ effects of environmental change."
+PH 10195 ,"SPECIAL TOPICS IN PUBLIC HEALTH
+",PH,none.,None,(Repeatable for credit) Subject varies depending on the emerging issue.
+PH 20000 ,"PUBLIC HEALTH PROFESSIONAL PRACTICE I
+",PH,sophomore standing.,None,"Professional development course designed to expose future public health leaders to the diverse field of public
+ health and develop attainable career goals. Student will begin the development of personal goals and a
+portfolio
+ of work that will build during the entire program. The understanding of public health as a profession will be
+ fostered."
+PH 20001 ,"ESSENTIALS OF EPIDEMIOLOGY
+",PH,none.,None,"Students are introduced to the strategies adopted by public health professionals to study distribution and
+ identification of important biologic, social and environmental determinants of diseases and health-related states
+ in specific populations."
+PH 20010 ,"INTRODUCTION TO PUBLIC HEALTH INFORMATICS
+",PH,none.,None,"Provides an overview of informatics principles applied in public health settings. Issues addressed include
+ definitions, approaches, competencies, applications and the national health information network. Topical areas
+ are digital literacy, electronic communication, system development, information use, project management,
+ procurement, accountability, research, data standards, databases, human resource management, and
+ confidentiality and security."
+PH 20015 ,"ZOMBIE OUTBREAK
+",PH,none.,None,"Teaches the basic survival skills necessary to protect you, your family,
+and the public from a variety of natural
+ and manmade “apocalypses”. Students apply the basics of emergency Public
+Health management to a zombie
+ outbreak."
+PH 20195 ,"SPECIAL TOPICS IN PUBLIC HEALTH
+",PH,none.,None,(Repeatable for credit) Subject varies depending on the emerging issue.
+PH 30000 ,"PUBLIC HEALTH PROFESSIONAL PRACTICE II
+",PH,"PH 20000;and junior standing.
+",None,"Professional development course designed to further prepare future public health leaders to the diverse field of
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+public health. The career portfolio will be further developed. Career goals will be re-evaluated and the strategies
+ for goal attainment reassessed. The understanding of public health as a profession will be further developed.
+ Graduate or professional education as an option will be discussed in greater detail."
+PH 30002 ,"INTRODUCTORY BIOSTATISTICS
+",PH,"MATH 11008 or 11009 or 11010 or 11012 or 12002 or 12011 or 12012 or 14001 or 14002 or CS 10051 or PHIL21002.
+",None,"An introduction to statistical methodology in the field of public health. Students learn the statistical skills to read
+ scientific articles, understand the statistical methods used and interpret the results on their own."
+PH 30004 ,"PUBLIC HEALTH RESEARCH
+",PH,"PH 30002;and ENG 21011 or HONR 10297.
+",None,"Approaches involved in defining public health problems and steps involved in conducting research about these
+ problems. Students are introduced to how to evaluate published public health research."
+PH 30005 ,"SOCIAL AND BEHAVIORAL SCIENCE THEORIES IN PUBLIC HEALTH
+",PH,none.,None,"An overview of the contributions of the social and behavioral sciences to human health behavior, including
+ application of studies in the area of health promotion, health protection and disease prevention in public health."
+PH 30006 ,"INTRODUCTION TO ENVIRONMENTAL HEALTH AND SAFETY
+",PH,none.,None,"Introduction: the environment at risk; environmental epidemiology, environmental toxicology, environmental
+ policy and regulation, watershed
+management, safe drinking water, wastewater management, vector-born and
+ zoonotic disease, air quality, solid and hazardous waste, food protection, radiation safety and injury prevention,
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+occupational health and safety, total worker health, the built environment."
+PH 30007 ,"PREVENTION AND CONTROL OF DISEASES
+",PH,none.,None,"Provides an overview of concepts involved in biological mechanisms of disease at cell, individual and community
+ levels, provides insight into strategies used in preventing and controlling diseases at the population
+and/or
+ community level within this framework."
+PH 30009 ,"ENVIRONMENTAL HEALTH AND SAFETY REGULATIONS AND POLICY
+",PH,PH 30006.,None,"Develops a framework for understanding the regulatory structure of environmental and occupational health and
+ safety regulations and policy in the U.S. Federal, state, and local levels of government are reviewed as well as
+ major agencies and regulations."
+PH 30012 ,"COMMUNICABLE DISEASES
+",PH,PH 20001 and 30007.,None,"A survey of communicable diseases of global public health significance, including the epidemiology and forensics
+ associated with disease transmission, vaccination strategies and practices, and human responses to infectious
+ disease. Students are introduced to infectious disease pathogens and the practices and procedures for their
+ surveillance, handling and control."
+PH 30014 ,"STRATEGIES FOR PREVENTION IN PUBLIC HEALTH
+",PH,"PH30007
+",None,"Provides a review of population strategies for health promotion and disease prevention from a social-ecological
+ perspective, highlighting the importance of evidence-based, equitable, and ethical approaches."
+PH 30015 ,"UNITED STATES HEALTH CARE SYSTEM
+",PH,none.,None,"Provides an overview of the U.S. healthcare delivery system, including operations, stakeholders and the role of
+ government with a particular emphasis on public health’s role in health care. Students gain an understanding of
+ inpatient and outpatient services, the various roles of
+healthcare professionals, private and public financing and
+ the impact of managed care. The primary focus is the public health system."
+PH 30033 ,"PUBLIC HEALTH POLICY AND DECISION-MAKING
+",PH,none.,None,"An introductory survey of the formulation to implementation of public health policies for various public health
+ issues, and the use of practical administrative tools such as strategic planning, use of economic evaluation tools
+ and decision analysis."
+PH 30040 ,"PUBLIC HEALTH LABORATORY SAFETY, SECURITY AND EMERGENCY PREPAREDNESS
+",PH,PH 30006 and 30012.,None,"Safe operations within the public health laboratory require specific knowledge and skills sets. Upon completion
+ of this course, the student will (1) understand the public health laboratory infrastructure; (2) work safely and
+ responsibly with equipment and reagents to investigate laboratory-based public health problems; (3) define the
+ laws, policies and guidance documents related to public health laboratory activities; and (4) respond to
+ simulated laboratory safety and security emergencies."
+PH 30101 ,"SOLID AND HAZARDOUS WASTE MANAGEMENT
+",PH,PH 30006.,None,"Solid and hazardous waste programs and practices are explored. Pollution
+prevention, safety, sanitation
+ practices, sustainability concepts, management, and regulations pertinent to solid and hazardous waste such as
+ RCRA, are discussed and studied. Consumption, garbage handling, landfill design and disposal, sustainability
+ concepts, reuse, recycling,
+composting and other waste strategies are presented. Hazardous waste and
+ materials issues in the environment are introduced; such as HW disposal, TSD Facilities, underground storage
+ tanks, “Superfund”, brownfields and related issues."
+PH 30102 ,"AIR QUALITY AND POLLUTION CONTROL
+",PH,PH 30006.,None,"Basic survey of air pollution and its control. The respiratory system and the bodies response to air pollutants of
+ different types is reviewed
+and related illnesses such as asthma are studied. The Clean Air Act, NESHAPS and
+ related regulations are surveyed. Ambient air quality standards, the effect of climate and other air pollution
+ concepts are reviewed. Measurement and control methods for both particulate and gaseous contaminants are
+ surveyed."
+PH 30103 ,"FOOD PROTECTION
+",PH,PH 30006.,None,"Topics in foodborne disease prevention and food sanitation relative to quality control, food service and
+ processing systems are introduced. Foodborne disease agents, microbiology, epidemiology and outbreak
+investigation techniques are explored. The regulatory process and agencies at the wholesale, retail and food
+ service levels are introduced. Ohio food regulations are covered, including the Ohio Uniform Food Code. Basic
+ preparation of students to conduct food serve inspections and foodborne disease investigations as part of
+ agency regulatory programs. The opportunity to earn the National Restaurant Association, ServSafe Manager
+ Certification is also provided."
+PH 30105 ,"WATER AND WASTEWATER MANAGEMENT
+",PH,30006.,None,"Explores the issues surrounding water pollution and human health, and the environmental treatment systems
+ developed to provide safe water and sewage disposal. Private water and sewage systems and public water and
+sewage systems are studied. Federal and State regulations, including the
+Safe Drinking Water Act and Clean
+ Water Act are reviewed. Field experiences are included."
+PH 30106 ,"ENVIRONMENTAL TOXICOLOGY
+",PH,PH 30006.,None,"Basic toxicological principles applied to studies of environmental health are surveyed. Basic concepts of
+ toxicological testing, dose response, animal and other models, dose curves, LD50's, risk assessment,
+threshold
+ theories, classifications of harmful effects, environmental pathways, metabolism and elimination are reviewed.
+ Biological effects and the effect of select toxins on body systems are reviewed. Major groups of toxins and their
+ effects are reviewed. Toxin behavior in air, water, wastwater, soil and environmental media are studied."
+PH 30110 ,"HAZARDOUS MATERIALS MANAGEMENT
+",PH,"PH30006.
+",None,"Covers the use of hazardous materials. Emphasis is on the safe management of hazardous materials in the
+ workplace and community, their procurement, storage, regulation, pollution problems, use, release, clean up,
+ disposal, and their control, to prevent workplace and community health and safety problems."
+PH 30195 ,"SPECIAL TOPICS IN PUBLIC HEALTH
+",PH,none.,None,(Repeatable for credit) Subject varies depending on the emerging issue.
+PH 31005 ,"SOCIAL DETERMINANTS OF HEALTH AND HEALTH BEHAVIOR
+",PH,PH 30005.,None,"Provides students with an overview of the social determinants of health behaviors and health outcomes.
+ Students examine the relationships among the root causes of health disparities (education, income, inequality,
+race-ethnicity, social status-class, and gender) and more proximal causes of these disparities (e.g., access to
+ and quality of medical care, work conditions, lifestyles, living conditions, social capital). These relationships are
+ examined within ecological and multi-level theoretical frameworks."
+PH 32005 ,"EMERGING ISSUES IN SOCIAL AND BEHAVIORAL SCIENCES
+",PH,PH 30005.,None,"Provides students with exposure to touchstone issues in public health programming that have social and
+ behavioral science implications. Topics
+reflect emergent priority areas and are expected to vary from semester
+to semester. Examples of current, emerging issues that may be covered include the Healthy People 2020
+ initiative, leading health indicators, role of CDC, state and local health departments and NGOs in promoting
+health behaviors, program recruitment, retention, evaluation and generalization challenges, ethical issues
+ including informed consent and
+voluntary change, funding challenges for prevention programs, grant writing
+ exposure, role of politics in public health programming, evidenced-based practices and practice-based evidence."
+PH 34001 ,"PUBLIC HEALTH INTERVENTIONS I
+",PH,PH 30005.,None,"Provides an overview of the planning and development of public health interventions including environmental,
+ social, and behavioral public health issues from a social-ecological perspective, with attention to evidence-
+based, theoretical, and ethical approaches."
+PH 34002 ,"PUBLIC HEALTH INTERVENTIONS II
+",PH,PH 34001.,None,"Provides an overview of public health intervention implementation, evaluation, and sustainability, with examples
+ of public health interventions in practice and exploration into the future of public health interventions."
+PH 35001 ,"COMMUNITY-BASED PUBLIC HEALTH PRACTICE
+",PH,PH 30005.,None,"Course focuses on the fundamentals of applying community engagement, organization, and development
+ principles to create successful community public health interventions. Addresses work in at-risk and diverse
+ communities using methods optimal for public health practice, including public health ethics, faith-based
+ initiatives in community health, community health assessment and measurement methods, coalition building,
+ and frameworks for developing health policy. Will also review the basic
+principles of health-related non-profit
+ organization management and support."
+PH 35005 ,"ADVOCACY AND ACTIVISM IN PUBLIC HEALTH
+",PH,PH 30005. Pre/,None,"Public health advocacy and activism are areas of increasing importance for those in public health at both
+ national and international levels because they offer more direct approaches to achieve lasting social and political
+ change. This course provides a foundation to the theory, evidence-base and strategies that can be harnessed to
+ bring about change
+to improve the lives and health of populations, and explains how activism has an essential
+ role in public health policy and practice."
+PH 40000 ,"PUBLIC HEALTH PROFESSIONAL PRACTICE III
+",PH,PH 30000; and senior standing.,None,"Professional development course designed to launch graduates into the workforce or graduate school. The
+ career portfolio, resume, and cover letters will be finalized. Interviewing and application skills will be developed.
+ Working with a College of Public Health career counselor students will develop job search strategies and begin
+ the application process. Students continuing their education in a graduate program will work on application
+ materials."
+PH 40020 ,"DISASTER PREPAREDNESS
+",PH,none.,None,"College-level version of the FEMA “Are You Ready?” training designed to prepare average citizens to respond to
+ emergency situations.
+Students learn how to appropriately prepare for and respond to natural and contrived
+ emergencies, such as floods, tornados, fires, terrorism, etc. Students prepare an emergency response kit for
+ home use, using materials from home or store, and learn how to shelter-in-place."
+PH 40040 ,"FORENSIC EPIDEMIOLOGY
+",PH,special approval.,None,"Introduction to the principles and practices of investigative epidemiology. Inherent to the course is the
+ understanding of how public health law impacts data collection and representation. Students learn the roles and
+ responsibilities of the criminal justice, public health, and first responder communities as they relate to the
+ investigation of public health crimes. Additionally, students use real case studies to apply knowledge in the
+ investigation of mock public health crimes."
+PH 40050 ,"PUBLIC HEALTH AND FIRST RESPONDER LINKAGES
+",PH,"PH 40040 andspecial approval.
+",None,"Capstone experience meant to unite students of public health with their professional partners. Students interact
+ in the classroom and at the partners’ place of business to link theory and practice, gain real-world knowledge
+ and cement partnerships."
+PH 40092 ,"INTERNATIONAL HEALTH PRACTICUM
+",PH,"PH 10002; and junioror senior standing.
+",None,(Repeatable for credit)A supervised internship in global/international health.
+PH 40100 ,"VECTOR-BORNE AND ZOONOTIC DISEASES
+",PH,PH 30006.,None,"Presents a broad overview of major considerations related to human health and the vector-borne diseases
+ transmitted by rodents and arthropods (insects and arachnids). Control measures, including rodent control,
+ local mosquito control programs, and integrated pest management
+(IPM) concepts with safe pesticide use are
+ reviewed. Application of FIFRA regulations are presented. An overview of issues associated with zoonotic
+ diseases transmitted by animals, such as rabies, and their control are also included. Vector and reservoir
+ relationships are explored."
+PH 40101 ,"OCCUPATIONAL HEALTH AND SAFETY
+",PH,PH 30006.,None,"Introduction to workplace safety and industrial hygiene. The OSHA regulations and procedures are reviewed and
+ workplace safety and health principles studied. Students learn how to anticipate, recognize, evaluate and
+ control workplace hazards. Safety issues are surveyed; such
+as confined space, electrical LOTO, trenching, fall
+ protection, walking
+and working surfaces. Industrial hygiene issues are surveyed; such as air contaminants,
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+hazard communication, respiratory protection, ergonomics, noise control and bloodborne pathogens. Control
+ measures for
+workplace hazards are discussed."
+PH 40109 ,"LABORATORY SAFETY AND HYGIENE
+",PH,PH 30006.,None,"Basic introduction to laboratory safety, chemical hygiene, and biosafety. Includes the research compliance
+ programs of institutuions (IBC, IACUC, IRB, RSC) and the OSHA Chemical Hygiene Standard requirements and
+ program responsibilities. General lab safety concepts are reviewed, along with chemical handling and storage,
+ fumehoods and ventilation, hazardous waste disposal, radiation safety, and lab design.
+Basic principles of
+ biosafety are covered, BSL 1-4 levels, biosafety cabinets, select agents, bloodborne pathogens, NIH Guidelines,
+biosecurity and animal use."
+PH 40112 ,"INSTITUTIONAL AND RECREATIONAL ENVIRONMENTAL, OCCUPATIONAL HEALTH AND
+",PH,PH 30006.,None,"SAFETY
+Introduces the environmental and occupational health and safety issues unique to institutional settings and
+ licensed facilities; such as, hospitals, nursing homes, K-12 schools, universities, R&D, correctional facilities, and
+ childcare facilities; and in various recreational environments, such as swimming pools, spas, bathing beaches,
+ marinas, campgrounds, playgrounds and natural areas."
+PH 40191 ,"SEMINAR IN PUBLIC HEALTH
+",PH,none.,None,"(Repeatable for credit) Seminar on current and important topics in public health. Subject matter varies
+ depending on topic."
+PH 40195 ,"SPECIAL TOPICS IN PUBLIC HEALTH
+",PH,junior or senior standing.,None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+(Repeatable for credit)Subject varies depending on the emerging issue."
+PH 40196 ,"INDIVIDUAL INVESTIGATION IN PUBLIC HEALTH
+",PH,junior or senior standing and special approval.,None,"(Repeatable for maximum 6 credits) Individual undergraduate investigation or research on specific public health
+ issues."
+PH 40200 ,"THE BUILT ENVIRONMENT
+",PH,PH 30006.,None,"Provides a basic understanding of the relationships between poor housing
+and environmental health and safety
+ problems. It explores the physiological and psychological aspects of shelter. Students gain a basic
+ understanding of housing codes, fire codes, zoning, and related regulatory issues. Students explore housing
+ related health problems; such as, indoor air quality, mold, asbestos, lead paint, and radon. Manufactured
+ housing parks and agricultural labor camp regulations are also reviewed. The role of EH in community planning
+ is explored. Health issues with urban sprawl and community design problems, utility problems
+such as urban
+ run-off and pest problems, and other issues are reviewed.
+Elements of healthy community, community planning
+ and environmental protection are introduced; such as new urbanism, walkable communities programs,
+ environmental building design, green communities, urban gardening and LEED's."
+PH 41000 ,"ENVIRONMENTAL AND OCCUPATIONAL HEALTH AND SAFETY MANAGEMENT
+",PH,PH 30006 and 30102 and 30105 and 30106; and senior standing.,None,"Entails leadership and management principles in environmental and occupational health and safety (EOHS), and
+ helps students develop skills
+needed to become an effective supervisor. Issues such as regulatory structure,
+ program and community planning, policy development, budgeting, staffing and staff development, strategic
+ planning, training,
+professionalism and assessment are reviewed. Board development, dealing
+with difficult
+ people and situations, legal, social, political, and economic effects on EOHS programs are dealt with. Related
+ issues such as
+ethics, human resources, workers comp, court apprearances, media relations and
+ communications are reviewed."
+PH 41092 ,"FIELD EXPERIENCE IN MEETING THE BASIC HEALTH AND HUMAN NEEDS
+",PH,special approval.,None,"(Repeatable for credit)Provides practical skills in simple, affordable appropriate technologies that can offer
+ solutions for meeting basic health and human needs in the developing world at the household and community
+ levels. Technologies are organized into five modules: 1) food,
+agriculture, and nutrition; 2) water and
+ sanitation; 3) alternative household energy; 4) primary health care; and 5) community development needs and
+ resource assessment. All five modules cover appropriate technologies that while meeting the basic needs have
+ significant impact on health of the individuals and communities. Principles of participatory community
+ development and sensitivity to cross-cultural, gender, and ecological issues are emphasized throughout the
+ training."
+PH 42092 ,"ENVIRONMENTAL, OCCUPATIONAL, HEALTH AND SAFETY INTERNSHIP
+",PH,"junior or seniorstanding; and special approval.
+",None,"The purpose of the environmental and occupational health and safety internship is to supplement the student
+ in-class learning experiences with practical hand-on skills and work practice experiences that helps them
+ develop the environmental competencies required for success in the field."
+PH 44000 ,"HEALTH DISPARITIES
+",PH,"ENG 21011 or HONR 10297; and 21 credit hours of publichealth (PH) courses; and junior or senior standing.
+",None,"Understanding the factors involved in health disparities at the national
+and global level, and the impact of
+ health disparities on public health."
+PH 44002 ,"GLOBAL HEALTH IMMERSION: GENEVA, SWITZERLAND
+",PH,"PH 10001 and 10002; and junior or seniorstanding; and special approval.
+",None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+Participants explore a number of health concerns, policies and challenges with global importance and
+ implications. Students investigate
+current global health policies and themes, and become familiar with the
+ major players in global health including governmental and nongovernmental organizations and multinational
+ agencies. Presentations are given by experts currently working in various regions of the world to solve such
+ pressing global problems as HIV/AIDS, post-war trauma, tuberculosis, refugee health, non-communicable
+ disease prevention and environmental contamination."
+PH 44003 ,"ENVIRONMENTAL HEALTH ISSUES IN LOW- AND MIDDLE-INCOME COUNTRIES
+",PH,"public health (PH) oranthropology (ANTH) major; and junior or senior standing.
+",None,"Covers the important environmental health issues of concerns in low- and
+middle-income countries and
+ appropriate intervention strategies. Topics
+include clean drinking water and sanitation, indoor air pollution,
+outdoor air pollution, environmental management, sustainability and health."
+PH 44004 ,"GLOBAL HEALTH IMMERSION: LATIN AMERICA
+",PH,none.,None,"The principal objective of this summer intersession course is to immerse
+students into the history, culture and
+ public health systems of Latin American countries Colombia Ecuador. Students will have the opportunity to visit
+ major cities, i.e., Cali, Colombia, and Quito, Ecuador, rural areas, and well-known tourist destinations
+ (Cartagena, Colombia, Otavalo, Ecuador). Students will gain an understanding of current scientific research on
+ tropical diseases of local public health relevance, such as malaria. The course will focus on the basic biology of
+ disease, mechanisms of transmission (epidemiology), and efforts to develop vaccines against malaria. The
+ course is designed primarily for sophomores, juniors and seniors who are public health, nursing, or biological
+ science majors. Master's level students will also be accepted. Knowledge of basic Spanish language is useful but
+ not necessary."
+PH 44005 ,"LEGAL ASPECTS OF HEALTH SERVICES MANAGEMENT
+",PH,none.,None,"Provides an overview of legal and regulatory essentials in health services management. Provides a historical
+ perspective on legal aspects of health care as well as an introduction to law, tort law, criminal aspects,
+ contracts, civil procedure and trial practice as related to health care. Students examine how liability impacts
+ corporate structures, health departments and health care professionals and examine
+issues related to patient
+ consent, legal reporting requirements, labor relations and patient rights."
+PH 44010 ,"PUBLIC HEALTH PLANNING AND FINANCE
+",PH,none.,None,"Introduces students to business planning of health services. Students obtain skills in public health financial
+ decision-making, including general principles of public health accounting, budgeting and financial planning."
+PH 44015 ,"PUBLIC HEALTH MANAGEMENT
+",PH,none.,None,"Provides an overview of management and leadership concepts, principles and practice as applied to public
+ health management. Students learn basic skills in team-building, developing board relationships, strategic
+ planning, fiscal management, marketing, conflict resolution and negotiation in healthcare management.
+ Coursework integrates principles of ethics and professionalism, effective communication, managing complex
+ and culturally diverse workplaces and the changing role of public health managers."
+PH 44020 ,"PUBLIC HEALTH ETHICS IN PRACTICE, POLICY AND RESEARCH
+",PH,none.,None,"Provides an introduction to public health ethics, including the key foundations, concepts and frameworks for
+ evaluating ethical issues in the public health setting."
+PH 44025 ,"PRINCIPLES OF PUBLIC HEALTH LEADERSHIP
+",PH,none.,None,"Designed to introduce students to skill-sets and leadership practices necessary for successful public health
+ leadership, with an emphasis on leading positive and sustainable change in real world situations. It also
+ familiarizes students with key aspects of partnership building and advocacy for the purposes of improving
+ health. Particular stills include
+coalition/partnership development, health advocacy, team building, mentoring
+ and leadership."
+PH 44092 ,"INTERNSHIP IN PUBLIC HEALTH
+",PH,"seniorstanding and special approval.
+",None,"(Repeatable for credit) Capstone internship experience in a public health setting under the supervision of a site
+ preceptor and university supervisor. Students gain experience in public health work."
+PH 45092 ,"SERVICE LEARNING PRACTICUM IN COMMUNITY-BASED PUBLIC HEALTH
+",PH,PH 35001;and special approval. Pre/,None,"(Repeatable for credit) This course is designed to provide an opportunity for students to engage in a variety of
+ public health settings under the supervision of faculty. The practicum experience is focused on developing skills
+ needed to implement change to improve population health, providing a setting in which students may integrate
+and apply the skills and knowledge acquired through their coursework. Students will be exposed to some of the
+ benefits and challenges encountered by public health professionals on a routine basis."
+PH 49000 ,"CAPSTONE EXPERIENCE IN PUBLIC HEALTH
+",PH,21 credit hours of public health (PH) courses; and junior or senior standing.,None,"Case studies of various strategies used in addressing various public health issues are discussed within an
+ evaluative framework."
+PH 60172 ,"PRACTICUM SEMINAR IN PUBLIC HEALTH
+",PH,graduate standing. ,PH 60192.,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+(Repeatable 6 times for credit) Seminar component of the Practicum Experience; course must be taken at the
+ same time as the Practicum Experience; students prepare a final portfolio and seminar presentation integrating
+ theory and practice."
+PH 60192 ,"PRACTICUM EXPERIENCE
+",PH,graduate standing. ,PH 60172.,"(Repeatable for credit)Observational and participation in public health activities of a public health agency,
+ hospital or other approved organization. The student completes the field experience with joint supervision from
+ the university and approved organization or agency."
+PH 80199 ,"DISSERTATION I
+",PH,doctoral standing.,None,"(Repeatable for credit) Registration for two semesters required, first semester dissertation work beings and
+ continues until completion of 30 hours."
+PH 80299 ,"DISSERTATION II
+",PH,doctoral standing.,None,"(Repeatable for credit)Continuing registration required of doctoral students who have completed the initial 30
+ hours of dissertation and continuing until degree requirements are met."

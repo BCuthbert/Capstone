@@ -1,0 +1,69 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+JAPN 15101 ,"ELEMENTARY JAPANESE I
+",JAPN,None.,None,Introduction to modern standard Japanese in the context of Japanese culture.
+JAPN 15102 ,"ELEMENTARY JAPANESE II
+",JAPN,JAPN 15101.,None,A continuation of the introduction to modern standard Japanese in the context of Japanese culture.
+JAPN 25201 ,"INTERMEDIATE JAPANESE I
+",JAPN,JAPN 15102.,None,"Continued development of speaking, listening, reading and writing skills
+using a variety of cultural materials."
+JAPN 25202 ,"INTERMEDIATE JAPANESE II
+",JAPN,JAPN 25201.,None,Continuation of JAPN 25201.
+JAPN 30095 ,"SPECIAL TOPICS
+",JAPN,Permission.,None,(Repeatable for credit)Topic to be announced in schedule of classes.
+JAPN 35101 ,"ADVANCED INTERMEDIATE JAPANESE I
+",JAPN,minimum grade of C (2.000) in JAPN 25202.,None,"A continuation of the study of modern standard Japanese in the context of Japanese culture. Further
+ development of listening, speaking, reading
+and writing skills using a variety of materials."
+JAPN 35102 ,"ADVANCED INTERMEDIATE JAPANESE II
+",JAPN,"minimum grade of C (2.000) in JAPN 35101.2015 Kent State University Catalog - Spring 2016 Course Descriptions
+",None,Continuation of JAPN 35101.
+JAPN 45096 ,"INDIVIDUAL INVESTIGATION IN JAPANESE
+",JAPN,JAPN 25201.,None,"(Repeatable for credit)Individual study supervised by a faculty member on an approved topic dealing with
+ Japanese language and-or culture."
+JAPN 45201 ,"ADVANCED JAPANESE I
+",JAPN,"minimum grade of C(2.000) in JAPN 35102.
+",None,"Advanced study of the four language skills, with particular emphasis on general conversational proficiency and
+ reading of authentic texts to enhance linguistic and cultural competence."
+JAPN 45202 ,"ADVANCED JAPANESE II
+",JAPN,minimum grade of C (2.000) in JAPN 45201.,None,"A continuation of Advanced Japanese I, teaches the four skills equally—listening, speaking, reading and writing.
+ The class is conducted in Japanese. Students learn how to use Japanese to solve problems in authentic
+ situations."
+JAPN 45301 ,"BUSINESS JAPANESE
+",JAPN,JAPN 35102.,None,"Development of the four language skills in a manner specific to Japanese
+corporate settings. Introduces
+ Japanese business practice and business etiquette."
+JAPN 45421 ,"JAPANESE CULTURE
+",JAPN,none.,None,"Explores key aspects of traditional and contemporary Japanese culture. Taught in English; no knowledge of
+ Japanese necessary."
+JAPN 45591 ,"VARIABLE TOPIC SEMINAR IN JAPANESE
+",JAPN,"specialapproval.
+",None,"(Repeatable for credit)Seminar in Japanes literature or culture; course may be repeated when content varies.
+ Student should have completed at least 9 hours of upper division work in Japanese."
+JAPN 55301 ,"BUSINESS JAPANESE
+",JAPN,graduate standing.,None,"Development of the four language skills in a manner specific to Japanese
+corporate settings. Introduces
+ Japanese business practice and business etiquette."
+JAPN 65010 ,"THE PRACTICE OF JAPANESE TRANSLATION
+",JAPN,Graduate standing. ,TRST 60010.,"Provides an introduction to the translation of non-specialized, non-fiction Japanese texts, focusing on common
+ problem areas, general translation strategies, and specific techniques for resolving problems."
+JAPN 65091 ,"SEMINAR
+",JAPN,Graduate standing.,None,(Repeatable for credit)Topic announced in schedule of classes; may be repeated when content varies.
+JAPN 65098 ,"RESEARCH
+",JAPN,"Graduate standing anddepartmental
+ approval.
+",None,"(Repeatable for credit)Research or individual investigation for master's
+level graduate students. Credits earned
+ applied toward degree requirements if department approves."
+JAPN 65240 ,"LITERARY AND CULTURAL TRANSLATION
+",JAPN,graduate standing.,None,"Translation of documents from a variety of literary and cultural sources, including literature, expository and
+ journalistic prose, scholarly treaties and essays."
+JAPN 65250 ,"COMMERCIAL, LEGAL AND DIPLOMATIC TRANSLATION
+",JAPN,TRST 60010 and graduate standing.,None,"An introduction to methods and resources for the translation of commercial,economic, financial, legal,
+ diplomatic and governmental documents."
+JAPN 65251 ,"SCIENTIFIC, TECHNICAL AND MEDICAL TRANSLATION
+",JAPN,TRST 60010 and graduate standing.,None,"An introduction to methods and resources for the translation of scientific, technical, industrial and medical
+ documents."
+JAPN 65979 ,"CASE STUDY IN TRANSLATION
+",JAPN,Special approval and graduate standing.,None,"Students will be responsible for a major translation and a terminology glossary as well as a critical analysis of
+ the source text, the problems
+encountered during the translation process and the strategies used to solve them."

@@ -1,0 +1,747 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+GEOG 10160 ,"INTRODUCTION TO GEOGRAPHY
+",GEOG,none.,None,"Emphasizes processes that generate diverse global human and environmental patterns. Interaction of
+ geographical elements as expressed in spatial organization of cities, land use and cultural and political regions."
+GEOG 16001 ,"SOIL AND HORTICULTURAL MANAGEMENT
+",GEOG,None.,None,"To provide students with an understanding of the relationship of soil, nutrients and fertilizers, and to
+ understand how to properly plant trees, shrubs and flowers. Offered at Salem campus only."
+GEOG 17063 ,"WORLD GEOGRAPHY
+",GEOG,None.,None,"Examination and comparison of geographic conditions in different regions
+of the world. Stresses inter-
+relationships between people and resources
+within and between regions and countries."
+GEOG 17064 ,"GEOGRAPHY OF THE UNITED STATES AND CANADA
+",GEOG,None.,None,"Analysis of the spatial patterns of significant human and physical characteristics and interpretation of the major
+ regions within the two nations."
+GEOG 20195 ,"SPECIAL TOPICS IN GEOGRAPHY
+",GEOG,None.,None,"(Repeatable for credit)Explores emerging topics in geography not covered
+in other existing courses. Variable
+ content course."
+GEOG 21062 ,"PHYSICAL GEOGRAPHY
+",GEOG,none.,None,"Introduction to the study of the spatial characteristics of the Earth's physical environment, including how
+ humans interact with it. Topics include weather and climate, vegetation, soils, ecosystems, landforms and land-
+formation processes, human impacts on Earth systems and human societal adaptations to the physical
+ environment."
+GEOG 21063 ,"PHYSICAL GEOGRAPHY LABORATORY
+",GEOG,None,GEOG 21062.,"Practical experience examining physical geographic processes, including the study and manipulation of map
+ projections, Earth-sun relationships and experiments relating to the atmosphere, biosphere, lithosphere and
+hydrosphere."
+GEOG 22040 ,"INTRODUCTION TO GLOBAL TOURISM
+",GEOG,None.,None,"(Cross-listed with RPTM 26060) Introduction to travel and tourism around
+the world, including tourism
+ technologies, cultural and natural environments as attractions, benefits of travel, travel ethics, and sustainable
+ development."
+GEOG 22061 ,"HUMAN GEOGRAPHY
+",GEOG,none.,None,"Introduction to the field of human geography. Topics include population migration, folk and popular culture,
+ language, religion, ethnicity, political geography, development, agriculture, industry, services, urban
+patterns
+ and resource problems. Emphasis is placed on historic and current spatial patterns and reasons for their
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+change."
+GEOG 22070 ,"NATURE AND SOCIETY
+",GEOG,None.,None,"Provides an introduction to interdisciplinary perspectives in nature-society scholarship, focusing on human
+ dimensions of environmental problem domains such as natural resources, ecosystems, climate, and
+ sustainability. It provides a balance of theory and application to illustrative case studies."
+GEOG 29160 ,"MAPPING OUR WORLD
+",GEOG,None.,None,"Introduction to maps and their uses, stressing their importance as a vehicle for understanding and
+ communicating information about our world and its spatial characteristics."
+GEOG 31062 ,"FUNDAMENTALS OF METEOROLOGY
+",GEOG,None.,None,"Analysis of weather elements emphasizing energy exchanges and controls, and atmospheric circulation.
+ Methods of weather prediction and man's modification of weather are highlighted."
+GEOG 31064 ,"PRINCIPLES OF CLIMATOLOGY
+",GEOG,"GEOG 31062.2015 Kent State University Catalog - Spring 2016 Course Descriptions
+",None,"A study of the physical processes causing the distribution of world climates. Focus on local and urban climates,
+ climatic change and societal impacts of climate."
+GEOG 31070 ,"POPULATION AND THE ENVIRONMENT
+",GEOG,None.,None,"This course examines the interrelations of population growth, resource depletion and the environment from a
+ geographic perspective including the principal themes of space and place."
+GEOG 31080 ,"GEOGRAPHY OF WINE
+",GEOG,None.,None,"Examines the physical environment of viticulture including climate, soil
+and farm practices; the cultural tradition
+ of wine making, consumption and trade; and regional production styles."
+GEOG 32080 ,"POLITICS AND PLACE
+",GEOG,None.,None,"Spatial aspects of political behavior as manifested in boundary changes,
+the sizes of states, interstate relations
+ and spatial organization."
+GEOG 32091 ,"ENVIRONMENTAL STUDIES AND SUSTAINABILITY
+",GEOG,GEOG 22070.,None,(Repeatable for credit) Various aspects of environmental studies are explored. Topics will vary.
+GEOG 34070 ,"ECONOMIC GEOGRAPHY
+",GEOG,None.,None,"Study of worldwide variations in economic activities, emphasizing both the reasons for and the significance of
+ these variations."
+GEOG 35065 ,"GEOGRAPHY OF TRANSPORTATION AND SPATIAL INTERACTION
+",GEOG,None.,None,"Spatial interaction. Study of flows, networks and integrated systems at different spatial scales. Transport and
+ economic development. Models and
+methods of analysis."
+GEOG 36065 ,"CITIES AND URBANIZATION
+",GEOG,None.,None,"Course examines what is a city, how it has evolved over time under changing economic conditions, what is its
+ internal structure and how this has been influenced by transportation developments. Special attention is paid to
+ the causes and consequences of social diversity within the city and how cities differ throughout the world."
+GEOG 37010 ,"GEOGRAPHY OF OHIO
+",GEOG,junior standing.,None,"Study of Ohio as a distinctive region, its environment and the varied characteristics of its population, its
+ historical geographic development
+and contemporary patterns and problems."
+GEOG 37040 ,"GEOGRAPHY OF AFRICA
+",GEOG,None.,None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+This course deals with the complex geographical and cultural elements in
+Africa. It demonstrates how the
+ interaction of these elements has affected Africa's linkages to other continents especially North America.
+ Furthermore it, discusses how this diversity has affected Africa's economic development and political evolution."
+GEOG 37045 ,"GEOGRAPHY OF THE MIDDLE EAST
+",GEOG,None.,None,"The Middle East is a world region where the interactions between human and physical geographies have shaped
+ its history, culture, economies, and population patterns. This course uses a thematic approach to understand
+ these interactions and how they shape the modern Middle East and its relationship with the wider world."
+GEOG 37050 ,"GEOGRAPHY OF RUSSIA AND THE COMMONWEALTH OF INDEPENDENT STATES
+",GEOG,None.,None,"Study of the physical, economical, political and cultural geography of Russia, Ukraine, Central Asia and other
+ components of the former Soviet Union."
+GEOG 37066 ,"GEOGRAPHY OF EUROPE
+",GEOG,None.,None,"Examination of the cultural, economic, political and physical geography of Western and Eastern Europe
+ (excluding the former USSR)."
+GEOG 37070 ,"GEOGRAPHY OF EAST AND SOUTHEAST ASIA
+",GEOG,None.,None,"Analysis of the physical and cultural geography of East and Southeast Asia, extending from Japan and China to
+ Burma and Indonesia."
+GEOG 37072 ,"GEOGRAPHY OF CHINA
+",GEOG,none.,None,"Examination of China's physical environment, natural and human resources, social and cultural characteristics
+ and role in the global environment."
+GEOG 37084 ,"GEOGRAPHY OF SOUTH AMERICA
+",GEOG,None.,None,"Overview of region and survey of each country emphasizes systematic similarities and differences in physical
+ environment, culture, economic development, population, land use, politics and history."
+GEOG 37085 ,"GEOGRAPHY OF LATIN AMERICA AND THE CARIBBEAN
+",GEOG,None.,None,"Latin America and the Caribbean is a traditional geographic region that has been uniquely shaped through
+ multiple physical and cultural factors.
+In this course, a thematic approach is taken to understanding the
+interplay of these factors, and how they shape modern Latin America-Caribbean identity, the diversity of the
+ environment and culture
+within the region, and how the region relates to the rest of the world."
+GEOG 37095 ,"SPECIAL TOPICS IN REGIONAL GEOGRAPHY
+",GEOG,none.,None,(Repeatable for a maximum of 3 times) Special topics course in a specific region of the world.
+GEOG 39002 ,"STATISTICAL METHODS IN GEOGRAPHY
+",GEOG,MATH 11009 or MATH 11010 or MATH 10041.,None,"Explores probability theory, spatial statistics, estimation procedures, hypothesis testing, spatial sampling,
+ methods of areal association and regression analysis. Geographic applications are emphasized."
+GEOG 40093 ,"VARIABLE TITLE WORKSHOP IN GEOGRAPHY
+",GEOG,Permission.,None,(Repeatable for credit)S/u graded.
+GEOG 40191 ,"SEMINAR IN GEOGRAPHY
+",GEOG,Junior standing and geography (GEOG) major.,None,"(Repeatable for a maximum of 6 credit hours)Advanced study of the historical development of geography and of
+ contemporary issues in the field. Emphasis on methods of geographic investigation and presentation of results."
+GEOG 40192 ,"PRACTICUM IN GEOGRAPHY
+",GEOG,Permission.,None,"(Repeatable for credit)Practical experience in using or teaching geographic techniques and/or problem-solving.
+ Faculty supervised."
+GEOG 40195 ,"SPECIAL TOPICS IN GEOGRAPHY
+",GEOG,special approval.,None,(Repeatable for credit) (Cross-listed with GEOG 50195 and GEOG 70195)
+GEOG 40292 ,"FIELD EXPERIENCE IN GEOGRAPHY
+",GEOG,"specialapproval.
+",None,"(Repeatable for credit) (Cross-listed with GEOG 50292 and GEOG 70292) Examination of geographic landscapes
+ in the field."
+GEOG 40392 ,"PRACTICUM IN EMERGING GEOGRAPHIC TRENDS
+",GEOG,"specialapproval.
+",None,(Repeatable for credit)Examination of newly emerging geographic topics and techniques.
+GEOG 40492 ,"STUDY AWAY IN GEOGRAPHY
+",GEOG,None.,None,(Repeatable 6 times for credit) Examination of geographic landscapes in the field.
+GEOG 40996 ,"INDIVIDUAL INVESTIGATION IN GEOGRAPHY
+",GEOG,Permission.,None,(Repeatable for credit)Individual undergraduate investigation or research on specific geographical problems.
+GEOG 41051 ,"NATURAL DISASTERS AND SOCIETY
+",GEOG,none.,None,"Study of natural disasters, the physical causes of the hazards associated with the disasters, their effects on
+ humans and societies, spatial and temporal distributions, and strategies to reduce the occurrences of disasters.
+ Natural disasters include hurricanes, tornadoes, floods, landslides, heat waves, wildfire, blizzards. earthquakes,
+ tsunami, and volcanoes. Mitigation for disasters and responses to disasters are studied across economically
+ developing nations and developed nations. Taught through the analysis of numerous case studies of natural
+ disasters."
+GEOG 41052 ,"GLACIERS AND GLACIATION
+",GEOG,GEOG 21062 or GEOL 11040.,None,"(Cross-listed with GEOL 44052, 54052 and 74052) Examination of how glacial ice masses change the shape of
+ the Earth's surface, how they are
+integral to climate and sea level change, and how they pose high risk hazards."
+GEOG 41065 ,"APPLIED CLIMATOLOGY
+",GEOG,"GEOG 31062or 31064.
+",None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+Aimed at providing a full appreciation for the range of applicability of
+climate data to real-world problems. There
+ are three overarching goals of the course: To provide a broad overview of what weather and climate
+information is out there and how we synthesize weather and climate information for use in applied work; to
+ enable a thorough appreciation for the breadth of disciplines in which applied climatology plays a role; and to
+ provide real-world experience of working through an applied
+climatological problem, via the final project."
+GEOG 41066 ,"CLIMATE CHANGE AND ITS IMPACT
+",GEOG,None.,None,"(Cross-listed with GEOG 51066 and GEOG 71066) Examination of the evidence and causes of climate change
+ and how these data are assessed. Past, present and future impacts of climate change and variability are
+discussed along with policy implications."
+GEOG 41073 ,"CONSERVATION OF NATURAL RESOURCES
+",GEOG,None.,None,"(Cross-listed with GEOG 51073 and GEOG 71073) Evaluation of past and current problems associated with the
+ management of natural resources and
+the environments associated with their utilization."
+GEOG 41074 ,"RESOURCE GEOGRAPHY
+",GEOG,Junior standing.,None,"Culture-technology and distance in relation to resource adequacy and management concepts for societal
+ decisions about common property and situations with external economies."
+GEOG 41082 ,"GEOGRAPHY OF SOILS
+",GEOG,GEOG 21062 or GEOL 11040.,None,"An edaphological approach to soils including morphology,formation, classification, geographical distribution and
+ utilization. Field work required."
+GEOG 41195 ,"SPECIAL TOPICS IN ENVIRONMENTAL GEOGRAPHY
+",GEOG,none.,None,"(Repeatable for a maximum of 10 times) (Cross-listed with GEOG 51195 and
+GEOG 71195) Special topics in
+ environmental geography."
+GEOG 42040 ,"TOURISM DEVELOPMENT AND RECREATIONAL TRAVEL
+",GEOG,RPTM 36060.,None,"(Cross-listed with RPTM 46000) Investigation of travel and tourism development using an interdisciplinary social
+ science approach."
+GEOG 42052 ,"MEDICAL GEOGRAPHY
+",GEOG,None.,None,"(Cross-listed with GEOG 52052 and GEOG 72052) Geographic patterns of morbidity and mortality in the past
+ and the present; diffusion of diseases and medicine; health in Third World emphasized."
+GEOG 42053 ,"GEOGRAPHIES OF MEMORY AND HERITAGE
+",GEOG,junior standing.,None,"(Cross-listed with GEOG 52053 and GEOG 72053) Gives students a working knowledge in, and ability to
+ understand and analyze, the intersection of
+memory and landscape as a tangible re-presentation of the human
+ past, oftentimes used as a tangible expression of cultural or political power.
+To this end the course focuses on
+ memorialization, preservation, and tourism concepts and themes."
+GEOG 42064 ,"HISTORICAL GEOGRAPHY OF THE UNITED STATES AND CANADA
+",GEOG,GEOG 17064.,None,"(Cross-listed with GEOG 52064 and GEOG 72064) Regional origins and growth, evolution of spatial
+ organization, changing evaluation of environments, and past geographies in United States and Canada from
+pre-Colonial times on."
+GEOG 42195 ,"SPECIAL TOPICS IN SOCIAL GEOGRAPHY
+",GEOG,none.,None,"(Repeatable for a maximum of 10 times) (Cross-listed with GEOG 52195 and
+72195) Special topics in social
+ geography."
+GEOG 44010 ,"GEOGRAPHY OF THE GLOBAL ECONOMY
+",GEOG,GEOG 34070 or ECON 22061.,None,"Geographic analysis of the increasing interconnectedness of economic activity. The social, technological and
+ political changes associated with globalization are also discussed."
+GEOG 44070 ,"SPATIAL ANALYSIS AND LOCATION THEORY
+",GEOG,None.,None,"(Cross-listed with GEOG 54070 and GEOG 74070) Classical theories for location of economic activities and
+ contemporary approach of spatial analysis,spatial organization of economic systems behavioral models in
+economic geography spatial allocation problems."
+GEOG 45085 ,"URBAN TRANSPORTATION
+",GEOG,none.,None,"(Cross-listed with GEOG 55085 and GEOG 75085) Spatial analysis of urban transportation, travel behavior,
+ modes. Trip generation and distribution
+models, transportation planning, urban transportation problems.
+2015 Kent State University Catalog - Spring 2016 Course Descriptions"
+GEOG 46070 ,"URBAN AND REGIONAL PLANNING
+",GEOG,none.,None,"(Cross-listed with GEOG 56070 and GEOG 76070) Analysis of geographical aspects of planning for cities and
+ regions."
+GEOG 46080 ,"URBAN SUSTAINABILITY
+",GEOG,None.,None,"(Slashed with GEOG 56080 and GEOG 76080) Provides an introduction to interdisciplinary perspectives on
+ urban sustainability, focusing on environmental challenges caused by urbanization and the innovative ways
+urban dwellers seek to address those challenges. It provides background on relevant disciplinary perspectives
+ and their application to environmental challenge domains."
+GEOG 46092 ,"INTERNSHIP IN GEOGRAPHY AND PLANNING
+",GEOG,"Controlled registration admission competitive based on student's skills and interests and on number of positionsavailable.
+",None,"(Repeatable for credit) (Cross-listed with GEOG 56092) Pre-professional work experience in local,regional and
+ environmental planning agencies and in business designed to utilize and develop academic skills."
+GEOG 49070 ,"GEOGRAPHIC INFORMATION SCIENCE
+",GEOG,GEOG 29160.,None,"(Cross-listed with GEOG 59070 and GEOG 79070) Introduction to theories and methods for geographic data
+ processing, including data capture and input data storage and management and data analysis and displays.
+Emphasis is on laboratory exercises using GIS software packages for real
+world applications. Non-geographers
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+should contact the Department of Geography to discuss the course prerequisites."
+GEOG 49072 ,"GEOGRAPHIC INFORMATION SCIENCE AND HEALTH
+",GEOG,none.,None,"(Cross-listed with GEOG 59072 and GEOG 79072) Geographic theory and methods serve as the connection
+ among disparate disciplines focused on how and why “health” varies between regions, cities, and
+neighborhoods. This course examines how geospatial technologies, especially GIS, have become an important
+ health analysis tool."
+GEOG 49075 ,"GEOGRAPHIC INFORMATION SCIENCE: URBAN AND ECONOMIC APPLICATIONS
+",GEOG,GEOG 49070.,None,"(Cross-listed with GEOG 59075 and GEOG 79075) Urban and economic applications and analyses of spatial
+ data, especially theoretical and conceptual issues including the possibilities and concerns associated with GIS,
+ ethical considerations, and the various forms of data collection, visualization, analysis and dissemination."
+GEOG 49076 ,"SPATIAL PROGRAMMING
+",GEOG,GEOG 49070.,None,"(Cross-listed with GEOG 59076 and GEOG 79076) Examination of the design,
+development and use of
+ geographic information technologies with computer programming to model, process and visualize geographic
+phenomena."
+GEOG 49078 ,"GEOGRAPHIC INFORMATION SCIENCE AND ENVIRONMENTAL HAZARDS
+",GEOG,GEOG 49070.,None,"(Slashed with GEOG 59078 and GEOG 79078) The study and management of natural hazards are inherently
+ reliant on both physical and human processes and spatial patterns. Given the many variables involved and the
+ variety of scales at which they operate, use of Geographic Information Systems (GIS) has become standard
+ practice in research on hazards and in their management by government agencies at all levels. Exposes
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+students to a wide array of spatial data that is used in these activities, as well as standard mapping and spatial
+ analysis procedures and forms of data dissemination."
+GEOG 49080 ,"ADVANCED GEOGRAPHIC INFORMATION SCIENCE
+",GEOG,"GEOG49070.
+",None,"Advanced theories and techniques for handling geographic information systems, including 2D and 3D processing
+ of geographic information, detection and analysis of geographic patterns, 2D and 3D mapping of geographic
+ information, modeling of geographic processes, and an overview of GIS programming tools."
+GEOG 49085 ,"WEB AND MOBILE GEOGRAPHIC INFORMATION SCIENCE
+",GEOG,None.,None,"(Cross-listed with GEOG 59085 and GEOG 79085) Explores how web and mobile phones present opportunities
+ and challenges to the field of GIScience. This includes the examination of the use, design, and development of
+ cyberinfrastructure-enabled GIS emphasizing web- and mobile-based interfaces and technologies. GIS
+ experience recommended."
+GEOG 49098 ,"RESEARCH IN GEOGRAPHIC INFORMATION TECHNOLOGY
+",GEOG,"Specialapproval.
+",None,(Repeatable for credit)Individual research on a topic in geographic information technology.
+GEOG 49162 ,"CARTOGRAPHY AND GEOVISUALIZATION
+",GEOG,GEOG 49070. ,GEOG 49163.,"(Cross-listed with GEOG 59162 and GEOG 79162) Study of the design and production of dynamic, interactive,
+ mulitmedia Web based mapping. Data acquistion and processing, symbolization, composition, text and color
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+utilization."
+GEOG 49163 ,"CARTOGRAPHY AND GEOVISUALIZATION LABORATORY
+",GEOG,GEOG49070. ,GEOG 49162.,"(Cross-listed with GEOG 59163 and GEOG 79163) Practical experience in the techniques of data acquisition and
+ processing for dynamic, multimedia, and online map production and geovisualizations."
+GEOG 49195 ,"SPECIAL TOPICS IN GEOGRAPHIC INFORMATION SCIENCE
+",GEOG,none.,None,"(Repeatable for a maximum of 10 times) (Cross-listed with GEOG 59195 and
+GEOG 79195) Special topics in
+ geographic information sciences."
+GEOG 49198 ,"RESEARCH IN CARTOGRAPHY AND GEOGRAPHIC INFORMATION SYSTEMS
+",GEOG,special approval.,None,"(Repeatable for credit) Individual research on a topic in cartography or GIS under the direction of any faculty
+ member."
+GEOG 49230 ,"REMOTE SENSING
+",GEOG,none.,None,"(Cross-listed with GEOG 59230 and GEOG 79230 and GEOL 42030 and GEOL 52030 and GEOL 72030)
+ Computer analysis of multispectral satellite datasets. Applications in Terrestrial Earth Science are emphasized."
+GEOG 50093 ,"VARIABLE TITLE WORKSHOP IN GEOGRAPHY
+",GEOG,Graduate standing.,None,(Repeatable for credit)Variable title workshop in geography.
+GEOG 50195 ,"SPECIAL TOPICS IN GEOGRAPHY
+",GEOG,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with GEOG 40195 and GEOG 70195) Topics vary according to research
+ interest of person teaching the course."
+GEOG 50292 ,"FIELD EXPERIENCE IN GEOGRAPHY
+",GEOG,"Specialapproval and graduate standing.
+",None,"(Repeatable for credit) (Cross-listed with GEOG 40292 and GEOG 70292) Examination of geographic landscapes
+ in the field."
+GEOG 50392 ,"PRACTICUM IN EMERGING GEOGRAPHIC TRENDS
+",GEOG,"Specialapproval and graduate standing.
+",None,(Repeatable for credit)Examination of newly emerging geographic topics and techniques.
+GEOG 50492 ,"STUDY AWAY IN GEOGRAPHY
+",GEOG,None.,None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+(Repeatable 6 times for credit) Examination of geographic landscapes in the field."
+GEOG 51051 ,"NATURAL DISASTERS AND SOCIETY
+",GEOG,graduate standing.,None,"Study of natural disasters, the physical causes of the hazards associated with the disasters, their effects on
+ humans and societies, spatial and temporal distributions, and strategies to reduce the occurrences of disasters.
+ Natural disasters include hurricanes, tornadoes, floods, landslides, heat waves, wildfire, blizzards, earthquakes,
+ tsunami, and volcanoes. Mitigation for disasters and responses to disasters are studied across economically
+ developing nations and developed nations. Taught through the analysis of numerous case studies of natural
+ disasters."
+GEOG 51052 ,"GLACIERS AND GLACIATION
+",GEOG,Graduate standing.,None,"(Cross-listed with GEOL 44052, 54052 and 74052) Examination of how glacial ice masses change the shape of
+ the earth's surface, how they are
+integral to climate and sea level change and how they pose high risk hazards."
+GEOG 51065 ,"APPLIED CLIMATOLOGY
+",GEOG,graduate standing.,None,"Aimed at providing a full appreciation for the range of applicability of
+climate data to real-world problems. There
+ are three overarching goals of the course: To provide a broad overview of what weather and climate
+information is out there and how we synthesize weather and climate information for use in applied work; to
+ enable a thorough appreciation for the breadth of disciplines in which applied climatology plays a role; and to
+ provide real-world experience of working through an applied
+climatological problem, via the final project."
+GEOG 51066 ,"CLIMATE CHANGE AND ITS IMPACTS
+",GEOG,Graduate standing.,None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+(Cross-listed with GEOG 41066 and GEOG 71066) Examination of the evidence and causes of climate change
+ and how these data are assessed. Past, present and future impacts of climate change and variability are
+discussed along with policy implications."
+GEOG 51073 ,"CONSERVATION OF OUR NATURAL RESOURCES
+",GEOG,"Graduatestanding.
+",None,"(Cross-listed with GEOG 41073 and GEOG 71073) Evaluation of past and current problems associated with the
+ management of natural resources and
+the environments associated with their utilization."
+GEOG 51074 ,"RESOURCE GEOGRAPHY
+",GEOG,Graduate standing.,None,"Cultural attitudes, conceptual approaches and techniques in resource geography analysis of selected resource
+ issues at various areal scales."
+GEOG 51082 ,"GEOGRAPHY OF SOILS
+",GEOG,Graduate standing.,None,"(Cross-listed with GEOG 41082 and GEOG 71082) Study and analysis of different soil types in their relation to
+ geographic factors."
+GEOG 51195 ,"SPECIAL TOPICS IN ENVIRONMENTAL GEOGRAPHY
+",GEOG,graduate standing.,None,"(Repeatable for a maximum of 10 times) (Cross-listed with GEOG 41195 and
+GEOG 71195) Special topics in
+ environmental geography."
+GEOG 52052 ,"MEDICAL GEOGRAPHY
+",GEOG,Graduate standing.,None,"(Cross-listed with GEOG 42052 and GEOG 72052) Examines the geographic patterns of morbidity and mortality,
+ environmental correlates of major diseases and disease diffusion. Locational and accessibility issues of health
+ care are discussed."
+GEOG 52053 ,"GEOGRAPHIES OF MEMORY AND HERITAGE
+",GEOG,graduate standing.,None,"(Cross-listed with GEOG 42053 and GEOG 72053) Gives students a working knowledge in, and ability to
+ understand and analyze, the intersection of
+memory and landscape as a tangible re-presentation of the human
+ past, oftentimes used as a tangible expression of cultural or political power.
+To this end the course focuses on
+ memorialization, preservation, and tourism concepts and themes."
+GEOG 52064 ,"HISTORICAL GEOGRAPHY OF THE UNITED STATES AND CANADA
+",GEOG,Graduate standing.,None,"(Cross-listed with GEOG 42064 and GEOG 72064) Study of regional origins,
+growth evolution of spatial
+ organization changing evaluation of environments and selective geographies in United States and Canada from
+precolonial times to present."
+GEOG 52195 ,"SPECIAL TOPICS IN SOCIAL GEOGRAPHY
+",GEOG,graduate standing.,None,"(Repeatable for a maximum of 10 times) (Cross-listed with GEOG 42195 and
+GEOG 72195) Special topics in
+ social geography."
+GEOG 54010 ,"GEOGRAPHY OF THE GLOBAL ECONOMY
+",GEOG,graduate standing.,None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+(Cross-listed with GEOG 44010 and GEOG 74010) Geographic analysis of the
+increasing interconnectedness of
+ economic activity. The social, technological and political changes associated with globalization are also
+ discussed."
+GEOG 54070 ,"SPATIAL ANALYSIS AND LOCATION THEORY
+",GEOG,Graduate standing.,None,"(Cross-listed with GEOG 44070 and GEOG 74070) Classical theories for location of economic activities and
+ contemporary approach of spatial analysis, spatial organization of economic systems behavioral models in
+economic geography and spatial allocation problems."
+GEOG 55085 ,"URBAN TRANSPORTATION
+",GEOG,Graduate standing.,None,"(Cross-listed with GEOG 45085 and GEOG 75085) Spatial interaction patterns in urban environments. Travel
+ behavior, commodity flows, traffic patterns and urban transportation systems. Urban transportation problems.
+ Theoretical developments and techniques of analysis in urban transportation."
+GEOG 56070 ,"URBAN AND REGIONAL PLANNING
+",GEOG,Graduate standing.,None,"(Cross-listed with GEOG 46070 and GEOG 76070) Analysis of the geographical aspects of planning for cities and
+ regions."
+GEOG 56080 ,"URBAN SUSTAINABILITY
+",GEOG,Graduate standing.,None,"(Slashed with GEOG 46080 and GEOG 76080) Provides an introduction to interdisciplinary perspectives on
+ urban sustainability, focusing on environmental challenges caused by urbanization and the innovative ways
+urban dwellers seek to address those challenges. It provides background on relevant disciplinary perspectives
+ and their application to environmental challenge domains."
+GEOG 56092 ,"INTERNSHIP IN GEOGRAPHY AND PLANNING
+",GEOG,Special approval and graduate standing.,None,"(Repeatable for credit) (Cross-listed with GEOG 46092) Preprofessional work experience in local, regional and
+ environmental planning agencies and private business designed to utilize and develop academic skills."
+GEOG 59070 ,"GEOGRAPHIC INFORMATION SCIENCE
+",GEOG,Graduate standing.,None,"(Cross-listed with GEOG 49070 and GEOG 79070) Introduction to theories and methods for geographic data
+ processing, including data capture and input, data storage and management, and data analysis and displays.
+Emphasis is on laboratory exercises using GIS software packages for real
+world applications."
+GEOG 59072 ,"GEOGRAPHIC INFORMATION SCIENCE AND HEALTH
+",GEOG,graduate standing.,None,"Geographic theory and methods serve as the connection among disparate disciplines focused on how and why
+ “health” varies between regions, cities, and neighborhoods. Examines how geospatial technologies, especially
+ GIS, have become an important health analysis tool."
+GEOG 59075 ,"GEOGRAPHIC INFORMATION SCIENCE: URBAN AND ECONOMIC APPLICATIONS
+",GEOG,"GEOG 49070 or GEOG 59070; andgraduate standing.
+",None,"Urban and economic applications and analyses of spatial data, especially
+theoretical and conceptual issues
+ including the possibilities and concerns associated with GIS, ethical considerations, and the various forms of
+ data collection, visualization, analysis, and dissemination."
+GEOG 59076 ,"SPATIAL PROGRAMMING
+",GEOG,GEOG 59070 and graduate standing.,None,"(Cross-listed with GEOG 49076 and GEOG 79076) Examination of the design,
+development and use of
+ geographic information technologies with computer programming to model, process and visualize geographic
+phenomena."
+GEOG 59078 ,"GEOGRAPHIC INFORMATION SCIENCE AND ENVIRONMENTAL HAZARDS
+",GEOG,"GEOG 49070 or 59070; andgraduate
+ standing.
+",None,"(Slashed with GEOG 49078 and GEOG 79078) The study and management of natural hazards are inherently
+ reliant on both physical and human processes and spatial patterns. Given the many variables involved and the
+ variety of scales at which they operate, use of Geographic Information Systems (GIS) has become standard
+ practice in research on hazards and in their management by government agencies at all levels. Exposes
+ students to a wide array of spatial data that is used in these activities, as well as standard mapping and spatial
+ analysis procedures and forms of data dissemination."
+GEOG 59080 ,"ADVANCED GEOGRAPHIC INFORMATION SCIENCE
+",GEOG,GEOG 4/59070 and graduate standing.,None,"(Cross-listed with GEOG 49080 and GEOG 79080) Advanced theories and techniques for handling geographic
+ information systems, including 2D and
+3D processing of geographic information, detection and analysis of
+geographic patterns, 2D and 3D mapping of geographic information, modeling of geographic processes and an
+ overview of GIS programming tools."
+GEOG 59085 ,"WEB AND MOBILE GEOGRAPHIC INFORMATION SCIENCE
+",GEOG,Graduate standing.,None,"(Slashed with GEOG 49085 and GEOG 79085) Explores how web and mobile phones present opportunities and
+ challenges to the field of GIScience. This includes the examination of the use, design, and development of
+cyberinfrastructure-enabled GIS emphasizing web- and mobile-based interfaces and technologies."
+GEOG 59162 ,"CARTOGRAPHY AND GEOVISUALIZATION
+",GEOG,GEOG 49070 OR 59070 and graduate standing. ,GEOG 59163.,"(Cross-listed with GEOG 49162 and 79162) Study of the design and production of dynamic, interactive,
+ multimedia Web based mapping. Data acquisition and processing, symbolization, composition, text and color
+utilization."
+GEOG 59163 ,"CARTOGRAPHY AND GEOVISUALIZATION LABORATORY
+",GEOG,GEOG49070 or 59070; and graduate standing. ,GEOG 59162.,"(Cross-listed with GEOG 49163 and GEOG 79163) Practical experience in the techniques of data acquisition and
+ processing for dynamic, multimedia, and online map production and geovisualizations."
+GEOG 59195 ,"SPECIAL TOPICS IN GEOGRAPHIC INFORMATION SCIENCE
+",GEOG,graduate standing.,None,"(Repeatable a maximum of 10 times) (Cross-listed with GEOG 49195 and GEOG 79195).Special topics in
+ geographic information sciences."
+GEOG 59230 ,"REMOTE SENSING
+",GEOG,graduate standing.,None,"(Cross-listed with GEOG 49230 and GEOG 79230 and GEOL 42030 and GEOL 52030 and GEOL 72030)
+ Computer analysis of multispectral satellite datasets. Applications in Terrestrial Earth Science are emphasized."
+GEOG 60191 ,"SEMINAR IN TOPICAL GEOGRAPHY
+",GEOG,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with GEOG 70191) Seminar in one of
+the major topical fields in geography
+ offered by title in given semester."
+GEOG 60197 ,"INTRADEPARTMENTAL COLLOQUIUM
+",GEOG,Graduate standing.,None,(Repeatable for credit)One hour credit per semester.
+GEOG 60199 ,"THESIS I
+",GEOG,Graduate standing.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in single semester distributed over several
+ semesters if desired."
+GEOG 60299 ,"THESIS II
+",GEOG,GEOG 60199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+GEOG 60800 ,"SEMINAR IN THE DEVELOPMENT OF GEOGRAPHIC THOUGHT
+",GEOG,Graduate standing.,None,"(Cross-listed with GEOG 70800) Development of geographic knowledge and concepts with emphasis on recent
+ development. Critical analysis of writings of representative geographers and scientists in related fields."
+GEOG 60900 ,"QUALITATIVE RESEARCH METHODS IN GEOGRAPY
+",GEOG,Graduate standing.,None,"(Slashed with GEOG 70900) Introduces qualitative methods and research applications, along with
+ methodological considerations of these approaches. Students consider the epistemology of qualitative research
+and learn the mechanics of conducting this research in the field. In class, these methods are put into practice
+ and the results are put into writing."
+GEOG 60996 ,"RESEARCH IN GEOGRAPHY
+",GEOG,"Special approval and graduatestanding.
+",None,(Repeatable for credit)Individual research problems in geography.
+GEOG 60998 ,"RESEARCH
+",GEOG,"Graduatestanding.
+",None,"(Repeatable for credit)Research or individual investigation for master's
+level graduate students. Credits earned
+ may be applied toward meeting degree requirements if the department approves."
+GEOG 62062 ,"BEHAVIORAL GEOGRAPHY
+",GEOG,Graduate standing.,None,"Focuses on spatial perception, cognition and behavior. How we collect and process spatial information, behavior
+ in space, locate space and interact in space."
+GEOG 67091 ,"SEMINAR IN REGIONAL GEOGRAPHY
+",GEOG,Graduate standing.,None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+(Repeatable for credit) (Cross-listed with GEOG 77091) Seminar on one of
+the major regions of world offered by
+ title in given semester."
+GEOG 69004 ,"QUANTITATIVE METHODS IN GEOGRAPHY
+",GEOG,Graduate standing.,None,"(Slashed with GEOG 79004) Explores explores the methods and applications
+of some of the most common
+ statistics found in geographic work. It explores probability theory, spatial statistics, estimation procedures,
+hypothesis testing, spatial sampling, methods of areal association, correlation and regression analysis, and
+ principal components analysis. Theory and execution of these methods are equally emphasized, and
+applications to geographic problems are examined within each theme."
+GEOG 69007 ,"SPATIOTEMPORAL ANALYTICS
+",GEOG,GEOG 59070; and graduate standing.,None,"Equips students with essential spatiotemporal thinking and technical skills in mapping, analyzing, visualizing,
+ communicating, and simulating
+the spatiotemporal data. ArcGIS and free packages in R and Netlogo will
+be
+ used in the instruction."
+GEOG 69073 ,"GEOGRAPHIC INFORMATION SCIENCE: GLOBAL HEALTH
+",GEOG,Graduate standing.,None,"Emerging and re-emerging diseases in non-developed countries pose one of
+the greatest health challenges of
+ current times. Geospatial approaches often provide one of the only information sources in data poor and
+challenging environments. This course will expose students to these health issues and disease environments
+ through varied case studies, while simultaneously highlighting the geospatial methods and approaches used to
+ understand and combat disease."
+GEOG 69074 ,"GEOGRAPHIC INFORMATION SCIENCE: SPATIAL ANALYSIS FOR HEALTH GEOGRAPHY
+",GEOG,GEOG 59070 or GEOG 59072; and graduate standing.,None,"Spatial analysis is used to verify patterns and associations in health data maps. These results can then be used
+ to further hone the scientific
+question, or help design an intervention strategy. This course will introduce spatial
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+analytical approaches used by health researchers and practitioners in the e xploratory investigation of health
+ data. Students
+will also be exposed to new mobile technologies that can be used to enrich more traditional
+ spatial data sources."
+GEOG 69079 ,"ENVIRONMENTAL GEOGRAPHIC INFORMATION SCIENCE
+",GEOG,GEOG 59070; and graduate standing.,None,"GPS and environmental spatial data are commonly used in a variety of management and assessment plans in
+ fields related to environmental science to achieve effective decision making and environmental resource
+management. This course will focus on techniques used to process, manage, visualize, and analyze
+ environmental data using GIS. Students will learn how to collect and process GPS and online sources of
+geospatial data and how to employ techniques such as suitability modeling, measuring distributions, and
+ calculating landscape metrics."
+GEOG 69082 ,"CYBERGIS
+",GEOG,Graduate standing.,None,"(Slashed with GEOG 79082) Explores cyberinfrastructure-enabled geographic information systems (i.e.
+ cyberGIS) and related technologies including a broad introduction to the use, design, and development of
+cyberinfrastructure, spatial data infrastructures, geographic information services, and web-enabled mapping
+ technologies. Situates CyberGIS in the broader context of geographic information science focusing on the how
+ synthesizing computational thinking and spatial thinking influence methodological approaches."
+GEOG 69083 ,"GEODATABASES
+",GEOG,"GEOG59070; and graduate standing.
+",None,"Essential concepts and skills needed to efficiently create a geodatabase, add data to it, and realistically model
+ the real-world spatial relationships inherent to the data. Students will learn about geodatabase features that
+ help ensure data integrity over time and about
+storing and managing geographic data."
+GEOG 69164 ,"CARTOGRAPHIC DESIGN
+",GEOG,Graduate standing.,None,"Introduces students to the principles of map design and the art of map construction. Students will become
+ familiar with the cartographic process, especially as they apply basic mapping concepts such as scale,
+projections, typography, generalization, symbols, color scheme, and classification to the design and production
+ of thematic maps. Students will also learn how to describe and manipulate spatial data and how to select an
+ appropriate map type for a given task and data set. This course builds on students’ experiences with GIS to
+ focus on the design needed to disseminate information beyond users of the software and produce effective print
+ and web maps. Class exercises will provide hands-on experience in using GIS and graphic software packages.
+Principles and experiences learned in class will equip students with the
+fundamental skills necessary to
+ effectively communicate graphic information through maps."
+GEOG 69231 ,"ENVIRONMENTAL REMOTE SENSING
+",GEOG,Graduate standing.,None,"Introduction to the basic principles of environmental remote sensing, including the electromagnetic spectrum,
+ spectral properties of Earth objects, aerial photograph analysis and interpretation and satellite image analysis
+ and interpretation. Special focus will be on environmental applications, especially as they pertain to
+ understanding vegetation, water, and land use mapping and impacts."
+GEOG 69392 ,"PRACTICUM IN GEOGRAPHIC INFORMATION SCIENCE
+",GEOG,"GEOG 59070 and GEOG 59080 and GEOG69164; and two additional graduate-level GEOG courses; and graduate standing.
+",None,"Culminating experience for students in the MGISc program. It will be taken in place of two CarouselSpecialist
+ courses on the schedule for the student’s final semester. It is designed to provide practical experience in the
+ application of MGISc course content in real-world professional settings. Students will select a professional
+ project in consultation with their employer and program faculty and then will design, implement, and report on
+ their activities in a culminating professional paper."
+GEOG 69701 ,"RESEARCH AND PRESENTATION OF GEOGRAPHIC DATA
+",GEOG,Graduate standing.,None,"Critical discussion of techniques of geographic research and preparation
+and presentation of research papers."
+GEOG 70093 ,"VARIABLE TITLE WORKSHOP IN GEOGRAPHY
+",GEOG,Doctoral standing.,None,(Repeatable for credit)Variable title workshop in geography.
+GEOG 70191 ,"SEMINAR IN TOPICAL GEOGRAPHY
+",GEOG,Doctoral standing.,None,"(Repeatable for credit) (Cross-listed with GEOG 60191) Seminar in one of
+the major topical fields in geography
+ offered by title in given semester."
+GEOG 70195 ,"SPECIAL TOPICS IN GEOGRAPHY
+",GEOG,Doctoral standing.,None,(Repeatable for credit) (Cross-listed with GEOG 40195 and GEOG 50195) Special topics in geography.
+GEOG 70292 ,"FIELD EXPERIENCE IN GEOGRAPHY
+",GEOG,"Doctoral standing andspecial approval.
+",None,(Repeatable for credit)Examination of geographic landscapes in the field.
+GEOG 70392 ,"PRACTICUM IN EMERGING GEOGRAPHIC TRENDS
+",GEOG,"Specialapproval and doctoral standing.
+",None,(Repeatable for credit)Examination of newly emerging geographic topics and techniques.
+GEOG 70492 ,"STUDY AWAY IN GEOGRAPHY
+",GEOG,None.,None,(Repeatable 6 times for credit) Examination of geographic landscapes in the field.
+GEOG 70800 ,"SEMINAR IN THE DEVELOPMENT OF GEOGRAPHIC THOUGHT
+",GEOG,Doctoral standing.,None,"(Cross-listed with GEOG 60800) Development of geographic knowledge and concepts with emphasis on recent
+ development. Critical analysis of writings of representative geographers and scientists in related fields."
+GEOG 70900 ,"QUALITATIVE RESEARCH METHODS IN GEOGRAPHY
+",GEOG,Doctoral standing.,None,"(Slashed with GEOG 60900) Introduces qualitative methods and research applications, along with
+ methodological considerations of these approaches. Students consider the epistemology of qualitative research
+and learn the mechanics of conducting this research in the field. In class, these methods are put into practice
+ and the results are put into writing."
+GEOG 71051 ,"NATURAL DISASTERS AND SOCIETY
+",GEOG,doctoral standing.,None,"Study of natural disasters, the hazards associated with the disasters, their effects on humans and societies,
+ spatial and temporal distributions, and strategies to reduce the occurrences of disasters. Natural disasters
+ include hurricanes, tornadoes, floods, landslides, heat waves, wildfire, blizzards, earthquakes, tsunami and
+ volcanoes. Mitigation for disasters and responses to disasters are studied across economically developing
+ nations and developed nations. Taught through the analysis of numerous case studies of natural disasters."
+GEOG 71052 ,"GLACIERS AND GLACIATION
+",GEOG,Doctoral standing.,None,"(Cross-listed with GEOL 44052, 54052 and 74052) Examination of how glacial ice masses change the shape of
+ the earth's surface, how they are
+integral to climate and sea level change and how they pose high risk hazards."
+GEOG 71065 ,"APPLIED CLIMATOLOGY
+",GEOG,doctoral standing.,None,"Aimed at providing a full appreciation for the range of applicability of
+climate data to real-world problems. There
+ are three overarching goals of the course: To provide a broad overview of what weather and climate
+information is out there and how we synthesize weather and climate information for use in applied work; to
+ enable a thorough appreciation for the breadth of disciplines in which applied climatology plays a role; and to
+ provide real-world experience of working through an applied
+climatological problem, via the final project."
+GEOG 71066 ,"CLIMATE CHANGE AND ITS IMPACTS
+",GEOG,Doctoral standing.,None,"(Cross-listed with GEOG 41066 and GEOG 51066) Examination of the evidence and causes of climate change
+ and how these data are assessed. Past, present and future impacts of climate change and variability are
+discussed along with policy implications."
+GEOG 71073 ,"CONSERVATION OF OUR NATURAL RESOURCES
+",GEOG,"Doctoralstanding.
+",None,"(Cross-listed with GEOG 41073 and GEOG 51073) Evaluation of past and current problems associated with the
+ management of natural resources and
+the environments associated with their utilization."
+GEOG 71074 ,"RESOURCE GEOGRAPHY
+",GEOG,Doctoral standing.,None,"Cultural attitudes, conceptual approaches and techniques in resource geography; analysis of selected resource
+ issues at various areal scales."
+GEOG 71082 ,"GEOGRAPHY OF SOILS
+",GEOG,Doctoral standing.,None,"(Cross-listed with GEOG 41082 and GEOG 51082) Study and analysis of different soil types in their relation to
+ geographic factors."
+GEOG 71195 ,"SPECIAL TOPICS IN ENVIRONMENTAL GEOGRAPHY
+",GEOG,doctoral standing.,None,"(Repeatable for a maximum of 10 times) (Cross-listed with GEOG 41195 and
+GEOG 51195) Special topics in
+ environmental geography."
+GEOG 72052 ,"MEDICAL GEOGRAPHY
+",GEOG,Doctoral standing.,None,"(Cross-listed with GEOG 42052 and GEOG 52052) Examines the geographic patterns of morbidity and mortality,
+ environmental correlates of major diseases and disease diffusion. Locational and accessibility issues of health
+ care are discussed."
+GEOG 72053 ,"GEOGRAPHIES OF MEMORY AND HERITAGE
+",GEOG,doctoral standing.,None,"(Cross-listed with GEOG 42053 and GEOG 52053) Gives students a working knowledge in, and ability to
+ understand and analyze, the intersection of
+memory and landscape as a tangible re-presentation of the human
+ past, oftentimes used as a tangible expression of cultural or political power.
+To this end the course focuses on
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+memorialization, preservation, and tourism concepts and themes."
+GEOG 72062 ,"BEHAVIORAL GEOGRAPHY
+",GEOG,Doctoral standing.,None,"Focuses on spatial perception, cognition and behavior. How we collect and process spatial information behavior
+ in space, locate space and interact in space."
+GEOG 72064 ,"HISTORICAL GEOGRAPHY OF THE UNITED STATES AND CANADA
+",GEOG,Doctoral standing.,None,"(Cross-listed with GEOG 42064 and GEOG 52064) Study of regional origins,
+growth, evolution of spatial
+ organization, changing evaluation of environments and selective geographies in United States and Canada from
+pre-colonial times to present."
+GEOG 72195 ,"SPECIAL TOPICS IN SOCIAL GEOGRAPHY
+",GEOG,doctoral standing.,None,"(Repeatable for a maximum of 10 times) (Cross-listed with GEOG 42195 and
+GEOG 52195) Special topics in
+ social geography."
+GEOG 74010 ,"GEOGRAPHY OF THE GLOBAL ECONOMY
+",GEOG,doctoral standing.,None,"(Cross-listed with GEOG 44010 and GEOG 54010) Geographic analysis of the
+increasing interconnectedness of
+ economic activity. The social, technological and political changes associated with globalization are also
+ discussed."
+GEOG 74070 ,"SPATIAL ANALYSIS AND LOCATION THEORY
+",GEOG,Doctoral standing.,None,"(Cross-listed with GEOG 44070 and GEOG 54070) Classical theories for location of economic activities and
+ contemporary approach of spatial analysis, spatial organization of economic systems, behavioral models in
+ economic geography and spatial allocation problems."
+GEOG 75085 ,"URBAN TRANSPORTATION
+",GEOG,Doctoral standing.,None,"(Cross-listed with GEOG 45085 and GEOG 55085) Spatial interaction patterns in urban environments. Travel
+ behavior, commodity flows, traffic patterns and urban transportation systems. Urban transportation problems.
+ Theoretical developments and techniques of analysis in urban transportation."
+GEOG 76070 ,"URBAN AND REGIONAL PLANNING
+",GEOG,Doctoral standing.,None,"(Cross-listed with GEOG 46070 and GEOG 56070) Analysis of the geographical aspects of planning for cities and
+ regions."
+GEOG 76080 ,"URBAN SUSTAINABILITY
+",GEOG,Doctoral standing.,None,"(Slashed with GEOG 46080 and GEOG 56080) Provides an introduction to interdisciplinary perspectives on
+ urban sustainability, focusing on environmental challenges caused by urbanization and the innovative ways
+urban dwellers seek to address those challenges. It provides background on relevant disciplinary perspectives
+ and their application to environmental challenge domains."
+GEOG 76081 ,"SEMINAR IN URBAN GEOGRAPHY
+",GEOG,Doctoral standing.,None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+Theoretical explanations of urban spatial patterns. Application of contemporary theories concepts and methods
+ to selected urban geographic problems."
+GEOG 77091 ,"SEMINAR IN REGIONAL GEOGRAPHY
+",GEOG,Doctoral standing.,None,"(Repeatable for credit) (Cross-listed with GEOG 67091) Seminar on one of
+the major regions of world offered by
+ title in given semester."
+GEOG 79004 ,"QUANTITATIVE METHODS IN GEOGRAPHY
+",GEOG,Doctoral standing.,None,"(Slashed with GEOG 69004) Explores the methods and applications of some of the most common statistics
+ found in geographic work. It explores probability theory, spatial statistics, estimation procedures, hypothesis
+ testing, spatial sampling, methods of areal association, correlation and regression analysis, and principal
+ components analysis. Theory and execution of these methods are equally emphasized, and applications to
+ geographic problems are examined within each theme."
+GEOG 79070 ,"GEOGRAPHIC INFORMATION SCIENCE
+",GEOG,Doctoral standing.,None,"(Cross-listed with GEOG 49070 and GEOG 59070) Introduction to theories and methods for geographic data
+ processing, including data capture and input data storage and management and data analysis and displays.
+Emphasis is on laboratory exercises using GIS software packages for real
+world applications."
+GEOG 79072 ,"GEOGRAPHIC INFORMATION SCIENCE AND HEALTH
+",GEOG,"doctoral standing.2015 Kent State University Catalog - Spring 2016 Course Descriptions
+",None,"Geographic theory and methods serve as the connection among disparate disciplines focused on how and why
+ “health” varies between regions, cities, and neighborhoods. This course examines how geospatial technologies,
+ especially GIS, have become an important health analysis tool."
+GEOG 79075 ,"GEOGRAPHIC INFORMATION SCIENCE: URBAN AND ECONOMIC APPLICATIONS
+",GEOG,GEOG 49070 or 59070 or 79070; and doctoral standing.,None,"(Cross-listed with GEOG 49075 and GEOG 59075) Urban and economic applications and analyses of spatial
+ data, especially theoretical and conceptual issues including the possibilities and concerns associated with GIS,
+ ethical considerations, and the various forms of data collection, visualization, analysis and dissemination."
+GEOG 79076 ,"SPATIAL PROGRAMMING
+",GEOG,GEOG 79070 and doctoral standing.,None,"(Cross-listed with GEOG 49076 and GEOG 59076) Examination of the design,
+development and use of
+ geographic information technologies with computer programming to model process and visualize geographic
+phenomena."
+GEOG 79078 ,"GEOGRAPHIC INFORMATION SCIENCE AND ENVIRONMENTAL HAZARDS
+",GEOG,"GEOG 49070 or 59070 or 79070; anddoctoral standing.
+",None,"(Slashed with GEOG 49078 and GEOG 59078) The study and management of natural hazards are inherently
+ reliant on both physical and human processes and spatial patterns. Given the many variables involved and the
+ variety of scales at which they operate, use of Geographic Information Systems (GIS) has become standard
+ practice in research on hazards and in their management by government agencies at all levels. Exposes
+ students to a wide array of spatial data that is used in these activities, as well as standard mapping and spatial
+ analysis procedures and forms of data dissemination."
+GEOG 79080 ,"ADVANCED GEOGRAPHIC INFORMATION SCIENCE
+",GEOG,GEOG 4/5/79070 and doctoral standing.,None,"(Cross-listed with GEOG 49080 and GEOG 59080) Advanced theories and techniques for handling geographic
+ information systems, including 2D and
+3d processing of geographic information, detection and analysis of
+geographic patterns, 2D and 3D mapping of geographic information, modeling of geographic processes and an
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+overview of GIS programming tools."
+GEOG 79082 ,"CYBERGIS
+",GEOG,Doctoral standing.,None,"(Slashed with GEOG 69082) Explores cyberinfrastructure-enabled geographic information systems (i.e.
+ cyberGIS) and related technologies including a broad introduction to the use, design, and development of
+cyberinfrastructure, spatial data infrastructures, geographic information services, and web-enabled mapping
+ technologies. Situates cyberGIS in the broader context of geographic information science focusing on the how
+ synthesizing computational thinking and spatial thinking influence methodological approaches."
+GEOG 79085 ,"WEB AND MOBILE GEOGRAPHIC INFORMATION SCIENCE
+",GEOG,Doctoral standing.,None,"(Slashed with GEOG 49085 and 79085) Explores how web and mobile phones present opportunities and
+ challenges to the field of GIScience. This will include the examination of the use, design, and development of
+cyberinfrastructure-enabled GIS emphasizing web- and mobile-based interfaces and technologies."
+GEOG 79162 ,"CARTOGRAPHY AND GEOVISUALIZATION
+",GEOG,GEOG 49070 OR 59070 OR 79070; and doctoral standing. ,GEOG 79163.,"(Cross-listed with GEOG 49162 and 59162) Study of the design and production of dynamic, interactive,
+ multimedia Web based mapping. Data acquisition and processing, symbolization, composition, text and color
+utilization."
+GEOG 79163 ,"CARTOGRAPHY AND GEOVISUALIZATION LABORATORY
+",GEOG,GEOG49070 or 59070 or 79070; and doctoral standing. ,"GEOG 79162.2015 Kent State University Catalog - Spring 2016 Course Descriptions
+","(Cross-listed with GEOG 49163 and GEOG 59163) Practical experience in the techniques of data acquisition and
+ processing for dynamic, multimedia, and online map production and geovisualizations."
+GEOG 79195 ,"SPECIAL TOPICS IN GEOGRAPHIC INFORMATION SCIENCE
+",GEOG,doctoral standing.,None,"(Repeatable for a maximum of 10 times) (Cross-listed with GEOG 49195 and
+GEOG 59195). Special topics in
+ geographic information sciences."
+GEOG 79230 ,"REMOTE SENSING
+",GEOG,doctoral standing.,None,"(Cross-listed with GEOG 49230 and GEOG 59230 and GEOL 42030 and GEOL 52030 and GEOL 72030)
+ Computer analysis of multispectral satellite datasets. Applications in Terrestrial Earth Science are emphasized."
+GEOG 80197 ,"INTRADEPARTMENTAL COLLOQUIUM
+",GEOG,Doctoral standing.,None,(Repeatable for credit)One hour credit per semester.
+GEOG 80199 ,"DISSERTATION I
+",GEOG,Special approval and doctoral standing.,None,"(Repeatable for credit)Doctoral dissertation,for which registration in at least two semesters is required first of
+ which will be semester in which dissertation work is begun and continuing until the completion of 30 hours."
+GEOG 80299 ,"DISSERTATION II
+",GEOG,"GEOG 80199 anddoctoral standing.
+",None,"(Repeatable for credit)Continuing registration required of doctoral students who have completed the initial 30
+ hours of dissertation and continuing until all degree requirements are met."
+GEOG 80998 ,"RESEARCH
+",GEOG,Doctoral standing.,None,"(Repeatable for credit)Research or individual investigation for doctoral
+students who have not yet passed their
+ candidacy examination. Credits earned may be applied toward degree if department approves."
+GEOG 81091 ,"RESEARCH IN PHYSICAL RESOURCES
+",GEOG,Doctoral standing.2.000 OR ,None,"(Repeatable for credit)Research on basic processes related to formation of physical environment. Investigation
+ of significant variables in resource utilization relevant to regional planning and development."
+GEOG 89092 ,"GRADUATE FIELD CAMP
+",GEOG,Doctoral standing.,None,"(Repeatable for credit) Field research problems involving individual investigation of specific urban or rural
+ region."
+GEOG 89098 ,"RESEARCH IN CARTOGRAPHY
+",GEOG,"Doctoralstanding.
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+",None,"(Repeatable for credit)Investigations into function of map as medium of scientific expression; problem of map
+ design in relation to human perception of graphically expressed spatial information."

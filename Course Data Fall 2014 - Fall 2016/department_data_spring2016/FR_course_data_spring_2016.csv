@@ -1,0 +1,130 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+FR 13201 ,"ELEMENTARY FRENCH I
+",FR,None.,None,An introduction to the French language in the context of Francophone cultures.
+FR 13202 ,"ELEMENTARY FRENCH II
+",FR,"2015 Kent State University Catalog - Spring 2016 Course DescriptionsFR 13201.
+",None,A continuation of the introduction to the French language in the context of Francophone cultures.
+FR 23201 ,"INTERMEDIATE FRENCH I
+",FR,FR 13202.,None,"Continued development of speaking, listening, reading and writing skills
+using a variety of cultural materials."
+FR 23202 ,"INTERMEDIATE FRENCH II
+",FR,FR 23201.,None,Continuation of FR 23201.
+FR 33095 ,"SELECTED TOPICS IN FRENCH
+",FR,"FR33211.
+",None,(Repeatable for a maximum of 9 credit hours)Topic to be announced in the schedule of classes.
+FR 33211 ,"FRENCH CONVERSATION
+",FR,FR 23202.,None,"A course designed to enhance students' oral proficiency through instruction in facilitating conversation and the
+ discussion of culture-based texts."
+FR 33212 ,"FRENCH COMPOSITION
+",FR,FR 23202; and special approval. ,FR 33214,"A course designed to develop writing and reading skills, and in particular to prepare students to read and write
+ about French literature."
+FR 33214 ,"FRENCH COMPOSITION EXTENDED
+",FR,FR 23202 and special approval. ,FR 33212,"Designed to develop writing and reading skills, and in particular to prepare students to read and write about
+ French literature."
+FR 33215 ,"FRENCH PHONETICS AND DICTION
+",FR,FR 33211.,None,"Study of sounds of French language and their relation to spelling; application of international phonetic alphabet
+ to French. Study augmented by recordings."
+FR 33231 ,"TRANSLATION PRACTICE:FRENCH
+",FR,None,TRST 30230.,"Translation practice with French texts using principles and techniques learned in the lecture class. To be taken
+ concurrently with TRST 30230."
+FR 33240 ,"CONVERSATION FOR BUSINESS AND SPECIAL PURPOSES:FRENCH
+",FR,FR 33211.,None,"Introduction to the special vocabulary of business and other special subject areas;introduces the concept of
+ language for special purposes and emphasizes the use of special vocabulary in conversations in business and
+ other settings."
+FR 33335 ,"INTRODUCTION TO FRENCH THEATRE
+",FR,FR 33212.,None,"Evolution of French dramatic literature from the middle ages to the present. Readings of representative works
+ with lectures analyses. In French."
+FR 33336 ,"INTRODUCTION TO FRENCH POETRY
+",FR,FR 33212.,None,"Evolution of French poetry from the middle ages to the present. Readings
+of representative works with lectures
+ analyses. In French."
+FR 33337 ,"INTRODUCTION TO THE FRENCH NOVEL
+",FR,FR 33212.,None,"Evolution of French novel from 17th century to present. Readings of representative major works lectures
+ analyses. In French."
+FR 33421 ,"FRENCH CIVILIZATION
+",FR,"FR33212.
+",None,A survey of French history and culture from its beginnings to World War II. Taught in French.
+FR 43091 ,"FRENCH SEMINAR
+",FR,"One course from FR33335 or FR 33336 or FR 33337.
+",None,(Repeatable for credit) (Cross-listed with FR 53091) Topic to be announced.
+FR 43093 ,"VARIABLE TITLE WORKSHOP IN FRENCH
+",FR,special approval.,None,"(Repeatable for credit) Workshops individually designed to provide instruction and training in specific areas of
+ French studies."
+FR 43096 ,"INDIVIDUAL INVESTIGATION
+",FR,Special approval.,None,"(Repeatable for a maximum of 6 credit hours)Allows the advanced, serious
+student to carry out research study
+ project on French literature, language or culture. Prior approval of supervising faculty members department
+ required."
+FR 43213 ,"FRENCH COMPOSITION-ADVANCED
+",FR,FR 33335 or FR 33336 or FR 33337 or FR 33421.,None,"(Cross-listed with FR 53213) French stylistics developed by analyses of literary extracts and practice in written
+ expression."
+FR 43216 ,"CONTEMPORARY FRENCH CULTURE
+",FR,FR 33421 and special approval.,None,"(Cross-listed with FR 53216) A study of selected sociological, political, cultural or economic issues in the
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+contemporary Francophone world."
+FR 43230 ,"ADVANCED TRANSLATION PRACTICE:FRENCH
+",FR,FR 33231.,None,"Theory and practice course that discusses translation theory and emphasizes French-to-English translation of
+ selected texts in business, technology, medicine and law."
+FR 43240 ,"BUSINESS AND SPECIAL TEXTS:FRENCH
+",FR,FR 33212.,None,"Survey of the typical text types of business in the French culture and language. Practice sessions focus on
+ reading and understanding specialized texts and on the translation and composition of selected special texts in
+ French."
+FR 43368 ,"THE TWENTIETH-CENTURY FRENCH NOVEL
+",FR,6 semester hours from the 33330-level.,None,"Studies of selected 20th century French novels, with detailed study of the novel of one or several major writers
+ or movements."
+FR 43369 ,"TWENTIETH-CENTURY FRENCH POETRY
+",FR,"6 semester hours from the FR 33330-2015 Kent State University Catalog - Spring 2016 Course Descriptions
+level.
+",None,"(Cross-listed with FR 53369) A study of selected poetry of Apollinaire, Breton, Mansour, Eluard, Michaux, Char,
+ Reverdy, Ponge, Guillevic, Jabes, Bonnefoy, Dupin, Albiach and others. Emphasis is placed on the relationship
+ between poetry and the visual arts in the 20th century."
+FR 43370 ,"THE TWENTIETH CENTURY FRENCH THEATRE
+",FR,"6 semester hours from the33330-level.
+",None,(Cross-listed with FR 53370) Studies in French drama since 1900.
+FR 53091 ,"FRENCH SEMINAR
+",FR,Graduate standing.,None,(Repeatable for credit) (Cross-listed with FR 43091) Topic to be announced.
+FR 53213 ,"FRENCH COMPOSITION-ADVANCED
+",FR,Graduate standing and special approval.,None,French stylistics developed through analyses of literary extracts and practice in written expression.
+FR 53216 ,"CONTEMPORARY FRENCH CULTURE
+",FR,Graduate standing and special approval.,None,"(Cross-listed with FR 43216) A study of selected sociological, political, cultural or economic issues in the
+ contemporary Francophone world."
+FR 53368 ,"20TH-CENTURY FRENCH NOVEL
+",FR,6 hours from 33330-level and graduate standing.,None,"Study of selected 20th-century French novels, with emphasis on one or several major writers or movements."
+FR 53369 ,"20TH-CENTURY FRENCH POETRY
+",FR,Graduate standing.,None,"(Cross-listed with FR 43369) A study of selected poetry of Apollinaire, Breton, Mansour, Eluard, Michaux, Char,
+ Reverdy, Ponge, Guillevic, Jabes, Bonnefoy, Dupin, Alpiach and others. Emphasis is placed on the relationship
+ between poetry and the visual arts in the 20th century."
+FR 53370 ,"20TH-CENTURY FRENCH THEATRE
+",FR,"6 hours from 33330-level andgraduate standing.
+",None,(Cross-listed with FR 43370) Studies in French drama since 1900.
+FR 63010 ,"THE PRACTICE OF FRENCH TRANSLATION
+",FR,Graduate standing. ,TRST 60010.,Students apply linguistic and communication science concepts to case studies of language mediation.
+FR 63093 ,"VARIABLE TITLE WORKSHOP IN FRENCH
+",FR,Special approval and graduate standing.,None,"(Repeatable for credit) Workshops individually designed to provide instruction and training in specific areas of
+ French studies."
+FR 63098 ,"RESEARCH
+",FR,"Special approval and graduatestanding.
+",None,"(Repeatable for credit)Research or individual investigation for master's
+level graduate students. Credits earned
+ applied toward degree requirements if department approves."
+FR 63199 ,"THESIS I
+",FR,Graduate standing.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in a single semester distributed over several
+ semesters if desired."
+FR 63201 ,"READING FRENCH FOR GRADUATE STUDENTS
+",FR,Graduate standing.,None,Introduction to the fundamentals of French grammar for graduate students. Practice in reading and translation.
+FR 63240 ,"LITERARY AND CULTURAL TRANSLATION
+",FR,Graduate standing.,None,"Translation of documents from a variety of literary and cultural sources, including literature, expository and
+ journalistic prose, scholarly treatises and essays. Translation into French will also be emphasized."
+FR 63250 ,"COMMERCIAL, LEGAL AND DIPLOMATIC TRANSLATION
+",FR,TRST 60010 and graduate standing.,None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+An introduction to methods and resources for the translation of commercial, economic, financial, legal,
+ diplomatic and governmental documents."
+FR 63251 ,"SCIENTIFIC, TECHNICAL AND MEDICAL TRANSLATION
+",FR,TRST 60010 and graduate standing.,None,"An introduction to methods and resources for the translation of scientific, technical, industrial and medical
+ documents."
+FR 63299 ,"THESIS II
+",FR,FR 63199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+FR 63979 ,"CASE STUDY IN TRANSLATION
+",FR,Special approval and graduate standing.,None,"Students will be responsible for a major translation and a terminology glossary as well as a critical analysis of
+ the source text, the problems
+encountered during the translation process and the strategies used to solve them."
