@@ -1,0 +1,145 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+ARTF 14000 ,"DRAWING I
+",ARTF,None.,None,"Fundamental drawing and studio experiences; exploration of basic drawing ideas and media. Work produced in
+ class must be retained for later portfolio presentation in ARTF 24005."
+ARTF 14001 ,"DRAWING II
+",ARTF,"ARTF14000, ART 10022 and ART 10023.
+",None,"Continued practice in drawing with particular emphasis upon dimensional representation and pictorial structure.
+ Work produced in this class must be retained for later portfolio presenation in ARTF 24005."
+ARTF 14055 ,"SCULPTURE I
+",ARTF,ARTF 14000 and ART 10023.,None,"An introduction to the basic concepts of three-dimensional form. Work produced in this course must be retained
+ for later portfolio presentation in ARTF 24005."
+ARTF 14060 ,"PAINTING I
+",ARTF,ARTF 14000 and ART 10022.,None,"Opaque, water-based media used to introduce fundamental form language and vocabulary of painting.
+ Emphasis upon structured study and effective use of colors. Work produced in class must be retained for later
+portfolio presentation in ARTF 24005."
+ARTF 24001 ,"DRAWING III
+",ARTF,ARTF 14001.,None,"Emphasis on continued development of drawing with focus on nonfigurative representations of pictorial space.
+ Work produced in this course must be retained for later portfolio presentation in ARTF 24005."
+ARTF 24005 ,"SOPHOMORE REVIEW:FINE ARTS
+",ARTF,"ART 10022, ART10023, ARTF 14000, ARTF 14001, ARTF 14055, ARTF 14060, ARTH 22006, ARTH 22007, ARTF 24010 AND ARTF
+ 24040.
+",None,"Diagnostic review by fine arts faculty of portfolio of work selected from ""foundation"" courses. Student's
+ knowledge of art history is also examined. Student must receive a passing score (above average of C) to
+continue in degree program. Action by faculty committee may include the assignment of additional studio work
+ over the normal graduation requirements in areas of apparent deficiencies."
+ARTF 24010 ,"INTRODUCTION TO FINE ART PHOTOGRAPHY
+",ARTF,"ARTF14000 and ART 10022.2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 131
+",None,"Introductory studio/lecture course which introduces fine art photography with an aesthetic,contemporary
+ approach. Students learn traditional and digital photographic image-making applications and the historical
+underpinnings of the photograph in modern art. Research paper and portfolio required. Work produced in this
+ class must be retained for later portfolio presentation in ARTF 24005."
+ARTF 24040 ,"PRINTMAKING I
+",ARTF,ARTF 14000 and ART 10022.,None,"Basic traditional and contemporary techniques of relief (woodcut, lino-cut, etc.) and intaglio printing (etching,
+ colography, etc.). Work produced in this class must be retained for later portfolio presentation in ARTF 24005."
+ARTF 24055 ,"SCULPTURE II
+",ARTF,"ARTF 14055, ART10022 and ART 20024.
+",None,Continuation of sculpture I with greater emphasis on materials and processes.
+ARTF 24060 ,"PAINTING II
+",ARTF,"ARTF 14060, ART 10023 andART 20024.
+",None,"Continuation of work begun in Painting I. Introduction to oil painting with emphasis upon direct painting from
+ observed sources and study of expressive capabilities of painting."
+ARTF 34001 ,"DRAWING IV
+",ARTF,ARTF 24001 and a grade of S in ARTF 24005.,None,"Further study and understanding of concepts and ideas which enable the student to understand and
+ professionally realize their drawings."
+ARTF 34002 ,"INTRODUCTION TO FIGURE DRAWING
+",ARTF,"ARTF14000, ARTF14001and ARTF 24001; and a grade of S in ARTF 24005.",None,"(Repeatable for a total of 9 credit hours) Extensive studio practice of traditional and contemporary approaches
+ to the human figure. Critical analysis of the figure from the Renaissance through postmodernism. Students work
+ from a nude model."
+ARTF 34040 ,"PRINTMAKING:INTERMEDIATE INTAGLIO
+",ARTF,"ARTF 24040, ART 10023 and ART 20024; and a grade of S in ARTF 24005.",None,"Continuation of ARTF 24040 emphasizing individually assigned problems in intaglio with introduction to color
+ intaglio techniques."
+ARTF 34041 ,"SERIGRAPHY I
+",ARTF,"ARTF 24040, ART 10023 andART 20024; and a grade of S in ARTF 24005.
+",None,"The initial presentation of fundamental concepts and processes pertaining to serigraphy. This course will include
+ printing techniques and aesthetic considerations in the making of art."
+ARTF 34042 ,"LITHOGRAPHY I
+",ARTF,"ARTF 24040, ART 10023 and ART20024; and a grade of S in ARTF 24005.
+",None,"Introduction to stone lithography. Techniques of drawing and printing crayon, tusche, transfer and color images
+ and their relation to problems of drawing and composition."
+ARTF 34050 ,"SCULPTURE:LIFE MODELING
+",ARTF,"ARTF 24055 and a grade of S in ARTF 24005.2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 133
+",None,(Repeatable for a maximum of 6 credit hours) Continuation of the study of the human figure in sculpture.
+ARTF 34055 ,"SCULPTURE III
+",ARTF,ARTF 24055 and ARTF 24005 with a grade of S.,None,"A sculpture course with an emphasis on other conceptual approaches beyond the more formal and aesthetic
+ considerations explored in Sculpture II."
+ARTF 34060 ,"PAINTING III
+",ARTF,ARTF 24060 and a grade of S in ARTF 24005.,None,"Continuation of the painting experience in various media, using formal means of painting expressively."
+ARTF 44003 ,"DRAWING V
+",ARTF,"ARTF 34001 and a grade ofS in ARTF 24005.
+",None,(Repeatable for a total of 9 credit hours) Continuation of ARTF 34001.
+ARTF 44010 ,"ADVANCED FINE ART PHOTOGRAPHY
+",ARTF,"ARTF 24010 and ARTF24005 with a grade of S.
+",None,"Combined studio/lecture course offering more advanced, conceptual approaches to the contemporary
+ applications of photographic imaging for artists. Students work with larger scale printing formats, more involved
+research and greater depth of involvement with the photographic medium."
+ARTF 44011 ,"DIGITAL FINE ART PHOTOGRAPHY
+",ARTF,ART 10022 with a minimum C (2.000) grade.,None,"(Slashed with ARTF 55011) Students develop their technical and conceptual skills in fine art digital
+ photography, and develop a contemporary approach to working with the medium. Students will explore various
+ photographic and digital techniques, and will form an awareness of such techniques in contemporary
+ photography."
+ARTF 44040 ,"PRINTMAKING:ADVANCED INTAGLIO
+",ARTF,ARTF 34040 and a grade of S in ARTF 24005.,None,Continuation of ARTF 34040 with special emphasis on color and photographic techniques intaglio.
+ARTF 44041 ,"SERIGRAPHY II
+",ARTF,"ARTF 34041 and a gradeof S in ARTF 24005 and special approval.
+",None,Continuation of ARTF 34041 emphasizing individually assigned projects.
+ARTF 44043 ,"ADVANCED PRINTMAKING
+",ARTF,"Choose two (2) from the following: ARTF 34040 or34041 or 34042 or 44040 or 44041 or 44042.
+",None,"(Repeatable for a maximum of 9 credit hours) Advanced printmaking course with emphasis on students
+ producing new, individually conceived visual works in printmaking in close consultation with faculty. Written
+proposal by students required at registration."
+ARTF 44045 ,"ART OF THE BOOK
+",ARTF,ART 10022 with a minimum C (2.000) grade.,None,"(Slashed with ARTF 44045) A distance learning course that combines video demonstrations and readings on
+2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 135
+creating artists books for fine art studio artists and photographers. Some basic digital image manipulation and
+ studio skills with paper are needed for successful results. Students are required to digitally document their
+ projects and upload them for review before project deadlines. Specific materials and basic studio tools are
+ required to complete the projects."
+ARTF 44055 ,"SCULPTURE IV
+",ARTF,"ARTF 34055 and agrade of S in ARTF 24005.
+",None,"Advanced sculpture course with emphasis on students pursuing individually conceived problems in close
+ consultation with faculty. Written proposal by students required at registration."
+ARTF 44060 ,"PAINTING IV
+",ARTF,ARTF 34060 and a grade of S in ARTF 24005.,None,"(Repeatable for a maximum of 9 credit hours) Advanced painting course with emphasis on students pursuing
+ individually conceived problems in close consultation with faculty. Written proposal by students required at
+ registration."
+ARTF 44092 ,"FIELD EXPERIENCE:TRAVEL STUDY IN FINE ART
+",ARTF,"Major in Fine Art or specialapproval of instructor.
+",None,"(Repeatable for credit) (Cross-listed with ARTF 54092) Travel-based study/field experience in fine arts
+ disciplines to and at a site or sites away from Kent State University."
+ARTF 44095 ,"SELECTED TOPICS IN FINE ARTS
+",ARTF,A grade of S in ARTF 24005.,None,"(Repeatable for credit) Special problems in studio art. Discussion, lecture and studio research in various
+2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 136
+selected media and concepts. Content varies each semester offered."
+ARTF 44096 ,"INDIVIDUAL STUDY FINE ART
+",ARTF,Major in Fine Art and special approval.,None,(Repeatable for credit)Additional study in area of student's choice in consultation with advisor.
+ARTF 44099 ,"SENIOR PROJECT:FINE ARTS
+",ARTF,Senior standing a grade of S in ARTF 24005 and special approval.,None,"Independently conceived project by senior fine art major, including written artist statements culminating in an
+ exhibition and oral review."
+ARTF 54011 ,"DIGITAL FINE ART PHOTOGRAPHY
+",ARTF,graduate standing.,None,"(Slashed with ARTF 44011) Students develop their technical and conceptual skills in fine art digital
+ photography, and develop a contemporary approach to working with the medium. Students explore various
+ photographic and digital techniques and form an awareness of such techniques in contemporary photography."
+ARTF 54045 ,"ART OF THE BOOK
+",ARTF,Master of Arts or Master of Fine Arts within the School of Art.,None,"(Slahsed with ARTF 44045) Distance learning course on creating artist books for professional artists and
+ photographers. Basic material skills with paper and printing, drawing, design and or photography needed.
+Digital photo documentation of works and uploading of files necessary for completion of course."
+ARTF 54091 ,"SEMINAR:STUDIO
+",ARTF,Graduate standing.,None,"(Repeatable for a maximum of 9 credit hours)Contemporary issues related to visual arts explored through
+ presentation, lecture and discussion. Guest speakers augment staff."
+ARTF 54092 ,"FIELD EXPERIENCE:TRAVEL STUDY IN FINE ART
+",ARTF,"Graduate standing in Fine Artor special approval by instructor.
+",None,"(Repeatable for credit) (Cross-listed with ARTF 44092) Travel-based study/field experience in fine arts
+ disciplines to and at a site or sites away from Kent State University."
+ARTF 64040 ,"PRINTMAKING:INDIVIDUAL STUDY
+",ARTF,"Special approval and graduatestanding.
+",None,Continued development on a personal direction in printmaking.
+ARTF 64050 ,"SCULPTURE:INDIVIDUAL STUDY
+",ARTF,Graduate standing.,None,Continued development of a personal direction in sculpture.
+ARTF 64060 ,"PAINTING:INDIVIDUAL STUDY
+",ARTF,Special approval and graduate standing.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 138
+Individual study, painting."
+ARTF 64096 ,"INDIVIDUAL INVESTIGATION: FINE ART
+",ARTF,graduate standing in MA or MFA program in fine art.,None,"(Repeatable for credit)Independent study in drawing, painting, printmaking or sculpture. IP Permissible."
+ARTF 64098 ,"RESEARCH
+",ARTF,Graduate standing.,None,(Repeatable for credit)Studio research in the visual arts.

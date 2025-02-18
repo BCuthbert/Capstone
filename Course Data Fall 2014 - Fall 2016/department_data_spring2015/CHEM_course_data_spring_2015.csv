@@ -1,0 +1,582 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+CHEM 00020 ,"INTRODUCTION TO CHEMISTRY
+",CHEM,"Math ACT score of 18; or ALEKS math assessment score of 45; orminimum C (2.000) grade in MATH 00023 or higher.
+",None,"Problem-based introduction to the fundamentals of chemistry including significant figures, unit conversions,
+ measurement, structure of matter, energy, composition of matter, atomic structure, the periodic table,
+introduction to bonding, and the formulas and names of both ionic and covalent compounds. Course does not
+ count toward graduation."
+CHEM 10030 ,"CHEMISTRY IN OUR WORLD
+",CHEM,none.,None,"A course for non-science majors that utilizes environmental and consumer topics to introduce chemical
+ principles and develop critical-thinking skills."
+CHEM 10031 ,"CHEMISTRY IN OUR WORLD LABORATORY
+",CHEM,None,None,"Discovery-based experiments to introduce chemical principles and develop critical-thinking skills. A course for
+ non-science majors; includes chemistry that is related to environmental and consumer issues. Pre/corequisite:
+ CHEM 10030."
+CHEM 10050 ,"FUNDAMENTALS OF CHEMISTRY
+",CHEM,"ACT math score of 16; or MATH 00007 or MATH 00023 or MATH 00024or MATH 11009 or MATH 11010 or MATH 11012 or MATH 12002 or MATH 12011 or MATH 12021.
+",None,"Basic concepts of chemistry (including atomic structure, chemical bonding and reactions) necessary for courses
+ in elementary organic chemistry and physiological chemistry. Students may only receive credit toward
+ graduation for one of the following courses: CHEM 10050; or CHEM 10054; or CHEM 10060 and 10061; or
+ CHEM 10960 and 10961."
+CHEM 10052 ,"INTRODUCTION TO ORGANIC CHEMISTRY
+",CHEM,CHEM 10050 or 10060.,None,"Chemistry of organic and biological molecules necessary for the study of physiological chemistry. Students may
+ only receive credit toward graduation for one of the following courses: CHEM 10052; or CHEM 10054; or CHEM
+ 20481 and 20482; or CHEM 30481 and 30482."
+CHEM 10053 ,"INORGANIC AND ORGANIC LABORATORY
+",CHEM,CHEM 10050 or 10054. ,CHEM 10052.,"Laboratory with experiments covering material from CHEM 10050, 10052 and 10054. Students may only
+ receive credit toward graduation for one of the following courses: CHEM 10053; or CHEM 10062 and 10063; or
+ CHEM 10960 and 10961."
+CHEM 10054 ,"GENERAL AND ELEMENTARY ORGANIC CHEMISTRY
+",CHEM,"ACT math score of 16; or MATH 00007 orMATH 00023 or MATH 00024 or MATH 11009 or MATH 11010 or MATH 11012 or MATH 12002 or MATH 12011 or
+ MATH 12021.
+",None,"A course covering the basic concepts of general, inorganic and organic chemistry necessary for the study of
+ physiological chemistry. Students may only receive credit toward graduation for one of the following courses:
+ CHEM 10050; or CHEM 10052; or CHEM 10054; or CHEM 10060 and 10061; or CHEM 10960 and 10961; or
+ CHEM 20481 and 20482; or CHEM 30481 and 30482."
+CHEM 10055 ,"MOLECULES OF LIFE
+",CHEM,None.,None,An integrated introduction to molecular systems and their participation in the processes of life.
+CHEM 10060 ,"GENERAL CHEMISTRY I
+",CHEM,"ALEKS math assessmentscore of 55 or higher; or MATH ACT of 22; or a minimum C (2.000) grade in MATH 00024 or minimum C
+ (2.000) grade in MATH 11009 or higher.
+",None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 312
+Chemistry for science majors, emphasizing stoichiometry, introduction to chemical reactions, thermochemistry,
+ atomic structure, periodicity, molecular structure and chemical bonding. Students who register for this course
+ must successfully complete the placement assessment and basic chemistry modules prior to the start of the
+ term. Those who do not will be deregistered. Students will be informed of the requirement by the Department
+ of Chemistry and Biochemistry. Students may only receive credit toward graduation for one of the following
+ courses: CHEM 10050 or CHEM 10054 or CHEM 10060 or CHEM 10960."
+CHEM 10061 ,"GENERAL CHEMISTRY II
+",CHEM,CHEM 10060.,None,"Continuation of CHEM 10060, emphasizing intermolecular forces, properties of mixtures, main group chemistry,
+ kinetics, equilibrium, acid-base chemistry, thermodynamics and electrochemistry. Students may only receive
+ credit toward graduation for one of the following courses: CHEM 10050 or CHEM 10054 or CHEM 10061 or
+ CHEM 10961."
+CHEM 10062 ,"GENERAL CHEMISTRY I LABORATORY
+",CHEM,None,None,"Laboratory covering pertinent aspects of CHEM 10060. Three hours weekly. Students may only receive credit
+ toward graduation for one of the following courses: CHEM 10053 or CHEM 10062 or CHEM 10960. Pre- or
+corequisite: CHEM 10060."
+CHEM 10063 ,"GENERAL CHEMISTRY II LABORATORY
+",CHEM,CHEM 10062. Pre- or ,None,"Laboratory covering pertinent aspects of CHEM 10061, including qualitative analysis. Students may only receive
+ credit toward graduation for one of the following courses: CHEM 10053 or CHEM 10063 or CHEM 10961."
+CHEM 10960 ,"HONORS GENERAL CHEMISTRY
+",CHEM,special approval.,None,"Rigorous general chemistry course for qualified students. Stoichiometry equilibrium thermodynamics kinetics
+ bonding and structure. Four hours lecture one three hour lab weekly. Students may only receive credit toward
+ graduation for one of the following courses: CHEM 10050; or CHEM 10053; or CHEM 10054; or CHEM 10060
+ and 10062; or CHEM 10960."
+CHEM 10961 ,"HONORS GENERAL CHEMISTRY
+",CHEM,CHEM 10960.,None,"A continuation of CHEM 10960. Student may only receive credit toward graduation for one of the following
+ courses: CHEM 10050; or CHEM 10053; or CHEM 10054; or CHEM 10061 and 10063; or CHEM 10961."
+CHEM 20050 ,"CAREER PATHWAYS IN CHEMISTRY
+",CHEM,None.,None,"Designed to introduce students to the wide range of career pathways available in chemistry. Students will learn
+ different strategies for identifying and pursuing career opportunities, and will develop their communication skills
+ through writing assignments and oral presentations. Satisfactory/Unsatisfactory (S/U) graded."
+CHEM 20095 ,"SPECIAL TOPICS
+",CHEM,special approval.,None,(repeatable for credit) Selected topics in chemistry.
+CHEM 20098 ,"INTRODUCTION TO CHEMICAL RESEARCH
+",CHEM,GPA of 2.500 in chemistry and special approval.,None,"Research experience for freshmen and sophomores. Registration requires prior approval of the research
+ director. Does not count toward the electives for the BS or BA chemistry degree. A written report is required."
+CHEM 20284 ,"PHYSIOLOGICAL CHEMISTRY
+",CHEM,"CHEM 10052 or10054 or 20481.
+",None,"Chemistry and metabolism of carbohydrates, lipids, nucleic acids and proteins; regulation of metabolism, nature
+ of enzyme action, clinical aspects of biochemistry. Four hours of lecture weekly."
+CHEM 20481 ,"BASIC ORGANIC CHEMISTRY I
+",CHEM,CHEM 10061 or 10961.,None,"Survey of the structure, preparation and reactions (including mechanisms) of organic compounds emphasizing
+ the chemistry of biologically important functional groups. Students may only receive credit toward graduation
+ for one of the following courses: CHEM 10052 or CHEM 10054 or CHEM 20481 or CHEM 30481."
+CHEM 20482 ,"BASIC ORGANIC CHEMISTRY II
+",CHEM,CHEM 20481.,None,"Continuation of CHEM 20481, emphasizing the chemistry of functional groups prevalent in biological chemistry.
+ Students may only receive credit toward graduation for one of the following courses: CHEM 10052 or CHEM
+ 10054 or CHEM 20482 or CHEM 30482."
+CHEM 30050 ,"INTRODUCTION TO MATERIALS CHEMISTRY
+",CHEM,CHEM 10061 or 10961; and CHEM 30481 and PHY 23101.,None,"This course provides an introduction to materials and their applications. It serves as the initiation for the
+ materials chemistry concentration."
+CHEM 30105 ,"ANALYTICAL CHEMISTRY I
+",CHEM,CHEM 10061.,None,"Covers the fundamental theory, experimental methods, and applications of analytical chemistry principles in
+ chemistry as well as other related disciplines such as life sciences and environmental science. It covers
+analytical measurements, experimental error, statistics, chemical equilibrium and titration, spectrometry as well
+ as analytical separation techniques."
+CHEM 30106 ,"ANALYTICAL CHEMISTRY II
+",CHEM,CHEM 30105,None,"Covers the theoretical basis and experimental methods of analytical chemistry not considered in Analytical
+ Chemistry I (CHEM 30105), such as noise reduction, advanced chemical equilibria and titrations,
+electrochemistry, atomic spectroscopy, instrumental design, and sample preparation."
+CHEM 30107 ,"ANALYTICAL CHEMISTRY LABORATORY I
+",CHEM,CHEM 10063. Pre-/,None,"Fundamental laboratory class for analytical chemistry. Provides hands-on experience to students on the
+ subjects including data treatment, volumetric analysis, spectrophotometry, separation techniques and mass
+spectroscopy."
+CHEM 30108 ,"ANALYTICAL CHEMISTRY LABORATORY II
+",CHEM,CHEM 30105. Pre- or ,None,"Advanced analytical chemistry laboratory class which covers a broad range of modern analytical techniques,
+ including ion-selective electrodes, voltammetry, atomic spectroscopy, mass-spectrometry and capillary
+ electrophoresis. Unlike Analytic Chemistry Laboratory I (CHEM 30107) this class focuses on forensic rather than
+ bioanalytical applications."
+CHEM 30284 ,"INTRODUCTORY BIOLOGICAL CHEMISTRY
+",CHEM,CHEM 20481; or CHEM 30481 and 30482.,None,"Chemistry and metabolism of biochemically important compounds; nature of enzyme action; metabolic
+ regulation and bioenergetics."
+CHEM 30301 ,"INORGANIC CHEMISTRY I
+",CHEM,CHEM 10061.,None,"Chemistry of hydrogen, ions in aqueous solution, redox reactions, coordination complexes: d-block chemistry,
+ crystal field model, electronic spectra and magnetism, introduction to organometallic chemistry, periodic trends
+ for p-block elements."
+CHEM 30475 ,"ORGANIC CHEMISTRY LABORATORY I
+",CHEM,CHEM10063; Pre/,None,"Practical experience in organic laboratory techniques on both micro- and macroscale: physical methods for
+ purification and characterization of organic compounds, introduction to organic reactions."
+CHEM 30476 ,"ORGANIC CHEMISTRY LABORATORY II
+",CHEM,CHEM 30475. Pre- or ,None,"Continuation of CHEM 30475, involving multi-step organic experiments that utilize techniques introduced in
+ CHEM 30475."
+CHEM 30481 ,"ORGANIC CHEMISTRY I
+",CHEM,"CHEM10061 or 10961.
+",None,"Introduction to organic chemistry from structural, mechanistic and synthetic viewpoints with an emphasis on
+ the chemistry of biologically relevant functional groups. Students may only receive credit toward graduation for
+ one of the following courses: CHEM 10052 or CHEM 10054 or CHEM 20481 or CHEM 30481."
+CHEM 30482 ,"ORGANIC CHEMISTRY II
+",CHEM,CHEM 30481.,None,"Continuation of CHEM 30481; organic chemistry from mechanistic and synthetic viewpoints; IR and NMR
+ spectroscopy; mass spectrometry. Students may only receive credit toward graduation for one of the following
+ courses: CHEM 10052 or CHEM 10054 or CHEM 20482 or CHEM 30482."
+CHEM 40053 ,"MATERIALS CHEMISTRY LABORATORY
+",CHEM,CHEM 30050.,None,"Exploration of the synthesis, characterization and application of inorganic and organic materials."
+CHEM 40093 ,"VARIABLE TITLE WORKSHOP IN CHEMISTRY
+",CHEM,Special approval.,None,(Repeatable for credit)Variable titled workshop in chemistry.
+CHEM 40099 ,"SENIOR HONORS THESIS
+",CHEM,"Departmental and honors collegeapproval.
+",None,"(Repeatable for credit)For departmental honors may be started summer prior to senior year. Register each
+ semester during senior year. Minimum total credit 5-hours."
+CHEM 40109 ,"BIOANALYTICAL CHEMISTRY
+",CHEM,CHEM 30105. ,CHEM 30284 or 40245 or 40261.,"(Cross-listed with CHEM 50109 and CHEM 70109) Covers traditional as well as newly emerging topics in the
+ field of bioanalytical chemistry. Provides an overview of the fundamental biological targets for bioanalytical
+ assays, such as lipids, peptides, proteins, nucleic acids and cells. Briefly introduces traditional tools, such as
+ chromatography, electrophoresis, mass spectrometry, fluorescence techniques, immunoassays, and biosensors.
+ Discusses approaches most recently developed in the field, which include lab-on-a-chip and single molecule
+techniques."
+CHEM 40113 ,"CHEMICAL SEPARATIONS
+",CHEM,"CHEM30106.
+",None,"(Cross-listed with CHEM 50113 and CHEM 70113) Theory, instrumentation and applications of chemical
+ separations for chemical analysis with an emphasis on gas and liquid chromatography."
+CHEM 40195 ,"SPECIAL TOPICS IN ANALYTICAL CHEMISTRY
+",CHEM,Special approval.,None,(Repeatable for credit)Selected topics in analytical chemistry.
+CHEM 40245 ,"BIOCHEMICAL FOUNDATIONS OF MEDICINE
+",CHEM,CHEM 30481 and pre- or ,None,"(Cross-listed with CHEM 50245) Chemistry and metabolism of biologically important compounds; enzyme
+ catalysis; metabolic regulation, inborn and induced errors of metabolism. For students in integrated life science
+(ILS) program."
+CHEM 40248 ,"ADVANCED BIOLOGICAL CHEMISTRY
+",CHEM,CHEM 30284 or 40245 or 40247.,None,"(Cross-listed with CHEM 50248 and CHEM 70248) Chemistry of biologically important molecules. Advanced
+ topics in metabolic and enzyme regulation; enzyme kinetics and mechanism; DNA replication, recombination
+ and repair; gene transcription and translation; recombinant DNA technology; selected areas in molecular
+ physiology. Three hours weekly."
+CHEM 40251 ,"ADVANCED BIOLOGICAL CHEMISTRY LABORATORY
+",CHEM,CHEM 30284 or 40245 or 40247.,None,"Practical experience in the chemistry of biologically important molecules. Properties of proteins, lipids and
+ nucleic acids. Recombinant DNA technology. Six hours weekly."
+CHEM 40261 ,"PRINCIPLES OF BIOCHEMISTRY I
+",CHEM,"CHEM 20481 or 30482; and CHEM 40555or 40567.
+",None,"(Cross-listed with CHEM 50261 and CHEM 70261) Introduction to biochemical principles regarding the structure,
+ function and metabolism of biomolecules including water, amino acids, proteins, carbohydrates and lipids;
+ emphases on enzymes, membranes and bioenergetics."
+CHEM 40262 ,"PRINCIPLES OF BIOCHEMISTRY II
+",CHEM,"CHEM 40261 or CHEM 40245;special approval.
+",None,"(Cross-listed with CHEM 50262 and CHEM 70262) Supramolecular and cellular aspects of biochemistry including
+ DNA replication, repair, and recombination and modification; transcription and translation; signal transduction,
+ post-translational modification; trancriptomics and proteomics."
+CHEM 40263 ,"PHYSICAL BIOCHEMISTRY I
+",CHEM,CHEM 40555 or 40567.,None,"(Cross-listed with CHEM 50263 and CHEM 70263) Principles and techniques of physical chemistry used in
+ studying biomacromolecules and biological systems, spectroscopy, structure and properties of biological
+ molecules."
+CHEM 40295 ,"SPECIAL TOPICS IN BIOCHEMISTRY
+",CHEM,Special approval.,None,(Repeatable for credit)Selected topics in biochemistry.
+CHEM 40302 ,"INORGANIC CHEMISTRY II
+",CHEM,CHEM 30301,None,"(Cross-listed with CHEM 50302) Physical techniques in inorganic chemistry, molecular structure and bonding,
+ metallic and ionic solids, organometallic chemistry, homogeneous and heterogeneous catalysis; solid-state and
+ materials chemistry, nanomaterials, nanoscience and nanotechnology."
+CHEM 40303 ,"INORGANIC CHEMISTRY III
+",CHEM,CHEM 40302.,None,"(Cross-listed with CHEM 50303) Molecular symmetry, molecular orbital theory of polyatomic molecules and
+ octahedra complexes, electronic spectra and reaction mechanisms of d-block complexes, periodic trends Groups
+ 1 and 2 and d-block, bioinorganic chemistry."
+CHEM 40352 ,"INORGANIC MATERIALS CHEMISTRY
+",CHEM,CHEM 30050 and 40361.,None,"(Cross-listed with CHEM 50352 and CHEM 70352) Broad survey of the synthesis, properties ,characterization
+ and applications of inorganic materials."
+CHEM 40364 ,"INTERMEDIATE INORGANIC CHEMISTRY LAB
+",CHEM,"CHEM40303.
+",None,"A laboratory course providing experience in the synthesis of significant inorganic compounds and the techniques
+ of various experimental and spectroscopic methods and chromatographic separations."
+CHEM 40365 ,"BIOLOGICAL INORGANIC CHEMISTRY
+",CHEM,CHEM 30301.,None,"(Cross-listed with CHEM 50365 and CHEM 70365) Physical methods, s-block metals, metal ion-induced forlding,
+ electron transfer proteins, oxidoreductases, substrate binding and activation by non-redox mechanisms,
+ biomineralization, group-atom transfer and metals in medicine."
+CHEM 40395 ,"SPECIAL TOPICS IN INORGANIC CHEMISTRY
+",CHEM,Special approval.,None,(Repeatable for credit) Selected topics in inorganic chemistry.
+CHEM 40451 ,"ORGANIC MATERIALS CHEMISTRY
+",CHEM,CHEM 30482 and CHEM 30050.,None,"(Cross-listed with CHEM 50451 and CHEM 70451) Broad survey of the synthesis, properties, characterization
+ and applications of organic and polymeric materials."
+CHEM 40476 ,"SPECTROSCOPIC IDENTIFICATION OF ORGANIC COMPOUNDS
+",CHEM,CHEM 30482.,None,"(Cross-listed with CHEM 50476 and CHEM 70476) Strategies for structural elucidation of organic compounds
+ from analysis of infrared, proton and carbon NMR, and mass spectrometric data through lectures and problem
+solving."
+CHEM 40477 ,"INTERMEDIATE ORGANIC CHEMISTRY LABORATORY
+",CHEM,CHEM 30476.,None,"Continuation of CHEM 30476, including hands-on use of a high-field NMR spectrometer; single and multistep
+ organic syntheses."
+CHEM 40478 ,"SYNTHESIS OF ORGANIC LIQUID CRYSTALS
+",CHEM,CHEM 30482.,None,"(Cross-listed with CHEM 50478 and CHEM 70478) Synthesis of organic thermotropic liquid crystals including
+ nematic, smectic and discotic variants. Evaluation of the phase types using polarizing microscopy and DSC.
+ Brief introduction into their use in display devices."
+CHEM 40483 ,"INTERMEDIATE ORGANIC CHEMISTRY
+",CHEM,"CHEM30481 and CHEM 30482.
+",None,"Continuation of CHEM 30482,organic chemistry from mechanistic and synthetic viewpoints."
+CHEM 40495 ,"SPECIAL TOPICS IN ORGANIC CHEMISTRY
+",CHEM,Special approval.,None,(Repeatable for credit)Selected topics in organic chemistry.
+CHEM 40555 ,"ELEMENTARY PHYSICAL CHEMISTRY
+",CHEM,CHEM 10061and MATH 22005 and PHY 23102; and chemistry (CHEM) major and junior standing. Pre- or ,None,"(Cross-listed with CHEM 50555 and CHEM 70555) Fundamental concepts of physical chemistry, with example
+ problems chosen emphasizing applications in chemistry and the biological sciences."
+CHEM 40556 ,"ELEMENTARY PHYSICAL CHEMISTRY
+",CHEM,CHEM 40555 or PHY 45301.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 324
+(Cross-listed with CHEM 50556 and CHEM 70556) A continuation of CHEM 40555. Areas covered include
+ quantum mechanics, atomic and molecular structure, spectroscopy, statistical mechanics, theories of reaction
+rates and the solid state."
+CHEM 40557 ,"PHYSICAL CHEMISTRY LAB
+",CHEM,CHEM 40556.,None,"(Cross-listed with CHEM 50557 and CHEM 70557) Experiments in numerous areas of physical chemistry,
+ including the interpretation and reporting of obtained experimental data, correlation of results with theory and
+ an introduction to the computer treatment of data."
+CHEM 40559 ,"NANOMATERIALS
+",CHEM,CHEM 10061. Pre- or co-requisite: CHEM 40555 or CHEM 40567.,None,"(Slashed with CHEM 50559 and CHEM 70559) Fundamental aspects of nanomaterials ranging from
+ nanoparticles to three-dimensional (3D) nanostructures emphasizing their synthesis, chemistry and
+ applications."
+CHEM 40567 ,"BASIC CONCEPTS OF PHYSICAL CHEMISTRY
+",CHEM,"CHEM 10062, PHY 13002, MATH 12002.",None,"Traditional aspects of physical chemistry with minimal calculus treatment. Applications to the health sciences
+ emphasized. Four hours lecture weekly. Cannot be used to satisfy requirements for chemistry concentration
+ within the Bachelor of Science in Chemistry."
+CHEM 40568 ,"ELEMENTARY PHYSICAL CHEMISTRY LABORATORY
+",CHEM,"CHEM40555 or 40567.
+",None,"Provides hands-on experience with calorimetry, viscosimetry and spectroscopic techniques."
+CHEM 40571 ,"SURFACE CHEMISTRY
+",CHEM,"CHEM40555 or 40567.
+",None,"(Cross-listed with CHEM 50571 and CHEM 70571) Treatment of basic principles and concepts in surface and
+ colloid chemistry. Relationship to practical systems emphasized. Two hours lecture weekly."
+CHEM 40575 ,"MOLECULAR SPECTROSCOPY
+",CHEM,CHEM 40556.,None,"(Cross-listed with CHEM 50575 and CHEM 70575) Survey of the fundamental principles of the interaction of
+ radiation with matter, with an emphasis on the interpretation of microwave, infrared and ultraviolet-visible
+spectra. Introduction to group theory and its application to spectroscopic interpretation. Description of modern
+ experimental techniques."
+CHEM 40595 ,"SPECIAL TOPICS IN PHYSICAL CHEMISTRY
+",CHEM,Special approval.,None,(Repeatable for credit)Selected topics in physical chemistry.
+CHEM 40795 ,"CURRENT TOPICS IN CHEMICAL EDUCATION
+",CHEM,Permission.,None,"(Repeatable for credit) (Cross-listed with CHEM 50795) Recent advances in chemical research,instrumentation
+ and theory important to chemical educators."
+CHEM 40796 ,"INDIVIDUAL INVESTIGATION
+",CHEM,2.500 GPA in chemistry and special approval.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 326
+(Repeatable for credit)Registration requires prior approval of the research director. Written report required.
+ Maximum of two hours may be applied to the four hour CHEM 40000 elective requirement for the chemistry
+ concentration within the B.S. in Chemistry."
+CHEM 41010 ,"BIOPHOTONICS
+",CHEM,special approval.,None,"(Cross-listed with BSCI 41010 and BSCI 51010 and CHEM 51010 and PHY 41010 and PHY
+ 51010)Interdisciplinary overview of the basics of biophotonics; application of biophotonic techniques to probe
+ biological samples. Introduction to the foundations of optics and photonics and how the molecular structure of
+ organic molecules translates into unique photonic properties and targeting in biological cells or tissue.
+Preparation of fluorescent materials, advanced spectroscopy and cell visualization using regular and confocal
+ fluorescence microscopy."
+CHEM 50093 ,"VARIABLE TITLE WORKSHOP IN CHEMISTRY
+",CHEM,"Graduate standing and specialapproval.
+",None,(Repeatable for credit)Variable titled workshop in chemistry.
+CHEM 50109 ,"BIOANALYTICAL CHEMISTRY
+",CHEM,CHEM 30105; andgraduate standing; and special approval. ,CHEM 30284 or 40245 or 40261.,"(Cross-listed with CHEM 40109 and CHEM 70109) Covers traditional as well as newly emerging topics in the
+ field of bioanalytical chemistry. The course will provide an overview of the fundamental biological targets for the
+ bioanalytical assays, such as lipids, peptides, proteins, nucleic acids, and cells. The course will then briefly
+ introduce traditional tools, such as chromatography, electrophoresis, mass spectrometry, fluorescence
+ techniques, immunoassays, and biosensors. Finally, the course will discuss approaches most recently developed
+ in the field, which include lab-on-a-chip and single molecule techniques."
+CHEM 50113 ,"CHEMICAL SEPARATIONS
+",CHEM,"CHEM 30106 andgraduate standing.
+",None,"(Cross-listed with CHEM 40113 and CHEM 70113) Theory, instrumentation and applications of chemical
+ separations for chemical analysis. Emphasis on gas and liquid chromatography."
+CHEM 50245 ,"BIOCHEMICAL FOUNDATIONS OF MEDICINE
+",CHEM,CHEM 30481. Graduate standing.,None,"(Cross-listed with CHEM 40245) Introduction to chemistry and metabolism of important compounds in biological
+ systems; enzymes and characteristics of enzyme catalysis; regulation of metabolism at molecular, cellular and
+ organism levels; inborn and induced errors of metabolism. Designed and scheduled for and priority given to
+ students in integrated life sciences program."
+CHEM 50248 ,"ADVANCED BIOLOGICAL CHEMISTRY
+",CHEM,CHEM 30284 or CHEM 40245 or CHEM 40247; graduate standing.,None,"(Cross-listed with CHEM 40248 and CHEM 70248) Chemistry of biologically important molecules. Advanced
+ topics in: metabolic and enzyme regulation; enzyme kinetics and mechanism; DNA replication, recombination
+ and repair; gene transcription and translation; recombinant DNA technology; selected areas in molecular
+ physiology. Three hours weekly."
+CHEM 50261 ,"PRINCIPLES OF BIOCHEMISTRY I
+",CHEM,graduate standing.,None,"(Cross-listed with CHEM 40261 and CHEM 70261) Introduction to biochemical principles regarding the structure,
+ function and metabolism of biomolecules including water, amino acids, proteins, carbohydrates and lipids;
+ emphases on enzymes, membranes and bioenergetics."
+CHEM 50262 ,"PRINCIPLES OF BIOCHEMISTRY II
+",CHEM,"special approval; and graduatestanding.
+",None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 328
+(Cross-listed with CHEM 40262 and CHEM 70262) Supramolecular and cellular aspects of biochemistry including
+ DNA replication, repair, and recombination and modification; transcription and translation; signal transduction,
+ post-translational modification; trancriptomics and proteomics."
+CHEM 50263 ,"PHYSICAL BIOCHEMISTRY I
+",CHEM,CHEM 40555 or 40567. Graduate standing.,None,"(Cross-listed with CHEM 40263 and CHEM 70263) Principles and techniques of physical chemistry used in
+ studying biomacro-molecules and biological systems. Topics covered are thermodynamics, spectroscopy,
+ structure and properties of biological molecules."
+CHEM 50302 ,"INORGANIC CHEMISTRY II
+",CHEM,"CHEM 30301 and graduatestanding.
+",None,"(Cross-listed with CHEM 40302) Physical techniques in inorganic chemistry, molecular structure and bonding,
+ metallic and ionic solids, organometallic chemistry, homogeneous and heterogeneous catalysis; solid-state and
+ materials chemistry, nanomaterials, nanoscience and nanotechnology."
+CHEM 50303 ,"INORGANIC CHEMISTRY III
+",CHEM,CHEM 50302 and graduate standing.,None,"(Cross-listed with CHEM 40303) Molecular symmetry, molecular orbital theory of polyatomic molecules and
+ octahedral complexes, electronic spectra and reaction mechanisms of d-block complexes, periodic trends
+Groups 1 and 2 and d-block, bioinorganic chemistry."
+CHEM 50352 ,"INORGANIC MATERIALS CHEMISTRY
+",CHEM,Graduate standing.,None,"(Cross-listed with CHEM 40352 and CHEM 70352) Broad survey of the synthesis, properties, characterization
+ and applications of inorganic materials."
+CHEM 50365 ,"BIOLOGICAL INORGANIC CHEMISTRY
+",CHEM,CHEM 30360 and graduate standing.,None,"(Cross-listed with CHEM 40365 and CHEM 70365) Physical methods, s-block metals, metal-induced
+ stabilization, electron transfer proteins, oxidoreductases, hydrolases and lyases, metal transport and storage,
+nitrogenases, group-atom transfer and metals in medicine."
+CHEM 50451 ,"ORGANIC MATERIALS CHEMISTRY
+",CHEM,Graduate standing.,None,"(Cross-listed with CHEM 40451 and CHEM 70451) Broad survey of the synthesis, properties, characterization
+ and applications of organic and polymeric materials."
+CHEM 50476 ,"SPECTROSCOPIC IDENTIFICATION OF ORGANIC COMPOUNDS
+",CHEM,CHEM 30482 and graduate standing.,None,"(Cross-listed with CHEM 40476 and CHEM 70476) Strategies for structural elucidation of organic compounds
+ from analysis of infrared, proton and carbon NMR and mass spectrometric data through lectures and problem
+solving."
+CHEM 50478 ,"SYNTHESIS OF ORGANIC LIQUID CRYSTALS
+",CHEM,CHEM 30482;graduate standing.,None,"(Cross-listed with CHEM 40478 and CHEM 70478) Synthesis of organic thermotropic liquid crystals including
+ nematic, smectic and discotic variants. Evaluation of the phase types using polarizing microscopy and DSC.
+ Brief introduction into their use in display devices."
+CHEM 50555 ,"ELEMENTARY PHYSICAL CHEMISTRY
+",CHEM,CHEM 10061and MATH 22005 and PHY 23102 and graduate standing. Pre- or ,None,"(Cross-listed with CHEM 40555 and CHEM 70555) Fundamental concepts of physical chemistry, with example
+ problems chosen emphasizing application in chemistry and the biological science."
+CHEM 50556 ,"ELEMENTARY PHYSICAL CHEMISTRY
+",CHEM,CHEM 50555 or PHY 45301; graduate standing.,None,"(Cross-listed with CHEM 40556 and CHEM 70556) A continuation of CHEM 50555. Areas covered are chemical
+ kinetics, quantum chemistry and the solid state."
+CHEM 50557 ,"PHYSICAL CHEMISTRY LABORATORY
+",CHEM,None,"or prerequisite: CHEM 50555 and 50556;graduate standing.
+","(Cross-listed with CHEM 40557 and CHEM 70557) Experiments in numerous areas of physical chemistry,
+ including the interpretation and reporting of obtained experimental data, correlation of results with theory and
+ an introduction to the computer treatment of data."
+CHEM 50559 ,"NANOMATERIALS
+",CHEM,Graduate standing.,None,"(Slashed with CHEM 40559 and CHEM 70559). Fundamental aspects of nanomaterials ranging from
+ nanoparticles to three-dimensional (3D) nanostructures emphasizing their synthesis, chemistry and
+ applications."
+CHEM 50571 ,"SURFACE CHEMISTRY
+",CHEM,"CHEM 40555 or 40567. Graduatestanding.
+",None,"(Cross-listed with CHEM 40571 and CHEM 70571) Treatment of basic principles and concepts in surface and
+2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 331
+colloid chemistry. Relationship to practical systems emphasized."
+CHEM 50575 ,"MOLECULAR SPECTROSCOPY
+",CHEM,CHEM 40556 and graduate standing.,None,"(Cross-listed with CHEM 40575 and CHEM 70575) Survey of the fundamental principles of the interaction of
+ radiation with matter, with an emphasis on the interpretation of microwave, infrared and ultraviolet-visible
+spectra. Introduction to group theory and its application to spectroscopic interpretation. Description of modern
+ experimental techniques."
+CHEM 50795 ,"CURRENT TOPICS IN CHEMICAL EDUCATION
+",CHEM,"Special approval and graduatestanding.
+",None,"(Repeatable for credit) (Cross-listed with CHEM 40795) Designed to present recent advances in chemical
+ research, instrumentation and theory to chemistry educators."
+CHEM 51010 ,"BIOPHOTONICS
+",CHEM,graduate standing and special approval.,None,"(Cross-listed with BSCI 41010 and BSCI 51010 and CHEM 41010 and PHY 41010 and PHY
+ 51010)Interdisciplinary overview of the basics of biophotonics; application of biophotonic techniques to probe
+ biological samples. Introduction to the foundations of optics and photonics and how the molecular structure of
+ organic molecules translates into unique photonic properties and targeting in biological cells or tissue.
+Preparation of fluorescent materials, advanced spectroscopy and cell visualization using regular and confocal
+ fluorescence microscopy."
+CHEM 60199 ,"THESIS I
+",CHEM,Graduate standing.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in single semester distributed over several
+2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 332
+semesters if desired."
+CHEM 60254 ,"BIOMEMBRANES
+",CHEM,graduate standing.,None,"(Cross-listed with CHEM 70254) Biological membranes; composition, structure, dynamics and biogenesis;
+ structure/function of protein mediated membrane transport."
+CHEM 60291 ,"SEMINAR:RECENT DEVELOPMENTS IN BIOCHEMISTRY
+",CHEM,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 70291) Presentation and discussion of original papers from
+ current literature. Participation by students and faculty."
+CHEM 60299 ,"THESIS II
+",CHEM,"CHEM 60199and graduate standing.
+",None,Thesis students must continue registration until all degree requirements are met.
+CHEM 60327 ,"MODERN INORGANIC CHEMISTRY
+",CHEM,CHEM 40362. Graduate standing.,None,"(Cross-listed with CHEM 70327) Synthesis, structure and reactivity of inorganic compounds including transition
+ metal and organometallic complexes."
+CHEM 60347 ,"CHEMICAL CRYSTALLOGRAPHY
+",CHEM,Graduate standing.,None,"(Cross-listed with CHEM 70347) Structure solution and refinement methods of X-ray diffraction data. Emphasis
+ will be placed on single crystal techniques."
+CHEM 60391 ,"SEMINAR:RECENT DEVELOPMENTS IN INORGANIC CHEMISTRY
+",CHEM,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 70391) Presentation and discussion of current research papers
+ in inorganic chemistry. Participation by students and faculty."
+CHEM 60472 ,"ADVANCED ORGANIC CHEMISTRY-SYNTHETIC ASPECTS
+",CHEM,CHEM 30482. Graduate standing.,None,"(Cross-listed with CHEM 70472) Disconnection approach to organic synthesis. Modern methods for carbon-
+carbon bond formation and functional group interconversion, and their application to natural product synthesis."
+CHEM 60473 ,"STEREOSELECTIVE ORGANIC SYNTHESIS
+",CHEM,CHEM 30482; graduate standing.,None,"(Cross-listed with CHEM 70473) Modern methods of asymmetric synthesis; introduction to selected methods for
+ stereoselective N-heterocycle synthesis; application of these methods in natural product synthesis."
+CHEM 60591 ,"SEMINAR:RECENT DEVELOPMENTS IN PHYSICAL CHEMISTRY
+",CHEM,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 70591) Presentation and discussion of original papers from
+ current literature."
+CHEM 60894 ,"COLLEGE TEACHING OF CHEMISTRY
+",CHEM,Graduate standing.,None,(Repeatable for credit) (Cross-listed with CHEM 70894) Experience in teaching of chemistry at college level.
+CHEM 60898 ,"MASTERS RESEARCH
+",CHEM,Graduate standing.,None,"(Repeatable for credit)Research for master's students. Credits earned may be applied toward degree if
+ department approves."
+CHEM 61191 ,"SEMINAR:PROBLEM SOLVING IN ANALYTICAL CHEMISTRY
+",CHEM,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 71191) Discussion of recent chemical analysis methods, sample
+ preparation and data handling, as well as practical student experience involving characterization of real
+ samples."
+CHEM 61491 ,"SEMINAR:PROBLEM SOLVING IN ORGANIC CHEMISTRY
+",CHEM,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 71491) Practical experience in solution of current problems of
+ structure, synthesis and mechanism in organic chemistry. Participation extends throughout nine-month
+ academic year. Repeat registration permitted."
+CHEM 62191 ,"SEMINAR:ANALYTICAL CHEMISTRY
+",CHEM,Graduate standing.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 335
+(Repeatable for credit) (Cross-listed with CHEM 72191) Students register once each year. Participation extends
+ throughout the academic year."
+CHEM 62291 ,"SEMINAR:BIOCHEMISTRY
+",CHEM,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 72291) Students register once each year. Participation extends
+ throughout the academic year."
+CHEM 62391 ,"SEMINAR:INORGANIC CHEMISTRY
+",CHEM,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 72391) Students register once each year. Participation extends
+ throughout the academic year."
+CHEM 62491 ,"SEMINAR:ORGANIC CHEMISTRY
+",CHEM,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 72491) Students register once each year. Participation extends
+ throughout the academic year."
+CHEM 62591 ,"SEMINAR:PHYSICAL CHEMISTRY
+",CHEM,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 72591) Students register once each year. Participation extends
+ throughout the academic year."
+CHEM 70093 ,"VARIABLE TITLE WORKSHOP IN CHEMISTRY
+",CHEM,"Special approval and doctoralstanding.
+",None,(Repeatable for credit)Variable title workshop in Chemistry.
+CHEM 70109 ,"BIOANALYTICAL CHEMISTRY
+",CHEM,CHEM 30105; anddoctoral standing; and special approval. ,CHEM 30284 or 40245 or 40261.,"(Cross-listed with CHEM 40109 and CHEM 50109) Covers traditional as well as newly emerging topics in the
+ field of bioanalytical chemistry. The course will provide an overview of the fundamental biological targets for the
+ bioanalytical assays, such as lipids, peptides, proteins, nucleic acids, and cells. The course will then briefly
+ introduce traditional tools, such as chromatography, electrophoresis, mass spectrometry, fluorescence
+ techniques, immunoassays, and biosensors. Finally, the course will discuss approaches most recently developed
+ in the field, which include lab-on-a-chip and single molecule techniques."
+CHEM 70113 ,"CHEMICAL SEPARATIONS
+",CHEM,"CHEM 30106 anddoctoral standing.
+",None,"(Cross-listed with CHEM 40113 and CHEM 50113) Theory, instrumentation and applications of chemical
+ separations for chemical analysis. Emphasis on gas and liquid chromatography."
+CHEM 70195 ,"ADVANCED TOPICS, ANALYTICAL
+",CHEM,"Special approval and doctoralstanding.
+",None,(Repeatable for credit)Advanced topics in analytical chemistry.
+CHEM 70248 ,"ADVANCED BIOLOGICAL CHEMISTRY
+",CHEM,CHEM 30284 or 40245 or 40247 doctoral standing.,None,"(Cross-listed with CHEM 40248 and CHEM 50248) Chemistry of biologically important molecules. Advanced
+ topics in: metabolic and enzyme regulation; enzyme kinetics and mechanism; DNA replication; recombination
+ and repair; gene transcription and translation; recombinant DNA technology; selected areas in molecular
+ physiology. Three hours weekly."
+CHEM 70254 ,"BIOMEMBRANES
+",CHEM,doctoral standing.,None,"(Cross-listed with CHEM 60254) Biological membranes; composition, structure, dynamics and biogenesis;
+ structure/function of protein mediated membrane transport."
+CHEM 70261 ,"PRINCIPLES OF BIOCHEMISTRY I
+",CHEM,special approval and doctoral standing.,None,"(Cross-listed with CHEM 40261 and CHEM 50261) Introduction to biochemical principles regarding the structure,
+ function and metabolism of biomolecules including water, amino acids, proteins, carbohydrates and lipids;
+ emphases on enzymes, membranes and bioenergetics."
+CHEM 70262 ,"PRINCIPLES OF BIOCHEMISTRY II
+",CHEM,"CHEM 60261 or CHEM 70261;special approval; and doctoral standing.
+",None,"(Cross-listed with CHEM 40262 and CHEM 50262) Supramolecular and cellular aspects of biochemistry including
+ DNA replication, repair, and recombination and modification; transcription and translation; signal transduction,
+ post-translational modification; trancriptomics and proteomics."
+CHEM 70263 ,"PHYSICAL BIOCHEMISTRY I
+",CHEM,CHEM 40555 or 40567. Doctoral standing.,None,"(Cross-listed with CHEM 40263 and CHEM 50263) Principles and techniques of physical chemistry used in
+ studying biomacro-molecules and biological systems. Topics covered are thermodynamics, spectroscopy,
+2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 338
+structure and properties of biological molecules."
+CHEM 70291 ,"SEMINAR:RECENT DEVELOPMENTS IN BIOCHEMISTRY
+",CHEM,doctoral standing.,None,"(Repeatable for credit) Presentation and discussion of original papers from current literature. Participation by
+ students and faculty."
+CHEM 70295 ,"ADVANCED TOPICS IN BIOCHEMISTRY
+",CHEM,Special approval and doctoral standing.,None,(Repeatable for credit)Advanced topics in biochemistry.
+CHEM 70327 ,"MODERN INORGANIC CHEMISTRY
+",CHEM,CHEM 40362. Doctoral standing.,None,"(Cross-listed with CHEM 60327) Synthesis, structure and reactivity of inorganic compounds including transition
+ metal and organometallic complexes."
+CHEM 70347 ,"CHEMICAL CRYSTALLOGRAPHY
+",CHEM,Doctoral standing.,None,"(Cross-listed with CHEM 60347) Structure solution and refinement methods of X-ray diffraction data. Emphasis
+ will be placed on single-crystal techniques."
+CHEM 70352 ,"INORGANIC MATERIALS CHEMISTRY
+",CHEM,Doctoral standing.,None,"(Cross-listed with CHEM 40352 and CHEM 50352) Broad survey of the synthesis, properties, characterization
+ and applications of inorganic materials."
+CHEM 70365 ,"BIOLOGICAL INORGANIC CHEMISTRY
+",CHEM,CHEM 30360 and doctoral standing.,None,"(Cross-listed with CHEM 40365 and CHEM 50365) Physical methods, s-block metals, metal-induced
+ stabilization, electron transfer proteins, oxidoreductases, hydrolases and lyases, metal transport and storage,
+nitrogenases, group-atom transfer and metals in medicine."
+CHEM 70391 ,"SEMINAR:RECENT DEVELOPMENTS IN INORGANIC CHEMISTRY
+",CHEM,Doctoral standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 60391) Presentation and discussion of current research papers
+ in inorganic chemistry. Participation by students and faculty."
+CHEM 70395 ,"ADVANCED TOPICS, INORGANIC
+",CHEM,"Special approval and doctoralstanding.
+",None,(Repeatable for credit)Advanced topics in inorganic chemistry.
+CHEM 70451 ,"ORGANIC MATERIALS CHEMISTRY
+",CHEM,Doctoral standing.,None,"(Cross-listed with CHEM 40451 and CHEM 50451) Broad survey of the synthesis, properties characterization
+ and applications of organic and polymeric materials."
+CHEM 70472 ,"ADVANCED ORGANIC CHEMISTRY-SYNTHETIC ASPECTS
+",CHEM,CHEM 30482. Doctoral standing.,None,"(Cross-listed with CHEM 60472) Disconnection approach to organic synthesis. Modern methods for carbon-
+carbon bond formation and functional group interconversion, and their application to natural product synthesis."
+CHEM 70473 ,"STEREOSELECTIVE ORGANIC SYNTHESIS
+",CHEM,CHEM 30482; doctoral standing.,None,"(Cross-listed with CHEM 60473) Modern methods of asymmetric synthesis; introduction to selected methods for
+ stereoselective N-heterocycle synthesis; application of these methods in natural product synthesis."
+CHEM 70476 ,"SPECTROSCOPIC IDENTIFICATION OF ORGANIC COMPOUNDS
+",CHEM,CHEM 30482 and doctoral standing.,None,"(Cross-listed with CHEM 40476 and CHEM 50476) Strategies for structural elucidation of organic compounds
+ from analysis of infraret, proton and carbon NMR, and mass spectrometric data through lectures and problem
+solving."
+CHEM 70478 ,"SYNTHESIS OF ORGANIC LIQUID CRYSTALS
+",CHEM,CHEM 30482; doctoral standing.,None,"(Cross-listed with CHEM 40478 and CHEM 70478) Synthesis of organic thermotropic liquid crystals including
+ nematic, smectic and discotic variants. Evaluation of the phase types using polarizing microscopy and DSC.
+ Brief introduction into their use in display devices."
+CHEM 70495 ,"ADVANCED TOPICS, ORGANIC
+",CHEM,Permission.,None,(Repeatable for credit)Advanced topics in organic chemistry.
+CHEM 70541 ,"ADVANCED PHYSICAL CHEMISTRY
+",CHEM,CHEM 50556. Doctoral standing.,None,"(Cross-listed with CHEM 60541) Covers basic materials of modern physical chemistry in two broad areas:
+ thermodynamics and introductory quantum mechanics."
+CHEM 70555 ,"ELEMENTARY PHYSICAL CHEMISTRY
+",CHEM,CHEM 10061and MATH 22005 and PHY 23102 and doctoral standing. Pre- or ,None,"(Cross-listed with CHEM 40555 and CHEM 50555) Fundamental concepts of physical chemistry, with example
+ problems chosen emphasizing applications in chemistry and the biological sciences."
+CHEM 70556 ,"ELEMENTARY PHYSICAL CHEMISTRY
+",CHEM,"CHEM5/70555; graduate standing.
+",None,"(Cross-listed with CHEM 40556 and CHEM 50556) Fundamental concepts of physical chemistry of current
+ interest. Included are biological and medical aspects of physical chemistry. Graduate credit given to
+nonchemistry and nonphysics majors and with permission to certain chemistry majors."
+CHEM 70557 ,"PHYSICAL CHEMISTRY LABORATORY
+",CHEM,None,"or prerequisite: CHEM 70555 and 70556;doctoral standing.
+","(Cross-listed with CHEM 40557 and CHEM 50557) Experiments in numerous areas of physical chemistry,
+ including the interpretation and reporting of obtained experimental data correlation of results with theory and
+ an introduction to the computer treatment of data."
+CHEM 70559 ,"NANOMATERIALS
+",CHEM,Doctoral standing.,None,"(Slashed with CHEM 40559 and CHEM 50559) Fundamental aspects of nanomaterials ranging from
+ nanoparticles to three-dimensional (3D) nanostructures emphasizing their synthesis, chemistry and
+ applications."
+CHEM 70571 ,"SURFACE CHEMISTRY
+",CHEM,"CHEM 40555 or 40567. Doctoralstanding.
+",None,"(Cross-listed with CHEM 40571 and CHEM 50571) Treatment of basic principles and concepts in surface and
+ colloid chemistry. Relationship to practical systems emphasized."
+CHEM 70575 ,"MOLECULAR SPECTROSCOPY
+",CHEM,CHEM 40556 and doctoral standing.,None,"(Cross-listed with CHEM 40575 and CHEM 50575) Survey of the fundamental principles of the interaction of
+ radiation with matter, with an emphasis on the interpretation of microwave, infrared and ultraviolet-visible
+spectra. Introduction to group theory and its application to spectroscopic interpretation. Description of modern
+ experimental techniques."
+CHEM 70591 ,"SEMINAR:RECENT DEVELOPMENTS IN PHYSICAL CHEMISTRY
+",CHEM,Doctoral standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 60591) Presentation and discussion of original papers from
+ current literature."
+CHEM 70595 ,"ADVANCED TOPICS, PHYSICAL
+",CHEM,"Special approval and doctoralstanding.
+",None,(Repeatable for credit)Advanced topics in physical chemistry.
+CHEM 70894 ,"COLLEGE TEACHING OF CHEMISTRY
+",CHEM,Doctoral standing.,None,(Repeatable for credit) (Cross-listed with CHEM 60894) Experience in teaching of chemistry at college level.
+CHEM 71191 ,"SEMINAR:PROBLEM SOLVING IN ANALYTICAL CHEMISTRY
+",CHEM,Doctoral standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 61191) Discussion of recent chemical analysis methods, sample
+ preparation and data handling as well as practical student experience involving characterization of real samples."
+CHEM 71491 ,"SEMINAR:PROBLEM SOLVING IN ORGANIC CHEMISTRY
+",CHEM,Doctoral standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 61491) Practical experience in solution of current problems of
+ structure, synthesis and mechanism in organic chemistry. Participation extends throughout nine month
+ academic year."
+CHEM 72191 ,"SEMINAR:ANALYTICAL CHEMISTRY
+",CHEM,"Doctoral standing.2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 344
+",None,"(Repeatable for credit) (Cross-listed with CHEM 62191) Students register once each year. Participation extends
+ throughout the academic year."
+CHEM 72291 ,"SEMINAR:BIOCHEMISTRY
+",CHEM,Doctoral standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 62291) Students register once each year. Participation extends
+ throughout the academic year."
+CHEM 72391 ,"SEMINAR:INORGANIC CHEMISTRY
+",CHEM,Doctoral standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 62391) Students register once each year. Participation extends
+ throughout the academic year."
+CHEM 72491 ,"SEMINAR:ORGANIC CHEMISTRY
+",CHEM,Doctoral standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 62491) Students register once each year. Participation extends
+ throughout the academic year."
+CHEM 72591 ,"SEMINAR:PHYSICAL CHEMISTRY
+",CHEM,Doctoral standing.,None,"(Repeatable for credit) (Cross-listed with CHEM 62591) Students register once each year. Participation extends
+ throughout the academic year."
+CHEM 80199 ,"DISSERTATION I
+",CHEM,Special approval and doctoral standing.,None,"(Repeatable for credit)Doctoral dissertation, for which registration in two semesters is required, first of which
+ will be semester in which dissertation work is begun and continuing until the completion of 30 hours."
+CHEM 80299 ,"DISSERTATION II
+",CHEM,"CHEM 80199 anddoctoral standing.
+",None,"(Repeatable for credit)Continuing registration required of doctoral students who have completed the initial 30
+ hours of dissertation and continuing until all degree requirements are met."
+CHEM 80898 ,"RESEARCH
+",CHEM,Doctoral standing.,None,"(Repeatable for credit)Research for doctoral students. Credits earned may be applied toward degree if
+ department approves."

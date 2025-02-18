@@ -1,0 +1,78 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+EXSC 15010 ,"INTRODUCTION TO EXERCISE SCIENCE
+",EXSC,none.,None,"Introduction to the discipline of exercise science, including the history of the field, current position stands of the
+ American College of Sports Medicine, the responsibilities and roles of the exercise physiologist and the current
+ trends in exercise science."
+EXSC 23093 ,"Variable Title Workshop in Exercise Science
+",EXSC,none.,None,"(Repeatable for credit) Workshop to develop mastery and application of knowledge and skills that address
+ issues in exercise science; topics vary. Satisfactory/unsatisfactory (S/U) graded."
+EXSC 25057 ,"HUMAN ANATOMY AND PHYSIOLOGY I
+",EXSC,none.,None,"(Cross-listed with ATTR 25057) Comprehensive examination of anatomy and physiology related to the
+ organization of the body and basic cell and tissue types. Specific structure and function of the muscular,
+ skeletal, cardiovascular, nervous and respiratory systems are addressed."
+EXSC 25058 ,"HUMAN ANATOMY AND PHYSIOLOGY II
+",EXSC,ATTR 25057 or EXSC 25057 or BSCI 11010.,None,"(Cross-listed with ATTR 25058) Comprehensive examination of anatomy and physiology related to the human
+ body under rest and exercise conditions. Specific structure and function of the metabolic, endocrine, lymphatic,
+ digestive, urinary and reproductive systems are addressed. Advanced coverage of neurological, cardiovascular
+ and respiratory systems are also addressed."
+EXSC 35022 ,"EXERCISE LEADERSHIP
+",EXSC,none.,None,"Designed to provide the students with the knowledge base in exercise leadership. Topic areas and competencies
+ using a variety of techniques in leading and demonstrating safe and effective methods of applying the
+fundamental principles of exercise science. The exercise leader will demonstrate all forms of group exercise,
+ flexibility and balance training."
+EXSC 35023 ,"PERSONAL CERTIFICATE PREPARATION
+",EXSC,"EXSC 25057 or ATTR 25057 or BSCI 11010; andEXSC 25058 or ATTR 25058 or BSCI 11020 or BSCI 20020.
+",None,"Introductory course in personal training. Covers basic exercise science, fitness evaluation risk management,
+ health appraisal, safety and legal issues for the personal trainer. Prepares the student to take the national
+ certification examination for personal training."
+EXSC 35054 ,"BIOMECHANICS
+",EXSC,ATTR 25057 or EXSC 25057 or BSCI 11010.,None,"(Cross-listed with ATTR 35054) Anatomical and mechanical bases of human movement. Emphasis is placed on
+ tools and techniques for motion analysis, mechanical concepts, forces and performance analysis. Lecture and
+ laboratory."
+EXSC 35068 ,"STATISTICS FOR EXERCISE SCIENTIST
+",EXSC,None.,None,"Measurement and statistics applied to physical education and exercise/sport sciences; laboratory experiences in
+ statistics test construction and administration and evaluation."
+EXSC 35075 ,"EXERCISE PROGRAMMING
+",EXSC,ATTR 25057 or EXSC 25057 or BSCI 11010; and ATTR 25058 or EXSC 25058 or BSCI 11020 or BSCI 20020.,None,Problems and issues in developing exercise programs in institutional and commercial settings.
+EXSC 40612 ,"EXERCISE LEADERSHIP FOR THE OLDER ADULT
+",EXSC,none.,None,"(Cross-listed with EXPH 50612) Designed to provide students with a knowledge base in exercise leadership in
+ the older adult population, including special populations. Students participate in the leading, supervision and
+ evaluation of participants within the exercise program. The also assist in the collection of functional fitness data."
+EXSC 41000 ,"EXERCISE IMPLEMENTATION: AN EXERCISE INTERVENTION PROGRAM
+",EXSC,EXSC 45080.,None,"(Repeatable for credit) Students will participate in leading, supervising and developing plans for individuals who
+ want to reduce cardiovascular risk factors through structured exercise."
+EXSC 43093 ,"VARIABLE TITLED WORKSHOP IN EXERCISE SCIENCE AND EXERCISE PHYSIOLOGY
+",EXSC,none.,None,"(Repeatable for credit) (Cross-listed with EXPH 53093) Workshop in exercise science, topics vary."
+EXSC 43098 ,"RESEARCH IN EXERCISE SCIENCE
+",EXSC,special approval.,None,"(Repeatable for a maximum of 12 credit hours)Research project completed under the supervision of a faculty
+ member. Written approval of supervising faculty member and School Director required prior to registration."
+EXSC 45065 ,"EXERCISE TESTING
+",EXSC,"ATTR 25057 or EXSC 25057 or BSCI 11010; and ATTR 25058 orEXSC 25058 or BSCI 11020 or BSCI 20020.
+",None,"(Cross-listed with EXPH 55065) Lecture and laboratory experiences dealing with the administration and
+ interpretation of exercise tests."
+EXSC 45070 ,"ELECTROCARDIOGRAPHY FOR THE EXERCISE PHYSIOLOGIST
+",EXSC,"ATTR 25057 or EXSC 25057 or BSCI 11010; and ATTR25058 or EXSC 25058 or BSCI 11020 or BSCI 20020.
+",None,"(Cross-listed with EXPH 55070) Designed to provide students with the knowledge base in electrocardiography.
+ Students work on interpreting the 12-lead electrocardiogram with clinical case studies to enhance the
+knowledge base of the exercise specialist."
+EXSC 45080 ,"PHYSIOLOGY OF EXERCISE
+",EXSC,"ATTR 25057 or EXSC 25057 or BSCI 11010; and ATTR25058 or EXSC 25058 or BSCI 11020 or BSCI 20020.
+",None,"(Cross-listed with EXPH 55080) Response of the human to acute and chronic exercise with emphasis on the
+ underlying physiological mechanisms."
+EXSC 45096 ,"INDIVIDUAL INVESTIGATION IN EXERCISE SCIENCE
+",EXSC,special approval.,None,"(Repeatable for a maximum of 6 credit hours)Independent study completed under the supervision of a faculty
+ member. Written approval of supervising faculty member and school director required prior to registration."
+EXSC 45480 ,"INTERNSHIP SEMINAR IN EXERCISE SCIENCE
+",EXSC,special approval.,None,"Overview of the internship possibilities that are available for the exercise science major. The American College
+ of Sports Medicine (ACSM) certification workshops and the scope of the practice for the exercises specialist is
+ discussed in detail."
+EXSC 45481 ,"SEMINAR IN EXERCISE PHYSIOLOGY
+",EXSC,special approval.,None,"Provides an overview of the research possibilities available for the exercise science major. The Institutional
+ Review Board, research methodology and the risks and benefits of research in the area of exercise science are
+ discussed in detail."
+EXSC 45492 ,"INTERNSHIP IN PHYSICAL FITNESS AND CARDIAC REHABILITATION
+",EXSC,special approval.,None,"(Repeatable for a maximum of 8 credit hours) Supervised experience providing practical experience in
+ administration and operation of programs in physical fitness, health enhancement andor cardiac rehabilitation.
+ 45 clock hours per credit hour."
+EXSC 46095 ,"SPECIAL TOPICS IN EXERCISE SCIENCE
+",EXSC,none.,None,(Repeatable for credit)Selected topics in exercise science dependent upon interest.
