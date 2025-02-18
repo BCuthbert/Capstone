@@ -1,0 +1,70 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+NRST 10001 ,"FOUNDATIONS OF NURSING AGENCY
+",NRST,"nursingtechnology (NRST) major and admission to technical study. 
+",None,"Development of basic nursing skills and physical assessment. The student will begin implementation of the
+nursing process using universal self-care requisites as an organizational framework."
+NRST 10003 ,"NURSING AGENCY I
+",NRST,"BSCI 11010 and BSCI 11020 and NRST 10001and US 10097 and CHEM 10050 or CHEM 10055, all with minimum C grades; and minimum 2.000 cumulative
+GPA; and nursing technology (NRST) major. 
+",None,"Emphasizes broad concepts common to nursing practice. Increasingly complex skills are introduced. Care
+focuses on simple therapeutic self-care demands."
+NRST 10006 ,"LPN TO ASSOCIATE DEGREE IN NURSING TRANSITION
+",NRST,"minimum 2.700cumulative GPA; and nursing technology (NRST) major; and admission to technical study. 
+",None,"Course is designed for the LPN's advanced placement to the nursing program. It includes content areas from all
+first year nursing courses and will have both a theory and a campus lab. Orem's theory is introduced
+emphasizing the assessment of the client's self-care assets and self-care deficits."
+NRST 10008 ,"PARAMEDIC TO ASSOCIATE DEGREE IN NURSING TRANSITION
+",NRST,"minimum 2.700cumulative GPA; and nursing technology (NRST) major; and admission to technical study. 
+",None,"Serves to validate prior learning, update and enhance the student's knowledge, begin the process of role
+transition, and prepare the student for advanced placement into the ADN program."
+NRST 10009 ,"BASIC PRINCIPLES OF PHARMACOLOGY
+",NRST,"Nursing (A.D.N.) (NRST), Nursing (B.S.E.) (NURS), Occupational Therapy AssistantTechnology (OCAT), Physical Therapist Assistant Technology (PTST), Radiologic Technology (RADT) or
+Respiratory Therapy Technology (RTT) major or permission of instructor. 
+",None,"Identify and apply the basic principles of pharmacology to client care. Explore pharmaceutics, pharmacokinetics,
+pharmacodynamics, pharmacology-related math, drug classification, and safe preparation and administration of
+medications."
+NRST 10010 ,"THERAPEUTIC USE OF SELF
+",NRST,"NRST10001 with a minimum grade of C (2.000); admission to the nursing technology (NRST) major; and minimum
+2.000 cumulative GPA. 
+",None,"Focus is on the self-care of individuals with emphasis on understanding human relationships in the promotion of
+self-care. Culture, values and past experiences as factors in communication are explored."
+NRST 20205 ,"PSYCHOSOCIAL SELF CARE DEFICITS
+",NRST,"NRST 10003;and NRST 10010; and PSYC 11762; and NUTR 23511 or NURT 33512; and BSCI 11010 all with minimum C
+grades. 
+",None,"Focus is on providing mental health nursing care utilizing the nursing process for the emotionally ill client,
+family, and community with psychiatric mental health needs. Emphasis is placed on understanding holistic
+human needs and promotion of the professional therapeutic nurse-client relationship."
+NRST 20206 ,"NURSING AGENCY II
+",NRST,"BSCI 11020; and BSCI 20021; and NRST 10003; and NRST 10010; and PSYC11762; and NUTR 23511 or NUTR 33512; and minimum 2.000 cumulative GPA; and nursing technology (NRST)
+major. 
+",None,"Nursing care of adults with intermediate therapeutic self-care demands. Emphasis is placed on the nurse as a
+provider of care."
+NRST 20207 ,"PSYCHOSOCIAL SELF-CARE DEFICITS
+",NRST,"minimum C gradein NRST 10003 and NUTR 33512 and PSYC 11762; and minimum 2.000 cumulative GPA; and nursing technology
+(NRST) major. 
+",None,"Focus is on providing mental health nursing care utilizing the nursing process for the emotionally ill client,
+family, and community with psychiatric mental health needs. Emphasis is place on understanding holistic human
+needs and promotion of the professional therapeutic nurse-client relationships."
+NRST 20208 ,"NURSING AGENCY III
+",NRST,"minimum C grade in NRST 20205 and NRST 20206 andNURS 20950; and minimum 2.000 cumulative GPA; and nursing technology (NRST) major. 
+",None,"Nursing care of individuals with complex therapeutic self-care demands. Emphasis is placed on the nurse as
+provider and manager of patient care."
+NRST 20209 ,"MATERNAL/NEWBORN DEVELOPMENT SELF-CARE
+",NRST,"NRST 10003; and NRST 10010; and BSCI 11020; and BSCI 20021; and PSYC 11762; and NURS20950; and NUTR 23511 or NUTR 33512; and cumulative GPA of 2.000 or higher; and nursing technology
+(NRST) majors. 
+",None,"Nursing care of the expectant and newly-delivered family. The nursing approach acknowledges the mother's
+self-care abilities and dependent care agent role. Health deviations related to childbearing are incorporated."
+NRST 20210 ,"CHILD AND FAMILY DEVELOPMENT SELF-CARE
+",NRST,"minimum C grade in NRST 20205 and NRST 20206 and NURS 20950; and minimum2.000 cumulative GPA. 
+",None,"Family-centered nursing care of children. Developmental self-care requisites and common health deviations are
+emphasized."
+NRST 20212 ,"PRACTICUM
+",NRST,"minimum C grade in NRST 20208; and minimum 2.000 cumulative GPA; and nursingtechnology (NRST) major. 
+",None,"Practicum experience that allows the student to work one on one with an approved preceptor for advance clinical
+skills during the final semester of the ADN program. The course also includes a leadership and management
+component."
+NRST 21095 ,"SPECIAL TOPICS
+",NRST,none.,None,(Repeatable for credit)Scheduled topic of interest to students and faculty.
+NRST 21096 ,"INDIVIDUAL INVESTIGATION IN NURSING
+",NRST,special approval.,None,"(Repeatable for a total of 18 hours) Readings and/or investigation of nursing topics supervised by nursing
+faculty."

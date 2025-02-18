@@ -1,0 +1,75 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+PTST 10000 ,"INTRODUCTION TO PHYSICAL THERAPIST ASSISTANT
+",PTST,None.,None,"Introduces the physical therapy profession; current and historical physical therapist practice; and the role,
+responsibilities and expectations of a Physical Therapist Assistant."
+PTST 10001 ,"PRINCIPLES OF PATIENT CARE IN PHYSICAL THERAPY
+",PTST,"physical therapist assistanttechnology (PTST) major and admission to technical study. 
+",None,"Students develop an understanding of the underlying principles of basic physical therapy procedures and the
+applications of these concepts in the physical therapy setting."
+PTST 10002 ,"ANALYSIS OF MOVEMENT
+",PTST,Physical therapist assistant technology (PTST) major; and admission to technical study.,None,Function of the human body with emphasis on the musculoskeletal system. Gross body measurements.
+PTST 10003 ,"CLINICAL CONDITIONS I
+",PTST,physical therapist assistant technology (PTST) major and admission to technical study.,None,"Introduction to the pathology, treatment and clinical implications for medical conditions commonly encountered
+in PT practice: Integumentary, cardiovascular, pulmonary, endocrine and digestive systems."
+PTST 10004 ,"PHYSICAL THERAPY PROCEDURES I
+",PTST,physical therapist assistant technology (PTST) major and admission to technical study.,None,"Theory and techniques of treatment procedures with emphasis on modalities. Maintenance of equipment and
+supplies."
+PTST 10010 ,"TRANSITIONS IN PHYSICAL THERAPY
+",PTST,"PhysicalTherapist Assistant Technology Athletic Trainers Transistions concentration (PTST-ATT) and special approval. 
+",None,"Validates prior learning in the course content of PTST 10002, 10004, 20003, 20004; builds knowledge necessary
+for the physical therapist assistant technology (PTST) degree; and prepares students who have previously
+completed an approved allied health program for advanced placement in PTST. Students successfully competing
+this course with a grade of C (2.000) or better will receive six (6) transfer credit hours."
+PTST 11005 ,"PHYSICAL THERAPY PRACTICE I
+",PTST,"physical therapist assistant technology (PTST) major andadmission to technical study. 
+",None,"Learn the essentials of safe, ethical, legal, and value-based behaviors in patient care. Acquire documentation
+skills and prepare for clinical education."
+PTST 11092 ,"CLINICAL EDUCATION I
+",PTST,"PTST 11005; and physical therapist assistant technology (PTST) major; andadmission to technical study. 
+",None,"Observes and participate in providing selected physical therapy services under the direct supervision of a
+licensed PT or PTA."
+PTST 20001 ,"THERAPEUTIC COMMUNICATIONS IN PHYSICAL THERAPY
+",PTST,"physical therapist assistant technology(PTST) major; and admission to technical study. 
+",None,"Focus on understanding human behavior. Emotional needs of individuals. Therapeutic use of self. Development
+of communication skills and interpersonal relationships."
+PTST 20003 ,"CLINICAL CONDITIONS II
+",PTST,physical therapist assistant technology (PTST) major and admission to technical study.,None,"Study of medical conditions commonly encountered in the practice of Physical Therapy. The focus is on
+orthopedic, psychiatric, and geriatric illnesses, disorders, and diseases. Pharmacology interventions are also
+covered."
+PTST 20004 ,"PHYSICAL THERAPY PROCEDURES II
+",PTST,"PTST 10002; and admission to the Physical Therapist Assistant Technology major and admission totechnical study. 
+",None,"Basic principles, therapeutic effects and techniques of therapeutic exercises used in Physical Therapy practice."
+PTST 20006 ,"PHYSICAL REHABILITATION PROCEDURES
+",PTST,"PTST 20004 and BSCI 11020; and physical therapist assistant technology (PTST) major and admission totechnical study. 
+",None,Principles and techniques of therapeutic interventions for rehabilitation in physical therapy practice.
+PTST 20008 ,"CLINICAL CONDITIONS III
+",PTST,"physical therapist assistant technology (PTST) major andadmission to technical study. 
+",None,"Discussion of neurological pathologies across the lifespan, treatment of the medically complex patient and
+functional testing for the geriatric patient."
+PTST 21095 ,"SPECIAL TOPICS IN PHYSICAL THERAPIST ASSISTANT TECHNOLOGY
+",PTST,physical therapist assistant technology (PTST) major.,None,"(Repeatable maximum 6 times for credit) Special topics in Physical Therapist Assistant Technology; topics
+announced when scheduled."
+PTST 21096 ,"INDIVIDUAL INVESTIGATION IN PHYSICAL THERAPIST ASSISTANT TECHNOLOGY
+",PTST,physical therapist assistant technology (PTST) major.,None,"(Repeatable maximum 6 times for credit) Individual study in physical therapist assistant technology and related
+fields; open to PTST majors."
+PTST 22005 ,"PHYSICAL THERAPY PRACTICE II
+",PTST,"PTST 11005; and physical therapist assistant technology (PTST) major; and admission to technicalstudy. 
+",None,"Understand the current professional, legal, and regulatory implications in the provision of PT services."
+PTST 22007 ,"PHYSICAL THERAPY PRACTICE III
+",PTST,physical therapist assistant technology (PTST) major and admission to technical study.,None,"Preparation for licensure, employment and career development as a physical therapist assistant."
+PTST 22010 ,"TRANSITIONS TO PHYSICAL THERAPY PRACTICE
+",PTST,special approval.,None,"Athletic Trainers transitioning to physical therapy practice prepare for employment and licensure. Explores
+reimbursement regulations, evidence based practice, and various topics related to health care systems, and
+discuss current topics in the practice of physical therapy."
+PTST 22092 ,"CLINICAL EDUCATION PRACTICUM II
+",PTST,"PTST 11005with a minimum grade of C (2.000); and PTST 11092 with a grade of satisfactory; and admission to technical
+study. 
+",None,Provide physical therapy services under the direct supervision of a licensed PT or PTA.
+PTST 22392 ,"ATHLETIC TRAINING PLUS PHYSICAL THERAPIST ASSISTANT CLINICAL EDUCATION
+",PTST,PTST 11005 with a minimum grade of C (2.000); and PTST 11092; and specialapproval. ,PTST 22010.,"PRACTICUM
+Provide physical therapy services of an entry-level physical therapist assistant, under the supervision of a
+licensed PT or PTA."
+PTST 23092 ,"CLINICAL EDUCATION PRACTICUM III
+",PTST,"physical therapist assistant technology (PTST) major; and PTST 11005; andPTST 22092; and admission to technical study. 
+",None,"Provide physical therapy services of an entry-level physical therapist assistant, under the supervision of a
+licensed PT or PTA."

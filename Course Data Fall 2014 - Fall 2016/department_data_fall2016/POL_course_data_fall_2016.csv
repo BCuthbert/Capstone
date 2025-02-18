@@ -1,0 +1,564 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+POL 10001 ,"INTRODUCTION TO POLITICAL SCIENCE
+",POL,None.,None,"This course introduces the history and structure of political science, including its relationship to neighboring
+disciplines. This course thus asks what does it mean to study politics? What does it mean to study politics
+scientifically? What are the consequences of different conceptions of politics?"
+POL 10004 ,"COMPARATIVE POLITICS
+",POL,None.,None,"Introduces the different institutional structures of governance (e.g.,parliamentary versus presidential systems)
+in a range of different states for different types of regimes (e.g. democratic and authoritarian) and at the
+international level."
+POL 10100 ,"AMERICAN POLITICS
+",POL,None.,None,"Covers the basic elements of politics at the national level in the United States: structures, processes, behaviors,
+institutions, policies. Special emphasis is given to conflicting theories of power as they apply to different
+economic, sexual and racial groups."
+POL 10300 ,"PUBLIC POLICY
+",POL,None.,None,"This course provides a survey of basic public policy concepts and processes within an historical context. It
+incorporates applied work to bridge conceptual understanding and empirical cases."
+POL 10500 ,"WORLD POLITICS
+",POL,None.,None,"A practical, theoretical introduction to a study of systematic patterns in international relations. Includes analysis
+of rules, instruments, processes, decision- making factors, conflict resolution."
+POL 10504 ,"THE NEW PANGAEA: YOUR ROLE IN OUR GLOBAL COMMUNITY
+",POL,None.,None,"Introduces students to the myriad ways in which they are individually and collectively connected to the global
+community. Looking specifically at ways in which we are interconnected as consumers, patients, donors and
+participants in discourse, the course introduces students to the concepts, institutions and dynamics of
+globalization. Through assignments that focus on important global issues and engage students directly with the
+global community, students will (a) learn how to engage the global community as informed consumers of
+information, (b) understand the basic structure of the global political arena, (c) learn how to engage actively and
+consciously within that arena and (d) understand the ways in which their daily behavior impacts global trends."
+POL 30000 ,"MAY 4 1970 AND ITS AFTERMATH
+",POL,None.,None,"(Cross-listed with CACM 30000) Study of the events of the 1960s in the US leading up to May 4, 1970 when the
+Ohio National Guard killed and wounded KSU students protesting the US war in Vietnam and Cambodia. Topics
+are considered within their cultural, historical, social and political contexts. Also examines the aftermath of May
+4th, including the controversy over constructing the Gym Annex on the May 4th site, the legal trials, the role of
+commemorations and memorials and the politics of remembering May 4, 1970."
+POL 30001 ,"RESEARCH METHODS
+",POL,None.,None,"This course is designed to bring students to a basic level of ""statistical literacy"" by introducing the fundamentals
+of research design and interpretation; as well as to basic descriptive and inferential statistics."
+POL 30002 ,"POLITICAL THOUGHT
+",POL,None.,None,"This course is designed to introduce the student to basic methodological and substantive concerns in the
+tradition of western political thought."
+POL 30003 ,"POLITICAL ECONOMY
+",POL,None.,None,"This course is designed to introduce students to the fundamental questions surrounding the relationship between
+the public and private sectors, considered from the perspective of the state and its major political institutions. Of
+central concern is the growing internationalization of capital and its consequences for both domestic and
+international politics."
+POL 30100 ,"AMERICAN POLITICAL THEORY
+",POL,"POL10100. 
+",None,"Major political ideas and controversies associated with the development of American political thought.
+Nonmajors should contact the Department of Political Science for a prerequisite override."
+POL 30110 ,"THE CONGRESS
+",POL,POL 10100.,None,"This course deals with the powers of Congress, its organization, leadership of the two houses, role of the parties,
+relationships with the chief executive and the executive agencies and recent reforms enacted by the House and
+Senate."
+POL 30120 ,"PRESIDENCY AND EXECUTIVE BUREAUCRACY
+",POL,POL 10100.,None,"Intensive study of the American Presidency, focusing on personality, organization of the office, use and misuse
+of power and policy making."
+POL 30130 ,"THE JUDICIAL PROCESS
+",POL,POL 10100.,None,"Intensive study of the judicial process in United States and the relationship between the judicial system and the
+larger American social system. Nonmajors should contact the Department of Political Science for a prerequisite
+override."
+POL 30300 ,"PUBLIC POLICY THEORY
+",POL,POL 10300.,None,"The core issues of public policy process, institutional contexts and ethical considerations form the basis of this
+introductory survey of traditional and contemporary theories of public policy."
+POL 30301 ,"INTRODUCTION TO PUBLIC ADMINISTRATION
+",POL,None.,None,"Introduction to the theory and practice of governmental administration, including structure, organization,
+direction and control of governmental departments and agencies."
+POL 30310 ,"PUBLIC POLICY ANALYSIS
+",POL,None.,None,"Introduces students to the political and economic tools used to analyze public policies and discusses the political
+elements influencing that analysis. Essentially, the goal is to ensure that students understand the basic
+economic principles used to evaluate different public policy proposals while questioning the assumptions
+underlying those economic assumptions."
+POL 30350 ,"ENVIRONMENTAL CONFLICT RESOLUTION
+",POL,none.,None,"Examines alternative dispute resolution principles applicable to complex, multi-party public sector disputes,
+especially environmental and land use disputes. Students learn about deliberative democracy, a variety of circle
+processes, consensus decision-making, collaborative problem-solving, digital dialogue processes, and town hall
+meeting structures among others. Case studies of environmental conflicts and multi-party mediation simulations
+are used."
+POL 30430 ,"OHIO POLITICS
+",POL,None.,None,"Addresses the history, structure, and current practices of politics and public policy in the state of Ohio."
+POL 30450 ,"URBAN POLITICS AND POLICY
+",POL,POL 10100 or POL 10300.,None,"Discusses local governance in the context of metropolitan change, and issues such as governing capacity, local
+democracy, individual choice, and economic and racial inequality. Examines the formal and informal
+arrangements that shape change and public policy. Nonmajors should contact the Department of Political
+Science for a prerequisite override."
+POL 30460 ,"STATE POLITICS AND POLICY
+",POL,None.,None,"Introduces the theoretical and legal infrastructures of federalism and intergovernmental relations, with a
+particular emphasis on political and policy operations at the state level. Political behavior and institutions, as well
+as the specifics of selected, substantive policy areas are emphasized."
+POL 30500 ,"INTERNATIONAL RELATIONS THEORY
+",POL,"POL10500. 
+",None,"This course introduces competing theoretical approaches to the study of international relations; an examination
+of the historical developments followed by an examination of current issues in world politics."
+POL 30511 ,"PROBLEMS OF INTERNATIONAL ORGANIZATION
+",POL,"registration inthe Geneva Semester required. 
+",None,"Intensive study of major European problems handled by international organizations, including the United Nations
+and nongovernmental organizations. Combines classroom and field investigations."
+POL 30520 ,"EUROPEAN POLITICS
+",POL,POL 10004 or POL 10500.,None,"Examines major European national political systems (British, French, German, Russian and Scandinavian)
+relations between the European states, the institutions of the European Union and prospects and problems of
+European integration."
+POL 30530 ,"ASIAN POLITICS
+",POL,POL 10004 or POL 10500.,None,"Introduction to the political, economic, and social dynamics of Asia: from Siberia in the north to the Indian
+Ocean in the south, and from the Pacific Ocean in the east to the Hindu Kush in the west. The first part of the
+course examines Asia's modern political history (particularly the past half-century). The second part of the
+course focuses on contemporary issues, including the roles of the US and sub-regional actors such as ASEAN."
+POL 30540 ,"AFRICAN POLITICS
+",POL,POL 10004 or POL 10500.,None,"An analysis of major issues in African politics and international relations. The contemporary development of
+Africa will be analyzed in the global context of the historical forces of imperialism and colonialism."
+POL 30550 ,"LATIN AMERICAN POLITICS
+",POL,POL 10004 or POL 10500.,None,"Analysis of political culture/process in selected Latin American states, with particular emphasis on Mexico, Brazil,
+Argentina and Columbia."
+POL 30560 ,"MIDDLE EAST POLITICS
+",POL,POL 10004 or POL 10500.,None,"Introduces students to the theory and context of politics in the Middle East in a way that contests the often-
+simplistic stereotypes communicated through western media and throughout western culture, in order to
+encourage a more nuanced appreciation of the Middle East. Theoretical approaches utilized include
+modernization, dependency, structuralism and constructivism."
+POL 30810 ,"POLITICS OF THE GLOBAL ECONOMY
+",POL,POL 10004 or POL 10500.,None,"Examines interaction between economics and politics in international relations. Topics: poverty and uneven
+economic development, political prerequisites for free trade, intra-western and north-south economic conflict,
+and distributive justice."
+POL 30820 ,"INTERNATIONAL ORGANIZATION AND LAW
+",POL,POL 10004 or POL 10500.,None,"This course introduces the subject matter in historical and theoretical contexts, then devotes detailed attention
+to the full range of international organizations that exist today. A final section addresses the role of international
+law in world politics."
+POL 30840 ,"NONGOVERNMENTAL ORGANIZATIONS
+",POL,"POL10004 or POL 10300 or POL 10500. 
+",None,"This course introduces the diverse range of nongovernmental organizations which exist today and explores their
+varying roles in setting agendas, shaping legislation and implementing public policy reforms."
+POL 39592 ,"GENEVA INTERNSHIP
+",POL,none.,None,"(Repeatable for credit)Allows students to earn academic credit while performing intern's duties as part of the
+Semester in Geneva program."
+POL 40112 ,"POLITICS AND THE MASS MEDIA
+",POL,POL 10100.,None,"This course examines the multiple roles played by the mass media in contemporary politics and analyzes the
+implications of those roles. Nonmajors should contact the Department of Political Science for a prerequisite
+override."
+POL 40116 ,"PUBLIC OPINION AND POLITICAL BEHAVIOR
+",POL,POL 10100.,None,"Analysis of determinants of public opinion and political behavior. Study of how public makes up its mind and
+impact of public opinion on government policy."
+POL 40118 ,"POLITICAL PARTIES AND INTEREST GROUPS
+",POL,POL 10100.,None,"An examination of the changing roles of political parties and interest groups in the American political system,
+including a comparison of their respective electoral activities."
+POL 40170 ,"MOOT COURT I
+",POL,None.,None,"Prepares students for oral advocacy in a simulated court room experience known as moot court. Preparation
+includes learning pre-trial and trial processes, including case evaluation, legal investigation, discovery and
+motion practice, and trial processes."
+POL 40171 ,"MOOT COURT II
+",POL,POL 40170.,None,"Prepares students to engage in oral advocacy by using a learning experiential exercise, including a regional
+competition hosted by the American Collegiate Mock Trial Association, known as Moot Court. Students will
+perform relevant roles (including case evaluation and strategy, legal investigation, discovery and motion
+practice, and trial preparation) both in the competition and in preparing a hypothetical case for trial."
+POL 40182 ,"CONSTITUTIONAL LAW:GOVERNMENTAL STRUCTURES AND FUNCTIONS
+",POL,POL 10100.,None,"Nature and scope of constitutional government. Study of judicial review, separation of powers, federalism,
+commerce and taxation."
+POL 40183 ,"CONSTITUTIONAL LAW:CIVIL RIGHTS AND LIBERTIES
+",POL,POL 10100.,None,"Nature and scope of constitutional limitations. Study of first amendment, freedom of expression, freedom of
+religion, criminal rights, due process, equal protection."
+POL 40191 ,"SEMINAR IN AMERICAN POLITICS
+",POL,"POL 10100 or10300; and POL 10004 or 10500; and POL 20001 and POL 20002 or POL 20003; and political science (POL)
+major. 
+",None,"(Repeatable with special approval A required, writing-intensive seminar for juniors and seniors in the American
+politics concentration. The focus of the seminar will vary depending on instructor."
+POL 40320 ,"ETHICS AND PUBLIC POLICY
+",POL,POL 10300.,None,"The ethical obligations of public policy makers are examined in this course, within a series of applied cases. The
+goal is to empower students with the intellectual tools of critical analysis within diverse policy environments."
+POL 40391 ,"SEMINAR IN PUBLIC POLICY
+",POL,"POL 10100 or10300; and POL 10004 or POL 10500; and POL 20001 and POL 20002 or 20003; and political science (POL)
+major. 
+",None,"(Repeatable with special approval) A required, writing intensive seminar for juniors and seniors in the public
+policy concentration. The focus of the seminar will vary depending on instructor."
+POL 40410 ,"REGULATORY POLICY
+",POL,POL 10100 or POL 10300.,None,"Provides an advanced understanding of the nature of government regulation: its definition; the institutions and
+groups involved in developing it; and current practices. The focus is on analyzing why regulation exists and how
+regulatory agencies function."
+POL 40440 ,"U.S. ENVIRONMENTAL POLITICS AND POLICIES
+",POL,POL 10100 or POL 10300.,None,"This is a course in United States environmental politics and policies. It deals with topics such as the history of
+the U.S. environmental movement, public opinion and environmental issues, environmental racism and classism,
+and environmental policy making and implementation."
+POL 40450 ,"HEALTH CARE AND SOCIAL POLICY
+",POL,POL 10100 or 10300.,None,"Addresses health care policy in the United States from both theoretical (political, economic as well as public
+policy) and substantive perspectives at the state, national and comparative-international levels. Further, the
+examination of health care policy takes place in the context of social welfare policy more broadly considered."
+POL 40470 ,"WOMEN, POLITICS AND POLICY
+",POL,POL 10100 or POL 10300.,None,"Examines origins, development and current record of century-old women's movement unique in U.S. annals;
+compares it with other contemporary social movements. Examines issues of women and public policy."
+POL 40530 ,"POLITICS OF WAR
+",POL,POL 10004 or POL 10500.,None,"Examines central questions concerning the justification, explanation characteristic features and consequences of
+war. Specific cases are examined such as World War II, the Chinese Revolution, Vietnam's civil war and potential
+nuclear war."
+POL 40540 ,"POLITICS OF DEVELOPMENT
+",POL,"POL 10004or POL 10500. 
+",None,"Examines practice, record and theories of political development for less developed, developing and developed
+political systems. Includes extensive analysis of issues, problems through case studies."
+POL 40560 ,"HUMAN RIGHTS AND SOCIAL JUSTICE
+",POL,"POL 10004 or POL10500. 
+",None,"Examines the relationship between human rights and problems of the Third World in the civic, political, social
+and cultural arenas. Particular attention is placed on the struggle of women."
+POL 40591 ,"SEMINAR IN INTERNATIONAL RELATIONS-COMPARATIVE POLITICS
+",POL,"POL 10100 or 10300; and POL 10004 or 10500;and POL 30002 or POL 30003; and political science (POL) major. 
+",None,"(Repeatable with special approval) A required, writing-intensive seminar for juniors or seniors in the
+International Relations-Comparative Politics concentration. The focus of the seminar varies depending on
+instructor. International Relations (INTL) majors who have completed POL 10004, 10500, and six (6) hours from
+the Political Science - International Relations and Comparative Politics concentration may request a prerequisite
+override from the Department of Political Science."
+POL 40620 ,"POLITICS OF SOCIAL MOVEMENTS
+",POL,"POL 10004 or POL 10100 or POL10500. 
+",None,"Examines the role of social movements both in the US and around the world. Focuses on labor, environmental,
+social justice and other initiatives in the push for political and economic democracy. North-South, public-private,
+labor-management and regional perspectives are emphasized."
+POL 40840 ,"COMPARATIVE FOREIGN POLICY
+",POL,POL 10004 or POL 10300 or POL 10500.,None,"Comparative analysis of foreign policy patterns and determinants on the basis of the examination of foreign
+policy of selected countries."
+POL 40930 ,"U.S. FOREIGN POLICY
+",POL,"POL 10500 or POL 10100 orPOL 10004. 
+",None,"Examines policy objectives, patterns of decision-making and foreign policy actions, roles of interest groups,
+public opinion, congress, executive and external influences on policy."
+POL 40980 ,"COLUMBUS PROGRAM IN STATE ISSUES
+",POL,Minimum 2.500 overall GPA; and special approval.,None,"(Repeatable for credit) Annual fall semester resident-study in Columbus. Students spend three days per week
+working at an internship and two days per week attending briefings and completing course studies."
+POL 40981 ,"WASHINGTON PROGRAM IN NATIONAL ISSUES
+",POL,"Junior standing; and2.750 overall GPA; and special approval. 
+",None,"(Repeatable for credit) Annual spring semester resident-study in Washington, D.C. Credit hours divided among
+three units: lecture and course work, on-site briefings seminar and internship."
+POL 40992 ,"INTERNSHIP
+",POL,Minimum 2.000 cumulative GPA; and special approval.,None,"(Repeatable for a maximum of 6 credit hours) Allows academic credit for approved participation in variety of
+political processes, or as an intern with governmental or private agencies dealing with public affairs."
+POL 40993 ,"VARIABLE TITLE WORKSHOP IN POLITICAL SCIENCE
+",POL,None.,None,(Repeatable for credit)
+POL 40995 ,"SELECTED TOPICS IN POLITICAL SCIENCE
+",POL,"Junior orsenior standing. 
+",None,"(Repeatable for credit)Special course, not regularly offered. Subject varies depending on the emerging issue,
+staff availability and competencies. Precise title always listed in the schedule of classes."
+POL 40996 ,"INDEPENDENT STUDY
+",POL,"Any two of the following courses: POL 10004, POL 10100, POL 10300, and POL10500; and junior standing; and special approval. 
+",None,"(Repeatable for credit) For students desiring research into subjects beyond level of completed course work, or
+on subjects for which no regular course is offered. A minimum GPA of 2.750 is required prior to registration for
+this course."
+POL 51191 ,"SEMINAR:PROBLEMS IN AMERICAN GOVERNMENT
+",POL,"Graduatestanding. 
+",None,"(Repeatable for credit)For graduate students outside of political science who wish to take 40000-level American
+Government courses for graduate credit. Students must meet all of the requirements of the 40000 level plus do
+additional work as agreed upon by the instructor. May be taken more than once but never for more than 3 hours
+in any one semester. Instructor and course content may vary from semester to semester."
+POL 51391 ,"SEMINAR:PROBLEMS IN PUBLIC POLICY
+",POL,Graduate standing.,None,"(Repeatable for credit)For graduate students outside of political science who wish to take 40000-level Public
+Policy courses for graduate credit. Students must meet all of the requirements of the 40000 level plus do
+additional work as agreed upon by the instructor. May be taken more than once but never more than 3 hours in
+any one semester. Instructor and course content may vary from semester to semester. ""IP"" permissible. Core
+seminars."
+POL 51591 ,"SEMINAR:PROBLEMS IN INTERNATIONAL RELATIONS/COMPARATIVE GOVERNMENT
+",POL,Graduate standing.,None,"(Repeatable for credit)For graduate students outside of political science who wish to take 40000
+International/Comparative Government courses for graduate credit. Students must meet all of the requirements
+of the 40000 level plus do additional work as agreed upon by the instructor. May be taken more than once but
+never for more than 3 hours in any one semester. Instructor and course content may vary from semester to
+semester. Public policy."
+POL 60002 ,"SCOPE AND EPISTEMOLOGY
+",POL,"Graduatestanding. 
+",None,"Introduces students to the philosophy of science and scientific inquiry within the context of the social sciences,
+and presents a broad survey of leading paradigms and debates within political science."
+POL 60003 ,"QUANTITATIVE METHODS I
+",POL,Graduate standing.,None,"Provides a selective introduction to basic quantitative methods for the analysis of political and public policy data
+dealing with basic descriptive and inferential statistics."
+POL 60004 ,"QUANTITATIVE METHODS II
+",POL,POL 60003 and graduate standing.,None,"Introduces students to multivariate quantitative techniques appropriate for the analysis of political and public
+policy data."
+POL 60010 ,"QUALITATIVE RESEARCH METHODS
+",POL,graduate standing.,None,"Introduces the principles and methods of qualitative research, examining the place of qualitative research
+alongside discussions about positivist, interpretivist and critical approaches. A variety of qualitative research
+methods are introduced including: social observation and ethnography, interviewing, discourse analysis, oral
+history, document analysis, historical analysis and case studies."
+POL 60101 ,"PROSEMINAR IN AMERICAN POLITICS AND POLICY
+",POL,Graduate standing.,None,"This course provides a broad survey of the policymaking process in the U.S. government. Coverage includes
+formal government structures as well as more informal networks of private groups that seek to influence public
+policy at the national level."
+POL 60102 ,"AMERICAN POLICY PROCESS
+",POL,POL 60101 or POL 60301 and graduate standing.,None,"This course emphasizes the politics of the policy process. Among topics covered are theories of policy
+formulation implementation and evaluation."
+POL 60103 ,"CONGRESS, THE PRESIDENCY AND THE COURTS
+",POL,POL 60101 and graduate standing.,None,"Focuses on the three branches of the U.S. government, specifically Congress, the presidency and the judiciary.
+Coverage includes institutional rules and procedures that shape the incentives of these political actors and
+ultimately policy outcomes."
+POL 60105 ,"FEDERALISM AND STATE POLICYMAKING
+",POL,POL 60101 and graduate standing.,None,"This course covers the theory and practice of federalism with emphasis on its consequences for policy outcomes.
+Students also examine the transformation of the policy role of state governments in recent years."
+POL 60106 ,"URBAN POLICY AND POLITICS
+",POL,"POL 60101 or POL60301 and graduate standing. 
+",None,"Urban public policy takes place within the context of suburbanization and metropolitan sprawl. Issues raised in
+this course include poverty, race and the role of business in local policymaking."
+POL 60108 ,"AMERICAN POLITICAL BEHAVIOR
+",POL,POL 60101 and graduate standing.,None,"Explores scholarship on the behavior of non-elite political actors including various forms of electoral
+participation, voting, psychological attachments, affect, cognitions, perceptions, attitudes, and beliefs. Additional
+topics include: ethnic, racial, and gender politics; political participation; voting choice; political psychology;
+politics and networks; macro politics; and connecting individual-level and macro-level findings with democratic
+outcomes and citizen capacity."
+POL 60191 ,"SEMINAR IN AMERICAN POLITICS AND POLICY
+",POL,Graduate standing.,None,"(Repeatable for credit)Seminar on current and important topics in American politics and policy. Subject matter
+varies depending on the emerging issue. This course may be repeated for credit with departmental approval."
+POL 60304 ,"ANALYTIC TECHNIQUES OF POLICY-MAKING
+",POL,POL 60301 and graduate standing.,None,"This course covers the concepts, techniques, and conventions for assessing economic efficiency when this is one
+of the social and political goals relevant to public policymakers. Students are introduced to theories of cost-
+benefit analysis as they pertain to public policy."
+POL 60501 ,"PROSEMINAR IN TRANSNATIONAL AND COMPARATIVE POLITICS AND POLICY
+",POL,"Graduatestanding. 
+",None,"This course introduces students to the primary concepts, theories and subfields of comparative and transnational
+politics. Each field of study is reviewed along with the primary subfields of analysis."
+POL 60502 ,"GLOBAL GOVERNANCE
+",POL,POL 60501 and graduate standing.,None,"This course examines issues, problems and debates regarding global governance in the contemporary world. Of
+primary interest is the array of actors in this process including nation-states, intergovernmental organizations
+and non- governmental organizations."
+POL 60503 ,"FOREIGN POLICY ANALYSIS
+",POL,POL 60501 and graduate standing.,None,"This course provides an overview of the diverse analytic traditions and issues that relate to the study of foreign
+policy. Areas of coverage include theories of foreign policy decision-making, levels of analysis, and policy
+domains."
+POL 60507 ,"CONFLICT TRANSFORMATION AND RECONCILIATION
+",POL,POL 60501 or POL 60701 and graduate standing.,None,"Cross-cultural analysis of transition from mass violence to justice and from protracted conflict to democracy.
+Subjects of study include truth and reconciliation commissions criminal tribunals apologies reparations and,
+other aids to conflict transformation."
+POL 60510 ,"POLITICS OF DEVELOPMENT
+",POL,POL 60501 and graduate standing.,None,"Surveys the scholarship on political development, examining the ways in which the conceptualization of
+development has evolved over time, looking specifically at institutionalization, state failure and the role of civil
+society."
+POL 60511 ,"INTERNATIONAL POLITICAL ECONOMY
+",POL,POL 60501 and graduate standing.,None,"Introduces students to the study of how politics and economics interact on a global scale, covering the major
+theories of IPE, the international monetary system, global trade, and the connections between international
+economics and domestic development."
+POL 60591 ,"SEMINAR IN TRANSNATIONAL AND COMPARATIVE POLITICS AND POLICY
+",POL,Graduate standing.,None,"(Repeatable for credit)Seminar on current and important topics in transnational and comparative politics and
+policy. Subject matter varies depending on the emerging issue."
+POL 60901 ,"PROSEMINAR IN CONFLICT ANALYSIS AND MANAGEMENT
+",POL,graduate standing.,None,"Covers the historical development of the conflict analysis and management field; conflict theories; the dynamics
+by which conflicts escalate, stalemate, and de-escalate; and theories of conflict intervention, resolution and
+transformation."
+POL 60902 ,"POWER, CONFLICT AND THE POLITICS OF GENDER
+",POL,graduate standing.,None,"Examines power disparities and gender as sources of conflict in multiple arenas—including family, community,
+workplace and the political sphere. The intersections of gender and power in the generation and resolution of
+social conflicts are examined. Emphases is placed on empowerment strategies and tactics used to transform
+gendered conflicts and redress power imbalances."
+POL 60903 ,"IDENTITY DRIVEN CONFLICTS
+",POL,graduate standing.,None,"Explores the roles played by ethnicity, race, religion, culture and other elements of identity in the generation,
+resolution and conduct of conflicts within and between groups. Physical and symbolic markers of difference are
+examined in order to understand both why groups differentiate themselves from one another and how
+mechanisms such as skin color, religious affiliation, ethnic background or cultural traditions can provide the
+impetus for conflict or the grounds for resolution."
+POL 60904 ,"SOCIAL MOVEMENTS AND NONVIOLENT CONFLICTS
+",POL,graduate standing.,None,"The waging and escalating of conflicts by social movements through nonviolent actions frequently shifts conflicts
+from one stage to another while also contributing to conflict transformation and to substantive social and
+political changes. Focuses on social movement theories and practices, and on the complicated dynamics of
+nonviolent action campaigns waged by social movements."
+POL 60906 ,"POLITICAL VIOLENCE
+",POL,"POL 60501 or POL 60901; and graduatestanding. 
+",None,"Examines the dynamics, networks, interests and resource mobilization underlying state-sponsored political
+violence, focusing on “low-intensity conflict” and counter-insurgency, paramilitarism and genocide. Of special
+interest is the relationship of the state to various non-state actors, both perpetrators and victims, and the role of
+the international community in domestic-level violence."
+POL 60907 ,"TERRORISM AND HUMAN RIGHTS
+",POL,graduate standing.,None,"Examines how governments try to adhere to the rule of law in managing terrorist threats in a post 9-11 era,
+striking a balance between the competing demands of public safety, personal freedom and human rights. Topics
+include understanding terrorism as a problem for western governments, the rule of law and human rights."
+POL 60991 ,"SEMINAR IN CONFLICT ANALYSIS AND MANAGEMENT
+",POL,"graduatestanding. 
+",None,"(Repeatable for a total of 9 credit hours) Seminar on current and important topics in Conflict Analysis and
+Management. This course may be repeated for credit with departmental approval."
+POL 61094 ,"COLLEGE TEACHING IN POLITICAL SCIENCE
+",POL,Graduate standing.,None,"(Repeatable for credit)Staff training and experience in college teaching; colloquia on professional ethics and
+responsibilities of political scientists. Maximum of 4 hours applicable toward Ph.D. requirements,with graduate
+studies committee approval."
+POL 61098 ,"RESEARCH
+",POL,Graduate standing.,None,"(Repeatable for credit)Research or individual investigation for master's level graduate students. Credits may be
+applied toward meeting degree requirements if department approves and a letter grade is given."
+POL 61199 ,"THESIS I
+",POL,Graduate standing.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in a single semester distributed over several
+semesters if desired."
+POL 61299 ,"THESIS II
+",POL,POL 61199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+POL 69091 ,"SEMINAR:QUANTITATIVE METHODS
+",POL,POL 60004 and graduate standing.,None,"(Repeatable a maximum of 3 times) Focuses on select topics in quantitative methods, including limited and
+categorical dependent variables, hierarchical linear models, panel data, structural equation modeling, and Q
+Methodology. More than one seminar may be offered."
+POL 69095 ,"SPECIAL TOPICS IN POLITICAL SCIENCE AND PUBLIC POLICY
+",POL,"graduatestanding. 
+",None,(Repeatable for a maximum of 12 credit hours) (Slashed with POL 79095) Topics course.
+POL 70002 ,"SCOPE AND EPISTEMOLOGY
+",POL,"Doctoralstanding. 
+",None,"Introduces students to the philosophy of science and scientific inquiry within the context of the social sciences,
+and presents a broad survey of leading paradigms and debates within political science."
+POL 70003 ,"QUANTITATIVE METHODS I
+",POL,Doctoral standing.,None,"Provides a selective introduction to basic quantitative methods for the analysis of political and public policy data
+dealing with basic descriptive and inferential statistics."
+POL 70004 ,"QUANTITATIVE METHODS II
+",POL,POL 70003 and doctoral standing.,None,"Introduces students to multivariate quantitative techniques appropriate for the analysis of political and public
+policy data."
+POL 70010 ,"QUALITATIVE RESEARCH METHODS
+",POL,doctoral standing.,None,"Introduces the principles and methods of qualitative research, examining the place of qualitative research
+alongside discussions about positivist, interpretivist and critical approaches. A variety of qualitative research
+methods are introduced including: social observation and ethnography, interviewing, discourse analysis, oral
+history, document analysis, historical analysis and case studies."
+POL 70101 ,"PROSEMINAR IN AMERICAN POLITICS AND POLICY
+",POL,Doctoral standing.,None,"This course provides a broad survey of the policymaking process in the U.S. government. Coverage includes
+formal government structures as well as more informal networks of private groups that seek to influence public
+policy at the national level."
+POL 70102 ,"AMERICAN POLICY PROCESS
+",POL,POL 70101 or POL 70301; and doctoral standing.,None,"This course emphasizes the politics of the policy process. Among topics covered are theories of policy
+formulation implementation and evaluation."
+POL 70103 ,"CONGRESS, THE PRESIDENCY AND THE COURTS
+",POL,POL 70101 and doctoral standing.,None,"Focuses on the three branches of the U.S. government specifically congress the presidency and the judiciary.
+Coverage includes institutional rules and procedures that shape the incentives of these political actors and
+ultimately policy outcomes."
+POL 70105 ,"FEDERALISM AND STATE POLICYMAKING
+",POL,POL 70101 and doctoral standing.,None,"This course covers the theory and practice of federalism with emphasis on its consequences for policy outcomes.
+Students also examine the transformation of the policy role of state governments in recent years."
+POL 70106 ,"URBAN POLICY AND POLITICS
+",POL,"POL 70101 or POL70301; and doctoral standing. 
+",None,"Urban public policy takes place within the context of suburbanization and metropolitan sprawl. Issues raised in
+this course include poverty, race and the role of business in local policymaking."
+POL 70108 ,"AMERICAN POLITICAL BEHAVIOR
+",POL,POL 70101 and doctoral standing.,None,"Explores scholarship on the behavior of non-elite political actors including various forms of electoral
+participation, voting, psychological attachments, affect, cognitions, perceptions, attitudes and beliefs. Additional
+topics include: ethnic, racial and gender politics; political participation; voting choice; political psychology;
+politics and networks; macro politics; and connecting individual-level and macro-level findings with democratic
+outcomes and citizen capacity."
+POL 70191 ,"SEMINAR IN AMERICAN POLITICS AND POLICY
+",POL,Doctoral standing.,None,"(Repeatable for credit)Seminar on current and important topics in American politics and policy. Subject matter
+varies depending on the emerging issue. This course may be repeated for credit with departmental approval."
+POL 70195 ,"SPECIAL TOPICS IN PUBLIC ADMINISTRATION
+",POL,doctoral standing and special approval.,None,"(Repeatable for maximum 12 credit hours) Various topics offered by the Master of Public Administration
+program."
+POL 70198 ,"RESEARCH IN PUBLIC ADMINISTRATION
+",POL,political science (POL) major; and doctoral standing; and special approval.,None,"(Repeatable 3 times for credit) (Slashed with PADM 60198) Research or individual investigation for graduate
+students. Credits earned may be applied toward meeting requirements if department approves."
+POL 70304 ,"ANALYTIC TECHNIQUES OF POLICY-MAKING
+",POL,POL 70301 and doctoral standing.,None,"This course covers the concepts, techniques and conventions for assessing economic efficiency when this is one
+of the social and political goals relevant to public policymakers. Students are introduced to theories of cost-
+benefit analysis as they pertain to public policy."
+POL 70371 ,"GRADUATE INTRODUCTION TO PUBLIC ADMINISTRATION
+",POL,political science (POL) major and doctoral standing.,None,"Introductory graduate course to the theory and study of public administration. Topics include: evolution and
+characteristics of the modern nation state; core functions of public bureaucracy in any nation state;
+intergovernmental relations; formal and informal institutions and their role in policy; legal-regulatory processes;
+historical evolution of public administration as an academic field; major paradigms in organization theory and
+internal organizational dynamics."
+POL 70377 ,"PUBLIC BUDGETING AND FINANCIAL MANAGEMENT
+",POL,political science (POL) major and doctoral standing.,None,"(Slashed with PADM 70377) Focuses on two aspects of public financial analysis: budgeting and financial
+management. The topics in budgeting are the basic purposes of budgets as mechanisms of resource control and
+allocation, and as legal documents; distinct budget formats and cross-walking of formats; budget preparation;
+legislative review; implementation and auditing. The topics in financial management are the mechanisms and
+tools for financing public operations, debt management, fund accounting, analyzing budgets, and forecasting."
+POL 70379 ,"PROGRAM EVALUATION I
+",POL,Doctoral standing.,None,"(Slashed with PADM 60379) Introduction to evaluation of government programs. Emphasis on familiarizing
+students with the theory and specifically the techniques utilized under different evaluation formats."
+POL 70386 ,"PUBLIC SECTOR INFORMATION TECHNOLOGY MANAGEMENT
+",POL,political science (POL) major and doctoral standing.,None,"Management of information technology systems in the public sector. Specific focus on: planning and acquisition
+of hardware and software and networking technologies, organizational governance and implementation,
+information security and privacy, legal requirements, IT service delivery and emerging enterprise technologies."
+POL 70387 ,"ELECTRONIC GOVERNANCE
+",POL,political science (POL) major and doctoral standing.,None,"An introduction to electronic governance with an emphasis on public administration. Examines the implications
+of information and communication technology in public organizations with regard to democracy, civic
+engagement, and performance improvement. Through case studies from the United States and across the world,
+students become familiar with the factors and issues surrounding the implementation of electronic governance
+on a comparative basis."
+POL 70392 ,"INTERNSHIP IN PUBLIC ADMINISTRATION
+",POL,"political science(POL)major; and doctoral standing; and special approval. 
+",None,"(Repeatable maximum 3 times for credit) Provides an opportunity for students to gain practical experience and
+be exposed to processes of public decision making and policy development."
+POL 70470 ,"PERSONAL ACCOUNTABILITY IN THE PUBLIC SERVICE
+",POL,"political science (POL) major anddoctoral standing. 
+",None,"(Slashed with PADM 60470) Focus is on students internalizing their role in the public service as stewards of the
+public trust. Topics covered include dimensions of stewardship: maintaining personal honor; protecting the
+liberty and dignity of the citizen, dimensions of justice; anti-corruption, incorporating principles of stewardship in
+their personal decision making and throughout the organization."
+POL 70471 ,"NONPROFIT LAW
+",POL,Doctoral standing.,None,"(Slashed with PADM 60471) Introduction to legal issues for nonprofit organizations in the United States,
+including types of IRS tax-exempt status; basic requirements for establishing/ operating nonprofit organizations
+specifically in Ohio."
+POL 70472 ,"NONPROFIT BOARD-EXECUTIVE RELATIONS
+",POL,Doctoral standing.,None,"(Slashed with PADM 60472) Key aspects of effective nonprofit governance, major roles of nonprofit board
+members and their responsibilities and governance structures."
+POL 70477 ,"NONPROFIT FINANCIAL RESOURCE DEVELOPMENT
+",POL,Doctoral standing.,None,"(Slashed with PADM 60477) Successful strategies for fundraising and resource development for nonprofit
+organizations. Students will be exposed to fundraising in practice and will write a resource development plan."
+POL 70501 ,"PROSEMINAR IN TRANSNATIONAL AND COMPARATIVE POLITICS AND POLICY
+",POL,"Doctoralstanding. 
+",None,"This course introduces students to the primary concepts, theories and subfields of comparative and transnational
+politics. Each field of study is reviewed along with the primary sub-fields of analysis."
+POL 70502 ,"GLOBAL GOVERNANCE
+",POL,POL 70501 and doctoral standing.,None,"This course examines issues, problems and debates regarding global governance in the contemporary world. Of
+primary interest is the array of actors in this process including nation-states, intergovernmental organizations,
+and non-governmental organizations."
+POL 70503 ,"FOREIGN POLICY ANALYSIS
+",POL,POL 70501 and doctoral standing.,None,"This course provides an overview of the diverse analytic traditions and issues that relate to the study of foreign
+policy. Areas of coverage include theories of foreign policy decision-making, levels of analysis, and policy
+domains."
+POL 70507 ,"CONFLICT TRANSFORMATION AND RECONCILIATION
+",POL,POL 70501 or POL 70701; and doctoral standing.,None,"Cross-cultural analysis of transition from mass violence to justice and from protracted conflict to democracy.
+Subjects of study include truth and reconciliation commissions, criminal tribunals, apologies, reparations, and
+other aids to conflict transformation."
+POL 70510 ,"POLITICS OF DEVELOPMENT
+",POL,POL 70501 and doctoral standing.,None,"Surveys the scholarship on political development, examining the ways in which the conceptualization of
+development has evolved over time, looking specifically at institutionalization, state failure and the role of civil
+society."
+POL 70511 ,"INTERNATIONAL POLITICAL ECONOMY
+",POL,POL 70501 and doctoral standing.,None,"Introduces students to the study of how politics and economics interact on a global scale, covering the major
+theories of IPE, the international monetary system, global trade, and the connections between international
+economics and domestic development."
+POL 70574 ,"STRATEGIC PLANNING
+",POL,Doctoral standing.,None,"(Slashed with PADM 60574) Introduction to the practice of strategic planning as it relates to policy design and
+implementation by public and nonprofit organizations."
+POL 70591 ,"SEMINAR IN TRANSNATIONAL AND COMPARATIVE POLITICS AND POLICY
+",POL,Doctoral standing.,None,"(Repeatable for credit)Seminar on current and important topics in transnational and comparative politics and
+policy. Subject matter varies depending on the emerging issue. This course may be repeated for credit with
+departmental approval."
+POL 70901 ,"PROSEMINAR IN CONFLICT ANALYSIS AND MANAGEMENT
+",POL,doctoral standing.,None,"Covers the historical development of the conflict analysis and management field; conflict theories; the dynamics
+by which conflicts escalate, stalemate, and de-escalate; and theories of conflict intervention, resolution and
+transformation."
+POL 70902 ,"POWER, CONFLICT AND THE POLITICS OF GENDER
+",POL,doctoral standing.,None,"Examines power disparities and gender as sources of conflict in multiple arenas—including family, community,
+workplace and the political sphere. The intersections of gender and power in the generation and resolution of
+social conflicts is examined. Emphases is placed on empowerment strategies and tactics used to transform
+gendered conflicts and redress power imbalances."
+POL 70903 ,"IDENTITY DRIVEN CONFLICTS
+",POL,doctoral standing.,None,"Explores the roles played by ethnicity, race, religion, culture and other elements of identity in the generation,
+resolution and conduct of conflicts within and between groups. Physical and symbolic markers of difference are
+examined in order to understand both why groups differentiate themselves from one another and how
+mechanisms such as skin color, religious affiliation, ethnic background or cultural traditions can provide the
+impetus for conflict or the grounds for resolution."
+POL 70904 ,"SOCIAL MOVEMENTS AND NONVIOLENT CONFLICTS
+",POL,doctoral standing.,None,"The waging and escalating of conflicts by social movements through nonviolent actions frequently shifts conflicts
+from one stage to another while also contributing to conflict transformation and to substantive social and
+political changes. Focuses on social movement theories and practices, and on the complicated dynamics of
+nonviolent action campaigns waged by social movements."
+POL 70906 ,"POLITICAL VIOLENCE
+",POL,"POL 70501 or POL 70901; and doctoralstanding. 
+",None,"Examines the dynamics, networks, interests and resource mobilization underlying state-sponsored political
+violence, focusing on “low-intensity conflict” and counter-insurgency, paramilitarism and genocide. Of special
+interest is the relationship of the state to various non-state actors, both perpetrators and victims, and the role of
+the international community in domestic-level violence."
+POL 70907 ,"TERRORISM AND HUMAN RIGHTS
+",POL,doctoral standing.,None,"Examines how governments try to adhere to the rule of law in managing terrorist threats in a post 9-11 era,
+thus striking a balance between the competing demands of public safety, personal freedom, and human rights.
+Topics include understanding terrorism as a problem for western governments, the rule of law, and human
+rights."
+POL 70991 ,"SEMINAR IN CONFLICT ANALYSIS AND MANAGEMENT
+",POL,"doctoralstanding. 
+",None,"Repeatable for a maximum of 9 credit hours) Seminar on current and important topics in Conflict Analysis and
+Management. This course may be repeated for credit with departmental approval."
+POL 71094 ,"COLLEGE TEACHING IN POLITICAL SCIENCE
+",POL,Doctoral standing.,None,"(Repeatable for credit)Staff training and experience in college teaching; colloquia on professional ethics and
+responsibilities of political scientists. Maximum of 4 hours applicable toward Ph.D. requirements with graduate
+studies committee approval."
+POL 79091 ,"SEMINAR:QUANTITATIVE METHODS
+",POL,POL 70004 and doctoral standing.,None,"(Repeatable a total of 3 times) Focuses on select topics in quantitativestatistical methods, including limited and
+categorical dependent variables, hierarchical linear models, panel data, structural equation modeling, and Q
+Methodology. More than one seminar may be offered."
+POL 79095 ,"SPECIAL TOPICS IN POLITICAL SCIENCE AND PUBLIC POLICY
+",POL,"doctoralstanding. 
+",None,(Repeatable for a maximum of 12 credit hours) (Slashed with POL 69095) Topics course.
+POL 81098 ,"RESEARCH
+",POL,Doctoral standing.,None,"(Repeatable for credit)Research or individual investigation for doctoral students who have not yet passed their
+candidacy examination. Credits may be applied toward degree if department approves and if letter grade given."
+POL 81199 ,"DISSERTATION I
+",POL,Special approval and doctoral standing.,None,"(Repeatable for credit)Doctoral dissertation, for which registration in at least two semesters is required, and the
+first of which will be semester in which dissertation work is begun and continuing until the completion of 30
+hours."
+POL 81299 ,"DISSERTATION II
+",POL,"POL 81199 and doctoralstanding. 
+",None,"(Repeatable for credit)Continuing registration required for doctoral students who have completed the initial 30
+hours of dissertation and continuing until all degree requirements are met."

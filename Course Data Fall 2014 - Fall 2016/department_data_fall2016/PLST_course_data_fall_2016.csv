@@ -1,0 +1,100 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+PLST 18000 ,"INTRODUCTION TO PARALEGAL STUDIES AND PROFESSIONAL ETHICS
+",PLST,None.,None,"An overview of the legal system and the role of a paralegal professional. Includes legal terminology,types of
+laws, research, litigation, interviewing and office management."
+PLST 28001 ,"LEGAL RESEARCH AND WRITING
+",PLST,none.,None,"In-depth analysis of the legal research process, development of legal writing skills, opportunities to utilize
+research and writing skills are integrated into the course."
+PLST 28003 ,"FAMILY LAW AND PROCEDURE
+",PLST,none.,None,"Designed to acquaint the student with family law substance and practice. Covers definitions, terminology, topical
+areas and the philosophy underlying family law practice."
+PLST 28004 ,"PRINCIPLES AND PRACTICE OF LITIGATION
+",PLST,none.,None,"Provides an introduction to the rules of civil procedure, statutes of limitation, and discovery. Included in this
+course is a discussion of the role of the paralegal in preparation for litigation."
+PLST 28007 ,"ESTATE AND PROBATE ADMINISTRATION
+",PLST,PLST 18000.,None,"A study of legal principles applicable to wills, organization and jurisdiction of probate court, estate administration
+in probate and tax considerations in estate administration."
+PLST 35001 ,"ENVIRONMENTAL LAW FOR PARALEGALS
+",PLST,sophomore standing.,None,"Acquaints the student with the various federal and state statutes, administrative rules and case law that govern
+environmental regulation. International environmental law is also studied."
+PLST 35003 ,"HEALTH LAW
+",PLST,sophomore standing.,None,"Makes the student familiar with legal topics in the field of health care including federal and state statutes
+governing the health care industry in the United States. Specific topics include insurance, privacy, malpractice,
+fraud, Medicare, Medicaid, health records, labor law-related issues and clinical research."
+PLST 35005 ,"LABOR AND EMPLOYMENT LAW FOR PARALEGALS
+",PLST,sophomore standing.,None,"Provides a foundation in the areas of labor law, employment law, and employment discrimination law. Requires
+in-depth study of constitutional, statutory, administrative, and case law at both the federal and state level."
+PLST 35007 ,"ENERGY AND NATURAL RESOURCES LAW
+",PLST,sophomore standing.,None,"Acquaints the student with the various sources of law that govern energy production and the harvesting of
+natural resources in the United States. Statutory, administrative, and case law at the federal and state levels are
+explored."
+PLST 36792 ,"INTERNSHIP IN PARALEGAL
+",PLST,PLST 18000 and 28001 and 28004.,None,"(Repeatable for credit)Work experience under direction of supervising faculty member in the following entities:
+private law firms, legal service/legal aid offices, law departments or corporations and government agencies."
+PLST 38003 ,"ADMINISTRATIVE LAW AND PROCESS
+",PLST,sophomore standing.,None,"The substantive and procedural aspects of administrative law are covered in this course. Specific topics include
+the regulation of public utilities, transportation agencies, employment, food and drugs and the environment."
+PLST 38005 ,"TORT LAW
+",PLST,sophomore standing.,None,"Focus is on tort and personal injury law. Specific topics include intentional torts, negligent torts, strict liability,
+vicarious liability, product liability and business torts. Defenses to tort and product liability are also discussed."
+PLST 38006 ,"APPLIED LEGAL RESEARCH AND LITIGATION
+",PLST,PLST 28001.,None,"Provides for intense case analysis and preparation of argumentative memorandum, including writing of factual
+memoranda, file summaries and advocacy letters."
+PLST 42701 ,"EVIDENCE AND E-DISCOVERY
+",PLST,"PLST 28001;and PLST 28004. 
+",None,"Addresses the various issues concerning the use of evidence in the pre-trial, trial, and post-trial phases of
+litigation. The course will address the traditional rules and issues associated with litigation practice as well as the
+new issues concerning electronic discovery of evidence and the use of that evidence."
+PLST 42705 ,"BANKRUPTCY LAW I: BASIC FUNDAMENTALS
+",PLST,Sophomore standing.,None,"Provides an outlay of the fundamentals of bankruptcy law including the basic rules of the Chapter 7, Chapter 11,
+and Chapter 13 forms of bankruptcy. This course will also cover other topics such as the bankruptcy petition, the
+role of the bankruptcy trustee, and discharge from bankruptcy."
+PLST 42706 ,"BANKRUPTCY LAW II: CREDITOR-DEBTOR RELATIONS
+",PLST,PLST 42705.,None,"Addresses issues not addressed in PLST 42705 including Chapter 9, Chapter 12, and Chapter 15 bankruptcy as
+well as the problems associated with gaining and collecting on a judgment. International bankruptcy issues will
+also be addressed."
+PLST 42708 ,"REAL ESTATE LAW
+",PLST,Sophomore standing.,None,"Provides a general outlay of real estate law in the United States. Students will learn the substantive and
+procedural aspects of gaining and protecting property rights. Real estate contracts, financing, zoning, and
+landlord-tenant issues will also be covered."
+PLST 48002 ,"CONTRACT LAW
+",PLST,sophomore standing.,None,"(Slashed with PLST 58002) Intended to provide the student with an in-depth analysis of basic contract law as
+such related to contact information, performance and remedies. Also intended to familiarize the student with the
+sources of law that define contracts with an emphasis on reading and understanding case law. The student also
+develops a vocabulary of legal terms so that the student may assist the legal practitioner in the representation
+of clients in business transactions and in disputes."
+PLST 48300 ,"LAW OF CORPORATIONS AND OTHER ASSOCIATIONS
+",PLST,sophomore standing.,None,"Covers the formation, operation and dissolution of various kinds of business organizations. Subjects covered
+include sole proprietorships, corporations, partnerships, the law of agency and employment agreements."
+PLST 48401 ,"PATENT LAW
+",PLST,sophomore standing.,None,"Provides the student with an in-depth analysis of the law pertaining to patents, stressing the ability of the owner
+to protect their rights through filing, registration and use. International issues concerning registration, use, and
+trade agreements are also covered."
+PLST 48403 ,"PATENT PROSECUTION
+",PLST,"PLST 48401 and sophomorestanding. 
+",None,"Students learn to craft patent claims in various types of patent applications that would be submitted to the U.S.
+Patent and Trademark Office. Students also learn the mechanics of various types of patent applications including
+traditional applications, provisional applications, divisional applications and continuing applications. Students
+also gain an understanding of the various post-grant proceedings."
+PLST 48404 ,"COPYRIGHT LAW I
+",PLST,sophomore standing.,None,"(Slashed with PLST 58404) Intended to provide the student with an in-depth analysis of the foundations of the
+law pertaining to copyrights. Stresses the ability of the owner to protect such rights through use and
+registration. Also discusses the links to patent law, trademark law and the law of trade secrets."
+PLST 48407 ,"TRADEMARK LAW
+",PLST,sophomore standing.,None,"(Slashed with PLST 58407) Intended to provide the student with an in-depth analysis of the law pertaining to
+trademarks and trade secrets. Stresses the ability of the owner to protect such rights through use and
+registration. Also discusses the links to patent law and copyright law."
+PLST 48408 ,"TRADEMARK PROSECUTION
+",PLST,None.,None,"Covers the substantive and procedural aspects of trademark prosecution at the state, federal, and international
+levels. Special attention will be paid to the topics of drafting the trademark application and conducting searches
+of existing trademarks in the United States and abroad."
+PLST 58404 ,"COPYRIGHT LAW I
+",PLST,"graduatestanding. 
+",None,"(Slashed with PLST 48404) Intended to provide the student with an in-depth analysis of the foundations of the
+law pertaining to copyrights. Stress the ability of the owner to protect such rights through use and registration.
+Also discusses the links to patent law, trademark law and the law of trade secrets."
+PLST 58407 ,"TRADEMARK LAW
+",PLST,"graduatestanding. 
+",None,"(Slashed with PLST 48407) Intended to provide the student with an in-depth analysis of the law pertaining to
+trademarks and trade secrets. The course will stress the ability of the owner to protect such rights through use
+and registration. The course will also discuss the links to patent law and copyright law."

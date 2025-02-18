@@ -1,0 +1,15 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+RERT 11000 ,"REAL ESTATE PRINCIPLES AND PRACTICES
+",RERT,None.,None,"Introduction to listing, selling, real estate math, legal descriptions of property and contracts."
+RERT 11001 ,"REAL ESTATE LAW
+",RERT,RERT 11000.,None,Review of basic Ohio laws covering the functions of an agency and the legal aspects of real estate transactions.
+RERT 11003 ,"REAL ESTATE FINANCING
+",RERT,RERT 11000.,None,"Covers types of institutions, instruments and procedures involved in financing real estate transactions. Covers
+nature and characteristics of mortgage loans and nature of mortgage market."
+RERT 21000 ,"REAL ESTATE APPRAISAL
+",RERT,RERT 11000.,None,"Emphasizes methodology of appraising urban real property and appraisal techniques. Presents market approach
+to residential appraisal."
+RERT 21003 ,"SPECIAL TOPICS IN REAL ESTATE
+",RERT,"RERT 11000 and RERT 11001 andRERT 11003 and RERT 21000. 
+",None,"(Repeatable for credit) Seminar involving discussion of current issues and solutions to special problems in real
+estate investment, management and brokerage operations."
