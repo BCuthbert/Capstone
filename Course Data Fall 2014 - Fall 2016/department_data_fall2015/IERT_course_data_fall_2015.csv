@@ -1,0 +1,50 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+IERT 12005 ,"APPLICATIONS IN COMPUTER-AIDED DESIGN
+",IERT,None.,None,"Course for training on the use of a popular, computer-aided drafting and
+design software. Practice with the
+ advanced features of the software applicable to modern design in the graphics, mechanical, industrial and
+electronics fields."
+IERT 20192 ,"INTERNSHIP IN ENGINEERING TECHNOLOGY
+",IERT,Sophomore standing; and special approval.,None,"(Repeatable for credit) Supervised internship experience in approved business or industrial environment relative
+ to the student's major. The internship experience must be for a period of at least 12 consecutive weeks at 25
+ hours per week, or 20 hours per week for 15 weeks, totaling not less than 300 hours. Most co-ops occur during
+ the summer."
+IERT 21096 ,"INDIVIDUAL INVESTIGATION IN SYSTEMS/INDUSTRIAL ENGINEERING TECHNOLOGY
+",IERT,Permission.,None,"(Repeatable for credit) Independent, in depth research of a systems industrial engineering technology topic
+ supervised and coordinated by an
+engineering technology faculty member."
+IERT 22000 ,"STATISTICAL PROCESS CONTROL
+",IERT,"Specialapproval.
+",None,"Process variability, process monitoring, statistical methods using control charts for variables and attributes;
+ acceptance sampling plans; process capability, process adjustment, process improvement."
+IERT 22001 ,"MOTION AND TIME STUDY
+",IERT,None.,None,"Motion economics, SPC, activity charts, methods improvement, use of standard data method of making studies,
+ computerized line balancing."
+IERT 22003 ,"SUPERVISION AND LABOR RELATIONS
+",IERT,None.,None,"Practical methods and techniques for improving supervision and labor relations in industry. Personnel and
+ performance evaluation, implementing policy, labor contracts, collective bargaining, wage and salary
+ administration."
+IERT 22004 ,"FACILITIES ENGINEERING
+",IERT,None.,None,"Principles of facilities engineering to meet production needs. Applications of material-handling devices, plant
+ layout drawings, templates, models and FMS systems."
+IERT 22005 ,"PRODUCTION AND INVENTORY CONTROL
+",IERT,Sophomore standing.,None,"Basic principles, objectives and influencing factors of production control in industrial organizations of various
+ kinds and their effects on costs. Applied planning and scheduling."
+IERT 22006 ,"ECONOMIC DECISION ANALYSIS
+",IERT,None.,None,"Economic decision making for industrial engineering technology with applications emphasis, estimating
+ economic elements, interest and economic equivalence, methods of comparing alternatives and evaluating
+replacement alternatives."
+IERT 22010 ,"COMPUTER INTEGRATED MANUFACTURING
+",IERT,None.,None,"Planning, developing and implementing a strategy to control and coordinate all the engineering production and
+ business operations within
+a manufacturing enterprise."
+IERT 22095 ,"SPECIAL TOPICS
+",IERT,Permission.,None,(Repeatable for credit)Special topics in systems/industrial engineering technology.
+IERT 42095 ,"TRAINING TOPICS IN ENGINEERING TECHNOLOGY
+",IERT,special approval.,None,"(Repeatable for credit) Specialized advanced instruction oriented primarily to the theoretical base and
+ application of current technology developed by experts in the specific engineering technology discipline. This
+ course requires substantial base knowledge."
+IERT 43096 ,"INDIVIDUAL INVESTIGATION IN ENGINEERING TECHNOLOGY
+",IERT,junior standing and special approval.,None,"(Repeatable for a maximum of 6 credit hours) Work study of an individual
+nature on a topic in a field of
+ engineering technology."

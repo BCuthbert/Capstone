@@ -1,0 +1,69 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+LARC 50100 ,"DESIGN VISUALIZATION
+",LARC,"landscape architecture(LARC) major and graduate standing.
+",None,Demonstration and application of computer software that aids the communication skill of a designer.
+LARC 50101 ,"LANDSCAPE ARCHITECTURE STUDIO I
+",LARC,"landscape architecture (LARC) major andgraduate standing.
+",None,"Garden Typologies: Beginning studio focused on garden typologies including exploration of small scale design
+ elements and site, with private spaces emphasis."
+LARC 50102 ,"LANDSCAPE ARCHITECTURE STUDIO II
+",LARC,"LARC 50101; and landscape architecture (LARC) major; andgraduate standing.
+",None,"Neighborhoods: Small scale community design that connects spaces to form
+neighborhoods and establishes
+ linkages to larger communities."
+LARC 60103 ,"LANDSCAPE ARCHITECTURE STUDIO III
+",LARC,LARC 50102; landscape architecture (LARC) major; and graduate standing.,None,"Systems and Infrastructure: Natural and hybrid ecological design studio with exploration of the role of systems
+ and the integration into suburban and urban infrastructures with a focus on ecological function and services."
+LARC 60104 ,"LANDSCAPE ARCHITECTURE STUDIO IV
+",LARC,"LARC 60103; and landscape architecture (LARC)major; and graduate standing.
+",None,"Urban Form: Urban design studio at multiple scales to understand the diversity of a city with an emphasis on
+ the relationships of architecture forms, systems, infrastructures, and landscape architecture
+functions."
+LARC 60105 ,"LANDSCAPE ARCHITECTURE STUDIO V
+",LARC,"LARC60104; and graduate standing.
+",None,"Interdisciplinary or Capstone Studio: Option of a studio with graduate CUDC architecture and urban design
+ students or development of an individual studio project with a selected faculty advisor."
+LARC 60106 ,"LANDSCAPE ARCHITECTURE STUDIO VI
+",LARC,"LARC 60105 and graduatestanding.
+",None,"Interdisciplinary or Capstone Studio 2: Option of a studio with graduate CUDC architecture and urban design
+ students or develop individual studio project and select faculty advisor."
+LARC 60111 ,"LANDSCAPE HISTORY AND THEORY
+",LARC,"landscape architecture (LARC) major and graduatestanding.
+",None,"Presentation of important landscape events, people and places to document and explain the factors that
+ influenced the built and natural environments, with emphasis on cultural theories of design and their influence
+ upon the built and natural environments."
+LARC 60301 ,"SITE ENGINEERING
+",LARC,"landscape architecture (LARC) major and graduatestanding.
+",None,"Examination and application of typical engineering strategies for small and large scale landscape projects with a
+ concentration on sustainable practices."
+LARC 60401 ,"LANDSCAPE ARCHITECTURE CONSTRUCTION METHODS
+",LARC,"landscapearchitecture (LARC) major and graduate standing.
+",None,"Discussion and application of small and large scale construction techniques that explore materials, construction
+ assemblies, construction
+methods and construction documentation including investigations of lifecycles and
+ maintenance of design decisions."
+LARC 60601 ,"PLANTS AND PLANTED FORM
+",LARC,"landscape architecture (LARC) majorand graduate standing.
+",None,"Plant identification with emphasis on individual plants and plant communities as relate to the built environment;
+ integrated into the application of formal and informal design strategies for landscape planning that explores
+ individual plants, plant communities and ecosystems. Further emphasis is placed on the relationships of
+architecture and interior design to landscape architecture."
+LARC 60602 ,"URBAN ECOLOGICAL SYSTEMS
+",LARC,"landscape architecture (LARC) major andgraduate standing.
+",None,"Study of how ecological systems in highly anthropocentric environments provide necessary ecological services.
+ Emphasized is the role that water
+plays in activating the supporting, provisioning, regulating and cultural
+ ecosystem services required for human well-being."
+LARC 60922 ,"METHODS OF INQUIRY IN ARCHITECTURAL STUDIES
+",LARC,landscape architecture (LARC) major and graduate standing.,None,"(Cross-listed with AED 60922 + ARCH 60922) Provides comprehensive coverage of design inquiry techniques
+ including qualitative and quantitative research methods and critical thinking skills to help students better
+ conduct and understand research."
+LARC 60923 ,"EMPIRICAL RESEARCH IN ENVIRONMENTAL DESIGN
+",LARC,landscape architecture (LARC) major and graduate standing.,LARC 60922.,"(Cross-listed with AED 60923) Introduces student to faculty-directed research in a field within the
+ environmental design domain. Includes lectures by research faculty, readings from primary and review
+literature, and regular discussions among students, faculty and other research associates working under the
+ direction of a principal investigator."
+LARC 65003 ,"PROFESSIONAL PRACTICE: LEADERSHIP, ETHICS AND OFFICE MANAGEMENT
+",LARC,landscape architecture (LARC) major and graduate standing.,None,"Discusses issues of professional leadership and examines architectural office structures. Management
+ approaches, professional registration and practice, use of consulting engineers and financial management of an
+office in the profession as business."

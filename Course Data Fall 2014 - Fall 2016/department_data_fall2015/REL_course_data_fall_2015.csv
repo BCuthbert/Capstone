@@ -1,0 +1,27 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+REL 11020 ,"INTRODUCTION TO WORLD RELIGIONS
+",REL,none.,None,"A study of the religious impulse as it manifests itself in the plurality
+of beliefs, practices and institutions of the
+ world religions."
+REL 21021 ,"COMPARATIVE RELIGION
+",REL,none.,None,"Comparative exploration in depth of three religions. Selection should include two world religions commonly
+ identified in traditional comparative religion studies and a religion often overlooked in traditional comparative
+ religion studies."
+REL 31065 ,"COMPARATIVE RELIGIOUS EXPERIENCE
+",REL,"REL 11020or REL 21021.
+",None,"Examination of the phenomena of religious experience, its structure, ramifications and expression in myth and
+ ritual."
+REL 31091 ,"SEMINAR: RELIGION IN THE MODERN WORLD
+",REL,REL 11020 or REL 21021.,None,"An inquiry into the influences of modernity in the conception, valuation
+and-or interpretation of religious
+ convictions, beliefs, symbolizations, institutions and artifacts (including texts). Students with junior standing
+ should contact the director of the Religion Studies
+program for a pre-requisite override, if necessary."
+REL 41091 ,"SEMINAR IN ADVANCED COMPARATIVE RELIGION
+",REL,"junior standing orhigher; at least one of either REL 11020 or REL 21021; and at least one of REL 31065 or REL 31091 with a
+ minimum required course grade of C or higher.
+",None,"(Repeatable for a maximum of 6 credit hours) An advanced examination of pivotal issues, schools and theorists
+ in the study of religion and the future of comparative studies. Variable Content."
+REL 51091 ,"SEMINAR IN ADVANCED COMPARATIVE RELIGION
+",REL,graduate standing.,None,"(Repeatable for a maximum of 6 credit hours) An advanced examination of pivotal issues, schools and theorists
+ in the study of religion and the future of comparative studies. Variable content."

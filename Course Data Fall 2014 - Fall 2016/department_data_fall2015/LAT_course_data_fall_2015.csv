@@ -1,0 +1,63 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+LAT 16201 ,"ELEMENTARY LATIN I
+",LAT,None.,None,An introduction to the classical Latin language in the context of ancient Roman culture.
+LAT 16202 ,"ELEMENTARY LATIN II
+",LAT,LAT 16201.,None,A continuation of the introduction to the classical Latin language in the context of ancient Roman culture.
+LAT 26201 ,"INTERMEDIATE LATIN I:READINGS
+",LAT,LAT 16202.,None,Excerpts from Latin literature with emphasis on translation into English.
+LAT 26202 ,"INTERMEDIATE LATIN II:READINGS
+",LAT,LAT 26201.,None,"Excerpts from Latin literature with emphasis on both prose (e.g., Caesar, Cicero) and poetry (Vergil, Catullus)."
+LAT 36170 ,"CICERO
+",LAT,LAT 26202.,None,"Readings in Cicero's orations and philosophical works, stressing rhetorical techniques. Consideration of Cicero's
+ role in Roman history and his place in Latin literature."
+LAT 36171 ,"VERGIL
+",LAT,LAT 26202.,None,"A study of the Latin text of Vergil's Aeneid stressing the poetry of the
+language. Consideration of entire poem
+ and its impact on Latin literature."
+LAT 40393 ,"VARIABLE TITLE WORKSHOP
+",LAT,Departmental permission.,None,"(Repeatable for credit)Workshops individually designed to provide instruction and training in latin studies. S u
+ graded."
+LAT 46095 ,"SELECTED TOPICS IN LATIN
+",LAT,LAT 36170 or LAT 37171.,None,(Repeatable for credit)Topic announced in the schedule of classes.
+LAT 46096 ,"INDIVIDUAL INVESTIGATION
+",LAT,"minimum 3 hoursof coursework at the 40000-level and departmental special approval.
+",None,(Repeatable for credit)Investigation of problems in Latin literature or linguistics.
+LAT 46211 ,"LATIN PROSE COMPOSITION
+",LAT,"LAT36170 or LAT 36171.
+",None,Analysis of prose models; writing of connected Latin prose with attention to the Latin idiom.
+LAT 46373 ,"ADVANCED PROSE AUTHORS
+",LAT,LAT 36170 or LAT 36171.,None,"(Repeatable for credit) Consideration of a major prose author such as Pliny the Younger, Livy, Tacitus or
+ Suetonius."
+LAT 46374 ,"JUVENAL'S SATIRES AND MARTIAL'S EPIGRAMS
+",LAT,LAT 36170 or LAT 36171.,None,General consideration of Roman satire.
+LAT 46375 ,"LUCRETIUS
+",LAT,LAT 36170 or LAT 36171.,None,De Rerum Natura.
+LAT 50393 ,"VARIABLE TITLE WORKSHOP IN LATIN
+",LAT,Special approval and graduate standing.,None,(Repeatable for credit)Workshops individually designed to provide instruction and training in Latin studies.
+LAT 56095 ,"SELECTED TOPICS IN LATIN
+",LAT,LAT 37171 and graduate standing.,None,(Repeatable for a maximum of 15 credit hours)Topic to be announced in semester schedule of classes.
+LAT 56374 ,"JUVENAL'S SATIRES AND MARTIAL'S EPIGRAMS
+",LAT,Graduate standing.,None,General consideration of Roman satire.
+LAT 56375 ,"LUCRETIUS
+",LAT,Graduate standing.,None,De Rerum Natura.
+LAT 66199 ,"THESIS I
+",LAT,Graduate standing.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in single semester distributed over several
+semesters if desired."
+LAT 66211 ,"ADVANCED PROSE COMPOSITION
+",LAT,Graduate standing.,None,More thorough training in composition where need is established.
+LAT 66299 ,"THESIS II
+",LAT,LAT 66199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+LAT 66372 ,"LYRIC POETRY
+",LAT,"Graduatestanding.
+",None,"Readings from the poetry of Catullus and Horace,with considerations of the general genre of lyric; a comparison
+ of style and content of the two
+poets. Study of Greek and Latin precedents in the genre."
+LAT 66373 ,"ADVANCED PROSE AUTHORS
+",LAT,Graduate standing.,None,"A consideration of selected major prose writers such as Pliny the Younger, Livy, Tacitus Suetonius."
+LAT 66391 ,"SEMINAR IN CLASSICAL LITERATURE
+",LAT,Graduate standing.2.000 OR ,None,(Repeatable for credit)Topics to be announced.
+LAT 66398 ,"RESEARCH
+",LAT,"Special approval and graduatestanding.
+",None,"(Repeatable for credit)Research or individual investigation for master's
+level graduate students. Credits earned
+ applied toward degree requirements if department approves."

@@ -1,0 +1,52 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+MERT 12000 ,"ENGINEERING DRAWING
+",MERT,None.,None,"Engineering drawing principles and techniques: orthographic projection, sketching, sections, auxiliary views,
+ dimensioning and conventional practices."
+MERT 12001 ,"COMPUTER-AIDED DRAFTING
+",MERT,MERT 12000.,None,"Builds on skills learned in MERT 12000 Engineering Drawing. Teaches students how to construct multi-view
+drawings and how to create sets of mechanical component drawings, including assembly and detail sheets."
+MERT 12004 ,"MANUFACTURING PROCESSES
+",MERT,none.,None,"Introduces students to the various manufacturing processes such as extrusion, molding, forging, casting,
+ stamping, piercing, joining and finishing. Investigates the various ways parts are made from the vast array of
+ materials available."
+MERT 12005 ,"PROPERTIES OF MATERIALS
+",MERT,none.,None,"Covers the chemical and physical properties of engineering materials such as metals (ferous and non-ferous),
+ polymers, ceramics and composites. Students learn the mechanical and physical properties of materials, and
+ the effects that manufacturing processes have on the material's properties."
+MERT 21096 ,"INDIVIDUAL INVESTIGATION IN MECHANICAL ENGINEERING TECHNOLOGY
+",MERT,Permission.,None,"(Repeatable for credit)Independent,in depth research of a mechanical engineering technology topic supervised
+ and coordinated by an engineering technology faculty member."
+MERT 22003 ,"COMPUTER-AIDED TOOL DESIGN
+",MERT,MERT 12001.,None,"Tool design practices and procedures including materials, commercial standards, cutting tools, drill jigs,
+ fixtures, dies and gauges using computer-aided design."
+MERT 22004 ,"MECHANICS AND MACHINE DESIGN
+",MERT,none.,None,"Machine design procedures including static and dynamic stresses, stress concentrations, design considerations.
+ Design of keys, pins, fasteners, welds, power transmission devices and related components."
+MERT 22005 ,"STATICS
+",MERT,MATH 19001. ,MATH 19002.,"Basic vector mechanics, calculation of reactions from applied forces, drawing free body diagrams, working with
+ equations of equilibrium, analysis of simple structures, calculating mass properties and forces due to friction."
+MERT 22007 ,"STRENGTH OF MATERIALS
+",MERT,MERT 22005.,None,"Covers taking the stresses induced into members due to applied loading, and coupled with mass properties of
+ the sections, designing members to safely carry the loads. Types of stresses considered are tensile,
+compressive, shear, bending, torsional and combined."
+MERT 22009 ,"ENGINEERING TECHNOLOGY PROJECT
+",MERT,EERT 22014.,None,"A practical, hands-on experience which emphasizes the integration of analytical and design skills acquired in
+ companion courses. Students will work in teams under direct faculty supervision. Engineering communication
+ such as reports and oral presentations are covered. The capstone design projects include creative and
+ challenging projects within the engineering discipline."
+MERT 22012 ,"FLUID POWER
+",MERT,none.,None,"Fluid properties, kinematics of fluid flow, momentum, viscosity, conservation of energy in fluid flow, industrial
+ hydraulics and gas laws."
+MERT 22095 ,"SPECIAL TOPICS IN MECHANICAL ENGINEERING TECHNOLOGY
+",MERT,Permission.,None,Special topics in mechanical engineering technology. Repeated registration permitted.
+MERT 42000 ,"THERMODYNAMICS FOR ENGINEERING TECHNOLOGY
+",MERT,"PHY 13001and 13002 or PHY 13011 and 13012. 
+",None,"Includes the study of the first and second laws of thermodynamics with a
+detailed study of various types of heat
+ engines. Additional topics include principles of heat transfer and energy management."
+MERT 43001 ,"DYANMICS FOR ENGINEERING TECHNOLOGY
+",MERT,PHY 13002 or PHY 13012.,None,"Kinematics and kinetics of particles; Newton’s laws; energy and momentum methods; system of particles;
+ kinematics and kinetics of planar
+motions of rigid bodies; plane motion of rigid bodies; mechanical vibrations."
+MERT 43092 ,"ENGINEERING TECHNOLOGY PRACTICUM
+",MERT,none.,None,(Repeatable for a maximum to 6 credit hours) Supervised work experience. One credit hour for 50 work hours.

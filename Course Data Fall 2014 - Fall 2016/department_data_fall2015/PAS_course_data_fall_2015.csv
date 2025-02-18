@@ -1,0 +1,230 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+PAS 10101 ,"ELEMENTARY KISWAHILI I
+",PAS,None.,None,"This course is an introduction to Kiswahili in which students will learn
+the essentials of speaking,reading and
+ writing the most extensively used language in East Africa."
+PAS 10102 ,"ELEMENTARY KISWAHILI II
+",PAS,PAS 10101.,None,"Continuation of PAS 10101, aimed at advancing student knowledge and communication skills in Kiswahili by
+ introducing Kiswahili literature, short narratives, proverbs, folktales."
+PAS 15200 ,"INTRODUCTION TO WEST AFRICAN CULTURES
+",PAS,none.,None,"Drawing on history, literature and social anthropology, students learn key events and places in W. Africa from
+ the 9th century to the 19th century, covering the Trans-Atlantic Slave trade and the development of long
+ distance networks, including Andalusian Spain, the trans-Saharan trade, the expulsion of Jews and Moors from
+ Spain, state formation in W.
+Africa, and the role of Saharan–Savannah relations in the expansion of the Atlantic
+ Slave Trade and the movement of European and African peoples to the Americas. The development of this
+ Atlantic world assured the economic centrality of W. Europe and eventually the US, due to the immense transfer
+ of labor and skills from W. Africa."
+PAS 20101 ,"KISWAHILI III
+",PAS,PAS 10102.,None,"Continuation of Kiswahili II, aimed at developing knowledge competence and recognition of Kiswahili usage in
+ all forms of Kiswahili literature."
+PAS 20102 ,"KISWAHILI IV
+",PAS,PAS 20101.,None,"Continuation of Kiswahili III, aimed at developing knowledge, competence
+and recognition of Kiswahili usage in
+ all forms of Kiswahili literature."
+PAS 20200 ,"RECOVERING THE PAST: KENT TO MEMPHIS
+",PAS,none.,None,"Examines relevance of John Brown, Frederick Loudin and Fisk Jubilee Singers, and Ida B. Wells anti-lynching
+ campaign today. Students travel to local Brown and Loudin sites, Harper's Ferry and Memphis."
+PAS 20300 ,"BLACK IMAGES
+",PAS,none.,None,"Examines the historical origins of racial images and anti-black perceptions through newspapers, magazines,
+ songs, plays, literature, textbooks, radio, television, films, comic books, etc. and the role of these images in
+ American culture past and present."
+PAS 22000 ,"CREATIVE WRITING IN THE BLACK WORLD
+",PAS,"ENG11011 or HONR 10197.
+",None,"Explores the major aesthetic and cultural issues that have historically shaped creative writing in the black world
+ and begins by exploring the African Griot tradition. Students learn about the African-American tradition in
+ literature as an organic part of the larger Pan-African world. Students are expected to write, perform, critique
+ and produce original works in the modes and performance styles of the global African
+world."
+PAS 22101 ,"AFRICAN AMERICAN VISUAL ARTISTS
+",PAS,None.,None,"An Afrocentric survey of visual and aural artistry, course examines cultural context and perspectives, mediums
+ of expression, form, style, content and patronage of African American artists from 1800."
+PAS 22200 ,"INTRODUCTION TO THE AFRICAN ARTS
+",PAS,None.,None,"Investigation of function of creative forms of artistic expression particular to experiences of Pan-African
+ community at home and abroad."
+PAS 23001 ,"BLACK EXPERIENCE I:BEGINNINGS TO 1865
+",PAS,None.,None,"Study and analysis of the African experience prior to, and following the
+arrival of Africans in the New World.
+ Emphasis on North and South America, Africa and Caribbean."
+PAS 23002 ,"BLACK EXPERIENCE II:1865 TO PRESENT
+",PAS,none.,None,"Covers the Black Experience from 1865 to the present, including events, ideas and persons in Africa, North and
+ South America, and the Caribbean."
+PAS 23095 ,"SPECIAL TOPICS IN PAN-AFRICAN LITERATURE AND COMMUNICATION SKILLS
+",PAS,none.,None,"(Repeatable for a maximum of 6 credit hours) Introduction to a current and specialized topic in Pan-African
+ Literature and/or communication skills."
+PAS 23310 ,"NATIVE AMERICAN CULTURE
+",PAS,none.,None,"Introduces American Indian culture, sovereignty and civil rights. Ensures an understanding of self-determination
+ in the context of the colonization and decolonization process, through the use of American Indian literature,
+ philosophy, politics and other cultural outlets. Being that we all live in a broader community, students also
+ examine historical and contemporary relationships with the African American community and other ethnic
+ communities in the US."
+PAS 23500 ,"THE AFROCENTRIC PERSPECTIVE
+",PAS,none.,None,"Introduces the history, philosophy and language of Afrocentricity, a mode of thought and action in which the
+ centrality of African interests,
+values and perspectives predominate."
+PAS 24000 ,"BLACK SHORT STORY
+",PAS,ENG 11011 or HONR 10197.,None,"Reading and analysis of short stories by important African, Caribbean and African American writers, as well as
+ an introduction to important themes in Black Literature."
+PAS 24407 ,"CARIBBEAN STUDIES
+",PAS,none.,None,"Focus on people of African descent in the West Indies and their way of life for the cultural contributions made to
+ Pan-African communities."
+PAS 24500 ,"JAZZ IMAGINES AFRICA
+",PAS,none.,None,"Students learn how to listen to jazz by exploring cultural and musical elements and gain an understanding of
+ raw musical materials from West Africa, how they arrived in the western hemisphere through the ""cultural
+ memory"" of Africans in bondage, and how those elements blended with materials from European music to
+ inspire the development of jazz. Students also explore Caribbean ""bush reggae,"" a precursor to what became
+ reggae, which contains some of the same root elements as jazz."
+PAS 25200 ,"EAST AFRICAN-KISWAHILI CULTURES
+",PAS,none.,None,"Students learn about the relationship between the Kiswahili language and
+the cultures of East African peoples,
+ especially those in Malawi, Mozambique, Zaire, Zambia and Zimbabwe. This includes geographical, historical
+ and sociological perspectives and an analysis of common cultural elements (music, literature, proverbs)."
+PAS 26000 ,"THE LEGACY OF SLAVERY
+",PAS,none.,None,"Examines the legacy of slavery through literature about the Reconstruction and Jim Crow periods; the writings
+ of Douglass, Washington, DuBois and Garvey; the impact of slavery on modern African American culture; and
+ an investigation of the reparations issue."
+PAS 26010 ,"THE BLACK REVOLUTION
+",PAS,none.,None,"Under the umbrella of Afrocentrism, this course examines black revolutionary thought in the U.S. from
+ historical, political, sociological and philosophical perspectives; beginning with the advent of the slave trade, it
+ emphasizes the tools, dynamics and strategies used to ensure the success of the black revolution, which is
+ depicted as
+still ongoing today and having many implications and ramifications for the future."
+PAS 30010 ,"AFRICAN AND AFRICAN-AMERICAN PHILOSOPHIES
+",PAS,None.,None,"Exploration of philosophical issues in African and African-American thought systems including examination of
+ traditional and emerging approaches to developing conceptions of African and African-American philosophies."
+PAS 30310 ,"BLACK HOLLYWOOD
+",PAS,none.,None,"Examines the complexities of race relations in the film industry and the
+need for “Hollywood” and Black
+ filmmakers to create films for mainstream audiences with a multitude of themes from the African American
+ experience in America and around the world."
+PAS 31092 ,"PRACTICUM IN AFRICAN THEATRE ARTS
+",PAS,none.,None,"(Repeatable for a maximum of 12 credit hours)Exposes students to fundamental techniques of stage through
+ auditory,visual and physical participation. (Students are evaluated in performance and related theater
+ activities.)"
+PAS 32001 ,"AFRICAN-AMERICAN LITERATURE TO 1900
+",PAS,ENG 21011 or HONR 10297.,None,"(Cross-listed with ENG 33010) Study of African-American literature from its beginning to 1900, including such
+writers as Wheatley, J. Hammon, Terry, B. Hammon, Jones, Marrant, Allen, Hall, Walker, Truth, Garnet,
+Douglass, Delany, Harper, Stewart, Turner, Jacobs, Keckley, Brown, Wilson, Griggs, Chesnutt and Dunbar."
+PAS 32002 ,"MODERN AFRICAN-AMERICAN LITERATURE
+",PAS,ENG 21011 or HONR 10297.,None,"Study of African-American literature from the early twentieth century to
+the present. The authors include
+ Toomer, Hughes, Larsen, Wright, Baldwin, Hansberry, Jones, Lorde, Walker, Morrison, Mosley, Youngblood and
+ Carter."
+PAS 32050 ,"AFRICAN LITERATURES
+",PAS,ENG 11011 or HONR 10197.,None,"(Cross-listed with ENG 33015) Examines works of major 20th-century African, African American and Caribbean
+ writers and intellectuals. Authors include Niane, Achebe, Emecheta, Prince, Hurston, Hughes, Cesaire, Senghor,
+ Soyinka and many others."
+PAS 33100 ,"AFRICAN AMERICAN FAMILY IN HISTORICAL PERSPECTIVES
+",PAS,none.,None,"Examines social, political, cultural and historical factors that have influenced the development of African-
+American family organization, from
+African shores through the American experience."
+PAS 33101 ,"AFRICAN AMERICAN HISTORY: SLAVERY TO FREEDOM
+",PAS,none.,None,"(Cross-listed with HIST 31080) Survey of African American history form the colonial period to 1877. Course
+ provides a general knowledge of the social, political and cultural history of African Americans from colonial
+ times to the end of the Reconstruction."
+PAS 33102 ,"AFRICAN AMERICAN HISTORY: RECONSTRUCTION TO THE PRESENT
+",PAS,PAS 33101 or HIST 31080.,None,"(Cross-listed with HIST 31081) Survey of African American history from 1877 to the present. Course provides a
+ general knowledge of social, political and cultural history of African Americans from the end of the
+Reconstruction to the present."
+PAS 33110 ,"THE BLACK WOMAN:HISTORICAL PERSPECTIVES
+",PAS,"sophomorestanding.
+",None,"Course surveys the experiences of African-American women throughout various periods of history, and their
+ roles in shaping the social, economic, political and cultural development of societies."
+PAS 33120 ,"THE BLACK MAN: HISTORICAL PERSPECTIVES
+",PAS,none.,None,"Focuses on various roles of the African American man within the context of the African experience and the
+ African diaspora."
+PAS 33130 ,"GENDER AND SEXUALITY IN AFRICA AND THE AFRICAN DIASPORA
+",PAS,none.,None,"Using lectures, videos, discussions, readings and application this course explores ways in which gender and
+ sexuality in Africa and the African Diaspora have and can be constructed, performed, articulated and
+ researched. Attention is also paid to the existence of LGBTQ identities
+within the global black community."
+PAS 33171 ,"THE AFRICAN-AMERICAN COMMUNITY
+",PAS,sophomore standing.,None,"Explores problems of African-American communities: public administration, transportation, health, public
+ finance, crime and justice, geography, black/demography and education."
+PAS 33200 ,"ANCIENT AFRICAN CIVILIZATIONS
+",PAS,none.,None,Examines the history of ancient African civilizations and their contributions to world history.
+PAS 33310 ,"LATINOS, THE AFRICAN DIASPORA AND AMERICAN SOCIETY
+",PAS,None.,None,"Introduction to Latino minorities. Focus on Mexican-Americans, Puerto Ricans and Cubans and African influences
+ on Latino culture."
+PAS 33508 ,"THE CARIBBEAN: QUEST FOR NATIONHOOD
+",PAS,none.,None,"Introduces the quest for Nationhood and the rise of nationalism in the Caribbean. Highlights the pursuit of
+ independence through the works of scholars, writers and artists."
+PAS 34000 ,"INTRODUCTION TO AFRICAN WORLD VIEW
+",PAS,PAS 23001 or PAS 23002.,None,"Investigates traditional African cosmological world views and aesthetics
+in global Africa. Students who do not
+ have prerequisites may request permission from instructor."
+PAS 34100 ,"ISLAMIC WEST AFRICA
+",PAS,sophomore standing.,None,"Familiarizes students with the cultural and historical specificities of Islamic communities in West Africa.
+ Beginning with the introduction of Islam into West Africa in the eighth century, this course takes a multi-
+disciplinary point of view and covers contemporary political issues as well as historical topics. Students are
+ provided the analytical tools and documentation to understand contemporary religious issues in West Africa and
+ the diversity in expression of thought and practice of Islamic West Africa."
+PAS 35100 ,"BLACK SOCIAL AND POLITICAL THOUGHT
+",PAS,junior standing.,None,"Study of the history and nature of social and political thought of African Americans including an overview of
+ various movements and individuals, as well as their strategies and tactics, in the struggle for social change in
+ the U.S. as it relates to black people."
+PAS 35200 ,"AFRICAN SOCIAL AND POLITICAL SYSTEMS
+",PAS,Junior standing.,None,"An African-centered focus on traditional african institutions as these interact with the Jihad Movements,
+ Western European incursion, the slave
+trade, colonialism, independence movements and contemporary issues."
+PAS 37000 ,"ORAL AND WRITTEN DISCOURSES IN PAN-AFRICAN STUDIES
+",PAS,ENG 21011 or HONR 10297.,None,"Examines the spoken and written English of African-Americans with some emphasis on mastering consensus
+ English writing skills required in upper-division PAS courses."
+PAS 37001 ,"THEORETICAL APPROACHES TO PAN-AFRICAN STUDIES
+",PAS,Sophomore standing.,None,A critical analysis of the diverse approaches to and underlying principles of Pan-African Studies.
+PAS 37010 ,"RESEARCH METHODS IN PAN-AFRICAN STUDIES
+",PAS,PAS 37000 AND 37001.,None,"This course will expose students to the basic components of research methods in Pan-African studies utilizing
+ multidisciplinary approaches."
+PAS 37020 ,"THE MODEL AFRICAN UNION
+",PAS,sophomore standing.,None,"Students examine role, structure and performance of the African Union in
+the search for solutions to key
+ economic, social and political-security
+issues facing Africa. Students attend the annual meeting of the Model
+African Union Conference in Washington D.C., which is a simulation of proceedings of the African Union,
+ augmented by briefings at African Embassies. Participants gain an understanding of the various determinants,
+ capabilities and constraints shaping the domestic and foreign policies of African countries."
+PAS 37100 ,"PAN-AFRICAN WOMEN'S LITERATURE
+",PAS,ENG 11011 or HONR 10197.,None,(Cross-listed with ENG 33013) Introduces students to literary works by African and Caribbean women.
+PAS 37150 ,"THE UNDERGROUND RAILROAD
+",PAS,none.,None,Examines the Underground Railroad and its impact as an American phenomenon.
+PAS 37200 ,"AFRICAN-AMERICAN WOMEN'S LITERATURE
+",PAS,ENG 11011 or HONR 10197.,None,(Cross-listed with ENG 33014) Introduces students to literary works by African-American women.
+PAS 40120 ,"CONTEMPORARY ISSUES IN AFRICAN-AMERICAN EDUCATION
+",PAS,none.,None,"This course examines the interrelationship of contemporary issues and the education of people of African
+ descent."
+PAS 41192 ,"PRACTICUM IN AFRICAN AMERICAN AFFAIRS
+",PAS,none.,None,"(Repeatable for a maximum of 12 credit hours) Guided involvements in urban areas with large African-American
+ populations to provide experience with community service, government agencies, public and private schools,
+ non-profit organizations, etc."
+PAS 42500 ,"BLACK EDUCATION IN AMERICA
+",PAS,PAS 23002.,None,"(Repeatable for a maximum of 6 credit hours) Analyzes the historical, social and political perspectives of
+ educating people of African descent
+in America."
+PAS 43095 ,"SPECIAL TOPICS IN PAN-AFRICAN LITERATURE, ARTS AND CULTURES
+",PAS,none.,None,"(Repeatable for credit) Broadens upper division offerings in holistic study and performance in Pan-African
+ literatures, arts and cultures."
+PAS 43200 ,"MALCOLM AND MARTIN
+",PAS,junior standing.,None,"A critical study of the major ideas and doctrines, including religious and theological beliefs, of Malcolm X and
+ Martin L. King and their roles
+in American history."
+PAS 43395 ,"SPECIAL TOPICS IN AFRICAN DIASPORA STUDIES
+",PAS,none.,None,"(Repeatable for a maximum of 12 credit hours)Study of selected topics related to people of African descent
+outside of the African continent including, but not limited to the Americas and Europe."
+PAS 44095 ,"SPECIAL TOPICS IN CONTEMPORARY AFRICA
+",PAS,none.,None,"(Repeatable for a total of 12 credit hours when topic varies) Study of selected topics related to contemporary
+ Africa."
+PAS 47091 ,"SENIOR SEMINAR IN PAN-AFRICAN STUDIES
+",PAS,PAS 37010,None,"Students prepare a capstone portfolio of their work to be presented to PAS faculty and develop individual topical
+ PAS research papers for presentation before departmental faculty, students and general public."
+PAS 47095 ,"SPECIAL TOPICS IN THEORETICAL AND APPLIED RESEARCH
+",PAS,none.,None,"(Repeatable for a maximum of 12 credit hours)Selected topics in the intellectual, cultural, political and historical
+ development of Pan-Africanism, its diverse theoretical approaches and multiple applications including the
+ Organization of African Unity."
+PAS 49093 ,"VARIABLE TITLE WORKSHOP IN PAS
+",PAS,special approval.,None,(Repeatable for credit)
+PAS 49095 ,"SELECTED TOPICS
+",PAS,none.2.000 OR ,None,"(Repeatable for credit)Scheduled topic announced. Intended to encourage further study in areas not treated
+ adequately in standard courses. Offered irregularly by available or visiting faculty."
+PAS 49096 ,"INDIVIDUAL INVESTIGATION
+",PAS,Junior or senior standing.,None,"(Repeatable once for credit)Research in areas of interest not available in departmental courses. Approval by
+ faculty member or chairperson necessary prior to registration."
