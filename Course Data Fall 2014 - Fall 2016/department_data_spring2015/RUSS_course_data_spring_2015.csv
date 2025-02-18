@@ -1,0 +1,92 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+RUSS 12201 ,"ELEMENTARY RUSSIAN I
+",RUSS,None,RUSS 12211.,An introduction to the Russian language in the context of Russian cultures.
+RUSS 12202 ,"ELEMENTARY RUSSIAN II
+",RUSS,RUSS 12201 and 12211. ,RUSS 12212.,A continuation of the introduction to the Russian language in the context of Russian cultures.
+RUSS 12211 ,"ELEMENTARY RUSSIAN I RECITATION
+",RUSS,None,RUSS 12201.,Reinforces material presented in Elementary Russian I (RUSS 12201). Must be taken with Elementary Russian I.
+RUSS 12212 ,"ELEMENTARY RUSSIAN II RECITATION
+",RUSS,RUSS 12201 and 12211. ,RUSS 12202.,"Reinforces material presented in Elementary Russian II (RUSS 12202). Must be taken together with Elementary
+ Russian II."
+RUSS 22201 ,"INTERMEDIATE RUSSIAN I
+",RUSS,RUSS 12202. ,RUSS 22211.,"Continued development of speaking, listening, reading and writing skills using a variety of cultural materials."
+RUSS 22202 ,"INTERMEDIATE RUSSIAN II
+",RUSS,RUSS 22201. ,RUSS 22212.,Continuation of RUSS 22201.
+RUSS 22211 ,"INTERMEDIATE RUSSIAN I RECITATION
+",RUSS,RUSS 12202 and 12212. ,RUSS 22201.,"Reinforces material presented in Intermediate Russian I (RUSS 22201). Must be taken together with
+ Intermediate Russian I."
+RUSS 22212 ,"INTERMEDIATE RUSSIAN II RECITATION
+",RUSS,RUSS 22201 and 22211. ,RUSS 22202.,"Reinforces material presented in Intermediate Russian II (RUSS 22202). Must be taken with Intermediate
+ Russian II."
+RUSS 32201 ,"INTENSIVE RUSSIAN GRAMMAR
+",RUSS,RUSS 22202 .,None,A systematic approach to Russian grammar and syntax.
+RUSS 32211 ,"COMPOSITION AND CONVERSATION
+",RUSS,RUSS 22202.,None,Introduction to advanced oral and written discourse strategies in Russian.
+RUSS 32215 ,"RUSSIAN PHONETICS AND DICTION
+",RUSS,RUSS 22202.,None,"Study of the Russian sound system with special emphasis on pronunciation and intonation. Application of the
+ international phonetic alphabet to Russian."
+RUSS 32231 ,"TRANSLATION PRACTICE:RUSSIAN
+",RUSS,None,TRST 30230.,"Translation practice with Russian texts using principles and techniques learned in the lecture class. To be taken
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1678
+concurrently with TRST 30230."
+RUSS 32240 ,"CONVERSATION FOR BUSINESS AND SPECIAL PURPOSES:RUSSIAN
+",RUSS,RUSS 32211.,None,"Introduction to the special vocabulary of business and other special subject areas; introduces the concept of
+ language for special purposes and emphasizes the use of special vocabulary in conversations in business and
+ other settings."
+RUSS 32303 ,"MODERN WRITERS
+",RUSS,RUSS 22202.,None,Reading and analysis of modern Russian plays and stories.
+RUSS 32325 ,"RUSSIAN POETRY AND FOLKLORE
+",RUSS,RUSS 32303.,None,Reading and analysis of major poems and introduction to folklore.
+RUSS 32421 ,"RUSSIAN CIVILIZATION
+",RUSS,RUSS 32303.,None,A survey of Russian history and intellectual life.
+RUSS 32501 ,"RUSSIAN LITERATURE IN ENGLISH
+",RUSS,"Sophomorestanding.
+",None,"This course is designed as a survey of major authors, movements and works of nineteenth and twentieth
+ century Russian literature in English translation. No knowledge of Russian required."
+RUSS 42093 ,"VARIABLE TITLE WORKSHOP IN RUSSIAN LANGUAGE AND LITERATURE
+",RUSS,Departmental special approval.,None,"(Repeatable for credit)Workshops individually designed to provide instruction and training in specific areas of
+ Russian studies."
+RUSS 42095 ,"SPECIAL TOPICS IN RUSSIAN LANGUAGE AND LITERATURES
+",RUSS,"Seniorstanding.
+",None,(Repeatable for credit when topic varies)Topic to be announced in schedule of classes.
+RUSS 42096 ,"INDIVIDUAL INVESTIGATION
+",RUSS,"6hours of upper-division Russian (RUSS) courses and special approval of the department chairperson.
+",None,(Repeatable for credit)Independent investigation of problems in Russian language or literature.
+RUSS 42211 ,"ADVANCED COMPOSITION AND CONVERSATION
+",RUSS,RUSS 32211.,None,A continuation of RUSS 32211.
+RUSS 42230 ,"ADVANCED TRANSLATION PRACTICE:RUSSIAN
+",RUSS,RUSS 32231.,None,"Theory and practice course that discusses translation theory and emphasizes Russian-to-English translation of
+ selected texts in business, technology, medicine and law."
+RUSS 42240 ,"BUSINESS AND SPECIAL TEXTS:RUSSIAN
+",RUSS,RUSS 32211.,None,"Survey of the typical text types of business in the Russian culture and language. Practice sessions focus on
+ reading and understanding specialized texts and on the translation and composition of selected special texts in
+ Russian."
+RUSS 42351 ,"SURVEY OF RUSSIAN AND SOVIET LITERATURE
+",RUSS,"6 hours of upper-division Russian (RUSS)courses.
+",None,"Introduces students to the major movements and authors of Russian, Soviet and post-Soviet literature
+ beginning with Karamizin and ending with Boris Akunin."
+RUSS 42399 ,"RESEARCH PROJECT IN RUSSIAN LANGUAGE AND LITERATURE
+",RUSS,"6 hours of 40000-level Russian (RUSS)courses and special approval.
+",None,(Repeatable for credit)Thesis or other independent study.
+RUSS 52211 ,"ADVANCED COMPOSITION AND CONVERSATION
+",RUSS,Graduate standing.,None,Advanced practice in written and oral expression in Russian.
+RUSS 62010 ,"THE PRACTICE OF RUSSIAN TRANSLATION
+",RUSS,graduate standing. ,TRST 60010.,Students apply linguistic and communication science concepts to case studies of language mediation.
+RUSS 62091 ,"SEMINAR
+",RUSS,"Graduatestanding.
+",None,(Repeatable for credit when topic varies)Topic announced in schedule of classes.
+RUSS 62098 ,"RESEARCH
+",RUSS,Graduate standing and departmental special approval.,None,"(Repeatable for credit)Research or individual investigation for master's level graduate students. Credits earned
+ applied toward degree requirements if department approves repeat registration permitted."
+RUSS 62240 ,"LITERARY AND CULTURAL TRANSLATION
+",RUSS,Graduate standing.,None,"Translation of documents from a variety of literary and cultural sources, including literature, expository and
+ journalistic prose, scholarly treaties and essays. Translation into Russian will also be emphasized."
+RUSS 62250 ,"COMMERCIAL, LEGAL AND DIPLOMATIC TRANSLATION
+",RUSS,TRST 60010 and graduate standing.,None,"An introduction to methods and resources for the translation of commercial, economic, financial, legal,
+ diplomatic and governmental documents."
+RUSS 62251 ,"SCIENTIFIC, TECHNICAL AND MEDICAL TRANSLATION
+",RUSS,TRST 60010 and graduate standing.,None,"An introduction to methods and resource for the translation of scientific, technical, industrial and medical
+ documents."
+RUSS 62979 ,"CASE STUDY IN TRANSLATION
+",RUSS,Special approval and graduate standing.,None,"Students will be responsible for a major translation and a terminology glossary as well as a critical analysis of
+ the source text, the problems encountered during the translation process and the strategies used to solve them."

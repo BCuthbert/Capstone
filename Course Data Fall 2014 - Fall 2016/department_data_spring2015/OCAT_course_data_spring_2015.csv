@@ -1,0 +1,61 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+OCAT 10000 ,"FOUNDATIONS IN OCCUPATIONAL THERAPY
+",OCAT,none.,None,"Introduction to basic theoretical concepts, professional development, profession of occupational therapy, its
+ place in the health care system, and the role and function of the Occupational Therapist and Occupational
+ Therapist Assistant."
+OCAT 10001 ,"OCCUPATIONAL THERAPY PRACTICE SKILLS II
+",OCAT,OCAT 10003 with minimum C grade.,None,"Development of the OT practice skills in therapeutic use of occupation, including crafts, activity analysis, and
+ basic documentation."
+OCAT 10002 ,"THERAPEUTIC TECHNIQUES I-PSYCHOSOCIAL
+",OCAT,OCAT 10003 with a minimum grade of C (2.000).,None,"Application of occupational therapy skills and techniques in treatment programs, concerned with psychosocial
+ dysfunction."
+OCAT 10003 ,"OCCUPATIONAL THERAPY PRACTICE SKILLS LABORATORY
+",OCAT,"occupational therapist assistant technology (OCAT) majors; and admission to technicalstudy.
+",None,"Development of basic assessment and intervention ski8lls as related to clients with physical and mental
+ disabilities."
+OCAT 10004 ,"OCCUPATIONAL THERAPY ASSISTANT TERMINOLOGY
+",OCAT,occupational therapy assistant technology (OCAT) major.,None,"An introduction to key terms utilized in occupational therapy and rehabilitation settings. emphasis is on
+ increasing professional understanding of occupational therapy terminology including related medical
+ terminology found in professional documentation. Student is introduced to Occupational Therapy Practice
+ Framework terminology."
+OCAT 10010 ,"PROFESSIONALISM IN HEALTHCARE
+",OCAT,none.,None,"Provides information concerning professional behaviors, character traits, work ethics and communication skills
+ that OTAs will need as they interact with other healthcare professionals. Students need to understand the
+ importance of being professional, competent, ethical and legal."
+OCAT 10092 ,"THERAPEUTIC TECHNIQUES - FIELDWORK 1A
+",OCAT,"OCAT 10003 with aminimum grade of C (2.000)
+",None,"Under the supervision of personnel in selected facilities or agencies, the student will apply knowledge, skills and
+ techniques acquired in the concurrent OCAT therapeutic technique courses."
+OCAT 20000 ,"THERAPEUTIC TECHNIQUES II-PHYSICAL DYSFUNCTION I
+",OCAT,Minimum grade of C (2.000) in OCAT 10001 and OCAT 10002.,None,"Application of occupational therapy skills and techniques in treatment programs, specifically concerned with
+ physical dysfunctions."
+OCAT 20001 ,"PROFESSIONAL ISSUES IN OCCUPATIONAL THERAPY
+",OCAT,OCAT 10002.,None,"Introduction to professional issues including ethics, licensure, reimbursement issues related to practice settings,
+ research and skills required for performing administrative tasks in the occupational therapy department."
+OCAT 20003 ,"OCCUPATIONAL THERAPY PRACTICE SKILLS III
+",OCAT,OCAT 10001 and OCAT 10002.,None,"Development of the occupational therapy practice skills including therapeutic use of occupation, leisure,
+ adapting equipment and environment, therapeutic exercises, activity analysis and documentation."
+OCAT 20004 ,"THERAPEUTIC TECHNIQUES III-DEVELOPMENTAL DISABILITIES
+",OCAT,OCAT 20000.,None,"Application of occupational therapy skills and techniques applied to patients/clients with developmental
+ disabilities."
+OCAT 20006 ,"THERAPY TECHNIQUES IV-PHYSICAL DYSFUNCTION II
+",OCAT,minimum grade of C (2.000) OCAT 10002 and OCAT 20000.,None,"Continued application of occupational therapy skills and techniques in treatment programs in the area of
+ physical dysfunction."
+OCAT 20092 ,"THERAPEUTIC TECHNIQUES - FIELDWORK 1B
+",OCAT,OCAT 10000 and OCAT 10002. ,OCAT 20000.,"Under the supervision of personnel in selected healthcare facilities or agencies, the student will apply
+ knowledge, skills, and techniques acquired in the concurrent OCAT therapeutic techniques course."
+OCAT 20192 ,"CLINICAL APPLICATIONS I
+",OCAT,"OCAT 10000 and 10001 and 10002 and 20000 and20001 and 20003 and 20006 all with grade of ""C"" or better.
+",None,"Under the supervision of personnel in selected healthcare agencies, the student will apply knowledge, skills and
+ techniques acquired in prior OCAT courses."
+OCAT 20292 ,"CLINICAL APPLICATIONS II
+",OCAT,"OCAT 10000, OCAT 10001, OCAT10002, OCAT 20000,OCAT 20001, OCAT 20003 and OCAT 20006. 
+",None,"Under the supervision of personnel in selected healthcare agencies, the student will apply knowledge, skills and
+ techniques acquired in prior OCAT courses."
+OCAT 21095 ,"SPECIAL TOPICS IN OCCUPATIONAL THERAPIST ASSISTANT TECHNOLOGY
+",OCAT,OCAT 10003.,None,"(Repeatable for credit) Special topics in Occupational Therapy Assistant Technology; topics announced when
+ scheduled."
+OCAT 21096 ,"INDIVIDUAL INVESTIGATION IN OCCUPATIONAL THERAPIST ASSISTANT
+",OCAT,OCAT 10003.,None,"TECHNOLOGY
+(Repeatable for credit) Individual study in Occupational Therapy Assistant Technology and related fields; open
+ to OCAT majors."

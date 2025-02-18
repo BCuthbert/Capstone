@@ -1,0 +1,1158 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+MUS 11110 ,"MUSIC FUNDAMENTALS
+",MUS,none.,None,"Introduction to the pitch and rhythmic aspects of music. Emphasis on aural skills and music notation. Prepares
+ students for MUS11111, Music Rudiments. No credit toward graduation for music majors or minors."
+MUS 11111 ,"MUSIC RUDIMENTS
+",MUS,"Music Theory Placement Test, score of 01.",None,"Introduction to the pitch and rhythmic aspects of music. Emphasis on aural/oral skills and music notation. No
+ credit toward graduation for music majors or minors."
+MUS 11121 ,"THEORY I
+",MUS,"Music Theory Placement Test, score of 02.",None,"Basic elements of music--harmonic, melodic, rhythmic--studied through analysis, composition, keyboard and
+ ear training. Diatonic materials emphasized."
+MUS 11122 ,"THEORY II
+",MUS,"MUS 11121 with a grade of C(2.00) or better.
+",None,"Continuation of basic elements of music--harmonic, melodic, rhythmic-- studied through analysis, composition,
+ keyboard, singing and ear training. Chromatic materials emphasized."
+MUS 17011 ,"PIANO CLASS FOR NONMUSIC STUDENTS
+",MUS,None.,None,"Development of basic skills required in playing piano, including familiarity with the keyboard and music
+ notation."
+MUS 17012 ,"PIANO CLASS FOR NONMUSIC STUDENTS
+",MUS,MUS 17011.,None,"Development of basic skills required in playing piano, including familiarity with the keyboard and music
+ notation."
+MUS 17111 ,"PIANO CLASS
+",MUS,Special approval.,None,"Preparatory piano. Piano literature and functional elements of sight-reading, transposition, harmonization, and
+ improvisation."
+MUS 17112 ,"PIANO CLASS
+",MUS,MUS 17111 with a grade of C (2.000) or better; and special approval.,None,"Preparatory piano. Piano literature and functional elements of sight-reading, transposition, harmonization, and
+ improvisation."
+MUS 18611 ,"SINGER'S DICTION I
+",MUS,Music (MUS) or music education (MUED) major.,None,"Foundational training and performance practice in phonetics and singing diction for the English, American,
+ Ecclesiastical Latin and Italian vocal repertoire."
+MUS 18612 ,"SINGER'S DICTION II
+",MUS,"Music (MUS) major and MUS 18611 with a grade ofC (2.000) or better.
+",None,"Foundational training and performance practice in phonetics and singing diction for the vocal repertoire of
+ French, German and selected other languages."
+MUS 20295 ,"SPECIAL TOPICS IN MUSIC
+",MUS,Music (MUS) major.,None,"(Repeatable for credit)Academic study in areas not offered adequately in the music curriculum. Topic areas are
+ of special interest to the faculty member."
+MUS 21111 ,"THEORY III
+",MUS,"minimum C (2.000) grade in MUS11122.
+",None,"Study of Western art music from the sixteenth through eighteenth centuries. Emphasis on analytical, aural,
+ compositional, and keyboard components of music theory."
+MUS 21112 ,"THEORY IV
+",MUS,"minimum C (2.000) grade in MUS21111.
+",None,"Study of Western art music from the nineteenth and early twentieth centuries. Emphasis on analytical, aural,
+ compositional and keyboard components of music theory."
+MUS 21113 ,"MUSIC PRODUCTION I
+",MUS,none.,None,"A practical introduction to digital audio production, study of basic computer assisted recording, editing and
+ music production."
+MUS 21114 ,"MUSIC PRODUCTION II
+",MUS,MUS 21113 and 21221 with minimum C (2.000) grade.,None,"A practical study of computer assisted composition and arranging covering MIDI, sequencing, synthesis,
+ sampling and video synchronization."
+MUS 21121 ,"MUSIC THEORY TO 1750
+",MUS,MUS 11122 with a grade of C (2.000) or better.,None,"Study of Western musical style from Gregorian chant through the Baroque period. Emphasis on aural,
+ compositional, written and keyboard approaches as appropriate to medieval, Renaissance and Baroque music."
+MUS 21122 ,"MUSIC THEORY FROM 1750 TO 1900
+",MUS,MUS 21121with a grade of C (2.000) or better.,None,"Study of Western musical style from the early classical to the late Romantic period. Emphasis on aural,
+ compositional, written and keyboard approaches as appropriate to classical and Romantic music."
+MUS 21211 ,"INTRODUCTION TO COMPOSITION
+",MUS,none.,None,"Introduction to beginning concepts involved with composing for band and orchestral instruments, voice, and
+ piano."
+MUS 21221 ,"AUDIO RECORDING I
+",MUS,minimum grade of C (2.000) in MUS 21113.,None,"A study of basic live and studio recording fundamentals and techniques, including signal flow, microphones and
+ recording equipment."
+MUS 21222 ,"AUDIO RECORDING II
+",MUS,MUS 21221 with minimum C (2.000) grade.,None,"A study of multi-track miking and recording techniques, session setup and management, and elements required
+ for the reference mix."
+MUS 21341 ,"COMMERCIAL MUSIC THEORY AND COMPOSITION
+",MUS,Minimum grade of C (2.000) in MUS 11121 and 11122.,None,"Application of the knowledge gained from Music Theory (MUS 11121 and 11122) to the study of popular music
+ through practical applications, particularly with regard to composition and improvisation."
+MUS 22111 ,"THE UNDERSTANDING OF MUSIC
+",MUS,none.,None,"A listening approach for the understanding of Western art music, folk and jazz. Particular attention is paid to
+ musical styles forms and compositional techniques as related to music history."
+MUS 22121 ,"MUSIC AS A WORLD PHENOMENON
+",MUS,none.,None,"An introduction to music as a world phenomenon. Study of selected art, folk and popular musics from world
+ cultures through live performances, tapes, films, video tapes and readings."
+MUS 22131 ,"SURVEY OF ROCK MUSIC HISTORY
+",MUS,none.,None,"A survey of Rock Music History from the 1950s through the twentieth century to today. Emphasis is on
+ recognizing music literature, prominent artists and music styles, as well as related cultural events. Modern
+media, especially the Internet, is an integral component of the course."
+MUS 23241 ,"MUSIC TEACHING AS A PROFESSION
+",MUS,Music (MUS) or music education (MUED) major.,None,"Basic teaching strategies and techniques; an overview of music teaching as a career; diversity, integration,
+ curriculum technology, classroom management, legal issues, personal skills and portfolio. Twenty (20) field
+ hours required."
+MUS 25011 ,"UNIVERSITY CHORUS
+",MUS,Special approval.,None,"(Repeatable for credit) Choral ensemble which studies and performs sacred and secular music for mixed voices.
+ Activities include performance on and off campus."
+MUS 25225 ,"UNIVERSITY BAND
+",MUS,None.,None,"(Repeatable for credit) Study and performance of music literature for wind band appropriate for music majors
+ and non-majors."
+MUS 25311 ,"CHAMBER MUSIC
+",MUS,Permission.,None,(Repeatable for credit) The study and performance of music for small ensembles.
+MUS 25312 ,"WORLD MUSIC ENSEMBLE
+",MUS,none.,None,"The World Music Ensemble teaches performance and cultural etiquette associated with traditional and popular
+ world music genres, e.g., African drumming. Specific traditions studied include areas of specialization of
+ instructors andor advanced student participants."
+MUS 27111 ,"PIANO CLASS
+",MUS,"MUS 17112with a grade of C (2.000) or better.
+",None,Continuation of piano classes. Credit acceptable on music major and minor sequences.
+MUS 27112 ,"PIANO CLASS
+",MUS,"MUS27111with a minimum grade of C (2.000).
+",None,Continuation of piano classes. Credit acceptable on music major and minor sequences.
+MUS 31111 ,"ADVANCED SIGHT SINGING
+",MUS,MUS 21122.,None,"Advanced sight singing and ear training. Sight singing in five clefs emphasizing vocal and instrumental works
+ from various periods including contemporary."
+MUS 31113 ,"MUSIC PRODUCTION III
+",MUS,"Minimum grade of C (2.000) in 21114; and musictechnology (MUST) major.
+",None,"Continuation of Music Production II. Advanced sequencing, synthesis and audio editing techniques as applied to
+ music production. Focus is on arranging."
+MUS 31114 ,"MUSIC PRODUCTION IV
+",MUS,"Minimum grade of C(2.000) in MUS 31113; and music technology (MUST) major.
+",None,"Continuation of Music Production III. Arranging for acoustic and electronic instruments as applied to music
+ production. Development of MIDI programming skills and use of sample sets."
+MUS 31121 ,"WESTERN MUSIC SINCE 1900
+",MUS,"MUS 21122 and MUS 32212, both with C (2.000) minimum grade.",None,"Class meets three hours per week. The study of western art music since 1900 from historical and theoretical
+ viewpoints. Emphasis on aural listening music composition and written skills as well as intellectual
+understanding."
+MUS 31211 ,"COMPOSITION
+",MUS,music (MUS) or music education (MUED) major.,None,"(Repeated for credit) original composition for instrumental and vocal solos and small ensembles using shorter
+ musical forms."
+MUS 31221 ,"AUDIO RECORDING III
+",MUS,"Minimumgrade of C (2.000) in MUS 21222; and music technology (MUST) major.
+",None,"A study of the elements, functions and techniques of digital audio multi-track mixing."
+MUS 31222 ,"AUDIO RECORDING IV
+",MUS,Minimum grade of C (2.000) in MUS 31221; and music technology (MUST) major.,None,"A detailed study of the tools, techniques and critical listening decisions required in creating a professional digital
+ audio mix."
+MUS 32211 ,"MUSIC HISTORY I
+",MUS,"MUS22111 (music major section) with a grade of C (2.000) or better; and junior standing.
+",None,A survey of Western music history from early Christian chants through the Baroque style.
+MUS 32212 ,"MUSIC HISTORY II
+",MUS,"MUS 22111 (music majorsection); and MUS 32211 with a grade of C (2.000) or better and junior standing.
+",None,A survey of Western music history of the 18th and 19th centuries.
+MUS 33211 ,"ELEMENTARY AND SECONDARY GENERAL MUSIC
+",MUS,"grade of C (2.000) or better inMUS 23241; and music (MUS) or music education (MUED) major; and junior standing.
+",None,"Kodaly, Orff, Dalcroze and current strategies appropriate for early childhood K-12 general music classrooms.
+ Emphasis on teaching diverse learners, including special student populations. Clinical experience in the teaching
+ of general music in the schools. Forty (40) field hours required."
+MUS 33212 ,"TEACHING SKILLS IN MUSIC EDUCATION:GENERAL/INSTRUMENTAL
+",MUS,Music (MUS) major and junior standing. ,MUS 33211 or MUS 43231.,Clinical experience in the teaching of general and instrumental music. Fifteen field hours required.
+MUS 33213 ,"TEACHING SKILLS IN MUSIC EDUCATION:CHORAL/ORCHESTRAL
+",MUS,MUS 33212; and music (MUS) or music education (MUED) major; and junior standing. ,"MUS 33231or MUS 43211.
+",Clinical experience in the teaching of choral and instrumental music. Fifteen field hours required.
+MUS 33214 ,"MUSIC TECHNOLOGY FOR MUSIC EDUCATORS
+",MUS,music education (MUED) major.,None,"The application of technologies specific to music instruction and learning for music education majors. Emphasis
+ is placed on project-based instruction focusing on the practical uses of technology in school settings."
+MUS 33231 ,"ELEMENTARY AND SECONDARY CHORAL MUSIC
+",MUS,"grade of C (2.000) or better in MUS23241 and 34111; and junior standing.
+",None,"Methods, materials, and literature used in elementary and secondary choral music programs; designing a choral
+ curriculum, advocacy and assessment, lesson planning, program organization, budget. Clinical experience in the
+ teaching of choral music. Forty (40) field hours required."
+MUS 34111 ,"ELEMENTARY CONDUCTING
+",MUS,"MUS 21121with a minimum grade of C(2.000).
+",None,"Introduction to and study of conducting: beat patterns, baton techniques, score reading, analysis and
+ interpretive elements. Six field/clinical hours are required."
+MUS 34211 ,"ELEMENTARY AND SECONDARY GENERAL MUSIC
+",MUS,"minimum C (2.000) grade inMUS 23241; and music (MUS) or music education (MUED) major; and junior standing.
+",None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1293
+Kodaly, Orff, Dalcroze, and current strategies appropriate for early childhood K-12 general music classrooms.
+ Emphasis on teaching diverse learners, including special student populations. Clinical experience in the teaching
+ of general music in the schools. Thirty (30) field hours required."
+MUS 34212 ,"ELEMENTARY AND SECONDARY CHORAL MUSIC
+",MUS,"minimum C (2.000) grade in MUS23241 and 34111; and junior standing.
+",None,"Methods, materials, and literature used in elementary and secondary choral music programs; designing a choral
+ curriculum, advocacy and assessment, lesson planning, program organization, budget. Clinical experience in the
+ teaching of choral music. Thirty (30) field hours required."
+MUS 35213 ,"STUDIO ENSEMBLE
+",MUS,special approval.,None,"(Repeatable for a maximium of 16 credit hours) Development of ensemble skills through small group experience
+ performing diverse popular styles from notation, developing improvisation skills and creating arrangements
+ from lead charts. Students must audition for the director prior to registration for the course."
+MUS 36011 ,"APPLIED MUSIC - JAZZ
+",MUS,"audition and specialapproval.
+",None,(Repeatable for credit)Private instrumental instruction in Jazz techniques.
+MUS 36111 ,"APPLIED MUSIC-PIANO
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1294
+majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36311 ,"APPLIED MUSIC-VOICE
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36411 ,"APPLIED MUSIC-VIOLIN
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36412 ,"APPLIED MUSIC-VIOLA
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36413 ,"APPLIED MUSIC-CELLO
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36414 ,"APPLIED MUSIC-DOUBLE BASS
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36511 ,"APPLIED MUSIC-FLUTE
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36512 ,"APPLIED MUSIC-OBOE
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36513 ,"APPLIED MUSIC-CLARINET
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36514 ,"APPLIED MUSIC-BASSOON
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36515 ,"APPLIED MUSIC-SAXOPHONE
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36611 ,"APPLIED MUSIC-TRUMPET
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36612 ,"APPLIED MUSIC-HORN
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36613 ,"APPLIED MUSIC-TROMBONE
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36614 ,"APPLIED MUSIC-EUPHONIUM
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36615 ,"APPLIED MUSIC-TUBA
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36711 ,"APPLIED MUSIC-PERCUSSION
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36912 ,"APPLIED MUSIC-GUITAR
+",MUS,"Music (MUS), music technology (MUST) or music education (MUED) major.2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 36913 ,"APPLIED STUDIO MUSICIANSHIP
+",MUS,special approval.,None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1299
+(Repeatable for a maximum of 16 credit hours) Development of performance proficiency in contemporary
+ popular music styles appropriate for the performance idiom through individual instruction. Students must
+ audition for the director prior to registration for the course."
+MUS 37111 ,"FUNCTIONAL PIANO
+",MUS,"MUS 21122 with a minimumC (2.000) grade.
+",None,Development of keyboard facility for practical purposes in classroom.
+MUS 37113 ,"PIANO SKILLS FOR THE CHORAL/GENERAL MUSIC EDUCATOR
+",MUS,MUS 11122 and 36111 with a minimum grade of C (2.000).,None,Development of keyboard skills for practical purposes in the classroom and ensemble rehearsals.
+MUS 37114 ,"PIANO SKILLS FOR THE INSTRUMENTAL MUSIC EDUCATOR
+",MUS,"11122 with a minimum grade of C (2.000); and MUS 17112 with a minimum grade of C (2.000) or minimumscore of 80 on piano placement test.
+",None,Development of keyboard skills for practical purposes in the classroom and ensemble rehearsals.
+MUS 40092 ,"MUSIC TECHNOLOGY INTERNSHIP
+",MUS,"Minimum grade of C(2.000) in MUS 31114 or 31222; and a cumulative 2.250 GPA; and music technology (MUST) major and special
+ approval.
+",None,"(Repeatable for a maximum of 4 credit hours) On-the-job experience with cooperating business in the field of
+ music technology and preparation of a final report or an applicable project."
+MUS 40295 ,"SPECIAL TOPICS IN MUSIC
+",MUS,None.,None,"(repeatable for a total of 12 hours) Academic study in areas not offered adequately in the music curriculum.
+ Topic areas are of special interest to the faculty member."
+MUS 40296 ,"INDEPENDENT STUDY:MUSIC
+",MUS,"Music (MUS) or music education (MUED) majorand special approval.
+",None,"(Repeatable for credit)Individual investigation in music topics not offered as either regular coursework or
+ beyond the scope of existing music major courses."
+MUS 41111 ,"PRACTICUM IN MUSIC THEORY
+",MUS,Permission.,None,"Ear training,sight singing and analysis in preparation for graduate level music theory course work."
+MUS 41112 ,"WESTERN MUSIC SINCE 1945
+",MUS,"minimum C (2.000) grade in MUS 21112and MUS 32212.
+",None,"The study of Western art music since 1945 from historical and theoretical viewpoints. Emphasis on analysis,
+ composition, listening and intellectual understanding."
+MUS 41113 ,"MUSIC PRODUCTION V
+",MUS,"Minimum grade of C (2.000) in MUS 31114; andmusic technology (MUST) major.
+",None,"Continuation of Music Production IV, advanced sequencing, synthesis and audio editing techniques as applied to
+ music production. Focus is on original music."
+MUS 41114 ,"MUSIC PRODUCTION VI
+",MUS,Minimum grade of C (2.000) in MUS 41113.,None,"Continuation of Music Production V, create music to accompany a visual medium by learning fundamental to
+ more advanced film scoring techniques."
+MUS 41131 ,"KEYBOARD HARMONY
+",MUS,"MUS 21122 with a minimum grade of C(2.000).
+",None,"Theoretical skills demonstrated at the keyboard: harmonization of melodies in homophonic style, realization of
+ figured bass, score reading, modulation and improvisation."
+MUS 41141 ,"SIXTEENTH-CENTURY COUNTERPOINT
+",MUS,"MUS 21122 with a minimumgrade of C (2.000).
+",None,"Two-, three -and four part vocal counterpoint in 16th century style."
+MUS 41151 ,"EIGHTEENTH-CENTURY COUNTERPOINT
+",MUS,"MUS 21122with a minimum grade of C (2.000).
+",None,"Technique of writing counterpoint in 18th-century style, especially that of J. S. Bach."
+MUS 41161 ,"ADVANCED MUSICAL ANALYSIS
+",MUS,"MUS 31121 with a minimum grade of C(2.000).
+",None,"A study of 20th-century approaches to tonal and nontonal musical analysis. Emphasis on familiarity with styles,
+ nomenclature and appropriate graphic techniques."
+MUS 41181 ,"ACOUSTICS AND TECHNOLOGY IN MUSIC
+",MUS,"musictechnology (MUST) major.
+",None,"An introduction to acoustics and psychoacoustics in direct relationship to music, and an introduction to uses of
+ technology in music composition, performance, notation, theory, history and pedagogy."
+MUS 41199 ,"SENIOR PROJECT:MUSIC THEORY
+",MUS,Permission.,None,(Repeatable for credit)Preparation and presentation of a senior thesis in the student's area of expertise.
+MUS 41211 ,"COMPOSITION
+",MUS,"Composition (COMP) or music (MUS) or music education(MUED) major.
+2.000 OR ",None,"Study of the materials and techniques of musical composition culminating in original works based upon
+ observable principles of unity and variety."
+MUS 41221 ,"AUDIO RECORDING V
+",MUS,"Minimum grade of C (2.000) in MUS31222; and music technology (MUST) major.
+",None,"A detailed study in digital audio production techniques and procedures, including project management, final
+ product editing and assembly, and digital audio mastering."
+MUS 41222 ,"AUDIO RECORDING VI
+",MUS,"minimum grade of C(2.000) in MUS 41221.
+",None,"A comprehensive project experience in digital audio from pre-production through the recording, mixing,
+ mastering, assembly and post-production of a complete audio project."
+MUS 41299 ,"SENIOR PROJECT:MUSIC COMPOSITION
+",MUS,MUS 41211 with a minimum grade of C (2.000).,None,"(Repeatable for credit)The final composition experience prior to graduation: a recital of individually composed
+ works must be presented."
+MUS 41321 ,"ORCHESTRATION
+",MUS,"MUS 21122 with aminimum grade of C (2.000).
+",None,"Ranges, tonal possibilities, technical limitations and transpositions for all orchestral instruments. Scoring
+ techniques and analysis of representative instrumental ensemble repertoire."
+MUS 41341 ,"JAZZ IMPROVISATION I
+",MUS,special approval.,None,"(Repeatable for a total of 4 credit hours) A beginner's introduction to Jazz improvisation. Theory and daily
+ playing will be enhanced by ear training."
+MUS 41342 ,"JAZZ COMPOSING AND ARRANGING
+",MUS,special approval.,None,(Repeatable for a maximum of 4 credit hours) Composing and arranging for the large and small jazz ensemble.
+MUS 41351 ,"JAZZ IMPROVISATION II
+",MUS,"MUS 41341 with aminimum grade of C (2.000) or special approval via audition.
+",None,The presentation of a methodical approach to learning standard Jazz repertoire.
+MUS 42101 ,"ROOTS OF ROCK
+",MUS,none.,None,"Roots of Rock is a comprehensive survey of the various genres of American music in the 20th century that
+ contributed to the development of rock music. Important performers in various styles and their contributions to
+ the art form are explored. Pioneers in the fields of recording, artist management and production are studied.
+ Rock music’s contributions to the emergence of American culture are viewed in the context of social, racial and
+ political changes. The impact of technological advances in radio, recording and television are also studied."
+MUS 42111 ,"AFRICAN MUSIC AND CULTURES
+",MUS,None.,None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1305
+African music as related to social sciences and humanities. Oral traditions. Use of music recordings, tapes,
+ musical instruments, participation in performance and group work involvement."
+MUS 42131 ,"AMERICA'S MUSIC
+",MUS,None.,None,Historical survey of music in America from new England psalmody to present-day compositional trends.
+MUS 42141 ,"FOLK AND TRADITIONAL MUSIC OF WESTERN CONTINENTS
+",MUS,None.,None,"Study of selected music cultures of Eastern and Western Europe, and South, Central and North America."
+MUS 42151 ,"ASIAN MUSICS
+",MUS,None.,None,"Survey of Asian musics. Emphasis on art, folk and popular musics and relationships of these musics to their
+ respective cultures."
+MUS 42161 ,"HISTORY OF JAZZ
+",MUS,None.,None,The evolution of jazz from its origin to present.
+MUS 42181 ,"POPULAR WORLD MUSIC
+",MUS,none.,None,"A survey of popular world music genres from North America, the Caribbean, South America, Europe, Africa and
+ Asia. Emphasis is on recognizing music literature, prominent artists and music styles, as well as related cultural
+ events. Modern media, especially the Internet, is an integral component of the course."
+MUS 42221 ,"SYMPHONIC LITERATURE
+",MUS,"MUS 21122 with aminimum grade of C (2.000).
+",None,Historical and stylistic survey of music for large instrumental ensemble.
+MUS 42232 ,"PIANO LITERATURE I
+",MUS,music (mus) major.,None,"Survey of keyboard suites, sonatas and concerti from the 16th century to the present. Emphasis on performing,
+ listening, and analysis."
+MUS 42241 ,"PIANO LITERATURE
+",MUS,Special approval.,None,"Survey of keyboard and piano literature from the 16th century to the present ;study of related forms and
+ styles. Emphasis on performing listening and analysis."
+MUS 42242 ,"PIANO LITERATURE II
+",MUS,music (MUS) major.,None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1307
+Survey of character pieces and variations from the 16th century to the present. Emphasis on performing,
+ listening, and analysis."
+MUS 42251 ,"SONG LITERATURE
+",MUS,"MUS 22111 minimum grade of C (2.000)grade; and junior standing.
+",None,"A study of vocal literature from the 16th century to the present. Emphasis upon the style, interpretation and
+ presentation of solo materials for all voice classifications."
+MUS 42261 ,"OPERA LITERATURE
+",MUS,MUS 22111 with a minimum C (2.000) grade; and junior standing.,None,"The historical development of opera from the 17th century to the present. Detailed analysis of representative
+ works."
+MUS 42271 ,"CHORAL LITERATURE I
+",MUS,"MUS 31121with a minimum grade of C (2.000) andspecial approval of instructor.
+",None,"Study of Western European choral literature from approximately 1450 to the early nineteenth century, i.e.,
+ Renaissance, Baroque and Classical periods."
+MUS 42272 ,"CHORAL LITERATURE II
+",MUS,"MUS31121 with a minimum grade of C (2.000); and special approval from the instructor.
+",None,"Choral Literature II, a continuation of Choral Literature I, is a study of Western European and North American
+ choral music of the early nineteenth century to the present (roughly 1830 to the present)."
+MUS 42357 ,"STUDENT TEACHING
+",MUS,"Music education (MUED) majorand special approval; and Official valid certification of Child Safety Training, approved Basic Life Support and
+ A.L.I.C.E. Training must be presented to the campus office of clinical experience or designated faculty/staff at
+ Regional campuses as prerequisite for student teaching. ",MUS 49525.,"Provides a 16-week student teaching experience. Off-campus arrangements are handled by the College of
+ Education, Health and Human Services and the School of Music."
+MUS 43211 ,"INSTRUMENTAL METHODS II
+",MUS,"grade of C (2.000) or better in MUS 23241 and 34111 and 43231; and 3 credits with a C (2.000)or better in MUS 47411 or 47511 or 47611 or 47711; and junior standing.
+",None,"Secondary instrumental instruction; program organization, budget, advocacy, assessment, rehearsal planning,
+ literature and teaching techniques. Clinical experience in the teaching of music. Forty (40) field hours required."
+MUS 43231 ,"INSTRUMENTAL METHODS I
+",MUS,"grade of C (2.000) or betterin MUS 23241; and 2 credits with a C or better in MUS 47411 or 47511 or 47611 or 47711; music (MUS) or
+ music education (MUED) major; and junior standing.
+",None,"Elementary and middle school instrumental instruction, program organization, rehearsal teaching techniques,
+ lesson plans, literature, assessment, scheduling, recruiting, modeling and interactive teaching. Clinical
+ experience in the teaching of music. Forty (40) field hours required."
+MUS 43241 ,"MARCHING BAND TECHNIQUES AND LITERATURE
+",MUS,music education (MUED) major and sophomore standing.,None,"anization, administration and techniques of marching bands in the schools. Topics covered include musical
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1309
+styles, literature and show design."
+MUS 43242 ,"JAZZ ENSEMBLE TECHNIQUES AND LITERATURE
+",MUS,special approval.,None,"Study of the curriculum for the jazz ensemble,including organizational and administrative procedures. Emphasis
+ on music interpretation jazz styles and rehearsal techniques taught through laboratory experience."
+MUS 43243 ,"VOCAL JAZZ AND MUSICAL THEATRE IN THE SCHOOLS
+",MUS,Music (MUS) major and junior standing.,None,"History, vocal technique, style characteristics and repertoire necessary for teaching vocal jazz and African-
+American spirituals. Repertoire organization and publicity for school productions of American musical theatre."
+MUS 43245 ,"JAZZ ENSEMBLE TECHNIQUES AND LITERATURE
+",MUS,special approval.,None,"(Slashed with MUS 53245) Study of the curriculum for the jazz ensemble, including organizational and
+ administrative procedures. Emphasis on music interpretation of jazz styles and rehearsal techniques taught
+through laboratory experiences. One hour of field observation is required."
+MUS 44111 ,"CHORAL CONDUCTING AND ARRANGING
+",MUS,MUS 34111.,None,"Continued development of conducting technique, score reading analysis, styles, interpretation, rehearsal
+ procedure, language pronunciation and arranging for voices and instruments. Six field/ clinical hours are
+required."
+MUS 44121 ,"INSTRUMENTAL CONDUCTING AND ARRANGING
+",MUS,MUS 34111 with a minimum grade of C (2.000).,None,"Continued development of conducting technique, score reading analysis, styles, interpretation, rehearsal
+ procedure and arranging for instrumental organizations. Twelve field/clinical hours are required."
+MUS 44211 ,"INSTRUMENTAL METHODS I
+",MUS,"minimum C (2.000) grade inMUS 23241; and 2 credits from MUS 47412, MUS 47512, MUS 47513, MUS 47612 or MUS 47712 with a
+ minimum C (2.000) grade; and music (MUS) or music education (MUED) major; and junior standing.
+",None,"Elementary and middle school instrumental instruction, program organization, rehearsal teaching techniques,
+ lesson plans, literature, assessment, scheduling, recruiting, modeling and interactive teaching. Clinical
+ experience in the teaching of music. Thirty (30) field hours required."
+MUS 44212 ,"INSTRUMENTAL METHODS II
+",MUS,"minimum C (2.000) grade in MUS 23241, MUS 34111 and MUS 44211; and minimum C (2.000)grade in either MUS 47412, MUS 47512, MUS 47512, MUS 47612 or MUS 47712; and junior standing.
+",None,"Secondary instrumental instruction; program organization, budget, advocacy, assessment, rehearsal planning,
+ literature and teaching techniques. Clinical experience in the teaching of music. Thirty (30) field hours required."
+MUS 45111 ,"UNIVERSITY CHOIR
+",MUS,Special approval.,None,"(Repeatable for credit) Study and performance of choral music from Renaissance through contemporary styles,
+ large and small forms with appropriate accompaniment."
+MUS 45121 ,"KENT CHORUS
+",MUS,Special approval.,None,"(Repeatable for credit) Study and performance of choral music from Renaissance through contemporary styles,
+ large and small forms with appropriate accompaniment."
+MUS 45131 ,"OPERA:SINGER-ACTOR TECHNIQUES
+",MUS,Audition.,None,"(Repeatable for credit) Training in methods and skills necessary to the art of the singer-actor. Opera performed
+ and prepared via study observation and rehearsal."
+MUS 45141 ,"KENT STATE UNIVERSITY CHORALE
+",MUS,special approval.,None,"(Repeatable for credit) Study and performance of literature for vocal chamber ensemble from medieval through
+ contemporary styles with appropriate accompaniment sung in the original language. An audition is required
+ before registering for this course."
+MUS 45142 ,"MEN'S CHORUS
+",MUS,special approval.,None,"(Repeatable for credit) A chorus of male voices. Emphasis on music literacy, vocal production instruction study
+ and performance of music written for male voices. All western music periods are represented. Experience with
+ mixed voice choirs also occurs."
+MUS 45143 ,"WOMEN'S CHORUS
+",MUS,special approval.,None,"(Repeatable for credit) A chorus of women's voices. Emphasis on music literacy, vocal production instruction
+ study and performance of music written for women's voices. All western music periods are represented.
+Experience with mixed voice choirs also occurs."
+MUS 45151 ,"KENT STATE UNIVERSITY GOSPEL CHOIR
+",MUS,None.,None,"(Repeatable for credit) Study and performance of choral music in the gospel tradition, including works by
+ contemporary artists. One weekly rehearsal and a minimum of one concert per semester. Off-campus concerts
+ are possible."
+MUS 45212 ,"ORCHESTRA
+",MUS,special approval.,None,"(Repeatable for credit) A select group of instrumentalists for the purpose of studying and performing music
+ written specifically for chamber orchestra including works of the 17th,18th and 20th centuries. An audition is
+ required before registering for this course."
+MUS 45221 ,"CONCERT BAND
+",MUS,Audition.,None,(Repeatable for credit) Study and performance of music literature for wind band.
+MUS 45222 ,"MARCHING BAND
+",MUS,Audition.,None,(Repeatable for credit) Study and performance of literature and maneuvers for marching band.
+MUS 45223 ,"WIND ENSEMBLE
+",MUS,special approval.,None,"(Repeatable for credit) A select concert ensemble that performs the finest in wind instrument literature with
+ emphasis on major original works. An audition is required before registering for this course."
+MUS 45224 ,"FLASHER BRASS
+",MUS,Audition.,None,(Repeatable for credit) Study and performance of music for Flasher Brass.
+MUS 45225 ,"UNIVERSITY BAND
+",MUS,None.,None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1314
+(Repeatable for credit) Study and performance of music literature for wind band appropriate for non-music
+ majors, and for music education majors performing on secondary instruments."
+MUS 45231 ,"JAZZ ENSEMBLE
+",MUS,Audition.,None,(Repeatable for credit) Study and performance of music literature in the jazz idiom.
+MUS 45241 ,"TROMBONE ENSEMBLE
+",MUS,Audition.,None,"(Repeatable for credit) A thorough study of trombone performance in various sized ensembles. Emphasis on
+ original literature from over four centuries."
+MUS 45251 ,"PERCUSSION ENSEMBLE
+",MUS,Audition.,None,"(Repeatable for credit) A comprehensive study of percussion performance in various-sized ensembles. Use of
+ keyboard percussion instruments along with drums and accessories. Study of percussion ensemble literature."
+MUS 45261 ,"BASSOON ENSEMBLE
+",MUS,Permission audition.,None,"(Repeatable for credit) Study and performance of music for multiple bassoons;emphasis upon refined ensemble
+ playing interpretation leadership skills and arranging techniques."
+MUS 45271 ,"NEW MUSIC ENSEMBLE
+",MUS,Permission.,None,"(Repeatable for credit) Study and performance of 20th-century chamber music with an emphasis on works by
+ contemporary composers."
+MUS 45281 ,"FLUTE ENSEMBLE
+",MUS,Permission audition.,None,"(Repeatable for credit) Study and performance of music for multiple flutes;emphasis upon all aspects of
+ ensemble playing and style considerations will be addressed in both chamber and conducted formats."
+MUS 45311 ,"CHAMBER MUSIC
+",MUS,Permission.1.000 OR ,None,(Repeatable for credit) The study and performance of music for small ensembles.
+MUS 45312 ,"JAZZ COMBO DEVELOPMENT
+",MUS,special approval.,None,(Repeatable for a total of 8 credit hours) The study of Jazz combo performance through rehearsal.
+MUS 45321 ,"ACCOMPANYING
+",MUS,Permission.1.000 OR ,None,"(Repeatable for credit) Accompanying instrumental and vocal soloists;piano ensemble works. Credit counted
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1316
+toward ensemble requirements. One hour credit for two hours of assigned accompanying weekly."
+MUS 46111 ,"APPLIED MUSIC-PIANO
+",MUS,Music (MUS) or music education (MUED) major.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46311 ,"APPLIED MUSIC-VOICE
+",MUS,Music (MUS) or music education (MUED) major.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46411 ,"APPLIED MUSIC-VIOLIN
+",MUS,Music (MUS) or music education (MUED) major.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46412 ,"APPLIED MUSIC-VIOLA
+",MUS,Music (MUS) or music education (MUED) major.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46413 ,"APPLIED MUSIC-CELLO
+",MUS,Music (MUS) or music education (MUED) major.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46414 ,"APPLIED MUSIC-DOUBLE BASS
+",MUS,Music (MUS) or music education (MUED) major.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46511 ,"APPLIED MUSIC-FLUTE
+",MUS,Music (MUS) or music education (MUED) major and special approval.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46512 ,"APPLIED MUSIC-OBOE
+",MUS,Music (MUS) or music education (MUED) major and special approval.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46513 ,"APPLIED MUSIC-CLARINET
+",MUS,Music (MUS) or music education (MUED) major and special approval.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46514 ,"APPLIED MUSIC-BASSOON
+",MUS,Music (MUS) or music education (MUED) major and special approval.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46515 ,"APPLIED MUSIC-SAXOPHONE
+",MUS,Music (MUS) or music education (MUED) major and special approval.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46611 ,"APPLIED MUSIC-TRUMPET
+",MUS,Music (MUS) or music education (MUED) major.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46612 ,"APPLIED MUSIC-HORN
+",MUS,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1319Music (MUS) or music education (MUED) major.
+2.000 OR ",None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46613 ,"APPLIED MUSIC-TROMBONE
+",MUS,Music (MUS) or music education (MUED) major.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46614 ,"APPLIED MUSIC-EUPHONIUM
+",MUS,Music (MUS) or music education (MUED) major.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46615 ,"APPLIED MUSIC-TUBA
+",MUS,Music (MUS) or music education (MUED) major.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46711 ,"APPLIED MUSIC-PERCUSSION
+",MUS,Music (MUS) or music education (MUED) major.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 46912 ,"APPLIED MUSIC-GUITAR
+",MUS,Music (MUS) or music education (MUED) major.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 47012 ,"FOLK GUITAR CLASS I
+",MUS,None.,None,Development of basic folk guitar performance skills.
+MUS 47013 ,"FOLK GUITAR CLASS II
+",MUS,MUS 47012.,None,"Continued development of acoustic guitar performance skills, study of performance related theory and related
+ topics such as open tuning and slide guitar."
+MUS 47014 ,"FOLK GUITAR FOR THE MUSIC EDUCATOR
+",MUS,"Music education(MUED) major.
+",None,Development of basic folk guitar performance skills for music education majors.
+MUS 47311 ,"VOICE CLASS FOR THE INSTRUMENTALIST
+",MUS,"Music(MUS) or Music Eucation (MUED) major.
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1321
+",None,"Class instruction in the fundamentals of correct breathing, tone production and diction."
+MUS 47312 ,"VOICE CLASS FOR NON-MUSIC STUDENTS
+",MUS,none.,None,"Class instruction in the fundamentals of correct breathing, tone production and diction."
+MUS 47411 ,"STRING CLASS
+",MUS,"Music (MUS) or music education(MUED) major.
+",None,"Class lessons in basic playing skills, methodology, teaching materials and maintenance of string instruments to
+ enable the student to teach string classes in public schools."
+MUS 47412 ,"STRING CLASS
+",MUS,music (MUS) or music education (MUED) major.,None,"A discussion and practice of basic principles of classroom string playing, instrumental pedagogy, and group
+ process as applied to public school music settings. This course is devoted to string teaching and learning in pre-
+service music education training."
+MUS 47511 ,"WOODWIND CLASS
+",MUS,Music (MUS) or music education (MUED) major.,None,"Study of fundamental principles of performance on woodwind instruments; methods and materials for class and
+ private instruction."
+MUS 47512 ,"WIND TECHNIQUES - FRENCH HORN AND DOUBLE REEDS
+",MUS,Music (MUS) or Music Education (MUED) major.,None,"The study of the fundamental principles of playing and teaching French horn, oboe, and bassoon. Content
+ includes performance skill development, and a survey of materials and method books suitable for class and
+private instruction. The overall objective is to develop an elementary skill level of performance on the
+ instruments and the pedagogical knowledge necessary to teach the instruments in elementary through
+secondary levels."
+MUS 47513 ,"WIND TECHNIQUES - FLUTE, CLARINET, SAXOPHONE
+",MUS,music (MUS) or music education (MUED).,None,"The study of the fundamental principles of playing and teaching flute, clarinet, and saxophone. Content includes
+ performance skill development, and a survey of materials and method books suitable for class and private
+ instruction. The overall objective is to develop an elementary skill level of performance on the instruments and
+ the pedagogical knowledge necessary to teach the instruments in elementary through secondary levels."
+MUS 47611 ,"BRASS CLASS
+",MUS,Music (MUS) or music education (MUED) major.,None,"Study of fundamental principles of playing and teaching brass instruments. Survey of materials and method
+ books suitable for class and private instruction."
+MUS 47612 ,"WIND TECHNIQUES - TRUMPET AND LOW BRASS
+",MUS,Music (MUS) or Music Education (MUED) major.,None,"The study of the fundamental principles of playing trumpet, trombone, tuba, and euphonimum. Content
+ includes performance skill development, and a survey of materials and method books suitable for class and
+private instruction. The overall objective is to develop an elementary skill level of performance on the
+ instruments and the pedagogical knowledge necessary to teach the instruments in elementary through
+secondary school levels."
+MUS 47711 ,"PERCUSSION CLASS
+",MUS,"Music (MUS)or music education (MUED) major.
+",None,"Study of various percussion instruments (mallets, snare drum, timpani and auxiliary) and techniques of
+ performance. Designed for music educator with no previous percussion experience."
+MUS 47712 ,"PERCUSSION CLASS
+",MUS,"music (MUS)or music education (MUED) major.
+",None,"Study of various percussion instruments (mallets, snare drum, timpani and auxiliary) and techniques of
+ performance. Designed for music educator with no previous percussion experience."
+MUS 47811 ,"INSTRUMENT CLASS FOR THE CHORAL/GENERAL MUSIC EDUCATOR
+",MUS,"Music (MUS) or musiceducation (MUED) major.
+",None,"Class instruction in the basic playing skills of band and orchestral instruments intended to provide familiarity
+ with the common school instruments for the choral/general music major."
+MUS 47812 ,"INSTRUMENT CLAS FOR THE CHORAL GENERAL MUSIC EDUCATOR
+",MUS,"music (MUS) or musiceducation (MUED) major.
+",None,"Class instruction in the basic playing skills of band and orchestral instruments intended to provide familiarity
+ with the common school instruments for the choralgeneral music major."
+MUS 48211 ,"INTRODUCTION TO PIANO PEDAGOGY
+",MUS,"Music (MUS) or musiceducation (MUED) and junior standing.
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1324
+",None,"Observation and teaching of individual and class lessons, children and adults. Study and performance of
+ preparatory materials, elementary through intermediate piano literature."
+MUS 48221 ,"ELEMENTS OF ACCOMPANYING I
+",MUS,Special approval.,None,"Techniques of accompanying; selected overview of art song literature including Italian, German, French and
+ English songs development of playing at sight skills."
+MUS 48222 ,"ELEMENTS OF ACCOMPANYING II
+",MUS,"MUS48221 with a minimum grade of C (2.000).
+",None,"Continuation of accompanying techniques including opera accompanying, orchestral reductions and selected
+ overview of literature for solo instrument and piano; continuation of playing-at-sight skills."
+MUS 48231 ,"INSTRUMENTAL PEDAGOGY FOR THE CHORAL GENERAL MUSIC EDUCATOR
+",MUS,MUS 47812 with a minimum C (2.000) grade; and music education (MUED) major.,None,"Knowledge and techniques for building and maintaining an instrumental music program within the K-12 school
+ setting for the choral general music education major. Twenty (20) hours of field experience required."
+MUS 48232 ,"GENERAL MUSIC PEDAGOGY FOR THE INSTRUMENTALIST
+",MUS,"minimum C (2.000) grade in MUS 37114;and music education (MUED) major.
+",None,"General music pedagogy techniques for the instrumental music education major. Clinical experiences in the
+ teaching of general music. Ten (10) field hours required."
+MUS 48233 ,"CHORAL MUSIC PEDAGOGY FOR THE INSTRUMENTALIST
+",MUS,"minimum C(2.000) grade in MUS 47311; and music educatin (MUED) major.
+",None,"Choral pedagogy techniques and choral program development for the instrumental music education major.
+ Clinical experiences in the teaching of choral music. Ten (10) field hours required."
+MUS 48241 ,"VOICE PEDAGOGY
+",MUS,Permission.,None,"Survey of techniques,practices and materials of teaching voice."
+MUS 48251 ,"PEDAGOGY OF MUSIC THEORY
+",MUS,"MUS 21122 with a minimum grade of C(2.000).
+",None,The principles and techniques of teaching music theory.
+MUS 48257 ,"PEDAGOGY-INSTRUMENTAL
+",MUS,Permission.,None,"Principles and techniques of instruction. Literature survey. Analysis of instrumental problems and performance
+ practice. Offered as needed for strings woodwinds brass percussion organ,or guitar."
+MUS 48311 ,"PIANO PEDAGOGY I
+",MUS,music (MUS) or music education (MUED) major; and junior standing.,None,Individual and group piano teaching including teaching methods and the history of piano pedagogy.
+MUS 48312 ,"PIANO PEDAGOGY II
+",MUS,minimum C (2.000) grade in MUS 48311; and music (MUS) major.,None,Individual and group piano teaching. Builidng an independent studio and career networking.
+MUS 48393 ,"VARIABLE TITLE WORKSHOP IN MUSIC
+",MUS,Permission.,None,"(Repeatable for credit)Offered for specific professional needs. Emphasis on performance and pedagogical skills.
+ S/U graded."
+MUS 48512 ,"IMPROVISATION
+",MUS,MUS 21121 with a minimum grade of C (2.000).,None,"The development of musical improvisation skills not tied to any particular music style. Students will perform on
+ their own applied instrument(s)."
+MUS 48598 ,"MUSIC RESEARCH
+",MUS,Permission.2.000 OR ,None,(repeated registration permitted) research or individual investigation for undergraduate students.
+MUS 49525 ,"SEMINAR FOR STUDENT TEACHING
+",MUS,Music education (MUED) majorand senior standing. ,MUS 42357.,"A capstone discussion of principles of music teaching and pragmatic understanding of school music settings.
+ Seminar serves as the companion course to Student Teaching for the purpose of self-observation, reflection,
+ and analysis. Development of Teacher Work Sample and portfolio."
+MUS 50295 ,"SPECIAL TOPICS IN MUSIC
+",MUS,Music (MUS) major and graduate standing.,None,"(Repeatable for credit)Academic study in areas not offered adequately in the music curriculum. Topic areas are
+ of special interest to the faculty member."
+MUS 50296 ,"INDEPENDENT STUDY:MUSIC
+",MUS,"Graduate standing and music (MUS) major andspecial approval.
+",None,"(Repeatable for credit)Individual investigation in music topics not offered as either regular coursework or
+ beyond the scope of existing music major courses."
+MUS 51131 ,"KEYBOARD HARMONY
+",MUS,Graduate standing.,None,"Theoretical skills demonstrated at the keyboard. Harmonization of melodies in homophonic style, realization of
+ figured bass, score reading, modulation and improvisation."
+MUS 51141 ,"16TH-CENTURY COUNTERPOINT
+",MUS,Graduate standing.,None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1328
+Two-, three- and four-part vocal counterpoint in 16th century style."
+MUS 51151 ,"18TH-CENTURY COUNTERPOINT
+",MUS,"Graduatestanding.
+",None,Technique of writing counterpoint in 18th-century style especially that of J. S. Bach.
+MUS 51161 ,"ADVANCED MUSICAL ANALYSIS
+",MUS,Graduate standing.,None,"A study of 20th-century approaches to tonal and nontonal musical analysis. Emphasis on familiarity with styles,
+ nomenclature and appropriate graphic techniques."
+MUS 51211 ,"COMPOSITION
+",MUS,graduate standing.,None,"(Repeatable for credit) Study of the materials and techniques of composition culminating in original
+ compositions based upon observable principles of unity and variety."
+MUS 51321 ,"ORCHESTRATION
+",MUS,graduate standing.,None,"Ranges, tonal possibilities, technical limitations and transpositions for all orchestral instruments. Scoring
+ techniques and analysis of representative instrumental ensemble repertoire."
+MUS 51341 ,"JAZZ IMPROVISATION
+",MUS,"graduatestanding.
+",None,The development of the art of jazz improvisation through performance and analysis.
+MUS 51342 ,"JAZZ ARRANGING
+",MUS,graduate standing.,None,Arranging for the large and small jazz ensemble.
+MUS 52111 ,"AFRICAN MUSIC AND CULTURES
+",MUS,"Graduatestanding.
+",None,"African music as related to social sciences and humanities. Oral traditions. Use of music recordings, tapes,
+ musical instruments. Participation in performance and group work involvement."
+MUS 52131 ,"AMERICA'S MUSIC
+",MUS,graduate standing.,None,Historical survey of music in America from New England psalmody to present-day compositional trends.
+MUS 52141 ,"FOLK AND TRADITIONAL MUSIC OF WESTERN CONTINENTS
+",MUS,Graduate standing.,None,"Study of selected music cultures of Eastern and Western Europe, and South, Central and North America."
+MUS 52151 ,"ASIAN MUSICS
+",MUS,Graduate standing.,None,"Survey of Asian musics. Emphasis on art, folk and popular musics and relationships of these musics to their
+ respective cultures."
+MUS 52161 ,"HISTORY OF JAZZ
+",MUS,Graduate standing.,None,The evolution of jazz from its origins to the present.
+MUS 52171 ,"MUSIC FROM WORLD CULTURES
+",MUS,graduate standing.,None,"Study of selected art, folk and popular music from world cultures with emphasis on listening skills, cultural
+ context, function, organology and technical matters of style."
+MUS 52181 ,"POPULAR WORLD MUSIC
+",MUS,graduate standing.,None,"A survey of popular world music genres from North America, the Caribbean, South America, Europe, Africa, and
+ Asia. Emphasis is on recognizing music literature, prominent artists and music styles, as well as related cultural
+ events. Graduate level introduces cultural theory related to popular studies. Modern media, especially the
+Internet, is an integral component of the course."
+MUS 52221 ,"SYMPHONIC LITERATURE
+",MUS,"Graduate standing.2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1331
+",None,Historical and stylistic survey of music for large instrumental ensemble.
+MUS 52241 ,"PIANO LITERATURE I
+",MUS,graduate standing.,None,"Survey of keyboard and piano suites, sonatas and concerti from the 16th century to the present. Emphasis on
+ performing, listening and analysis."
+MUS 52242 ,"PIANO LITERATURE II
+",MUS,graduate standing.,None,"Survey of character pieces and variations from the 16th century to the present. Emphasis on performing,
+ listening and analysis."
+MUS 52251 ,"SONG LITERATURE
+",MUS,Graduate standing.,None,"A study of vocal literature from the 16th century to the present. Emphasis upon the style, interpretation and
+ presentation of solo materials for all voice classifications."
+MUS 52261 ,"OPERA LITERATURE
+",MUS,Graduate standing.,None,"The historical development of opera from the 17th century to the present. Detailed analysis of representative
+ works."
+MUS 52271 ,"CHORAL LITERATURE I
+",MUS,Graduate standing.,None,"Study of Western European choral literature from approximately 1450 to early nineteenth century, i.e.,
+ Renaissance, Baroque, and Classical periods."
+MUS 52272 ,"CHORAL LITERATURE II
+",MUS,"graduatestanding.
+",None,"Choral Literature II, a continuation of Choral Literature I, is a study of Western European and North American
+ choral music of the early nineteenth century to the present (roughly 1830 to present)."
+MUS 53241 ,"MARCHING BAND TECHNIQUES AND LITERATURE
+",MUS,Graduate standing and special approval.,None,"Organization, administration and techniques of marching bands in the schools. Topics covered include musical
+ styles, literature and show design."
+MUS 53242 ,"JAZZ ENSEMBLE TECHNIQUES
+",MUS,graduate standing.,None,"Study of the curriculum for the jazz ensemble, including organizational and administrative procedures.
+ Emphasis on music interpretation, jazz styles and rehearsal techniques taught through laboratory experience."
+MUS 53243 ,"VOCAL JAZZ AND MUSICAL THEATRE IN THE SCHOOLS
+",MUS,Graduate standing.,None,"Basic techniques and materials for teaching vocal jazz and musical theatre in the schools. Administration,
+ organization and publicity for productions as well as literature for these performing groups will be explored."
+MUS 53245 ,"JAZZ ENSEMBLE TECHNIQUES AND LITERATURE
+",MUS,"special approval andgraduate standing.
+",None,"(Slashed with MUS 43245) Study of the curriculum for the jazz ensemble, including organizational and
+ administrative procedures. Emphasis on music interpretation, jazz styles, and rehearsal techniques taught
+through laboratory experience. One hour of field observation is required."
+MUS 55121 ,"KENT CHORUS
+",MUS,Graduate standing.,None,"(Repeatable for credit) Study and performance of choral music from Renaissance through contemporary styles,
+ large and small forms with appropriate accompaniment."
+MUS 55131 ,"OPERA:SINGER-ACTOR TECHNIQUES
+",MUS,graduate standing.,None,"(Repeatable for credit) A course designed to give the young singing actor practical operatic experience in the
+ performance of portions of or complete operas."
+MUS 55141 ,"KENT STATE UNIVERSITY CHORALE
+",MUS,Special approval and graduate standing.,None,"(Repeatable for credit) Study and performance of literature for vocal chamber ensemble from medieval through
+ contemporary styles sung in the original language with appropriate accompaniment. An audition in required
+ before registering for this course."
+MUS 55142 ,"MEN'S CHORUS
+",MUS,graduate standing.,None,"(Repeatable for credit) A chorus of male voices. Emphasis on music literacy, vocal production, instruction, study
+ and performance of music written for male voices. All western music periods are represented. Experience with
+ mixed-voice choirs also occurs."
+MUS 55143 ,"WOMEN'S CHORUS
+",MUS,graduate standing.,None,"(Repeatable for credit) A chorus of women's voices. Emphasis on music literacy, vocal production, instruction,
+ study and performance of music written for women's voices. All Western music periods are represented.
+Experience with mixed-voice choirs also occurs."
+MUS 55151 ,"KENT STATE UNIVERSITY GOSPEL CHOIR
+",MUS,Graduate standing.,None,"(Repeatable for credit) Study and performance of choral music in the gospel tradition, including works by
+ contemporary artists. One weekly rehearsal and a minimum of one concert per semester. Off-campus concerts
+ are possible."
+MUS 55212 ,"KENT STATE UNIVERSITY ORCHESTRA
+",MUS,Special approval and graduate standing.,None,"(Repeatable for credit) A select group of instrumentalists for the purpose of studying and performing music
+ written specifically for chamber orchestra including works of the 17th, 18th and 20th centuries. An audition in
+ required before registering for this course."
+MUS 55221 ,"CONCERT BAND
+",MUS,"graduate2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1335
+standing.
+",None,(Repeatable for credit) Study and performance of music literature for wind band.
+MUS 55222 ,"MARCHING BAND
+",MUS,graduate standing.,None,"(Repeatable for a maximum of 6 credit hours) Study and performance of literature and maneuvers for marching
+ band."
+MUS 55223 ,"WIND ENSEMBLE
+",MUS,Special approval and graduate standing.,None,"(Repeatable for credit) A select concert ensemble that performs the finest in wind instrument literature with
+ emphasis on major original works. An audition in required before registering for this course."
+MUS 55231 ,"JAZZ ENSEMBLE
+",MUS,"graduatestanding.
+",None,(Repeatable for credit) Study and performance of music literature in the jazz idiom.
+MUS 55241 ,"TROMBONE ENSEMBLE
+",MUS,graduate standing.,None,"(Repeatable for credit) A thorough study of trombone performance in various size ensembles. Emphasis on
+ original literature from over four centuries."
+MUS 55251 ,"PERCUSSION ENSEMBLE
+",MUS,graduate standing.,None,"(Repeatable for credit) A comprehensive study of percussion performance in various size ensembles. Use of
+ keyboard percussion instruments along with drums and accessories. Study of percussion ensemble literature."
+MUS 55261 ,"BASSOON ENSEMBLE
+",MUS,graduate standing.,None,"(Repeatable for credit) Study and performance of music for multiple bassoons; emphasis upon refined ensemble
+ playing, interpretation, leadership skills and arranging techniques."
+MUS 55271 ,"NEW MUSIC ENSEMBLE
+",MUS,graduate standing.,None,"(Repeatable for credit) Study and performance of 20th-century chamber music with an emphasis on works by
+ contemporary composers."
+MUS 55281 ,"FLUTE ENSEMBLE
+",MUS,graduate standing.,None,"(Repeatable for credit) Study and performance of music for multiple flutes; emphasis upon all aspects of
+ ensemble playing and style considerations will be addressed in both chamber and conducted formats."
+MUS 55311 ,"CHAMBER MUSIC
+",MUS,"graduatestanding.
+1.000 OR ",None,(Repeatable for credit) The study and performance of music for small ensembles.
+MUS 55312 ,"WORLD MUSIC ENSEMBLE
+",MUS,graduate standing.,None,"(Course is repeatable for a maximum of 8 credit hours) The World Music Ensemble teaches performance and
+ cultural etiquette associated with traditional and popular world music genres, e.g., African drumming. Specific
+ traditions studied include areas of specialization of instructors andor advanced student participants."
+MUS 55321 ,"ACCOMPANYING
+",MUS,graduate standing.1.000 OR ,None,"(Repeatable for credit) Accompanying instrumental and vocal soloists; piano ensemble works. Credit counted
+ toward ensemble requirements. One hour credit for two hours of assigned accompanying weekly."
+MUS 58221 ,"ELEMENTS OF ACCOMPANYING I
+",MUS,graduate standing.,None,"Techniques of accompanying; selected overview of art song literature including Italian, German, French and
+ English songs development of playing at sight skills."
+MUS 58241 ,"VOICE PEDAGOGY
+",MUS,graduate standing.,None,"Survey of techniques, practices and materials of teaching voice."
+MUS 58251 ,"PEDAGOGY OF MUSIC THEORY
+",MUS,Graduate standing.,None,The principles and techniques of teaching music theory.
+MUS 58257 ,"PEDAGOGY-INSTRUMENTAL
+",MUS,"graduatestanding.
+",None,"Principles and techniques of instruction. Literature survey. Analysis of instrumental problems and performance
+ practice. Offered as needed for strings, woodwinds, brass, percussion, organ or guitar."
+MUS 58393 ,"VARIABLE TITLE WORKSHOP IN MUSIC
+",MUS,graduate standing.,None,(Repeatable for credit)Offered for specific professional needs. Emphasis on performance and pedagogical skills.
+MUS 61121 ,"HISTORY OF MUSIC THEORY
+",MUS,graduate standing.,None,"(Cross-listed with MUS 71121) A study of the history of Western music theory from the ancient Greeks to the
+ twentieth century."
+MUS 61131 ,"SCHENKERIAN ANALYSIS
+",MUS,graduate standing.,None,"An introduction to musical analysis according to the principles expounded by Heinrich Schenker and later
+ exponents of his ideas."
+MUS 61170 ,"MUSIC ANALYSIS
+",MUS,"Music Education (MUED) majorand graduate standing.
+",None,"Selected analytical techniques applied to music from the tonal and post-tonal repertoire. Emphasis on the
+ development of harmonic language and overall formal structures."
+MUS 61171 ,"ANALYTICAL TECHNIQUES I
+",MUS,"Graduatestanding.
+",None,The application of standard analytical techniques to works of various style periods.
+MUS 61172 ,"ANALYTICAL TECHNIQUES II
+",MUS,"graduatestanding.
+",None,The application of standard analytical techniques to works of various style periods.
+MUS 61173 ,"WORLD MUSIC ANALYSIS
+",MUS,"graduatestanding.
+",None,"Analysis of world music traditions. Analyze and articulate knowledge regarding musical elements, such as
+ timbre, tuning, improvisation, sound patterns, compositional form, and performance techniques of music genres
+ studied. Development of listening and transcription skills as they relate to world music."
+MUS 61181 ,"POST-TONAL THEORY
+",MUS,graduate standing.,None,"A study of the analysis, theories, and compositional strategies applied to the music composed after 1900."
+MUS 61191 ,"SEMINAR IN MUSIC SINCE 1900
+",MUS,graduate standing.,None,"(Cross-listed with MUS 71191) (Course is repeatble for a maximum of 6 creidt hours) Study of analytical
+ techniques and procedures appropriate for the major musical styles of the period. Study of representative
+compositions through applied analysis. Individual projects in areas of particular interest to the student."
+MUS 61211 ,"COMPOSITION
+",MUS,graduate standing.2.000 OR ,None,"(Repeatable for credit) Original composition using longer forms of music for diverse media including multimedia
+ and electronic composition."
+MUS 61331 ,"BAND ARRANGING
+",MUS,MUS 51331 and graduate standing.,None,"Arranging in traditional and contemporary styles for the wind ensemble, concert band and/or marching band."
+MUS 62281 ,"SEMINAR IN MUSIC HISTORY AND LITERATURE
+",MUS,Graduate standing.,None,"(Repeatable for credit) Selected problems of research in music history and literature. Each student will be
+ responsible for presenting papers for discussion."
+MUS 62411 ,"MUSIC BIBLIOGRAPHY AND RESEARCH METHODS
+",MUS,graduate standing.,None,"Study of techniques of music research and creative musical writing including special projects, reports and
+ readings. This course is a hybrid course consisting of both in-class meetings and discussions, as well as online
+ interaction and discussion boards."
+MUS 62412 ,"INTRODUCTION TO ETHNOMUSICOLOGY
+",MUS,graduate standing.,None,"A study of the history, concepts and methods of ethnomusicology, techniques of field research, transcription,
+ analysis and bibliography."
+MUS 62413 ,"ADVANCED FIELD AND LAB METHODS IN ETHNOMUSICOLOGY
+",MUS,MUS 62412.,None,"Development of professional level research skills in all media of field documentation, transcription, analysis and
+ scholarly writing. Study of current related issues in ethnomusicology."
+MUS 62414 ,"ISSUES AND TRENDS IN ETHONOMUSICOLOGY
+",MUS,"MUS 62412and graduate standing.
+",None,"This course studies various issues and trends in the field of ethnomusicology, from its inception to present. The
+ focus centers on intensive discussion of theories, philosophies and paradigms that have dominated the scrutiny
+ of music over the decades and their application in analysis, fieldwork and lab method."
+MUS 62451 ,"INTRODUCTION TO MUSICOLOGY
+",MUS,Graduate standing.,None,"Techniques of music research and creative musical writing including special projects, reports and readings."
+MUS 62511 ,"MUSIC HISTORY I
+",MUS,Graduate standing.,None,"A study of Western music history from Jewish and medieval Roman practices through Josquin, as well as
+ selected common-practice period applications."
+MUS 62521 ,"MUSIC HISTORY II
+",MUS,Graduate standing.,None,A study of Western music history from the Reformation and Counter-Reformatiion through Bach and Handel.
+MUS 62531 ,"MUSIC HISTORY III
+",MUS,Graduate standing.,None,"A study of Western music history in the Rococo, Classical, and Romantic periods through Brahms and Wagner."
+MUS 62541 ,"MUSIC HISTORY IV
+",MUS,Graduate standing.,None,"A study of Western music from Debussy and Mahler through the major trends and composers of the recent
+ past."
+MUS 62602 ,"SEMINAR IN MUSICS OF THE AMERICAS
+",MUS,graduate standing.,None,Specialized investigation of music cultures of the Americas.
+MUS 62603 ,"SEMINAR IN MUSICS OF THE MIDDLE EAST
+",MUS,graduate standing.,None,Specialized investigation of music cultures of the Middle East.
+MUS 62604 ,"SEMINAR IN MUSICS OF EAST ASIA
+",MUS,graduate standing.,None,Specialized investigation of music cultures of East Asia.
+MUS 62606 ,"SEMINAR IN MUSICS OF SOUTHEAST ASIA
+",MUS,graduate standing.,None,Specialized investigation of music cultures in Southeast Asia.
+MUS 63198 ,"CAPSTONE PROJECT
+",MUS,graduate standing.,None,"(Repeatable for credit)Working under the supervision of a capstone advisor, students demonstrate synthesis of
+ knowledge through the development of curricular project applicable to student's area of teaching."
+MUS 63241 ,"INQUIRY IN MUSIC TEACHING I
+",MUS,graduate standing.,None,"Conducting and presenting assessment, evaluation, and research of music teaching and learning with emphasis
+ on quantitative methodologies."
+MUS 63242 ,"INQUIRY IN MUSIC TEACHING AND LEARNING II
+",MUS,graduate standing.,None,"Conducting and presenting assessment, evaluation and research of music teaching and learning with emphasis
+ on qualitative methodologies."
+MUS 63261 ,"ADVANCED STUDIES IN TEACHING CHORAL MUSIC
+",MUS,graduate standing.,None,"Development of teaching materials, an annotated choral repertory list and instructional strategies for choral
+ music with emphasis on rehearsal procedures and analytical techniques."
+MUS 63262 ,"ADVANCED STUDIES IN TEACHING INSTRUMENTAL MUSIC
+",MUS,"graduatestanding.
+",None,"Development of teaching materials, an annotated instrumental repertory list and instructional strategies for
+ instrumental music with emphasis on rehearsal procedures and analytical techniques."
+MUS 63263 ,"ADVANCED STUDIES IN TEACHING GENERAL MUSIC
+",MUS,graduate standing.,None,"Program development, inclusion, instructional materials and innovative teaching techniques for general music
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1345
+programs."
+MUS 63272 ,"LEARNING THEORIES IN MUSIC
+",MUS,"Graduatestanding.
+",None,Application of current theories of learning to the teaching and learning of music.
+MUS 63273 ,"PSYCHOLOGY OF MUSIC
+",MUS,Graduate standing.,None,"The study of music's effect on human behavior including physiological and affective responses. Applications of
+ music psychology to the teaching and learning of music will be explored."
+MUS 63274 ,"FOUNDATIONS OF MUSIC EDUCATION
+",MUS,graduate standing.,None,"Study of the field of music education from perspectives of sociology, psychology, philosophy, curriculum, history
+ and comparative curricula."
+MUS 63283 ,"RESEARCH IN MUSIC EDUCATION
+",MUS,Graduate standing.,None,"Introduction to research techniques in music education including topic selection, data collection analysis and
+ interpretation, and presentation of information in written form."
+MUS 63284 ,"HISTORY OF MUSIC EDUCATION
+",MUS,MUS 63274 and graduate standing.,None,"Study of historical approaches to music education with emphasis on significant people, places and events that
+ have influenced music teaching and learning music."
+MUS 63285 ,"PHILOSOPHY OF MUSIC EDUCATION
+",MUS,MUS 63274 and graduate standing.,None,"Study of the philosophical foundations of music education with emphasis on the application of aesthetics to
+ teaching and experiencing music."
+MUS 63286 ,"SOCIOLOGY OF MUSIC EDUCATION
+",MUS,graduate standing.,None,"Sociology in Music Education focuses on sociocultural issues in music teaching and learning. Students consider
+ contexts of society, background, race, ethnicity, culture, diversity, and pluralism as applicable in music
+ education situations."
+MUS 64111 ,"CONDUCTING PROJECTS:CHORAL
+",MUS,graduate standing.2.000 OR ,None,"Choral conducting techniques, score analysis, rehearsal procedures and study of musical style. Repeatable
+ credit."
+MUS 64121 ,"CONDUCTING PROJECTS:BAND
+",MUS,graduate standing.2.000 OR ,None,"Band conducting techniques,score analysis rehearsal procedures and study of musical style. Repeatable credit."
+MUS 64131 ,"CONDUCTING PROJECTS:ORCHESTRA
+",MUS,graduate standing.2.000 OR ,None,"Orchestra conducting techniques, score analysis, rehearsal procedures and study of musical style. Repeatable
+ credit."
+MUS 66111 ,"APPLIED MUSIC-GRADUATE PIANO
+",MUS,Music major and graduate standing.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 66191 ,"SEMINAR IN ACCOMPANYING
+",MUS,graduate standing.,None,"(Repeatable for credit)Studio performances of standard repertoire for piano and voice or instruments;
+ investigation of other topics relating to the accompanying of the repertoire."
+MUS 66311 ,"APPLIED MUSIC-GRADUATE VOICE
+",MUS,Music major and special approval. Graduate standing.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 66411 ,"APPLIED MUSIC-GRADUATE VIOLIN
+",MUS,Music major and special approval. Graduate standing.2.000 OR ,None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1348
+(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 66412 ,"APPLIED MUSIC-GRADUATE VIOLA
+",MUS,music major and graduate standing.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 66413 ,"APPLIED MUSIC-GRADUATE CELLO
+",MUS,music major and graduate standing.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 66414 ,"APPLIED MUSIC-GRADUATE DOUBLE BASS
+",MUS,Music major and special approval. Graduate standing.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 66511 ,"APPLIED MUSIC-GRADUATE FLUTE
+",MUS,music major and graduate standing.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 66512 ,"APPLIED MUSIC-GRADUATE OBOE
+",MUS,music major and graduate standing.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 66513 ,"APPLIED MUSIC-GRADUATE CLARINET
+",MUS,"music major andgraduate standing.
+2.000 OR ",None,"A comprehensive study of performance, technique and repertoire appropriate to music majors and minors.
+ Individual study. Students must audition to be accepted into this course."
+MUS 66514 ,"APPLIED MUSIC-GRADUATE BASSOON
+",MUS,music major and graduate standing.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 66515 ,"APPLIED MUSIC-GRADUATE SAXOPHONE
+",MUS,music major and graduate standing.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 66611 ,"APPLIED MUSIC-GRADUATE TRUMPET
+",MUS,music major and graduate standing.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 66612 ,"APPLIED MUSIC-GRADUATE HORN
+",MUS,music major and graduate standing.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 66613 ,"APPLIED MUSIC-GRADUATE TROMBONE
+",MUS,music major and graduate standing.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 66615 ,"APPLIED MUSIC-GRADUATE TUBA
+",MUS,music major and graduate standing.2.000 OR ,None,"(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 66711 ,"APPLIED MUSIC-GRADUATE PERCUSSION
+",MUS,music major and graduate standing.2.000 OR ,None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1351
+(Repeatable for credit) A comprehensive study of performance, technique and repertoire appropriate to music
+ majors and minors. Individual study. Students must audition to be accepted into this course."
+MUS 67243 ,"TECHNOLOGY FOR MUSIC TEACHING
+",MUS,graduate standing.,None,"Study of a variety of music software and hardware; students design and implement a project pertaining to their
+ professional interest."
+MUS 68199 ,"THESIS I
+",MUS,Graduate standing.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in a single semester distributed over several
+ semesters if desired."
+MUS 68214 ,"PIANO PEDAGOGY I
+",MUS,graduate standing.,None,"Individual and group piano teaching, including teaching methods and the history of piano pedagogy."
+MUS 68215 ,"PIANO PEDAGOGY II
+",MUS,graduate standing.,None,Individual and group piano teaching. Building an independent studio and career networking.
+MUS 68299 ,"THESIS II
+",MUS,MUS 68199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+MUS 68598 ,"RESEARCH
+",MUS,Graduate standing.,None,(Repeatable for credit)Research or individual investigation for master's level graduate students.
+MUS 68687 ,"RECITAL
+",MUS,Graduate standing.,None,Required of all performance majors and music education majors who choose performance option.
+MUS 68698 ,"ESSAY
+",MUS,Graduate standing.,None,"(Repeatable for credit)Required of performance majors and music education majors who choose the recital and
+ essay option."
+MUS 71121 ,"HISTORY OF MUSIC THEORY
+",MUS,Doctoral standing.,None,A study of the history of Western music theory from the ancient Greeks to the twentieth century.
+MUS 71131 ,"SCHENKERIAN ANALYSIS
+",MUS,doctoral standing.,None,"An introduction to musical analysis according to the principles expounded by Heinrich Schenker and later
+ exponents of his ideas."
+MUS 71141 ,"16TH-CENTURY COUNTERPOINT
+",MUS,Doctoral standing.,None,"Two-, three- and four-part vocal counterpoint in 16th century style."
+MUS 71151 ,"18TH-CENTURY COUNTERPOINT
+",MUS,"Doctoralstanding.
+",None,Technique of writing counterpoint in 18th-century style especially that of J. S. Bach.
+MUS 71171 ,"ANALYTICAL TECHNIQUES I
+",MUS,"Doctoralstanding.
+",None,The application of standard analytical techniques to works of various style periods.
+MUS 71172 ,"ANALYTICAL TECHNIQUES II
+",MUS,"Doctoralstanding.
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1354
+",None,The application of standard analytical techniques to works of various style periods.
+MUS 71181 ,"POST-TONAL THEORY
+",MUS,doctoral standing.,None,"A study of the analysis, theories, and compositional strategies applied to the music composed after 1900."
+MUS 71191 ,"SEMINAR IN MUSIC SINCE 1900
+",MUS,Doctoral standing.,None,"(Repeatable for a maximum of 6 credit hours) Study of analytical techniques and procedures appropriate for the
+ major musical styles of the period. Study of representatives compositions through applied analysis. Individual
+ projects in areas of particular interest to the student."
+MUS 71195 ,"SPECIAL PROJECTS IN THEORETICAL STUDIES
+",MUS,Doctoral standing.,None,"Individual and class investigation into specific methods of analysis and their application to music in various
+ styles."
+MUS 71331 ,"BAND ARRANGING
+",MUS,MUS 51331 and doctoral standing.,None,"Arranging in traditional and contemporary styles for the wind ensemble, concert band and/or marching band."
+MUS 72281 ,"SEMINAR IN MUSIC HISTORY AND LITERATURE
+",MUS,Doctoral standing.,None,"Selected problems of research in music history and literature. Each student will be responsible for presenting
+ papers for discussion. Repeatable credit."
+MUS 72412 ,"INTRODUCTION TO ETHNOMUSICOLOGY
+",MUS,doctoral standing.,None,"A study of the history, concepts and methods of ethnomusicology, techniques of field research, transcription
+ analysis and bibliography."
+MUS 72413 ,"ADVANCED FIELD AND LAB METHODS IN ETHNOMUSICOLOGY
+",MUS,"MUS 62412 and doctoralstanding.
+",None,"Development of professional level research skills in all media of field documentation, transcription analysis and
+ scholarly writing. Study of current related issues in ethnomusicology."
+MUS 72451 ,"INTRODUCTION TO MUSICOLOGY
+",MUS,Doctoral standing.,None,"Techniques of music research and creative musical writing including special projects, reports and readings."
+MUS 72511 ,"MUSIC HISTORY I
+",MUS,Doctoral standing.,None,"A study of Western music history from Jewish and medieval Roman practices through Josquin, as well as
+ selected common-practice period applications."
+MUS 72521 ,"MUSIC HISTORY II
+",MUS,Doctoral standing.,None,A study of Western music history from the Reformation and Counter-Reformatiion through Bach and Handel.
+MUS 72531 ,"MUSIC HISTORY III
+",MUS,Doctoral standing.,None,"A study of Western music history in the Rococo, Classical, and Romantic periods through Brahms and Wagner."
+MUS 72541 ,"MUSIC HISTORY IV
+",MUS,Doctoral standing.,None,"A study of Western music from Debussy and Mahler through the major trends and composers of the recent
+ past."
+MUS 72691 ,"SEMINAR IN ETHNOMUSICOLOGY
+",MUS,"Doctoralstanding.
+",None,(Repeatable for credit)Specialized topics in ethnomusicology for advanced students.
+MUS 73261 ,"ADVANCED STUDIES IN SECONDARY CHORAL AND GENERAL MUSIC
+",MUS,doctoral standing.,None,"Review curriculum in secondary general music and development of innovative teaching materials and strategies.
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1357
+Analytical techniques, rehearsal procedures, repertory suitable for secondary school choral ensembles."
+MUS 73262 ,"ADVANCED STUDIES IN INSTRUMENTAL MUSIC
+",MUS,Doctoral standing.,None,"Study of curriculum, method techniques and materials in school instrumental music education."
+MUS 73263 ,"ADVANCED STUDIES IN GENERAL MUSIC FOR CHILDREN
+",MUS,doctoral standing.,None,"Study of trends in philosophy, curriculum and program development, instructional materials and innovative
+ teaching techniques for elementary school and early childhood general music."
+MUS 73272 ,"LEARNING THEORIES IN MUSIC
+",MUS,Doctoral standing.,None,Application of current theories of learning to the teaching and learning of music.
+MUS 73273 ,"PSYCHOLOGY OF MUSIC
+",MUS,Doctoral standing.,None,"The study of music's effect on human behavior including physiological and affective responses. Applications of
+ music psychology to the teaching and learning of music will be explored."
+MUS 73274 ,"FOUNDATIONS OF MUSIC EDUCATION
+",MUS,Doctoral standing.,None,"Study of the influences on the field of music education, including sociology, psychology, philosophy, curriculum
+ and history."
+MUS 73283 ,"RESEARCH IN MUSIC EDUCATION
+",MUS,Doctoral standing.,None,"Introduction to research techniques in music education including topic selection, data collection analysis and
+ interpretation and presentation of information in written form."
+MUS 73284 ,"HISTORY OF MUSIC EDUCATION
+",MUS,MUS 73274 and doctoral standing.,None,"Study of historical approaches to music education with emphasis on significant people, places and events that
+ have influenced teaching and learning music."
+MUS 73285 ,"PHILOSOPHY OF MUSIC EDUCATION
+",MUS,MUS 63274 and doctoral standing.,None,"Study of the philosophical foundations of music education with emphasis on the application of aesthetics to
+ teaching and experiencing music."
+MUS 73286 ,"SOCIOLOGY OF MUSIC EDUCATION
+",MUS,doctoral standing.,None,"Sociology in Music Education focuses on sociocultural issues in music teaching and learning. Students consider
+ contexts of society, background, race, ethnicity, culture, diversity and pluralism as applicable in music
+ education situations."
+MUS 73295 ,"SPECIAL TOPICS IN MUSIC EDUCATION
+",MUS,Doctoral standing.,None,"(Repeatable for credit)Advanced study in selected topics that will vary from semester to semester depending on
+ needs and interests of students."
+MUS 73381 ,"ADVANCED RESEARCH IN MUSIC EDUCATION
+",MUS,MUS 6/73283 and doctoral standing.,None,"The design, implementation and reporting of research studies that illustrate a variety of methodological and
+ statistical plans for research in music education."
+MUS 74111 ,"CONDUCTING PROJECTS:CHORAL
+",MUS,doctoral standing.2.000 OR ,None,"Choral conducting techniques, score analysis, rehearsal procedures and study of musical style. Repeatable
+ credit."
+MUS 74121 ,"CONDUCTING PROJECTS:BAND
+",MUS,doctoral standing.2.000 OR ,None,"(Repeatable for credit) Band conducting techniques, score analysis, rehearsal procedures and study of musical
+ style."
+MUS 74131 ,"CONDUCTING PROJECTS:ORCHESTRA
+",MUS,doctoral standing.2.000 OR ,None,"(Repeatable for credit) Orchestra conducting techniques,score analysis rehearsal procedures and study of
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1360
+musical style."
+MUS 75131 ,"OPERA:SINGER-ACTOR TECHNIQUES
+",MUS,doctoral standing.,None,"(Repeatable for credit) A course designed to give the young singing actor practical operatic experience in the
+ performance of portions of or complete operas."
+MUS 75141 ,"KENT STATE UNIVERSITY CHORALE
+",MUS,Special approval and doctoral standing.,None,"(Repeatable for credit) Study and performance of literature for vocal chamber ensemble from medieval through
+ contemporary styles sung in the original language with appropriate accompaniment. An audition in required
+ before registering for this course."
+MUS 75212 ,"KENT STATE UNIVERSITY ORCHESTRA
+",MUS,Special approval and doctoral standing.,None,"(Repeatable for credit) A select group of instrumentalists for the purpose of studying and performing music
+ written specifically for chamber orchestra including works of the 17th, 18th and 20th centuries. An audition in
+ required before registering for this course."
+MUS 75223 ,"WIND ENSEMBLE
+",MUS,Special approval and doctoral standing.,None,"(Repeatable for credit) A select concert ensemble that performs the finest in wind instrument literature with
+ emphasis on major original works. An audition in required before registering for this course."
+MUS 75231 ,"JAZZ ENSEMBLE
+",MUS,"doctoralstanding.
+",None,(Repeatable for credit) Study and performance of music literature in the jazz idiom.
+MUS 75271 ,"NEW MUSIC ENSEMBLE
+",MUS,doctoral standing.,None,"(Repeatable for credit) Study and performance of 20th-century chamber music with an emphasis on works by
+ contemporary composers."
+MUS 75311 ,"CHAMBER MUSIC
+",MUS,"doctoralstanding.
+1.000 OR ",None,(Repeatable for credit) The study and performance of music for small ensembles.
+MUS 78251 ,"PEDAGOGY OF MUSIC THEORY
+",MUS,"doctoralstanding.
+",None,(Cross-listed with MUS 58251) The principles and techniques of teaching music theory.
+MUS 78393 ,"VARIABLE TITLE WORKSHOP IN MUSIC
+",MUS,doctoral standing.,None,(Repeatable for credit)Offered for specific professional needs. Emphasis on performance and pedagogical skills.
+MUS 81196 ,"INDIVIDUAL INVESTIGATION IN MUSIC THEORY
+",MUS,Doctoral standing.,None,(Repeatable for credit)Intensive research or readings on selected topic beyond normal course coverage.
+MUS 81211 ,"COMPOSITION
+",MUS,Doctoral standing.2.000 OR ,None,"(Repeatable for credit) Refinement of compositional techniques culminating in large-scale works for media of
+ student's choice."
+MUS 82291 ,"SEMINAR IN MUSICOLOGY
+",MUS,doctoral standing.,None,"(Repeatable for credit)Examination into primary sources, treatises and writings in selected areas in Western
+ music. Topics selected range from medieval period to present."
+MUS 82396 ,"INDIVIDUAL INVESTIGATION IN MUSICOLOGY
+",MUS,Doctoral standing and special approval.,None,(Repeatable for credit)Intensive research or readings on selected topic beyond normal course coverage.
+MUS 82696 ,"INDIVIDUAL INVESTIGATION IN ETHNOMUSICOLOGY
+",MUS,doctoral standing.,None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1363
+(Repeatable for credit)Intensive research or readings on selected topic beyond normal course coverage."
+MUS 83196 ,"INDIVIDUAL INVESTIGATION IN MUSIC EDUCATION
+",MUS,doctoral standing.,None,(Repeatable for credit)Intensive research or readings on selected topic beyond normal course coverage.
+MUS 83211 ,"SEMINAR IN TEACHER EDUCATION IN MUSIC
+",MUS,Doctoral standing.,None,"Investigation of the role of curriculum, accreditation and certification in music teacher education. Procedures
+ related to teaching methods courses and to the student teaching program."
+MUS 86001 ,"SEMINAR IN MUSIC EDUCATION I
+",MUS,doctoral standing.,None,"This courses prepares students for doctoral study in music education. Topics include understanding tasks and
+ skills necessary for PhD study in music education, along with navigating this study at Kent State. Students
+ interact in seminar format as part of a cohort of students pursuing the study of music teaching and learning."
+MUS 86002 ,"SEMINAR IN MUSIC EDUCATION II
+",MUS,"MUS 86001, CI 87000 and EVAL 75510; doctoral standing.",None,"This doctoral level course is designed to ready students for final activities of PhD study in music education.
+ Goals include preparation for qualifying exams, understanding of the research proposal process, and exploration
+ of advanced research methodologies and protocols necessary to undertake a dissertation and or significant
+ research project."
+MUS 88199 ,"DISSERTATION I
+",MUS,Pass candidacy examination and doctoral standing.,None,"(Repeatable for credit)Doctoral dissertation for which registration in at least two semesters is required, first of
+ which will be semester in which dissertation work is begun and continuing until the completion of 30 hours."
+MUS 88299 ,"DISSERTATION II
+",MUS,"MUS 88199 anddoctoral standing.
+",None,"(Repeatable for credit)Continuing registration required of doctoral students who have completed the initial 30
+ hours of dissertation and continuing until all degree requirements are met."
+MUS 88598 ,"RESEARCH
+",MUS,Doctoral standing.,None,"(Repeatable for credit)Research or individual investigation for doctoral students who have not yet passed their
+ candidacy examinations."

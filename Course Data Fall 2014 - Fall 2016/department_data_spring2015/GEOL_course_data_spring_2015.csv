@@ -1,0 +1,421 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+GEOL 11040 ,"HOW THE EARTH WORKS
+",GEOL,None.,None,"Explores processes that shape Earth's landscapes (volcanism, flooding, landslides, sea-level rise, mountain
+ building) and that are of vital interest to humans (earthquakes, groundwater, energy and mineral resources,
+ climate change)."
+GEOL 11041 ,"HOW THE EARTH WORKS LABORATORY
+",GEOL,None,None,"Lab experience with earth materials (mineral crystals, common and unusual rock specimens), Google Earth
+ images, and experiments demonstrating processes at earth's surface such as groundwater pollution, flooding,
+ and on-line earthquake simulations. Pre/corequisite: GEOL 11040."
+GEOL 11042 ,"EARTH AND LIFE THROUGH TIME
+",GEOL,none.,None,"Explores major events in the history of Earth including mass extinctions, Snowball Earth, birth and death of
+ oceans, growth of continents, explosion of life, dinosaurs, and the surprising inter-relatedness of earth and life
+ processes."
+GEOL 11043 ,"EARTH AND LIFE THROUGH TIME LABORATORY
+",GEOL,None,None,"Lab experience with interesting fossils, rocks, and sedimentary features, a river process simulator, and the
+ concept of deep time. Pre/corequisite: GEOL 11042."
+GEOL 21062 ,"ENVIRONMENTAL EARTH SCIENCE
+",GEOL,None.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 828
+Application of Earth Science to environmental problems, including natural resource extraction, water supply,
+ pollution, waste disposal, landslides, floods and land use planning. Local field trip."
+GEOL 21080 ,"ALL ABOUT THE OCEANS
+",GEOL,none.,None,"Explores the many fascinating (and some still little known) features and processes of the Earth's Oceans
+ including mid-ocean ridges, hydrothermal vents, tsunamis, tides, rogue waves, marine life, and the role of the
+ Ocean in climate change."
+GEOL 22000 ,"INTRODUCTORY GEOLOGY SEMINAR
+",GEOL,none.,None,"Provides new Geology and Earth Science majors with an overview of career paths and opportunities within
+ these majors. Components of the course include a journal club, informational presentations by geoscientists in
+industry, government, and academia, and skills training needed for the major. Required overnight field trip."
+GEOL 23063 ,"EARTH MATERIALS I
+",GEOL,GEOL 11040 and GEOL 11041; and pre- or ,None,"Occurrence, associations, characteristics, crystallography and crystal chemistry of common minerals. Laboratory
+ identification emphasizing physical properties. Lecture three hours, lab two hours weekly. Required field trip."
+GEOL 31070 ,"EARTH MATERIALS II
+",GEOL,GEOL 23063.,None,"Occurrence and origin of igneous, sedimentary and metamorphic rocks. Laboratory identification, description
+ and classification of hand specimens. Lecture three hours, lab two hours weekly. Required field trip."
+GEOL 31080 ,"STRUCTURAL GEOLOGY
+",GEOL,none.,None,"Mechanical principles of rock deformation. Structures in sedimentary igneous and metamorphic rocks. Lecture
+ three hours lab two hours weekly. Required field trip."
+GEOL 32066 ,"GEOMORPHOLOGY
+",GEOL,GEOL 11040 and GEOL 11041.,None,"Earth's surface features as functions of geological structures, processes and time. Landform analysis using
+ topographic maps and some stereographic aerial photos. Lecture three hours, lab two hours weekly.
+Trigonometry recommended."
+GEOL 34061 ,"INVERTEBRATE PALEONTOLOGY
+",GEOL,GEOL 11042 andGEOL 11043. ,BSCI 10002 or 10110.,"Concepts applied to study of commonly preserved invertebrate organisms; identification of common North
+ American fossils. Lecture three hours, lab two hours weekly. Required field trip."
+GEOL 40093 ,"VARIABLE TITLE WORKSHOP IN GEOLOGY
+",GEOL,Special approval.,None,(Repeatable for credit)Workshop and/or training program focused on a specific professional or disciplinary topic.
+GEOL 40095 ,"SELECTED TOPICS IN GEOLOGY
+",GEOL,20 hours of geology courses.,None,"(Cross-listed with GEOL 50095) (Repeatable for credit) Selected topics presented by visiting professors or one-
+time offerings presented by regular faculty."
+GEOL 40096 ,"INDIVIDUAL INVESTIGATION IN GEOLOGY
+",GEOL,Special approval.,None,"(Repeatable for credit)Directed field, laboratory and/or library research. Written report required. Open on
+ special approval of faculty member directing work. Only 3 hours will be applied toward baccalaureate degree.
+ Does not count toward geology major."
+GEOL 41025 ,"GENERAL GEOPHYSICS
+",GEOL,"GEOL 31070 and GEOL 31080 and MATH12002; and PHY 13001 or PHY 23101.
+",None,"(Cross-listed with GEOL 51025) Physics of Earth, seismology, geomagnetism, heat flow, radioactivity,
+ geochronology, geotectonic models. Required field trip."
+GEOL 41073 ,"GEOLOGY OF OHIO
+",GEOL,Junior standing.,None,"(Cross-listed with GEOL 51073) Minerals, rocks, fossils, structural geology, physiography, environmental
+2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 831
+geology and geologic resources. Required field trips. Does not satisfy requirements of geology major."
+GEOL 41077 ,"GEOLOGY OF THE NATIONAL PARKS
+",GEOL,Junior standing.,None,"(Cross-listed with GEOL 51077) Introduction to the geology of selected major national parks, emphasizing basic
+ geological principles and the processes which have produced the spectacular scenery, rocks and fossils in each
+ park. Not counted toward requirements for a major in geology."
+GEOL 41079 ,"ALL ABOUT DINOSAURS
+",GEOL,None.,None,"(Cross-listed with GEOL 51079) Dinosaurs (and some relatives) and their world, emphasizing how to interpret
+ evidence concerning their history, biology and evolutionary relationships. Does not satisfy requirements of
+ geology major."
+GEOL 41080 ,"TECTONICS AND OROGENY
+",GEOL,"GEOL31080.
+",None,"(Cross-listed with GEOL 51080) Introduces advanced concepts of plate tectonics and mountain building with
+ emphasis on Western United States and Appalachians. Required field trip to New England."
+GEOL 41082 ,"ADVANCED STRUCTURAL GEOLOGY
+",GEOL,GEOL 31080.,None,"(Cross-listed with GEOL 51082) Theoretical and applied studies in structural geology, including mechanical,
+ mathematical, model and field investigations. Required field trip."
+GEOL 41092 ,"SUMMER FIELD CAMP
+",GEOL,"GEOL 31070 and GEOL31080.
+",None,"(Cross-listed with GEOL 51092) Five weeks devoted to geologic mapping and solving structural and
+ stratigraphic problems in Black Hills, S.D. Special fee on actual cost basis."
+GEOL 42030 ,"REMOTE SENSING
+",GEOL,none.,None,"(Cross-listed with GEOL 52030 and GEOL 72030 and GEOG 49230 and GEOG 59230 and GEOG 79230)
+ Computer analysis of multispectral satellite datasets. Applications in Terrestrial Earth Science are emphasized."
+GEOL 42035 ,"SCIENTIFIC METHODS IN GEOLOGY
+",GEOL,none.,None,"(Cross-listed with GEOL 52035) Applying scientific methods to geologic data in the field and lab; models and
+ sampling procedures. Collecting and analyzing data. Formulating and testing hypostheses. Provides background
+ necessary for upper-level geology courses for majors. Lecture two hours, lab two hours weekly."
+GEOL 42065 ,"WATERSHED HYDROLOGY
+",GEOL,Junior standing.,None,"(Slashed with GEOL 52065) Study of water movement, storage, and transformation across landscapes."
+GEOL 42067 ,"INTRODUCTORY HYDROGEOLOGY
+",GEOL,Junior standing.,None,"(Slashed with GEOL 52067) Occurrence of ground water in geologic materials; emphasizing utilization,
+ conservation and management of ground water resources."
+GEOL 42068 ,"CONTAMINANT HYDROLOGY AND HYDROGEOLOGY
+",GEOL,"GEOL 42067 and CHEM 10060 and CHEM 10061 and CHEM10062 and CHEM 10063.
+",None,"(Cross-listed with GEOL 52068) An introduction to the basic principles of chemical and physical behavior of
+ contaminants introduced by humans into the environment. Students are expected to understand concepts and
+work practical quantitative problems."
+GEOL 42069 ,"HYDROGEOCHEMISTRY
+",GEOL,10 hours of chemistry.,None,"(Cross-listed with GEOL 52069 and GEOL 72069) Processes and evolution of the chemical composition of water
+ in the natural hydrologic cycle. Methods of hydrochemical interpretation applied to ground water and pollution
+ problems. Lecture three hours weekly."
+GEOL 42074 ,"ENVIRONMENTAL CORE AND WELL LOGGING
+",GEOL,GEOL 31070.,None,"(Cross-listed with GEOL 52074) Examination of subsurface processes and the distribution of stratigraphic layers
+ using core and well logging techniques based on analysis of physical properties of sediment, rock and pore
+ fluids. Applications to paleoclimate, hydrogeology, engineering geology, oil and gas exploration and
+ environmental remediation."
+GEOL 42078 ,"ENGINEERING GEOLOGY
+",GEOL,Geology (GEOL) or Earth Science (ESCI) major with junior standing.,None,"(Cross-listed with GEOL 52078) Engineering properties of soils and rocks. Site evaluation for building
+ foundations, dams, tunnels, and highways. Slope stability. Lecture three hours and lab two hours weekly."
+GEOL 43040 ,"PRINCIPLES OF GEOCHEMISTRY
+",GEOL,GEOL 31070; and MATH 12002; and CHEM 10060 and CHEM 10061.,None,"(Cross-listed with GEOL 53040) Introduction to chemical thermodynamics and its applications in solving
+ geochemical problems. Distributions of elements and isotopes in the earth and laws governing these
+distributions."
+GEOL 43042 ,"ENVIRONMENTAL GEOCHEMISTRY
+",GEOL,CHEM 10060 and CHEM 10061.,None,"(Cross-listed with GEOL 53042 and GEOL 73042) Explores chemical processes that influence the natural
+ environment, including anthropogenic impacts. Topics include atmospheric chemistry and air pollution, energy
+ and climate change, toxic organic compounds, water chemistry and water pollution, metals, soils, sediments
+ and waste disposal. Environmental problem solving using steady state and non-steady state box models,
+ thermodynamics and energy transfer, and chemical reactions and equilibria is emphasized. Required half-day
+ field trip."
+GEOL 43044 ,"ENVIRONMENTAL ISOTOPES
+",GEOL,CHEM 10060 and CHEM 10061.,None,"(Cross-listed with GEOL 53044 and GEOL 73044) Deals with the fundamentals of isotope geochemistry and the
+ application of primarily light stable isotopes (H, O, C, N) to earth system processes (involving the hydrosphere,
+ biosphere, and upper geosphere)."
+GEOL 43066 ,"OPTICAL PETROGRAPHY
+",GEOL,GEOL 31070.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 835
+(Cross-listed with GEOL 53066) Theory of optical crystallography and the microscopic examination and
+ identification of igneous,sedimentary and metamorphic rocks in thin section. Lecture two hours, lab two hours
+weekly."
+GEOL 44052 ,"GLACIERS AND GLACIATION
+",GEOL,GEOG 21062 or GEOL 11040.,None,"(Cross-listed with GEOG 41052, GEOG 51052 and GEOG 71052) Examination of how glacial ice masses change
+ the shape of the earth's surface, how they are integral to climate and sea level change, and how they pose high
+ risk hazards."
+GEOL 44070 ,"SEDIMENTOLOGY AND STRATIGRAPHY
+",GEOL,GEOL 31070.,None,"(Slashed with GEOL 54070) Students are introduced to the principles regarding the systematics of sedimentary
+ rocks and the relationships between geologic formations at various spatial and temporal scales. Lectures are
+ integrated with readings from the open literature and required labs and field trips."
+GEOL 44074 ,"PALEOCEANOGRAPHY
+",GEOL,none.,None,"A broad spectrum of geological approaches, including paleontology, geochemistry and stratigraphy is employed
+ to interpret the history of earth's oceans."
+GEOL 50093 ,"VARIABLE TITLE WORKSHOP IN GEOLOGY
+",GEOL,Graduate standing and special approval.,None,"(Repeatable for credit)Workshop or training program focused on a specific professional or disciplinary topic
+ within geology."
+GEOL 50095 ,"SELECTED TOPICS IN GEOLOGY
+",GEOL,Graduate standing.,None,"(Cross-listed with GEOL 40095) (Repeatable for credit)Selected topics presented by visiting professors or one-
+time offerings presented by regular faculty."
+GEOL 51025 ,"GENERAL GEOPHYSICS
+",GEOL,graduate standing.,None,"Physics of Earth. Seismology, geomagnetism; heat flow, radioactivity, geochronology, gravity and isostasy,
+ geotectonic models. Lecture 3 hours weekly. Required field trip."
+GEOL 51073 ,"GEOLOGY OF OHIO
+",GEOL,Graduate standing.,None,"(Cross-listed with GEOL 41073) Minerals, rocks, fossils, structural geology, physiography, environmental
+ geology, geologic resources. Required field trips. Does not satisfy requirements for major in geology."
+GEOL 51077 ,"GEOLOGY OF THE NATIONAL PARKS
+",GEOL,Graduate standing.,None,"(Cross-listed with GEOL 41077) Introduction to the geology of selected major national parks, emphasizing basic
+ geological principles and the processes which have produced the spectacular scenery, rocks and fossils in each
+ park. Not counted toward requirements for a major in geology."
+GEOL 51079 ,"ALL ABOUT DINOSAURS
+",GEOL,Graduate standing.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 837
+(Cross-listed with GEOL 41079) Dinosaurs (and some relatives) and their world, emphasizing how to interpret
+ evidence concerning their history, biology and evolutionary relationships. Does not satisfy requirements of
+ geology major."
+GEOL 51080 ,"TECTONICS AND OROGENY
+",GEOL,graduate standing.,None,"Introduces advanced concepts of plate tectonics and mountain building with emphasis on Western United States
+ and Appalachians. Required field trip to New England."
+GEOL 51082 ,"ADVANCED STRUCTURAL GEOLOGY
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 41082) Theoretical and applied studies in structural geology, including mechanical,
+ mathematical, model and field investigations."
+GEOL 51092 ,"SUMMER FIELD CAMP
+",GEOL,graduate standing.,None,"(Repeatable for credit)Five weeks devoted to geologic mapping and solving structural and stratigraphic
+ problems in Black Hills, S.D. Special fee on actual cost basis."
+GEOL 52030 ,"REMOTE SENSING
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 42030 and GEOL 72030 and GEOG 41052 and GEOG 51052 and GEOG
+ 71052)Computer analysis of multispectral satellite datasets. Applications in Terrestrial Earth Science are
+ emphasized."
+GEOL 52035 ,"SCIENTIFIC METHODS IN GEOLOGY
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 42035) Applying scientific methods to geologic data in the field and lab; models and
+ sampling procedures. Collecting and analyzing data. Formulating and testing hypotheses. Lecture two hours, lab
+ two hours."
+GEOL 52065 ,"WATERSHED HYDROLOGY
+",GEOL,Graduate standing.,None,"(Slashed with GEOL 42065) Study of water movement, storage, and transformation across landscapes."
+GEOL 52067 ,"INTRODUCTORY HYDROGEOLOGY
+",GEOL,Graduate standing.,None,"(Slashed with GEOL 42067) Occurrence of ground water in geologic materials; emphasizing utilization,
+ conservation and management of ground water resources."
+GEOL 52068 ,"CONTAMINANT HYDROLOGY AND HYDROGEOLOGY
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 42068) An introduction to the basic principles of chemical and physical behavior of
+ contaminants introduced by humans into the environment. Students are expected to understand concepts and
+work practical quantitative problems."
+GEOL 52069 ,"HYDROGEOCHEMISTRY
+",GEOL,graduate standing.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 839
+(Cross-listed with GEOL 42069 and GEOL 72069) Processes and evolution of the chemical composition of water
+ in the natural hydrologic cycle. Methods of hydrochemical interpretation applied to ground water and pollution
+ problems. Lecture three hours weekly."
+GEOL 52074 ,"ENVIRONMENTAL CORE AND WELL LOGGING
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 42074) Examination of subsurface processes and the distribution of stratigraphic layers
+ using core and well logging techniques based on analysis of physical properties of sediment, rock and pore
+ fluids. Applications to paleoclimate, hydrogeology, engineering geology, oil and gas exploration and
+ environmental remediation."
+GEOL 52078 ,"ENGINEERING GEOLOGY
+",GEOL,Graduate standing.,None,"(Cross-listed with GEOL 42078) Engineering properties of soils and rocks. Site evaluation for building
+ foundations, dams, tunnels and highways. Slope stability. Lecture three hours and lab two hours weekly."
+GEOL 53040 ,"PRINCIPLES OF GEOCHEMISTRY
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 43040) Introduction to chemical thermodynamics and its applications in solving
+ geochemical problems. Distributions of elements and isotopes in the Earth and laws governing these
+distributions."
+GEOL 53042 ,"ENVIRONMENTAL GEOCHEMISTRY
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 43042 and GEOL 73042) Explores chemical processes that influence the natural
+ environment including anthropogenic impacts. Topics include atmospheric chemistry and air pollution, energy
+ and climate change, toxic organic compounds, water chemistry and water pollution, metals, soils, sediments
+2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 840
+and waste disposal. Environmental problem solving using steady state and non-steady state box models,
+thermodynamics and energy transfer, and chemical reactions and equilibria is emphasized. Required half-day
+ field trip."
+GEOL 53044 ,"ENVIRONMENTAL ISOTOPES
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 43044 and GEOL 73044) Deals with the fundamentals of isotope geochemistry and the
+ application of primarily light stable isotopes (H, O, C, N) to earth system processes (involving the hydrosphere,
+ biosphere, and upper geosphere)."
+GEOL 53066 ,"OPTICAL PETROGRAPHY
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 43066) Theory of optical crystallography and the microscopic examination and
+ identification of igneous,sedimentary and metamorphic rocks in thin section. Lecture two hours, laboratory two
+hours weekly."
+GEOL 54052 ,"GLACIERS AND GLACIATION
+",GEOL,Graduate standing.,None,"(Cross-listed with GEOG 41052, GEOG 51052 and GEOG 71052) Examination of how glacial ice masses change
+ the shape of the earth's surface, how they are integral to climate and sea level change and how they pose high
+ risk hazards."
+GEOL 54070 ,"SEDIMENTOLOGY AND STRATIGRAPHY
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 44070) Students are introduced to the principles regarding the systematics of
+ sedimentary rocks and the relationships between geologic formations at various spatial and temporal scales.
+Lectures are integrated with readings from the open literature and required labs and field trips."
+GEOL 54074 ,"PALEOCEANOGRAPHY
+",GEOL,"Graduatestanding.
+",None,"(Cross-listed with GEOL 44074) A broad spectrum of geological approaches, including paleontology,
+ geochemistry and stratigraphy is employed to interpret the history of Earth's oceans."
+GEOL 60080 ,"RESEARCH ORIENTATION
+",GEOL,Graduate standing.,None,"(Cross-listed with GEOL 70080) Faculty research presentations; thesis/dissertation proposal preparation;
+ discussion of professional organizations, preparation of manuscripts and oral presentation of papers."
+GEOL 60084 ,"GEOLOGY GRADUATE STUDENT ORIENTATION
+",GEOL,Graduate standing.,None,"(Slashed with GEOL 70084) Introduction to departmental resources, procedures, and expecations as well as
+ approaches to successfully conduct research at a graduate level. Training and experience in presentation of data
+ and college teaching of applied geology, as well as a discussion forum on professional ethics and
+ responsibilities."
+GEOL 60091 ,"SEMINAR
+",GEOL,Graduate standing.,None,"(Cross-listed with GEOL 70091) (Repeatable for credit)Specialized topics in geology. Precise title to be inserted
+ in schedule of classes."
+GEOL 60094 ,"COLLEGE TEACHING OF APPLIED GEOLOGY
+",GEOL,Graduate standing.,None,"(Cross-listed with GEOL 70094) (Repeatable for credit)Training and experience in presentation of data and
+ college teaching of applied geology, as well as a discussion forum on professional ethics and responsibilities."
+GEOL 60095 ,"SELECTED TOPICS IN GEOLOGY
+",GEOL,Graduate standing.,None,"(Repeatable for credit)Selected topics presented by visiting professors or one-time offerings presented by
+ regular faculty."
+GEOL 60098 ,"RESEARCH
+",GEOL,Graduate standing.,None,"(Repeatable for credit)Research for master's level students. Credits earned may be applied toward degree if
+ department approves."
+GEOL 60199 ,"THESIS I
+",GEOL,Graduate standing.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in a single semester distributed over several
+ semesters if desired."
+GEOL 60299 ,"THESIS II
+",GEOL,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 843GEOL 60199 and graduate standing.
+",None,Thesis students must continue registration each semester until all degree requirements are met.
+GEOL 61093 ,"WORKSHOP IN COLLEGE TEACHING
+",GEOL,Graduate standing.,None,(Repeatable for credit)Workshop in college teaching.
+GEOL 62011 ,"HYDROLOGY
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 72011) Introduction to hydrologic measurements, properties of water precipitation,
+ evapotranspiration runoff computations, streamflow and flood routing."
+GEOL 62068 ,"ADVANCED HYDROGEOLOGY
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 72068) Quantitative approach to occurrence of ground water; methods of investigation,
+ evaluation and development of ground water resources emphasizing optimization and maximal exploitation
+ without environmental changes."
+GEOL 62079 ,"ADVANCED ENGINEERING GEOLOGY
+",GEOL,GEOL 4/52078 and graduate standing.,None,"(Cross-listed with GEOL 72079) Role of geology in site selection, design and construction relative to dams,
+ tunnels, highways, slope stability and nuclear power plants. Selected case histories. Lecture three hours weekly.
+ Field trip and term paper required."
+GEOL 62082 ,"INTRODUCTION TO SOIL MECHANICS
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 72082) Engineering properties and engineering behavior of soils including classification
+ properties,compaction permeability strength and compressibility. Lecture three hours and lab two hours weekly."
+GEOL 62083 ,"ROCK SLOPE STABILITY
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 72083) Provide information used to recognize, avoid, design for, control and correct
+ slope movements in rocks; determination of shear strength along rock discontinuities; stability analysis of rock
+ slopes."
+GEOL 62084 ,"FOUNDATION ENGINEERING
+",GEOL,GEOL 42078 or 52078 or 72082; and graduate standing.,None,"(Cross-listed with GEOL 72084) Seepage and drainage of foundation soils. Subsurface investigations. Principles,
+ design and construction of shallow and deep foundations. Earth retaining structures. Lecture three hours
+ weekly."
+GEOL 63063 ,"SEDIMENTARY PETROLOGY
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 73063) Classification, texture, composition, provenance and diagenesis of sandstones
+ and carbonates, following review of optical mineralogy. Petrographic microscopy and other laboratory
+techniques are emphasized."
+GEOL 63067 ,"CARBONATE ROCKS
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 73067) Basic principles of carbonate sedimentology including composition,
+2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 845
+classification, origin and distribution of carbonate sediments their diagenesis and lithification."
+GEOL 64028 ,"PALEOECOLOGY
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 74028) Relationships between ancient organisms and their environments, as
+ interpreted from fossils, enclosing rock strata and recent analogs. Field and laboratory studies. Saturday field
+trips."
+GEOL 64030 ,"SYSTEMATIC INVERTEBRATE PALEONTOLOGY I
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 74030) Detailed investigation and examination of important literature concerning
+ taxonomic characters of invertebrate phyla: Protista, Porifera, Cnidaria and Bryozoa. Numerous oral reports,
+specimen examination."
+GEOL 64032 ,"SYSTEMATIC INVERTEBRATE PALEONTOLOGY II
+",GEOL,graduate standing.,None,"(Cross-listed with GEOL 74032) Detailed investigation and examination of important literature concerning
+ taxonomic characters of invertebrate phyla: Brachiopoda, Mollusca, Arthropoda and Echinodermata. Numerous
+oral reports, specimen examination."
+GEOL 64036 ,"CENOZOIC CLIMATE CHANGE
+",GEOL,Graduate standing.,None,"(Cross-listed with GEOL 74036) An overview of the concepts and principles involved in interpreting global and
+ hemispheric Cenozoic climate change (past 65 million years). Emphasis on particular temporal and spatial
+ scales and cycles. Extensive reading in scientific journals."
+GEOL 64038 ,"PALEOLIMNOLOGY
+",GEOL,Graduate standing.,None,"An overview of significant topics and applications in paleolimnology of Holocene (last 10,000 years) and
+ Pleistocene (last 2 million years) records, including current issues in environmental and climatic reconstruction.
+ Extensive reading expected."
+GEOL 64065 ,"SEDIMENTOLOGY
+",GEOL,Graduate standing.,None,"(Cross-listed with GEOL 74065) Fluid dynamics, grain transport, sedimentary structures, granulometry, bedform
+ and facies sequences, and facies architecture. Interpretation of continental and marine clastic depositional
+ environments and processes."
+GEOL 70080 ,"RESEARCH ORIENTATION
+",GEOL,Doctoral standing.,None,"(Cross-listed with GEOL 60080) Faculty research presentations; thesis/dissertation proposal preparation;
+ discussion of professional organizations, preparation of manuscripts and oral presentation of papers."
+GEOL 70084 ,"GEOLOGY GRADUATE STUDENT ORIENTATION
+",GEOL,Doctoral standing.,None,"(Slashed with GEOL 60084) Introduction to departmental resources, procedures, and expectations as well as
+ approaches to successfully conduct research at a graduate level. Training and experience in presentation of data
+ and college teaching of applied geology, as well as discussion forum on professional ethics and responsibilities."
+GEOL 70091 ,"SEMINAR
+",GEOL,Doctoral standing.,None,"(Cross-listed with GEOL 60091) (Repeatable for credit)Specialized topics in geology. Precise title to be inserted
+ in schedule of classes."
+GEOL 70093 ,"VARIABLE TITLE WORKSHOP IN GEOLOGY
+",GEOL,Special approval and doctoral standing.,None,"(Repeatable for credit)Workshop and/or training program, of varying duration focused on a specific professional
+ or disciplinary topic."
+GEOL 70094 ,"COLLEGE TEACHING OF APPLIED GEOLOGY
+",GEOL,Doctoral standing.,None,"(Cross-listed with GEOL 60094) (Repeatable for credit)Training and experience in presentation of data and
+ college teaching of applied geology, as well as a discussion forum on professional ethics and responsibilities."
+GEOL 71093 ,"WORKSHOP IN COLLEGE TEACHING
+",GEOL,Doctoral standing.,None,(Repeatable for credit)Workshop in college teaching.
+GEOL 72011 ,"HYDROLOGY
+",GEOL,doctoral standing.,None,"(Cross-listed with GEOL 62011) Introduction to hydrologic measurements, properties of water precipitation,
+ evapotranspiration, runoff computations, streamflow and flood routing."
+GEOL 72030 ,"REMOTE SENSING
+",GEOL,doctoral standing.,None,"(Cross-listed with GEOL 42030 and GEOL 52030 and GEOG 41052 and GEOG 51052 and GEOG 71052)
+ Computer analysis of multispectral satellite datasets. Applications in Terrestrial Earth Science are emphasized."
+GEOL 72068 ,"ADVANCED HYDROGEOLOGY
+",GEOL,doctoral standing.,None,"Quantitative approach to occurrence of ground water;methods of investigation evaluation and development of
+ ground water resources emphasizing optimization and maximal exploitation without environmental changes."
+GEOL 72069 ,"HYDROGEOCHEMISTRY
+",GEOL,doctoral standing.,None,"(Cross-listed with GEOL 42069 and GEOL 52069) Processes and evolution of the chemical composition of water
+ in the natural hydrologic cycle. Methods of hydrochemical interpretation applied to ground water and pollution
+ problems. Lecture three hours weekly."
+GEOL 72079 ,"ADVANCED ENGINEERING GEOLOGY
+",GEOL,GEOL 4 52078 and doctoral standing.,None,"(Cross-listed with GEOL 62079) Role of geology in site selection,design and construction relative to dams
+ tunnels highways slope stability and nuclear power plants. Selected case histories. Lecture three hours weekly.
+ Field trip and term paper required."
+GEOL 72082 ,"INTRODUCTION TO SOIL MECHANICS
+",GEOL,doctoral standing.,None,"(Cross-listed with GEOL 62082) Engineering properties and engineering behavior of soils including classification
+ properties,compaction permeability strength and compressibility. Lecture three hours and lab two hours weekly."
+GEOL 72083 ,"ROCK SLOPE STABILITY
+",GEOL,"doctoralstanding.
+",None,"Provide information used to recognize,avoid design for control and correct slope movements in rocks
+ determination of shear strength along rock discontinuities stability analysis of rock slopes."
+GEOL 72084 ,"FOUNDATION ENGINEERING
+",GEOL,GEOL 42078 or 52078 or 42082 or 52082 or 72082; and doctoral standing.,None,"(Cross-listed with GEOL 62084) Seepage and drainage of foundation soils. Subsurface investigations. Principles
+ design and construction of shallow and deep foundations. Earth retaining structures. Lecture three hours
+ weekly."
+GEOL 73042 ,"ENVIRONMENTAL GEOCHEMISTRY
+",GEOL,doctoral standing.,None,"(Cross-listed with GEOL 43042 and GEOL 53042) Explores chemical processes that influence the natural
+ environment including anthropogenic impacts. Topics include atmospheric chemistry and air pollution, energy
+ and climate change, toxic organic compounds, water chemistry and water pollution, metals, soils, sediments
+ and waste disposal. Environmental problem solving using steady state and non-steady state box models,
+thermodynamics and energy transfer, and chemical reactions and equilibria is emphasized. Required half-day
+ field trip."
+GEOL 73044 ,"ENVIRONMENTAL ISOTOPES
+",GEOL,doctoral standing.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 850
+(Cross-listed with GEOL 43044 and GEOL 53044) Deals with the fundamentals of isotope geochemistry and the
+ application of primarily light stable isotopes (H, O, C, N) to earth system processes (involving the hydrosphere,
+ biosphere, and upper geosphere)."
+GEOL 73063 ,"SEDIMENTARY PETROLOGY
+",GEOL,doctoral standing.,None,"Classification,texture composition provenance and diagenesis of sandstones and carbonates following review of
+ optical mineralogy. Petrographic microscopy and other laboratory techniques are emphasized."
+GEOL 73067 ,"CARBONATE ROCKS
+",GEOL,doctoral standing.,None,"(Cross-listed with GEOL 63067) Basic principles of carbonate sedimentology including composition,classification
+ origin and distribution of carbonate sediments their diagenesis and lithification."
+GEOL 74028 ,"PALEOECOLOGY
+",GEOL,doctoral standing.,None,"(Cross-listed with GEOL 64028) Relationships between ancient organisms and their environments, as
+ interpreted from fossils, enclosing rock strata and recent analogs. Field and laboratory studies. Saturday field
+trips."
+GEOL 74030 ,"SYSTEMATIC INVERTEBRATE PALEONTOLOGY I
+",GEOL,doctoral standing.,None,"(Cross-listed with GEOL 64030) Detailed investigation and examination of important literature concerning
+ taxonomic characters of invertebrate phyla: Protista, Porifera, Cnidaria and Bryozoa. Numerous oral reports,
+specimen examination."
+GEOL 74032 ,"SYSTEMATIC INVERTEBRATE PALEONTOLOGY II
+",GEOL,doctoral standing.,None,"(Cross-listed with GEOL 64032) Detailed investigation and examination of important literature concerning
+ taxonomic characters of invertebrate phyla: Brachiopoda, Mollusca, Arthropoda and Echinodermata. Numerous
+oral reports, specimen examination."
+GEOL 74036 ,"CENOZOIC CLIMATE CHANGE
+",GEOL,Doctoral standing.,None,"(Cross-listed with GEOL 64036) An overview of the concepts and principles involved in interpreting global and
+ hemispheric Cenozoic climate change (past 65 million years). Emphasis on particular temporal and spatial
+ scales and cycles. Extensive reading in scientific journals."
+GEOL 74038 ,"PALEOLIMNOLOGY
+",GEOL,Doctoral standing.,None,"An overview of significant topics and applications in paleolimnology of Holocene (last 10,000 years) and
+ Pleistocene (last 2 million years) records, including current issues in environmental and climatic reconstruction.
+ Extensive reading expected."
+GEOL 74052 ,"GLACIERS AND GLACIATION
+",GEOL,Doctoral standing.,None,"(Cross-listed with GEOG 41052, GEOG 51052 and GEOG 71052) Examination of how glacial ice masses change
+ the shape of the earth's surface, how they are integral to climate and sea level change and how they pose high
+ risk hazards."
+GEOL 74065 ,"SEDIMENTOLOGY
+",GEOL,Doctoral standing.,None,"(Cross-listed with GEOL 64065) Fluid dynamics, grain transport, sedimentary structures, granulometry, bedform
+ and facies sequences and facies architecture. Interpretation of continental and marine clastic depositional
+ environments and processes."
+GEOL 80091 ,"SEMINAR IN APPLIED GEOLOGY
+",GEOL,Doctoral standing.,None,(Repeatable for credit)Specialized topics in applied geology. Precise title to be inserted in schedule of classes.
+GEOL 80095 ,"ADVANCED TOPICS IN GEOLOGY
+",GEOL,Special approval and doctoral standing.,None,"(Repeatable for credit)Advanced topics presented by visiting professors or one-time offerings presented by
+ regular faculty."
+GEOL 80098 ,"RESEARCH
+",GEOL,Doctoral standing.,None,"(Repeatable for credit)Research for doctoral students. Credits earned may be applied toward degree if
+ department approves."
+GEOL 80199 ,"DISSERTATION I
+",GEOL,Admission to candidacy for doctoral degree and doctoral standing.,None,"(Repeatable for credit)Doctoral dissertation, for which registration in at least two semesters is required first of
+ which will be semester in which dissertation work is begun and continuing until the completion of 30 hours."
+GEOL 80299 ,"DISSERTATION II
+",GEOL,"GEOL 80199 and doctoralstanding.
+",None,"(Repeatable for credit)Continuing registration required of doctoral students who have completed the initial 30
+ hours of dissertation, continuing until all degree requirements are met."

@@ -1,0 +1,36 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+ITAL 15201 ,"ELEMENTARY ITALIAN I
+",ITAL,None.,None,An introduction to the Italian language in the context of Italian culture.
+ITAL 15202 ,"ELEMENTARY ITALIAN II
+",ITAL,"ITAL15201.
+",None,A continuation of the introduction to the Italian language in the context of Italian culture.
+ITAL 15204 ,"BASIC CONVERSATIONAL ITALIAN I
+",ITAL,special approval.,None,"Exposure to basic grammar and to current Italian useful to travelers. Not applicable to fulfillment of foreign
+ language requirement."
+ITAL 15205 ,"BASIC CONVERSATIONAL ITALIAN II
+",ITAL,ITAL 15204.,None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1042
+Continuation of ITAL 15204."
+ITAL 25201 ,"INTERMEDIATE ITALIAN I
+",ITAL,ITAL 15202.,None,"Continued development of speaking, listening, reading and writing skills using a variety of cultural materials."
+ITAL 25202 ,"INTERMEDIATE ITALIAN II
+",ITAL,ITAL 25201.,None,Continuation of ITAL 25201.
+ITAL 35211 ,"ITALIAN COMPOSITION AND CONVERSATION I
+",ITAL,ITAL 25202.,None,"Study and practice of written and oral Italian with emphasis on acquisition of written and oral proficiency in the
+ language."
+ITAL 35213 ,"ITALIAN COMPOSITION AND CONVERSATION II
+",ITAL,ITAL 35211.,None,Advanced practice in speaking and writing the Italian language.
+ITAL 35332 ,"RECENT ITALIAN LITERATURE
+",ITAL,ITAL 35211.,None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1043
+This course surveys the major movements and authors from the Baroque period through the 20th century."
+ITAL 35421 ,"ITALIAN CIVILIZATION
+",ITAL,ITAL 25202.,None,"Lectures, readings, oral and written reports on outstanding features of the culture and civilization of Italy."
+ITAL 35597 ,"COLLOQUIUM
+",ITAL,Permission.,None,"(Repeatable for credit)Variable topic course deals with single literary theme in Italian literature or a single
+ author. May be offered in Italian or in English translation."
+ITAL 45093 ,"VARIABLE TITLE WORKSHOP IN ITALIAN
+",ITAL,Departmental permission.,None,"(Repeatable for credit)Workshops individually designed to provide instruction and training in specific areas of
+ Italian studies. S u graded."
+ITAL 45096 ,"INDIVIDUAL INVESTIGATION
+",ITAL,ITAL 25202 and junior standing and special approval.,None,"(Repeatable for a total of 6 credit hours)Allows the advanced, serious student to carry out research study
+ project on Italian literature, language or culture. Prior approval of supervising faculty member department
+ required."

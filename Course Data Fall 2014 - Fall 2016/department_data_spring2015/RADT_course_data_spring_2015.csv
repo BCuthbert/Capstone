@@ -1,0 +1,90 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+RADT 14003 ,"INTRODUCTION TO RADIOLOGIC TECHNOLOGY
+",RADT,"radiologictechnology (RADT) major and admission to technical study.
+",None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1631
+Introduction to radiologic technology program, general anatomy, radiographic procedures, imaging equipment
+ and techniques, radiation protection, professional organizations and clinical education."
+RADT 14005 ,"CLINICAL EDUCATION I
+",RADT,radiologic technology (RADT) major. ,"RADT 14003 and 14006 with a minimum gradeof C (2.000).
+","Supervised observation and experience at the clinical education site with emphasis on clinical practice of basic
+ skills of radiologic technology and the exams covered in Radiographic Procedures I (chest and abdomen)."
+RADT 14006 ,"RADIOGRAPHIC PROCEDURES I
+",RADT,RadiologicTechnology (RADT) major and admission to technical study. ,RADT 14003 and RADT 14005.,Introduction to radiographic procedures and positioning of the chest and abdomen.
+RADT 14015 ,"CLINICAL EDUCATION II
+",RADT,RADT 14005 and 14006.,None,"Continuation of Clinical Education I with emphasis on skeletal radiography that includes upper and lower
+ extremities, shoulder and pelvic girdles, vertebral spine and bony thorax. Student is assigned to the clinical site
+ 22.5 hours per week."
+RADT 14016 ,"PATIENT CARE MANAGEMNT
+",RADT,"RADT 14003 with agrade of C (2.000) or better.
+",None,"Patient interactions and communication, human diversity, patient histories, medical legal issues, patient safety
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1632
+and transfer, vital signs and oxygen administration, infection control and sterile techniques, contrast media,
+ tubes and lines, medical emergencies and pharmacology are topics covered."
+RADT 14018 ,"RADIOGRAPHIC EXPOSURE AND IMAGING I
+",RADT,RADT 14003. ,RADT 14015.,"Equipment used in medical imaging, including radiographic tubes, filtration, beam restrictors, grids, image
+ receptors, radiographic film and automatic processing."
+RADT 14021 ,"RADIOGRAPHIC PROCEDURES II
+",RADT,RADT 14006. ,RADT 14015.,"Radiographic anatomy, positioning and image evaluation of the upper extremities, shoulder girdle, lower
+ extemities, pelvic girdle, vertebral spine and bony thorax."
+RADT 14022 ,"RADIOGRAPHIC EXPOSURE AND IMAGING II
+",RADT,RADT 14018 with a minimum grade of C (2.000).,RADT 14025.,"Study of radiographic technical factors, radiographic density, contrast, detail and distortion and the factors that
+ influence them as seen on radiographic images."
+RADT 14024 ,"RADIOGRAPHIC PROCEDURES III
+",RADT,BSCI 11010 or ATTR 25057 or EXSC 25057 orBSCI 20020; and RADT 14021. ,RADT 14025.,"Radiographic anatomy, positioning, procedures and image evaluation of the gastrointestinal, biliary and urinary
+ systems and skull and facial bones positioning."
+RADT 14025 ,"CLINICAL EDUCATION III
+",RADT,RADT 14015. ,RADT 14024.,"Continuation of Clinical Education II with emphasis on clinical practice of previous course content plus digestive,
+ biliary and urinary procedures as well as skull and facial bones positioning. Student assigned to clinical
+ education setting 22.5 hours per week."
+RADT 14075 ,"CLINICAL EDUCATION IV
+",RADT,RADT 14025.,None,"Continuation of Clinical Education III with emphasis on clinical practice of content in previous clinical courses.
+ More emphasis on independent clinical practice of procedures previously mastered. Students assigned to clinical
+ education site 30 hours per week for 8 weeks."
+RADT 14096 ,"INDIVIDUAL INVESTIGATION IN DIRECTED READINGS IN RADIOLOGIC TECHNOLOGY
+",RADT,special approval.,None,"(Repeatable for credit)Student selects prescribed number of medical journals, completes questions, paper and
+ presentation."
+RADT 21095 ,"SPECIAL TOPICS IN RADIOLOGIC TECHNOLOGY
+",RADT,"specialapproval from instructor.
+",None,"(repeated registration permitted) Student participation course on topics pertinent to radiologic technology.
+ Topics are chosen by the instructor. Student may enroll in course more than once."
+RADT 24006 ,"RADIOLOGIC PHYSICS
+",RADT,RADT 14018 with a minimum grade of C (2.000),None,"Introduction to general physics, units and measurement, atomic structure, electromagnetic spectrum, x-ray
+ production, electricity, magnetism, electromagnetism, x-ray tube, x-ray circuitry and fluoroscopic equipment
+ are covered."
+RADT 24008 ,"RADIOBIOLOGY AND RADIATION PROTECTION
+",RADT,"BSCI 11010 and 11020, or BSCI 20020, orATTR 25057 and 25058, or EXSC 25057 and 25058; and RADT 14003. ",RADT 24015.,"Describes the risk versus benefit approach, sources of radiation, interactions of radiation with matter, cell
+ structure and function and effects of radiation on them, acute and chronic effects, somatic and genetic effects,
+ radiation quantities and units, radiation protection organizations and regulations, stochastic and non stochastic
+ effects, limits of exposure, methods of protecting patients, public and workers, shielding and dosimetry
+ methods and dose reduction in imaging modalities."
+RADT 24014 ,"ADVANCED IMAGING
+",RADT,RADT 14075. ,RADT 24015.,"Procedures and equipment used in advanced medical imaging including fluoroscopy, mammography, CT, MRI,
+ interventional imaging, nuclear medicine, PET imaging, diagnostic medical sonography, radiation therapy and
+ fusion studies as well as quality assurance."
+RADT 24015 ,"CLINICAL EDUCATION V
+",RADT,RADT 14075.,RADT 24014.,"Continuation of Clinical Education IV with emphasis on clinical practice of content of previous clinical courses.
+ More emphasis on independent clinical practice previously mastered. Students assigned to clinical education
+ setting 22.5 hours per week and rotates to special medical imaging areas."
+RADT 24025 ,"CLINICAL EDUCATION VI
+",RADT,RADT 24015.,None,"Continuation of Clinical Education V with emphasis on mastery of clinical procedures. Students assigned to
+ clinical education site 22.5 hours per week."
+RADT 24028 ,"RADIOLOGIC PATHOLOGY
+",RADT,"radiologic technology (RADT) major; andadmission to technical study; and HED 14020; and (BSCI 11010 and 11020) or BSCI 20020 all with a minimum
+ grade of C (2.000). ",RADT 24025.,"Disease process and the pathologies associated with each anatomical system are described and their application
+ to all modalities in the radiologic and imaging sciences."
+RADT 24048 ,"RADIOGRAPHIC TECHNIQUES
+",RADT,"BSCI 20020 or BSCI 11010 and 11020; and RADT 14016 and 14022 and24006 and 24008 all with a minimum grade of C (2.000)
+",None,"Review of radiologic technology to include patient care, anatomy and physiology, radiologic procedures,
+ equipment and image production, radiologic physics, and radiation protection in preparation for the radiography
+ certification exam."
+RADT 24058 ,"DIVERSIFIED EMPLOYMENT
+",RADT,"RADT 24014 with a minimum grade of C (2.000); and radiologic technology (RADT) major; andadmission to technical study.
+",None,Course features multiple topics in medical imaging to prepare graduates for employment in healthcare.
+RADT 24096 ,"INDIVIDUAL INVESTIGATION IN RADIOLOGIC TECHNOLOGY
+",RADT,"RADT 14003 with a minimum grade of C (2.000); andradiologic technology (RADT) major; and admission to technical study.
+",None,"Directed research of special interest or need in the student's program. A research paper will be written on an
+ assigned topic in radiologic technology."
+RADT 24196 ,"INDIVIDUAL INVESTIGATION IN ADVANCED READINGS IN RADIOLOGIC TECHNOLOGY
+",RADT,"Radiologictechnology (RADT) major and admission to technical study.
+",None,"(Repeatable for credit)Course permits scholarly activities for research, study and summary of medical journal
+ articles. Information aids in understanding recent advancements in medical imaging."

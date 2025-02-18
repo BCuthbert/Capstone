@@ -1,0 +1,378 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+SOC 12050 ,"INTRODUCTION TO SOCIOLOGY
+",SOC,none.,None,"Scientific approach to understanding social interaction, institutions and organization."
+SOC 22100 ,"SOCIOLOGICAL ANALYSIS
+",SOC,SOC 12050.,None,"Fundamental study of sociological analysis designed to provide awareness of theoretical and methodological
+ concepts necessary in developing sociological perspective."
+SOC 22570 ,"UNDERSTANDING DIFFERENCES AND INEQUALITY
+",SOC,None.,None,"An introduction to the cultural and structural factors creating and sustaining educational, economic and political
+ inequality by race, ethnicity, gender, class and sexual orientation with an emphasis on issues of poverty and
+ immigration."
+SOC 22778 ,"SOCIAL PROBLEMS
+",SOC,None.,None,"Contemporary American and global social problems and issues are analyzed from sociological perspectives.
+ Several cases are used to illustrate the emergence, development and decline of problems in social context."
+SOC 24011 ,"INTERPERSONAL RELATIONSHIPS AND FAMILIES
+",SOC,None.,None,"(Equivalent to HDFS 24011) Exploration of the sociological nature of families across the lifespan, focusing on
+ structure, diversity and life course processes such as dating, mate selection, cohabitation, marriage,
+ parenthood, divorce, remarriage, singlehood, widowhood, parent-child interactions, sexual orientation,
+ inequality and difference."
+SOC 31092 ,"PRACTICUM IN SOCIOLOGY
+",SOC,SOC 32210 and junior standing.,None,(Repeatable for credit)Individual research experience in sociology.
+SOC 32096 ,"INDIVIDUAL INVESTIGATION IN SOCIOLOGY
+",SOC,"SOC12050, junior standing and special approval of instructor.
+",None,(Repeatable for credit)Readings and/or research supervised by member of sociology faculty.
+SOC 32210 ,"RESEARCHING SOCIETY
+",SOC,SOC 12050 and junior standing.,None,"Survey of methods and techniques of research; research design and data gathering instruments; qualitative and
+ quantitative analysis."
+SOC 32220 ,"DATA ANALYSIS
+",SOC,SOC 12050. ,SOC 32221.,The use of quantitative methods in the analysis of data from social research. Emphasis on descriptive statistics.
+SOC 32221 ,"DATA ANALYSIS LABORATORY
+",SOC,None,SOC 32220.,Analysis of sociological data utilizing statistical and electronic data processing tools.
+SOC 32400 ,"INDIVIDUAL AND SOCIETY
+",SOC,SOC 12050.,None,"Foundations of social psychology; process of socialization; development of social and personal identities; small
+ group and collective behavior; theories of deviance."
+SOC 32510 ,"SOCIOLOGY OF WORK
+",SOC,SOC 12050.,None,"Consideration of world of work across time and cultures with special emphasis on American society. Impact of
+ work on individuals and other social institutions."
+SOC 32560 ,"SOCIOLOGY OF FAMILIES
+",SOC,SOC 12050.,None,"Social history of the American family. Examination of how race, ethnicity, sexual orientation, class, gender and
+ age contribute to variation in the experience and structure of family life in the U.S."
+SOC 32565 ,"SOCIOLOGY OF GAYS/LESBIANS
+",SOC,SOC 12050.,None,"Examination of sexual identities, societal attitudes and debates, and differences of gender, race, age and class
+ in gay/lesbian communities, using both social movements and life span perspectives."
+SOC 32569 ,"MINORITIES IN AMERICA
+",SOC,SOC 12050.,None,"Study of such major American minorities as blacks, American Indians, Spanish-speaking Americans and
+ American Jews."
+SOC 32570 ,"INEQUALITY IN SOCIETIES
+",SOC,SOC 12050.,None,"Sociological analysis of stratification and inequality in societies, and the social structures that produce and
+ maintain them. Particular emphasis on the intersections of race, class and gender in American society."
+SOC 32673 ,"URBAN SOCIOLOGY
+",SOC,SOC 12050.,None,"Examination of the history and development of urban areas, urban sociological theories and selected topics such
+ as poverty, immigration, race relations and urban planning."
+SOC 32762 ,"DEVIANT BEHAVIOR
+",SOC,SOC 12050.,None,"Overview of classical and contemporary theories and perspectives on the nature, causes and societal
+ management of deviant behavior. Application of theories and perspectives to modern and historical social
+ problems, methods of punishment and policy trends in social control."
+SOC 42010 ,"DEATH AND DYING
+",SOC,SOC 12050 and junior standing.,None,"Theoretical perspectives and research in human death and dying. Emphasis on applied concerns in medical and
+ helping professions. Topics include social death, death as taboo, medicalization and rationalization of death and
+ dying and disenfranchised grief."
+SOC 42092 ,"INTERNSHIP IN SOCIOLOGY
+",SOC,"Junior standing; and sociology (SOC)major and 2.500 grade point average and special approval.
+",None,"(Repeatable for credit)Application of sociological knowledge in the work setting. Assist professionals in sites
+ including social services hospitals industry and government."
+SOC 42093 ,"VARIABLE TITLE WORKSHOP IN SOCIOLOGY
+",SOC,Permission.,None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1692
+(Repeatable for credit)Concentrates on professional or disciplinary concerns. Specific content to vary according
+ to needs of client groups. S u/graded."
+SOC 42095 ,"SPECIAL TOPICS IN SOCIOLOGY
+",SOC,SOC 12050 and junior standing.,None,"(Repeatable for credit)Offered irregularly when unusual resources and/or opportunities permit. Topic announced
+ when scheduled. Repeatable for a total of 12 hours for majors."
+SOC 42126 ,"SOCIOLOGICAL THEORIES
+",SOC,"SOC 12050 andjunior standing.
+",None,"An examination of classical, modern and postmodern approaches to social theory."
+SOC 42224 ,"INTERPRETING SOCIAL DATA
+",SOC,"SOC 32210 or SOC 32220; andspecial approval.
+",None,"Emphasis on organizing, analyzing and interpreting actual sociological research data making use of basic
+ descriptive and inferential statistics and computer programs."
+SOC 42315 ,"SOCIOLOGY OF CHANGING GENDER ROLES
+",SOC,"SOC 12050 and juniorstanding.
+",None,"An examination of the institutions, institutional linkages and social processes that contribute to change and
+ stability of traditional gender roles and the consequences of changes."
+SOC 42359 ,"SOCIAL MOVEMENTS
+",SOC,SOC 12050 and junior standing.,None,"Investigation of various movements for social change. Examines the origins, developmental characteristics and
+ the purposes of classic and contemporary movements."
+SOC 42400 ,"SELF AND IDENTITY
+",SOC,SOC 12050 and junior standing.,None,"Examines theories and research on the origin and behavioral consequences of identities, self-concept and self-
+esteem; also examines the relationships between identities and emotions and between self-concept and mental
+ health."
+SOC 42421 ,"CHILDHOOD IN SOCIETY
+",SOC,"SOC 12050 and juniorstanding.
+",None,"How socio-historical circumstances shape the perception and experience of childhood as a distinct life stage.
+ The process of childhood socialization in Western societies particularly the U.S. An exploration of the distinct
+ role of socializing agents-parents and siblings, school, peers and media."
+SOC 42478 ,"ADOLESCENCE IN SOCIETY
+",SOC,"SOC 12050and junior standing.
+",None,"Consideration of the social, cultural and historical forces that shape the experience of this period of the life
+ cycle. Includes examination of gender, class, and race differences in adolescence the significance of youth
+ movements with an emphasis on music as a dominant expression of youth culture."
+SOC 42558 ,"WEALTH, POVERTY AND POWER
+",SOC,SOC 12050 and junior standing.,None,"Sociological examination of economic stratification; focuses on the translation of class into power via politics,
+ education and collective struggle."
+SOC 42559 ,"CULTURE AND SOCIETY
+",SOC,SOC 12050 and sophomore standing.,None,"Overview of the sociological analysis of culture, popular culture and the media. Includes examination of key
+ theoretical perspectives, the production and consumption of culture, culture and inequality, and other current
+ issues in the sociological study of culture."
+SOC 42560 ,"SOCIOLOGY OF FOOD
+",SOC,SOC 12050.,None,"(Cross-listed with SOC 52560) Food is essential, but like every other aspect of our lives the meaning of food
+ and the experience of its preparation and consumption are socially determined. In this course we’ll explore the
+ social dimensions of food consumption and production. We will consider the following questions and answer
+ them by developing an understanding of sociological concepts and theories: What do our meals reveal about us
+– about our history, culture, our gender and race and ethnicity, socio-economic status, religious beliefs, and our
+ family life? How does food consumption differ in different societies? How do the media and corporations
+ influence our food choices? What does food mean symbolize and in what ways are these meanings manipulated
+ and why? How is food production carried out in different contexts and what can we learn about the social
+ organization of work from studying food production? How does what we eat contribute to local and global
+ environmental problems?"
+SOC 42561 ,"SOCIOLOGY OF RELIGION
+",SOC,SOC 12050 and junior standing.,None,Social context of religious ideologies and structures with special reference to religion in America.
+SOC 42562 ,"SOCIOLOGY OF MENTAL ILLNESS
+",SOC,SOC 12050 and junior standing.,None,"A sociology of mental health and illness; focuses on how social factors influence and are influenced by mental
+ health status; topics include definition and measurement, social distribution, social control of mental illness,
+ societal reaction and media coverage."
+SOC 42563 ,"SOCIOLOGY OF HEALTH AND HEALTH CARE
+",SOC,"SOC 12050 and juniorstanding.
+",None,"Sociological analysis of health and illness behavior, utilization of health care professions and the organizational
+ community and societal systems which deal with health and illness."
+SOC 42564 ,"BUREAUCRATIC ORGANIZATIONS
+",SOC,"SOC 12050and junior standing.
+",None,Analysis of structure and functioning of complex organizations in their cultural context.
+SOC 42568 ,"RACE AND ETHNIC STUDIES
+",SOC,SOC 12050 and junior standing.,None,"Sociological principles underlying racial and ethnic relations in the United States;emphasis on social factors of
+ prejudice, discrimination and assimilation affecting all groups."
+SOC 42575 ,"FAMILY PATTERNS:A WORLD PERSPECTIVE
+",SOC,SOC 12050 and junior standing.,None,"Cultural variability with respect to courtship, family relationships, child rearing and other patterns in primitive
+ and literate societies."
+SOC 42577 ,"SOCIOLOGY OF FAMILY VIOLENCE
+",SOC,"SOC 12050 and juniorstanding.
+",None,"Sociological analysis of theories, research and social policy concerning family violence, child abuse and neglect,
+ spouse abuse, elderly abuse, marital rape, sexual abuse of children."
+SOC 42879 ,"AGING IN SOCIETY
+",SOC,"SOC 12050 andjunior standing.
+",None,"Analysis of demographic, sociological and socio-psychological dimensions of aging."
+SOC 43200 ,"SOCIAL STRUCTURE AND INDIVIDUAL LIVES
+",SOC,SOC 12050 and junior standing.,None,"Examines conceptualizations for and evidence concerning the effects of social structure on various dimensions
+ of individual lives."
+SOC 52010 ,"DEATH AND DYING
+",SOC,Graduate standing in sociology.,None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1697
+Theoretical perspectives and research in human death and dying. Emphasis on applied concerns in medical and
+ helping professions. Topics include social death, death as taboo, medicalization and rationalization of death and
+ dying, and disenfranchised grief."
+SOC 52126 ,"SOCIOLOGICAL THEORIES
+",SOC,"Graduatestanding in sociology.
+",None,"An examination of classical, modern and post-modern approaches to social theory."
+SOC 52315 ,"SOCIOLOGY OF CHANGING GENDER ROLES
+",SOC,"Graduate standing insociology.
+",None,"An examination of the institutions, institutional linkages and social processes that contribute to change and
+ stability of traditional gender roles and the consequences of changes."
+SOC 52421 ,"CHILDHOOD IN SOCIETY
+",SOC,"Graduate standing insociology.
+",None,"How socio-historical circumstances shape the perception and experience of childhood as a distinct life stage.
+ The process of childhood socialization in Western societies particularly the U.S. An exploration of the distinct
+ role of socializing agents- parents and siblings, school, peers and media."
+SOC 52478 ,"ADOLESCENCE IN SOCIETY
+",SOC,"Graduatestanding in sociology.
+",None,"Consideration of the social, cultural and historical forces that shape the experience of this period of the life
+ cycle. Includes examination of gender, class and race differences in adolescence, the significance of youth
+ movements with an emphasis on music as a dominant expression of youth culture."
+SOC 52558 ,"WEALTH, POVERTY AND POWER
+",SOC,Graduate standing in sociology.,None,"Sociological examination of economic stratification in the United States; focuses on the translation of class into
+ power via politics, education and collective struggle."
+SOC 52560 ,"SOCIOLOGY OF FOOD
+",SOC,graduate standing.,None,"(Cross-listed with SOC 42560) Food is essential, but like every other aspect of our lives the meaning of food
+ and the experience of its preparation and consumption are socially determined. In this course we’ll explore the
+ social dimensions of food consumption and production. We will consider the following questions and answer
+ them by developing an understanding of sociological concepts and theories: What do our meals reveal about us
+– about our history, culture, our gender and raceethnicity, socio-economic status, religious beliefs, and our
+ family life? How does food consumption differ in different societies? How do the media and corporations
+ influence our food choices? What does food meansymbolize and in what ways are these meanings manipulated
+ and why? How is food production carried out in different contexts and what can we learn about the social
+ organization of work from studying food production? How does what we eat contribute to local and global
+ environmental problems?"
+SOC 52561 ,"SOCIOLOGY OF RELIGION
+",SOC,Graduate standing in sociology.,None,Social context of religions and their ideologies and structures with special reference to religion in America.
+SOC 52563 ,"SOCIOLOGY OF HEALTH AND HEALTH CARE
+",SOC,"Graduatestanding in sociology.
+",None,"Sociological analysis of health and illness behavior, utilization of health care, professions, and the
+ organizational, community, and societal systems that deal with health and illness."
+SOC 52564 ,"BUREAUCRATIC ORGANIZATIONS
+",SOC,"Graduatestanding in sociology.
+",None,Analysis of structure and functioning of complex organizations in their cultural context.
+SOC 52568 ,"RACE AND ETHNIC STUDIES
+",SOC,Graduate standing in sociology.,None,"Sociological principles underlying racial and ethnic relations in the United States; emphasis on social factors of
+ prejudice, discrimination and assimilation affecting all groups."
+SOC 52577 ,"SOCIOLOGY OF FAMILY VIOLENCE
+",SOC,"Graduate standing insociology.
+",None,"Sociological analysis of theories, research and social policy concerning family violence, child abuse and neglect,
+ spouse abuse, elderly abuse, marital rape, sexual abuse of children."
+SOC 52879 ,"AGING IN SOCIETY
+",SOC,"Graduatestanding in sociology.
+",None,"Analysis of demographic, sociological and sociopsychological dimensions of aging."
+SOC 62002 ,"PROFESSIONAL AND ETHICAL ISSUES IN SOCIOLOGY
+",SOC,Graduate standing in sociology .,None,"Introduction to professional and ethical issues in the field of sociology including the logic of inquiry, developing
+ effective approaches to independent learning and research, the human subjects review process and plagiarism.
+ Akron 3850:628."
+SOC 62093 ,"VARIABLE TITLE WORKSHOP IN SOCIOLOGY
+",SOC,Graduate standing.,None,"(Repeatable for credit)Concentrates on professional or disciplinary concerns. Specific content to vary according
+ to needs of client groups."
+SOC 62100 ,"EARLY SOCIOLOGICAL THEORY
+",SOC,SOC 4/52126 and graduate standing in sociology.,None,"An examination of the contributions by pre-1930 social thinkers to contemporary sociological theory. Akron
+ 3850:722."
+SOC 62105 ,"CONTEMPORARY SOCIOLOGICAL THOUGHT
+",SOC,"SOC 62100 or SOC 72100; and graduate standing insociology.
+",None,"Covers major contemporary theories and theorists. Emphasis on functionalism, conflict, exchange,
+ interactionalism and systems theory. Neofunctionalism, neo-Marxism, structuration theory and other recent
+trends are treated. Akron 3850:723."
+SOC 62199 ,"THESIS I
+",SOC,Graduate standing in sociology and special approval.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in a single semester distributed over several
+ semesters if desired."
+SOC 62211 ,"QUANTITATIVE METHODS IN SOCIOLOGY
+",SOC,Graduate standing in sociology.,None,"Introduction to the use of quantitative research methods for analyzing sociological issues. Includes instruction
+ on each step in the process of empirically verifying a theoretical question, from conceptualization to analysis.
+ Akron 3850:603."
+SOC 62217 ,"MULTIVARIATE TECHNIQUES IN SOCIOLOGY
+",SOC,"SOC 32220 andgraduate standing in sociology.
+",None,"Advanced multivariate techniques and methodological problems in the analysis of sociological data. Topics
+ include non-experimental causal models and path analysis. Akron 3850:706."
+SOC 62218 ,"ADVANCED DATA ANALYSIS
+",SOC,"SOC6/72217 and graduate standing in sociology.
+",None,"Critical examination of data analytic techniques having particular relevance to research problems in
+ sociology,with particular emphasis on multi-variate inferential statistics. Akron 3850:709."
+SOC 62219 ,"QUALITATIVE METHODS IN SOCIOLOGY
+",SOC,"Graduate standingin sociology.
+",None,"Study of qualitative methods including interviewing, observation, use of personal documents, archival data and
+ special problems of recording and analyzing qualitative data. Akron 3850:714."
+SOC 62220 ,"SURVEY RESEARCH METHODS
+",SOC,"Graduatestanding in sociology.
+",None,An in-depth study of the design and administration of social surveys. Akron 3850:711.
+SOC 62299 ,"THESIS II
+",SOC,SOC 62199; and graduate standing in sociology; and special approval.,None,Thesis students must continue registration each semester until all degree requirements are met.
+SOC 62323 ,"SOCIOLOGY OF HEALTH CARE
+",SOC,Graduate standing in sociology.,None,"A general study of the field of medical sociology with special emphasis on analysis of health and health care in
+ the contemporary urban United States. Akron 3850:656."
+SOC 62326 ,"SOCIOLOGY OF MENTAL HEALTH AND MENTAL DISORDERS
+",SOC,Graduate standing in sociology .,None,"Sociological examination of the social processes that affect mental health, frame cultural ideas of normality and
+ illness, and define clinical pathology. Akron 3850: 728."
+SOC 62430 ,"SOCIAL PSYCHOLOGY
+",SOC,Graduate standing in sociology.,None,"Examination of social psychological theory and research, both classic and contemporary. Provides student with
+ background and working knowledge of social psychological aspects of social phenomena. Akron 3850: 631."
+SOC 62433 ,"PERSONALITY AND SOCIAL SYSTEMS
+",SOC,Graduate standing in sociology.,None,"Examination of contemporary theory and research on linkages between personality and society. Emphasis will
+ be on the dynamics of those linkages and their effects on both individuals and social structures. Akron
+ 3850:634."
+SOC 62435 ,"SOCIOLOGY OF SENTIMENTS AND EMOTIONS
+",SOC,Graduate standing in sociology.,None,"A sociological perspective is employed to analyze and understand the production, distribution and utilization of
+ socially created sentiments and emotions."
+SOC 62542 ,"SOCIOLOGY OF WORK
+",SOC,Graduate standing in sociology.,None,"Examination of work as behavioral phenomenon in human societies; contrasts with nonwork and leisure
+ significance of occupations, professions and work types in organization of work. Akron 3850:649."
+SOC 62546 ,"SOCIAL STRATIFICATION TO SOCIAL INEQUALITIES
+",SOC,"Graduatestanding in sociology.
+",None,"An overview of social inequalities -definitions, causes, identities, structures and consequences. The focus is on
+ social class with attention to intersecting dimensions of inequality. Akron 3850:646."
+SOC 62566 ,"SOCIOLOGY OF GENDER
+",SOC,Graduate standing in sociology.,None,"Examination of theories and research on gender origins, characteristics and changes. Emphasizes recent
+ empirical research on gender role patterns and processes in various industrial societies. Akron 3850:639."
+SOC 62760 ,"DEVIANCE
+",SOC,Graduate standing in sociology.,None,"Examination of nature, types and controls of deviance; analysis of conceptual levels, theoretical contributions,
+ processes in social labeling and self-labeling, case studies, social consequences and problems. Akron 3850:
+ 663."
+SOC 62870 ,"SOCIOLOGY OF RACE AND ETHNICITY
+",SOC,Graduate standing in sociology.,None,"An in-depth study of the theories, models, research approaches and substantive areas that constitute the
+ sociology of race and ethnicity. Akron 3850:651."
+SOC 62877 ,"SOCIAL GERONTOLOGY
+",SOC,Graduate standing in sociology.,None,Impact of aging upon individuals and society. Reactions of individuals and society to aging. Akron 3850:678.
+SOC 62894 ,"COLLEGE TEACHING OF SOCIOLOGY
+",SOC,Graduate standing in sociology.,None,"(Repeatable for credit)Preparation for college teaching. Maximum of 3 hours applicable toward master's degree
+ requirements (with departmental approval). Hours do not count toward the doctoral degree. Akron 3850:700."
+SOC 62895 ,"SPECIAL TOPICS
+",SOC,Graduate standing in sociology.,None,"(Repeatable for credit)Offered irregularly when unusual resources and/or opportunities permit. Topic will be
+ announced when scheduled."
+SOC 62896 ,"INDIVIDUAL INVESTIGATION
+",SOC,"graduate standing and sociology (SOC) majorand special approval.
+",None,"Intensive pursuit of a subject matter beyond normal course coverage with the possibility of associated research.
+ Only 3 credits count toward the Master's degree."
+SOC 62898 ,"RESEARCH
+",SOC,"graduate standing and sociology (SOC) major andspecial approval.
+",None,"Pursuit of research interests which can include the student's project and/or a faculty member's project. Only 2
+ credits count toward the Master's degree."
+SOC 72002 ,"PROFESSIONAL AND ETHICAL ISSUES IN SOCIOLOGY
+",SOC,Doctoral standing in sociology.,None,"Introduction to professional and ethical issues in the field of sociology including the logic of inquiry, developing
+ effective approaches to independent learning and research, the human subjects review process and plagiarism.
+ Akron 3850:628."
+SOC 72093 ,"VARIABLE TITLE WORKSHOP IN SOCIOLOGY
+",SOC,Doctoral standing.,None,"(Repeatable for credit)Concentrates on professional or disciplinary concerns. Specific content to vary according
+ to needs of client groups."
+SOC 72100 ,"EARLY SOCIOLOGICAL THEORY
+",SOC,SOC 4/52126 and doctoral standing in sociology.,None,"An examination of the contributions by pre-1930 social thinkers to contemporary sociological theory. Akron
+ 3850:722."
+SOC 72105 ,"CONTEMPORARY SOCIOLOGICAL THOUGHT
+",SOC,"SOC 62100 or SOC 72100; and doctoral standing insociology.
+",None,"Covers major contemporary theories and theorists. Emphasis on functionalism, conflict, exchange,
+ interactionalism and systems theory. Neofunctionalism, neo-Marxism, structuration theory and other recent
+trends are treated. Akron 3850:723."
+SOC 72211 ,"QUANTITATIVE METHODS IN SOCIOLOGY
+",SOC,doctoral standing in sociology.,None,"Introduction to the use of quantitative research methods for analyzing sociological issues. Includes instruction
+ on each step in the process of empirically verifying a theoretical question, from conceptualization to analysis.
+ Akron 3850:603."
+SOC 72217 ,"MULTIVARIATE TECHNIQUES IN SOCIOLOGY
+",SOC,"SOC 32220 anddoctoral standing in sociology.
+",None,"Advanced multivariate techniques and methodological problems in the analysis of sociological data. Topics
+ include non-experimental causal models and path analysis. Akron 3850:706."
+SOC 72218 ,"ADVANCED DATA ANALYSIS
+",SOC,"SOC62217 or 72217; and doctoral standing in sociology.
+",None,"Crucial examination of data analytic techniques having particular relevance to research problems in
+ sociology,with particular emphasis on multi-variate inferential statistics. Akron 3850:709."
+SOC 72219 ,"QUALITATIVE MEDTHODS IN SOCIOLOGY
+",SOC,"Doctoral standing insociology.
+",None,"Study of qualitative methods including interviewing, observation, use of personal documents, archival data, and
+ special problems of recording and analyzing qualitative data. Akron 3850:714."
+SOC 72220 ,"SURVEY RESEARCH METHODS
+",SOC,"Doctoralstanding in sociology.
+",None,An in-depth study of the design and administration of social surveys. Akron 3850:711.
+SOC 72323 ,"SOCIOLOGY OF HEALTH CARE
+",SOC,Doctoral standing in sociology.,None,"A general study of the field of medical sociology with special emphasis on analysis of health and health care in
+ the contemporary urban United States. Akron 3850:656."
+SOC 72326 ,"SOCIOLOGY OF MENTAL HEALTH AND MENTAL DISORDERS
+",SOC,Doctoral standing in sociology.,None,"Sociological examination of the social processes that affect mental health, frame cultural ideas of normality and
+ illness, and define clinical pathology. Akron 3850:728."
+SOC 72430 ,"SOCIAL PSYCHOLOGY
+",SOC,Doctoral standing in sociology.,None,"Examination of social psychological theory and research, both classic and contemporary. Provides student with
+ background and working knowledge of social psychological aspects of social phenomena. Akron 3850:631."
+SOC 72433 ,"PERSONALITY AND SOCIAL SYSTEMS
+",SOC,Doctoral standing in sociology.,None,"Examination of contemporary theory and research on linkages between personality and society. Emphasis will
+ be on the dynamics of those linkages and their effects on both individuals and social structures. Akron
+ 3850:634."
+SOC 72435 ,"SOCIOLOGY OF SENTIMENTS AND EMOTIONS
+",SOC,Doctoral standing in sociology.,None,"A sociological perspective is employed to analyze and understand the production, distribution and utilization of
+ socially created sentiments and emotions."
+SOC 72542 ,"SOCIOLOGY OF WORK
+",SOC,Doctoral standing in sociology.,None,"Examination of work as behavioral phenomenon in human societies; contrasts with nonwork and leisure;
+ significance of occupations, professions and work types in organization of work. Akron 3850:649."
+SOC 72546 ,"SOCIAL STRATIFICATION TO SOCIAL INEQUALITIES
+",SOC,"Doctoralstanding in sociology.
+",None,"An overview of social inequalities -definitions, causes, identities, structures, and consequences. The focus is on
+ social class with attention to intersecting dimensions of inequality. Akron 3850:646."
+SOC 72566 ,"SOCIOLOGY OF GENDER
+",SOC,Doctoral standing in sociology.,None,"Examination of theories and research on gender origins, characteristics and changes. Emphasizes recent
+ empirical research on gender role patterns and processes in various industrial societies. Akron 3850:639."
+SOC 72760 ,"DEVIANCE
+",SOC,Doctoral standing in sociology.,None,"Examination of nature, types and controls of deviance; analysis of conceptual levels, theoretical contributions,
+ processes in social labeling and self labeling, case studies, social consequences and problems. Akron 3850:663."
+SOC 72870 ,"SOCIOLOGY OF RACE AND ETHNICITY
+",SOC,Doctoral standing in sociology.,None,"An in-depth study of the theories, models, research approaches, and substantive areas that constitute the
+ sociology of race and ethnicity. Akron 3850:651."
+SOC 72877 ,"SOCIAL GERONTOLOGY
+",SOC,Doctoral standing in sociology.,None,Impact of aging upon individuals and society. Reactions of individuals and society to aging. Akron 3850:678.
+SOC 72894 ,"COLLEGE TEACHING OF SOCIOLOGY
+",SOC,Doctoral standing in sociology.,None,"(Repeatable for credit)Preparation for college teaching. Hours do not count toward the doctoral degree. Akron
+ 3850:700."
+SOC 72895 ,"SPECIAL TOPICS
+",SOC,Doctoral standing in sociology.,None,"(Repeatable for credit)Offered irregularly when unusual resources and/or opportunities permit. Topic will be
+ announced when scheduled."
+SOC 72896 ,"INDIVIDUAL INVESTIGATION
+",SOC,"doctoral standing and sociology (SOC) majorand special approval.
+",None,"Intensive pursuit of a subject matter beyond normal course coverage with the possibility of associated research.
+ Only 3 credits count toward the doctoral degree."
+SOC 72898 ,"RESEARCH
+",SOC,"doctoral standing andsociology (SOC) major and special approval.
+",None,"(Repeatable for credit)Pursuit of research interests which can include the student's project and/or a faculty
+ member's project. Only 4 credits count toward the doctoral degree."
+SOC 82199 ,"DISSERTATION I
+",SOC,Special approval and doctoral standing.,None,"(Repeatable for credit)Doctoral dissertation, for which registration in at least two semesters is required first of
+ which will be semester in which dissertation is begun and continuing until 30 hours are completed. Akron 3850:
+ 899."
+SOC 82299 ,"DISSERTATION II
+",SOC,"Special approval anddoctoral standing.
+",None,"(Repeatable for credit)Continuing registration required of doctoral students who have completed the initial 30
+ hours of dissertation and continuing until all degree requirements are met."
