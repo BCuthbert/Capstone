@@ -1,0 +1,99 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+INS 29000 ,"INTRODUCTION TO INSURANCE AND RISK
+",INS,ACTT 11000 or BMRT 11000.,None,"Introduction into the fields of insurance and risk management including, property and casualty, life, health,
+auto and other types of insurances. Personal and commercial risks are identified and quantified for potential
+loss."
+INS 39000 ,"INSURANCE LAW, FINANCE AND RISK MANAGEMENT
+",INS,INS 29000.,None,"Next-level insurance and risk management topics including ERM, insurance law and financial statement
+analysis. Other topics include impact of laws and regulation on insurers and additional elements of life
+insurance, annuities, IRAs, auto insurance, crime insurance and surety bonds."
+INS 39001 ,"INSURANCE OPERATIONS
+",INS,"INS39000 with a minimum grade of C (2.000). 
+",None,"A detailed review of the strategic and tactical operations of the insurance industry. Explores the Function and
+role of insurers, claims management, rate making, financial structures and underwriting."
+INS 49000 ,"LIFE AND HEALTH INSURANCE
+",INS,"INS 39001 with aminimum grade of C (2.000). 
+",None,"A detailed review of life and health insurance and their impact on individuals and society. The objective is a
+familiarization with various life and health products and how these products protect people and their families
+against financial losses caused by death, accident, sickness or disability."
+INS 49001 ,"PERSONAL LINES INSURANCE
+",INS,INS 39001 with a minimum grade of C (2.000).,None,"Study of property and casualty personal lines of insurance including automobile, homeowner, dwelling and
+other residential policies, ""toys"" such as motor homes, motorcycles and boats, and high-risk plans for
+earthquake, flood and windstorm."
+INS 49002 ,"COMMERCIAL INSURANCE
+",INS,INS 39001 with a grade of C (2.000) or better.,None,"Advanced concepts in commercial lines insurance including commercial property, commercial liability, business
+income, commercial crime and equipment breakdown insurance, commercial auto, workers compensation,
+business owners and specialty coverages."
+INS 49010 ,"LIFE AND HEALTH INSURANCE LAW, FINANCE AND RISK MANAGEMENT
+",INS,INS 29000.,None,"Explores enterprise risk management, life and health insurance regulation and legal principles, and the
+financial operations of life and health insurers. The structure and analysis of life and health insurance
+contracts are also covered as well as how to buy life insurance. Annuities and IRAs are explained and then
+contrasted and compared to life insurance products."
+INS 49011 ,"PROPERTY AND CASUALTY INSURANCE LAW, FINANCE AND RISK MANAGEMENT
+",INS,INS 29000.,None,"Explores enterprise risk management, property and casualty insurance regulation and legal principles, and the
+financial operations of property and casualty insurers. The structure and analysis of property and casualty
+insurance contracts are also covered. Additionally, crime insurance and surety bonds are explained as are the
+societal impacts of auto accident injuries."
+INS 49020 ,"LIFE AND HEALTH INSURANCE OPERATIONS
+",INS,INS 49010.,None,"Offers a detailed study of the strategic and tactical operations of life and health insurance industry players. It
+explores the roles of insurers as well as their key functional areas including underwriting, marketing,
+distribution, claims management and rate making. Corporate finance and both GAAP and SAAP accounting are
+studied as is the preparation and analysis of life and health statutory annual financial statements. Life and
+health reinsurance and regulation are also explored."
+INS 49021 ,"PROPERTY AND CASUALTY INSURANCE OPERATIONS
+",INS,INS 49011.,None,"Offers a detailed study of the strategic and tactical operations of property and casualty insurance industry
+players. Explores the roles of insurers as well as their key functional areas including underwriting, marketing,
+distribution, claims management and rate making. Corporate finance and both GAAP and SAAP accounting are
+studied as is the preparation and analysis of property and casualty statutory annual financial statements.
+Property and casualty reinsurance and regulation are also explored."
+INS 49030 ,"LIFE INSURANCE
+",INS,"INS 49020 with aminimum grade of C (2.000). 
+",None,"An in-depth study of life insurance and its impact on individuals and society. Students gain a strong
+understanding of life insurer operations (including compliance, rate making, underwriting, claims and
+distribution), life insurance products and policy contracts. They also learn how these products protect people
+and businesses against the financial losses resulting from death or disability."
+INS 49031 ,"HEALTH INSURANCE
+",INS,"INS 49020 with a minimum grade of C(2.000). 
+",None,"An in-depth study of health insurance and its impact on individuals and society. Students gain a strong
+understanding of health insurer operations (including compliance, rate making, underwriting, claims and
+distribution), health insurance products and policy contracts. Both individual and group products are
+examined. Students also learn how health insurance products protect people and businesses against the
+financial losses related to sickness and accidents."
+INS 49032 ,"ADVANCED TOPICS IN LIFE AND HEALTH INSURANCE
+",INS,INS 49030 and 49031 both with a minimum grade of C (2.000),None,"Investigates selected topics in life and health insurance either not covered, or not in depth, in other life and
+health insurance courses within the insurance studies degree program. This includes ICD, CPT and Level II
+coding systems and the nomenclature, language and terms used in medical billing environments. Students
+also learn about OSHA, HIPAA, PPACA, electronic medical records and other current topics relevant to health
+insurance compliance, underwriting and claim functions. Additionally, contemporary topics relevant to both life
+and health insurance are addressed to ensure students are up to date on the industry's most current
+challenges and opportunities"
+INS 49041 ,"PERSONAL LINES PROPERTY AND CASUALTY INSURANCE
+",INS,"INS 49021 with aminimum grade of C (2.000) 
+",None,"Covers all property and casualty personal lines of insurance including automobile, homeowners and other
+residential policies. Also examined are watercraft, RV, mobile home and personal umbrella products. Also
+explores personal lines profitability, pricing and portfolio management."
+INS 49042 ,"COMMERCIAL LINES PROPERTY AND CASUALTY INSURANCE
+",INS,INS 49021 with a minimum grade of C (2.000).,None,"Covers all property and casualty commercial lines of insurance including building and personal property and
+causes of loss forms, business income insurance, crime, equipment breakdown, aviation, marine and ocean
+cargo. Also covers commercial general liability, business auto, garage and motor carrier products, workers
+compensation and employers liability, environmental, cyber and terrorism insurance along with management
+and professional liability and business owners (BOP) policies. The factors affecting rates for these products are
+also explored."
+INS 49043 ,"ADVANCED TOPICS IN PROPERTY AND CASUALTY INSURANCE
+",INS,INS 49041 and 49042 with a minimum grade of C (2.000).,None,"Investigates selected topics in property and casualty insurance either not covered, or not covered in depth, in
+other property and casualty insurance courses within the insurance studies degree program. This includes E&S,
+RPGs, Catastrophic coverages, as well as insurance agency operations, reinsurance and technology. Medical
+coding nomenclature, language and terms are also explored. Additionally, contemporary topics relevant to
+property and casualty insurance are addressed to ensure students are up to date on the industry's most
+current challenges and opportunities."
+INS 49092 ,"INSURANCE PRACTICUM GENERAL
+",INS,INS 39000 and 39001; and special approval.,None,"(Repeatable for credit) Course requires an on-sight internship and/or a project with an insurance related
+organization approved by the Instructor."
+INS 49192 ,"PROPERTY AND CASUALTY INSURANCE PRACTICUM
+",INS,"INS 49011 and 49021 both with aminimum grade of C (2.000) and special approval. 
+",None,"(Repeatable for credit 2 times) Requires an on-site internship and/or project with a property and/or casualty
+insurance related organization approved by the Instructor."
+INS 49292 ,"LIFE AND HEALTH INSURANCE PRACTICUM
+",INS,"INS 49010 and 49020 both with aminimum grade of C (2.000); and special approval. 
+",None,"(Repeatable for credit 2 times) Requires an on-site internship and/or project with a life and/or health
+insurance related organization approved by the Instructor."

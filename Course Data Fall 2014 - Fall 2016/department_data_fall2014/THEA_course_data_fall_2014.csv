@@ -1,0 +1,556 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+THEA 11000 ,"THE ART OF THE THEATRE
+",THEA,None.,None,"Using the life-centered nature of theatre as a medium of analysis, this course is designed to develop critically
+engaged audience members who are aware of the impact, significance and historical relevance of the
+interconnection between culture and theatre performance."
+THEA 11100 ,"MAKING THEATRE: CULTURE AND PRACTICE
+",THEA,special approval.,None,"Overview of theatre practices through creative experiential learning. The focus and course content combines
+practical and cultural experiences and culminates with a performance event that provides a solid foundation in
+the artistic process and an identity for the first-year theatre student."
+THEA 11303 ,"THE ART OF ACTING
+",THEA,Special approval.,None,"General introduction to acting: the actor's instrument, sensory awareness, personal and group response,
+objectives and tactics. Basic scene work."
+THEA 11521 ,"GRAPHICS FOR THE THEATRE
+",THEA,special approval.,None,"An introduction to computer software currently used by professional theatre designers and technicians. These
+applications include image processing software, computer-aided design software and 3D visualization software."
+THEA 11722 ,"FUNDAMENTALS OF PRODUCTION I: SCENERY, STAGECRAFT AND SOUND
+",THEA,special approval.,None,"An introduction to professional theatre production principles and practices in the areas of scenery, stagecraft
+and sound."
+THEA 11723 ,"FUNDAMENTALS OF PRODUCTION LABORATORY I: SCENERY
+",THEA,special approval. ,THEA 11722.,Practice in theatre production techniques in the area of scenery.
+THEA 11724 ,"FUNDAMENTALS OF PRODUCTION LABORATORY II: PROPS AND SCENIC ART
+",THEA,specialapproval. ,THEA 11722.,Practice in theatre production techniques in the area of properties and scenic art.
+THEA 11732 ,"FUNDAMENTALS OF PRODUCTION II: COSTUMES, LIGHTING AND PROJECTIONS
+",THEA,special approval.,None,"An introduction to professional theatre production principles and practices in the areas of costumes, lighting
+and projections."
+THEA 11733 ,"FUNDAMENTALS OF PRODUCTION LABORATORY III: COSTUMES
+",THEA,uisiste: special approval. ,THEA 11732.,Practice in theatre production techniques in the area of costumes.
+THEA 11734 ,"FUNDAMENTALS OF PRODUCTION LABORATORY IV: LIGHTING, SOUND AND
+",THEA,specialapproval. ,THEA 11732.,"PROJECTIONS
+Practice in theatre production techniques in the area of lighting, sound and projections."
+THEA 13092 ,"BACHELOR OF FINE ARTS FRESHMAN PRACTICUM: DESIGN AND TECHNOLOGY
+",THEA,"special approval; and Bachelor of Fine Arts in Theatre Studies (THEA) major with aconcentration in Design and Technology (DT). 
+",None,"(Repeatable for credit) Practical experience at the freshman level in theatre and dance production. S/U
+Grading."
+THEA 20202 ,"MUSIC THEORY FOR MUSICAL THEATRE I
+",THEA,special approval.,None,"Study the basic principles and applications of music theory as it may apply to the work of a professional
+singing actor. It will begin by gaining a thorough understanding of the rudiments of music and progress to
+studying the objective and subjective aspects of music and its structure, principally pertaining to the world of
+musical theatre. The course is intended to establish fundamental concepts to be further explored in Music
+Theory for Theatre II."
+THEA 20203 ,"MUSIC THEORY FOR MUSICAL THEATRE II
+",THEA,special approval.,None,"Study the basic principles and applications of music theory as it may apply to the work of a professional
+singing actor. The course will focus on the interpretation of music for musical theater and serve as a
+continuation of the material presented in Music Theory for Theatre I (20202)."
+THEA 21016 ,"MAKEUP FOR STAGE AND SCREEN
+",THEA,Special approval.,None,"Study of stage, TV and photographic makeup techniques and materials. Four lecture demonstration laboratory
+hours per week; special projects as assigned."
+THEA 21095 ,"SPECIAL TOPICS IN THEATRE
+",THEA,special approval.,None,"(Repeatable for credit) Offered irregularly when unusual resources permit a topic different from existing
+courses. Topic will be announced when scheduled."
+THEA 21111 ,"SCRIPT ANALYSIS
+",THEA,"specialapproval; and THEA 11100. 
+",None,"Principles, theories and techniques of play script analysis for theatrical production."
+THEA 21201 ,"INTRODUCTION TO AMERICAN MUSICAL THEATRE
+",THEA,none.,None,"The evolution of the American musical from comic opera, European operetta and African American jazz to
+today's commercial Broadway stage. Students engage in the traditions, identity, and socio- economic
+development of the quintessential American art form: Musical Theatre."
+THEA 21303 ,"ACTING PROCESS
+",THEA,special approval.,None,"Fundamentals of naturalistic acting and interaction; development of spontaneity, believability and a sense of
+truth; game playing and basic stage technique."
+THEA 21306 ,"MUSICAL THEATRE PERFORMANCE I
+",THEA,Musical Theatre major.,None,"(Repeatable for a maximum of 12 credit hours) Performance-oriented class that will focus on techniques and
+styles of performance in musical theatre and cabaret from Gilbert and Sullivan to present."
+THEA 21501 ,"SOPHOMORE PORTFOLIO REVIEW
+",THEA,"specialapproval. 
+",None,"Preparation and review of a portfolio of work,judged by the design technology faculty at the beginning of the
+spring semester. Student must pass to remain in the BFA design technology program."
+THEA 21521 ,"THEATRICAL DRAFTING
+",THEA,"special approval; and THEA 11521, THEA 11722, and THEA 11723.",None,"Drafting techniques for all design and technology students. Includes plans, elevations, sections, detailed
+drawings light plots."
+THEA 21522 ,"LIGHTING DESIGN
+",THEA,special approval; and THEA 11732 and THEA 11734l.,None,Exploration of the tools of the lighting designer applied to design choices; frequent paper design projects.
+THEA 21523 ,"COSTUME TECHNOLOGY
+",THEA,special approval; and THEA 11732.,None,"Study of the basics of costume construction, pattern drafting, tailoring and millinery for costumes in the
+performing arts. A variety of historical periods and styles will be covered. Students will create portfolio-quality
+projects."
+THEA 21524 ,"COSTUME DESIGN
+",THEA,special approval; and THEA 11732.,None,"Theory and practice of costume design. Emphasis on play text analysis, formation of concepts, use of design
+elements and principles, period styles."
+THEA 21621 ,"SCENE PAINTING
+",THEA,THEA 11722 and THEA 11724; and special approval.,None,Techniques of scene painting; emphasis on a variety of techniques through practical projects.
+THEA 21622 ,"SCENE DESIGN
+",THEA,"THEA 11722 and THEA 11723; and specialapproval. 
+",None,"Theory and practice of scene design; emphasis on script analysis, formation of concepts, use of design
+elements and principles in period styles and genres."
+THEA 21700 ,"MOVEMENT I
+",THEA,special approval.,None,"Beginning exploration of technical skills emphasizing the physical components of expressive action through
+integration of breath, text and body conditioning."
+THEA 21736 ,"STAGE MANAGEMENT
+",THEA,special approval.,None,"Introduction to the skills and techniques necessary to stage manage a theatrical production. Focus on the
+production process, preparing for and running rehearsals and performances, paperwork and communication
+skills."
+THEA 21800 ,"VOICE I
+",THEA,special approval.,None,"Breathing, physical alignment, sound and text explorations designed to develop relaxed, free and fully
+connected voice production for the actor. Proper use and care of the voice."
+THEA 22092 ,"PRACTICUM: DESIGN AND TECHNOLOGY
+",THEA,special approval.,None,"(Repeatable for credit) Practical experience in theatre production under faculty supervision. Available for lower-
+division students only. Required of all theatre majors."
+THEA 22192 ,"PRACTICUM I:PERFORMANCE
+",THEA,Special approval.,None,"(Repeatable for credit) Practical experience in theatre performance under faculty supervision. Available for
+lower-division students only."
+THEA 22292 ,"PRACTICUM I:THEATRE MANAGEMENT
+",THEA,Freshmen or sophomores only and special approval.,None,"(Repeatable for a maximum of 12 credit hours)Practical experience in theatre management under faculty
+supervision."
+THEA 23092 ,"BACHELOR OF FINE ARTS SOPHOMORE PRACTICUM: DESIGN AND TECHNOLOGY
+",THEA,"special approval; and Bachelor of Fine Arts in Theatre Studies (THEA) major with aconcentration in Design and Technology (DT). 
+",None,"(Repeatable for credit) Practical experience at the sophomore level in theatre and dance production. SU
+Grading."
+THEA 31110 ,"HISTORY OF THEATRE AND DRAMA I
+",THEA,"special approval;and junior standing; and THEA 21111. 
+",None,Theatre history and drama in Europe from antiquity through the renaissance.
+THEA 31111 ,"HISTORY OF THEATRE AND DRAMA II
+",THEA,"specialapproval; and junior standing; and THEA 21111. 
+",None,Theatre history and drama in Europe and the United States from 1700 to the present.
+THEA 31112 ,"HISTORY OF THEATRE AND DRAMA I
+",THEA,"THEA 21111, juniorstanding and special approval. 
+",None,Theatre history and drama in Europe from antiquity through the renaissance.
+THEA 31113 ,"HISTORY OF THEATRE AND DRAMA II
+",THEA,special approval.,None,Theatre history and drama in Europe and the United States from 1660 to 1900.
+THEA 31114 ,"HISTORY OF THEATRE AND DRAMA III
+",THEA,"specialapproval. 
+",None,Theatre history and drama in Europe and the United States from 1900 to the present.
+THEA 31303 ,"CHARACTER AND SCENE STUDY I
+",THEA,THEA 21303 and special approval.,None,The development of character in the realistic scene.
+THEA 31304 ,"CHARACTER AND SCENE STUDY II
+",THEA,"THEA 31303and special approval. 
+",None,Further character and scene exploration; spontaneity and creative choice making.
+THEA 31401 ,"DIRECTING
+",THEA,special approval.,None,"Theoretical and practical work in the process of play direction; the director's mission; play analysis and design
+collaboration; the rehearsal process."
+THEA 31501 ,"JUNIOR PORTFOLIO REVIEW
+",THEA,"Junior standing and BFAdesign/technology student and special approval. 
+",None,"Review of a portfolio of theatre and related work, and a review of the student's academic progress and
+coursework judged by the design/technology faculty at the beginning of the spring semester. Student must
+pass to remain in the BFA Design Technology program."
+THEA 31701 ,"MOVEMENT II
+",THEA,"THEA 11303 or 21306; andspecial approval. 
+",None,"Development of movement exploration and improvisation skills which focus on physical relationships in
+performance and utilize the components of energy, space and time."
+THEA 31801 ,"VOICE II
+",THEA,THEA 21301 and THEA 21800 and special approval.,None,"Continuation of Voice I. Explorations involve various texts and incorporation of voice principles at a more
+detailed level."
+THEA 33092 ,"BACHELOR OF FINE ARTS JUNIOR PRACTICUM: DESIGN AND TECHNOLOGY
+",THEA,"special approval; and Bachelor of Fine Arts in Theatre Studies (THEA) major with a concentrationin Design and Technology (DT) . 
+",None,(Repeatable for credit) Practical experience at the junior level in theatre and dance production. S/U Grading.
+THEA 40091 ,"VARIABLE TOPICS SEMINAR: DEVISING THEATRE
+",THEA,special approval.,None,"A devised theatre event is work that has emerged and been generated by a group of people working in
+collaboration. Devising Theatre explores the processes of creating original performances defined and
+determined by its makers. Process and product originate from stimuli other than traditional play scripts.
+Students learn specialist techniques by developing solo and group performance pieces. Alternative modes of
+making theatre performances are considered."
+THEA 41010 ,"THEATRE AND SOCIAL CHANGE
+",THEA,THEA 11000 or THEA 11100.,None,"This course interweaves the history, theory, practice and play text development in the field of Theatre and
+Social Change."
+THEA 41026 ,"PLAYWRITING
+",THEA,special approval.,None,"(Repeatable for a total of 6 credit hours) Principles underlying playwriting for the contemporary theatre;
+analysis of short play form."
+THEA 41027 ,"ADVANCED PLAYWRITING
+",THEA,"THEA 41026 and specialapproval. 
+",None,"(Repeatable for a maximum of 6 credit hours) Application of principles of playwriting to the longer play and to
+variations from traditional realism;play analysis and composition."
+THEA 41095 ,"SPECIAL TOPICS IN THEATRE
+",THEA,Permission.,None,"(repeated registration permitted) offered irregularly when unusual resources permit a topic different from
+existing courses. Topic will be announced when scheduled."
+THEA 41096 ,"INDEPENDENT STUDY IN THEATRE
+",THEA,Permission.,None,"(repeatable for a total of 6 hours) selected research topics in theatre;to be elected only after all coursework in
+study area completed."
+THEA 41113 ,"THEATRE IN A MULTICULTURAL AMERICA
+",THEA,Special approval.,None,"A study of theatre and drama in the Native American, Hispanic-American, African-American and Asian-
+American communities in the United States from 1980 to the present."
+THEA 41115 ,"LGBTQ THEATRE
+",THEA,junior standing and special approval.,None,"Studies of various theatrical representations of Lesbian, Gay, Bisexual, Transgender and Queer people as seen
+through the frameworks of history, gender theory, identity, politics, psychology, law, and justice."
+THEA 41130 ,"THEATRE AND DRAMA IN AMERICA
+",THEA,"THEA 21111and special approval. 
+",None,The history of theatre and drama in America from their beginnings to the present.
+THEA 41140 ,"AMERCIAN MUSICAL THEATRE HISTORY
+",THEA,junior standing; and theatre major.,None,"Comprehensively examines the history of American musical theater and incorporates the exploration of
+musical literature in production and performance."
+THEA 41191 ,"VARIABLE CONTENT SEMINAR:THEATRE HISTORY/LITERATURE/THEORY
+",THEA,special approval.,None,"(Repeatable for credit) Seminar in theatre history and literature providing an in-depth focus on selected topics
+such as: African-American theatre, women in theatre, politics and theatre, theatre in a multicultural society,
+costume history on stage and screen."
+THEA 41301 ,"ACTING FOR THE CAMERA I
+",THEA,special approval.,None,"Introduction to the specific techniques used in film acting. The course provides students with the necessary
+tools to make the transition from stage acting to camera acting."
+THEA 41302 ,"ACTING FOR THE CAMERA II
+",THEA,special approval.,None,"Further development on the specific techniques used in film acting. The course continues to assist students in
+making the transition from stage acting to camera acting."
+THEA 41304 ,"ACTING II-SCENE STUDY-MODERN AMERICAN REALISM
+",THEA,THEA 41303.,None,"The application of the Stanislavski and Michael Chekhov Techniques to in-depth scene study using the plays of
+Odets, Miller, Williams, Shanley and others."
+THEA 41305 ,"PROFESSIONAL ASPECTS:PERFORMANCE
+",THEA,Junior standing.,None,"A study of the practical demands and requirements of a professional acting career with particular emphasis on
+audition skills. Also covered: pictures and resumes, making rounds, professional unions, casting directors,
+agents and managers, the job market and career prospects."
+THEA 41306 ,"PROFESSIONAL ASPECTS:DESIGN AND TECHNOLOGY
+",THEA,Junior standing.,None,"A study of the practical demands and requirements of a professional career in design and technology,
+including portfolio development, resumes, unions, job market, financial matters and career prospects. Use of
+computers as a resource and tool emphasized."
+THEA 41307 ,"MUSICAL THEATRE PERFORMANCE II
+",THEA,"THEA21306 and special approval. 
+",None,"Advanced work in musical theatre performance techniques for junior- and senior-level students. Course
+content includes selecting appropriate musical theatre audition material and developing contrasting selections
+from the musical theatre repertory. Preparation for musical theatre auditions is included."
+THEA 41308 ,"MUSICAL THEATRE AUDITION
+",THEA,special approval.,None,"(Repeatable for a maximum of 4 credit hours) Explore the various genres and styles of American musical
+theatre songs with specific emphasis on finding practical audition repertoire for each student. Performance and
+research will be the primary activities in the class."
+THEA 41401 ,"ADVANCED DIRECTING
+",THEA,"THEA 11303 and THEA 31401 andspecial approval. 
+",None,"Advanced work in directing for the theatre. Topics include the director as creative/interpretative artist and the
+director and the actor; students direct individual projects."
+THEA 41499 ,"MUSICAL THEATRE SHOWCASE
+",THEA,"seniorstanding and special approval. 
+",None,"(Repeatable for credit) Development, promotion, and presentation of a Musical Theatre showcase for industry
+casting personnel in New York City. Audition required prior to registration for this course."
+THEA 41501 ,"SENIOR PORTFOLIO REVIEW
+",THEA,"Senior standing and BFADesign Technology student and special approval. 
+",None,"Review of a portfolio of theatre and related work,and a review of the student's academic progress coursework
+and professional potential judged by the design technology faculty at the end of the fall semester. Student
+must pass to remain eligible for the bfa design technology degree."
+THEA 41521 ,"ADVANCED LIGHTING TECHNOLOGY I
+",THEA,special approval; and THEA 11732 and THEA 11734.,None,"Advanced study of the technologies used in lighting design; conventional and intelligent fixtures, electricity,
+projection techniques and special effects."
+THEA 41522 ,"DESIGN STUDIO:LIGHTING
+",THEA,THEA 21522 and special approval.,None,"Advanced study of lighting design, emphasizing artistic style and concept through a variety of design
+problems."
+THEA 41523 ,"SOUND DESIGN AND TECHNOLOGY I
+",THEA,Permission.,None,"Sound design for the theatre,sound production and sound reinforcement techniques. Introduction to electronic
+equipment mixing consoles amplifiers speakers."
+THEA 41524 ,"DESIGN STUDIO:COSTUME
+",THEA,THEA 21524 and special approval.,None,"Advanced study in costume design. Genres styles in the context of performance spaces with an emphasis on
+research, practical considerations of costume production and communication between designer shop/personnel
+and designer director."
+THEA 41525 ,"PROPS AND CRAFTS
+",THEA,THEA 11722 and THEA 11732; and special approval.,None,Examination of the processes related to the creation and procurement of scenic and costume props.
+THEA 41526 ,"ADVANCED LIGHTING TECHNOLOGY II
+",THEA,special approval.,None,"This class will focus on the practice of intelligent lighting programming and the technology of intelligent
+lighting fixtures."
+THEA 41527 ,"SOUND DESIGN AND TECHNOLOGY II
+",THEA,THEA 41523 and special approval.,None,"Studies in sound design, sound production and reinforcement for live performance. Advanced software
+applications will be explored."
+THEA 41528 ,"THEATRE SOUND REINFORCEMENT
+",THEA,"THEA 41523and special approval. 
+",None,"Studies in the theories and practice of audio mixing in support of live vocal and musical performance. Topics
+include wired and wireless microphones and real time digital processing of audio."
+THEA 41529 ,"ADVANCED WIG AND MAKEUP TECHNIQUES-STAGE AND SCREEN
+",THEA,Junior standing and special approval.,None,"Advanced study of the process of designing and executing wigs and makeup with an emphasis on standards
+in the profession. Some prosthetic work required."
+THEA 41560 ,"THEATRE FABRICATION TECHNOLOGY
+",THEA,THEA 11622 and THEA 21521 and special approval.,None,"History of technical production practice, materials theory and application in scenic construction technology."
+THEA 41620 ,"HISTORY OF PERIOD STYLES FOR THEATRE DESIGNERS
+",THEA,theatre (THEA) major with junior standing; and special approval.,None,Students explore the way in which theatre designers approach period style in their own creative work.
+THEA 41621 ,"PRESENTATION MEDIA
+",THEA,"THEA 11722, THEA 11732 and THEA 21521; andspecial approval. 
+",None,"Advanced process techniques in rendering, model building and design presentation for the scenic costume and
+lighting designer in traditional and new media."
+THEA 41622 ,"DESIGN STUDIO:SCENERY
+",THEA,THEA 21622 and special approval.,None,Advanced study in scenic design. Explores genres styles performance spaces including practical considerations.
+THEA 41702 ,"MOVEMENT AND DANCE FOR ACTORS
+",THEA,special approval.,None,"(Repeatable for a maximum of 6 credit hours) Designed to acquaint actors with theatre dance techniques and
+choreographic styles by concentrating on vernacular dances used throughout musical theatre. Course
+combines basic ballet, jazz and tap terminology."
+THEA 41726 ,"THEATRE MANAGEMENT
+",THEA,"Junior standing andspecial approval. 
+",None,"Principles and practices of managing theatrical-producing organizations. Problems of finance, personnel, policy,
+program building and public relations. Production participation as assigned."
+THEA 41736 ,"PRODUCTION AND STAGE MANAGEMENT
+",THEA,special approval.,None,"Advanced investigation of the methodology used in stage managing professional theatrical productions and
+production management processes. Focus on production processes for various theatre, dance, opera and
+entertainment genres."
+THEA 41801 ,"VOICE AND SPEECH I-THE ACTOR'S INSTRUMENT
+",THEA,THEA 31801 and special approval.,None,"The use of exercise and specific text work to explore ¿centering¿ as it related to the vocal, physical and
+emotional process of the actor. Focus on extremes of emotional sounds and eliminating barriers and
+detrimental vocal habits/speech patterns."
+THEA 41802 ,"ENSEMBLE SINGING FOR MUSICAL THEATRE
+",THEA,special approval.,None,"(Repeatable for a maximum of 6 credit hours) The study and performance of diverse styles specific to the
+musical theatre canon for mixed voices."
+THEA 41808 ,"ACTING STYLES I-SHAKESPEARE
+",THEA,special approval.,None,"The application of acting, movement, and voice and speech techniques to sonnets, monologues, soliloquies,
+and scenes from Shakespeare."
+THEA 41900 ,"CAPSTONE PROJECT
+",THEA,Junior standing and special approval.,None,"The capstone project represents a culminating event for the student. Capstone projects can be undertaken in
+the junior or senior year and are identified in consultation with a faculty advisor. Honor Students may
+combine the capstone project with an Honors thesis."
+THEA 41992 ,"THEATRE PRODUCTION INTERNSHIP
+",THEA,"Junior standingand special approval. 
+",None,"(Repeatable for a maximum of 12 credit hours)Intensive advanced training in practical aspects of production.
+Periodic seminars, laboratory sessions and performance in a theatre company."
+THEA 42092 ,"PRACTICUM II: DESIGN AND TECHNOLOGY
+",THEA,"Juniors or seniors only andspecial approval. 
+",None,"(Repeatable for credit)Advanced practical experience in theatre production under faculty supervision. Available
+for upper division students only. Required of all theatre majors."
+THEA 42192 ,"PRACTICUM II:PERFORMANCE
+",THEA,Junior or senior standing and special approval.,None,"(Repeatable for credit)Advanced practical experience in theatre performance under faculty supervision.
+Available for upper division students only."
+THEA 42292 ,"PRACTICUM II:THEATRE MANAGEMENT
+",THEA,Special approval.,None,"(Repeatable for a maximum of 12 credit hours) Advanced practical experience in theatre management under
+faculty/staff supervision. Available for upper division students only."
+THEA 43092 ,"BACHELOR OF FINE ARTS SENIOR PRACTICUM: DESIGN AND TECHNOLOGY
+",THEA,special approval. ,THEA 41900.,(Repeatable for credit) Practical experience at the junior level in theatre and dance production. S/U Grading.
+THEA 50091 ,"VARIABLE TOPIC SEMINAR: DEVISING THEATRE
+",THEA,graduate standing; and special approval.,None,"A devised theatre event is work that has emerged and been generated by a group of people working in
+collaboration. Devising Theatre explores the processes of creating original performances defined and
+determined by its makers. Process and product originate from stimuli other than traditional play scripts.
+Students learn specialist techniques by developing solo and group performance pieces. Alternative modes of
+making theatre performances are considered."
+THEA 51010 ,"THEATRE AND SOCIAL CHANGE
+",THEA,graduate standing.,None,"The course interweaves the history, theory, practice and play text development in the field of Theatre and
+Social Change."
+THEA 51026 ,"PLAYWRITING
+",THEA,Special approval of instructor and graduate standing.,None,"(Repeatable once for credit) Principles underlying playwriting for the contemporary theatre; analysis of short
+play form."
+THEA 51027 ,"ADVANCED PLAYWRITING
+",THEA,"THEA 51026 and special approval of instructorand graduate standing. 
+",None,"(Repeatable once for credit) Application of principles of playwriting to the longer play and to variations from
+traditional realism;play analysis and composition."
+THEA 51095 ,"SPECIAL TOPICS
+",THEA,"Graduatestanding and special approval. 
+",None,(Repeatable for credit)Offered irregularly when unusual resources permit a topic.
+THEA 51113 ,"THEATRE IN A MULTICULTURAL AMERICA
+",THEA,"graduate standing andspecial approval of instructor. 
+",None,"A study of theatre and drama in the Native American, Hispanic American, African-American, and Asian
+American communities in the United States from 1980 to the present."
+THEA 51115 ,"LGBTQ THEATRE
+",THEA,graduate standing and special approval.,None,"Studies of various theatrical representations of Lesbian, Gay, Bisexual, Transgender and Queer people as seen
+through the frameworks of history, gender theory, identity, politics, psychology, law, and justice."
+THEA 51130 ,"THEATRE AND DRAMA IN AMERICA
+",THEA,"graduatestanding and special approval. 
+",None,The history of theatre and drama in America from their beginnings to the present.
+THEA 51191 ,"VARIABLE CONTENT SEMINAR:THEATRE HISTORY/LITERATURE/THEORY
+",THEA,Graduate standing and special approval.,None,"(Repeatable for credit)Seminar focuses on selected topics in these areas, for example performance art,
+performance theory or theatre in a multicultural society."
+THEA 51301 ,"ACTING FOR THE CAMERA I
+",THEA,"graduate standing and specialapproval. 
+",None,"An introduction to the specific techniques used in film acting. The course provides students with the necessary
+tools to make the transition from stage acting to camera acting."
+THEA 51302 ,"ACTING FOR THE CAMERA II
+",THEA,"graduatestanding and special approval. 
+",None,"Further development on the specific techniques used in film acting as applied to the Graduate Actor. The
+course continues to assist in making the transition from stage acting to camera acting."
+THEA 51303 ,"ACTING I FOUNDATIONS/STANISLAVSKI AND MICHAEL CHEKHOV
+",THEA,special approval special approval of instructor and graduate standing.,None,"The Stanislavski and Michael Chekhov Techniques: A thorough exploration of Stanislavski's Method of Psycho-
+Physical Action, and the Michael Chekhov technique including atmosphere, psychological gesture, and qualities
+of movement."
+THEA 51304 ,"ACTING II: SCENE STUDY-MODERN AMERICAN REALISM
+",THEA,special approval of instructor and graduate standing.,None,"The application of the Stanislavski and Michael Chekhov Techniques to in-depth scene study using the plays of
+Odets, Miller, Williams, Shanley and others."
+THEA 51305 ,"PROFESSIONAL ASPECTS:PERFORMANCE
+",THEA,"Special approval of instructor andgraduate standing. 
+",None,"A study of the practical demands and requirements of a professional acting career with particular emphasis on
+audition skills. Also covered pictures and resumes, making rounds, professional unions, casting directors,
+agents and managers, the job market and career prospects."
+THEA 51306 ,"PROFESSIONAL ASPECTS:DESIGN AND TECHNOLOGY
+",THEA,"special approval of instructor and graduatestanding. 
+",None,"A study of the practical demands and requirements of a professional career in design and technology,
+including portfolio development, resumes, unions, job market, financial matters and career prospects. Use of
+computers as a resource and tool emphasized."
+THEA 51308 ,"MUSICAL THEATRE AUDITION
+",THEA,special approval and graduate standing.,None,"(Repeatable for a maximum of 4 credit hours) Explore the various genres and styles of American musical
+theatre songs with specific emphasis on finding practical audition repertoire for each student. Performance and
+research will be the primary activities in the class."
+THEA 51309 ,"MUSICAL THEATRE SHOWCASE
+",THEA,graduate standing and special approval.,None,"Development, promotion, and presentation of a Musical Theatre showcase for industry personnel in New York
+City."
+THEA 51401 ,"ADVANCED DIRECTING
+",THEA,"Special approval of instructor and graduatestanding. 
+",None,"Advanced work in directing for the theatre. Topics include director as creative interpretative artist, the director
+and the actor. Students direct individual projects."
+THEA 51499 ,"MUSICAL THEATRE SHOWCASE
+",THEA,"Graduate Standing and specialapproval. 
+",None,"Development, promotion and presentation of a Musical Theatre showcase for industy casting personnel in New
+York City. Audition required prior to registration for this course."
+THEA 51521 ,"ADVANCED LIGHTING TECHNOLOGY I
+",THEA,Graduate standing and special approval.,None,"Advanced study of the technologies used in lighting design; conventional and intelligent fixtures, electricity,
+projection techniques and special effects."
+THEA 51522 ,"DESIGN STUDIO:LIGHTING
+",THEA,Special approval and graduate standing.,None,"Advanced study of lighting design, emphasizing artistic style and concept through a variety of design
+problems."
+THEA 51523 ,"SOUND DESIGN AND TECHNOLOGY I
+",THEA,"Graduate standing and specialapproval. 
+",None,"Sound design for the theatre, sound production and sound reinforcement techniques. Introduction to
+electronic equipment, mixing consoles, amplifiers, speakers."
+THEA 51524 ,"DESIGN STUDIO:COSTUME
+",THEA,Special approval and graduate standing.,None,"Advanced study in costume design. Genres, styles, in the context of performance spaces with an emphasis on
+research, practical considerations of costume production and communication between designer/shop personnel
+and designer/ director."
+THEA 51525 ,"PROPS AND CRAFTS
+",THEA,special approval of instructor and graduate standing.,None,Examination of the processes related to the creation and procurement of scenic and costume props.
+THEA 51526 ,"ADVANCED LIGHTING TECHNOLOGY II
+",THEA,graduate standing and special approval.,None,"This class will focus both on the practice of intelligent lighting programming and the technology of intelligent
+lighting fixtures."
+THEA 51527 ,"SOUND AND DESIGN TECHNOLOGY II
+",THEA,THEA 51523 and special approval and graduate standing.,None,"Studies in sound design, sound production and reinforcement for live performance. Advanced software
+applications will be explored."
+THEA 51528 ,"THEATRE SOUND REINFORCEMENT
+",THEA,"Graduatestanding and special approval. 
+",None,"Studies in the theories and practice of audio mixing in support of live vocal and musical performance. Topics
+include wired and wireless microphones and real time digital processing of audio."
+THEA 51529 ,"ADVANCED WIG AND MAKEUP TECHNIQUES-STAGE AND SCREEN
+",THEA,"special approval of instructor and graduatestanding. 
+",None,"Advanced study of the process of designing and executing wigs and makeup with an emphasis on standards
+in the profession. Some prosthetic work required."
+THEA 51560 ,"THEATRE FABRICATION TECHNOLOGY
+",THEA,special approval of instructor and graduate standing.,None,"History of technical production practice, materials theory and application in scenic construction technology."
+THEA 51620 ,"HISTORY OF PERIOD STYLES FOR THEATRE DESIGNERS
+",THEA,"special approval of instructorand graduate standing. 
+",None,"A survey of visual styles as related to historical and contemporary culture from antiquity through the 20th
+century with an emphasis on their application to theatrical design."
+THEA 51621 ,"PRESENTATION MEDIA
+",THEA,special approval and graduate standing.,None,"Advanced process techniques in rendering, model building and design presentation for the scenic costume and
+lighting designer in traditional and new media."
+THEA 51622 ,"DESIGN STUDIO:SCENERY
+",THEA,Special approval and graduate standing.,None,"Advanced study in scenic design. Explores genres, styles, performance spaces, including practical
+considerations."
+THEA 51701 ,"MOVEMENT, FORM AND SPACE I-THE ACTOR'S PHYSICAL INSTRUMENT
+",THEA,Special approval.,None,"Development of technical skills emphasizing the physical components of expressive action through integration
+of breath, voice and body conditioning."
+THEA 51702 ,"MOVEMENT AND DANCE FOR ACTORS
+",THEA,graduate standing and special approval.,None,"(Repeatable for a maximum of 6 credit hours) Designed to acquaint actors with theatre dance techniques and
+choreographic styles by concentrating on vernacular dances used throughout musical theatre. Course
+combines basic ballet, jazz, and tap terminology."
+THEA 51736 ,"PRODUCTION AND STAGE MANAGEMENT
+",THEA,special approval and graduate standing.,None,"Advanced investigation of the methodology used in stage managing professional theatrical productions and
+production management processes. Focus on production processes for various theatre, dance, opera and
+entertainment genres."
+THEA 51801 ,"VOICE AND SPEECH I-THE ACTOR'S INSTRUMENT
+",THEA,special approval and graduate standing.,None,"The use of exercise and specific text work to explore ¿centering¿ as it related to the vocal, physical and
+emotional process of the actor. Focus on extremes of emotional sounds and eliminating barriers and
+detrimental vocal habits/speech patterns."
+THEA 51802 ,"ENSEMBLE SINGING FOR MUSICAL THEATRE
+",THEA,graduate standing and special approval.,None,"(Repeatable 6 times for credit) The study and performance of diverse styles specific to the musical theatre
+canon for mixed voices."
+THEA 51808 ,"ACTING STYLES I-SHAKESPEARE
+",THEA,graduate standing an special approval.,None,"The application of acting, movement, and voice and speech techniques to sonnets, monologues, soliloquies,
+and scenes from Shakespeare."
+THEA 60196 ,"INDIVIDUAL INVESTIGATION-HISTORIC TEXTILES
+",THEA,Graduate standing.,None,(Repeatable for credit)Identification and analysis of textile fabric as the reflection of culture.
+THEA 60199 ,"M.F.A. THESIS PROJECT
+",THEA,Special approval of adviser and graduate standing.,None,(Repeatable for credit)Students must register for course during the semester of their M.F.A. thesis project.
+THEA 60992 ,"PROFESSIONAL THEATRE INTERNSHIP I
+",THEA,"special approval of instructor andgraduate standing. 
+3.000 OR ",None,"(Repeatable once) Intensive advanced training in practical aspects of production. Periodic seminars, laboratory
+sessions and performance in the Porthouse Theatre Company."
+THEA 61000 ,"INTRODUCTION TO GRADUATE STUDY IN THEATRE
+",THEA,special approval of instructor and graduate standing.,None,"Orientation to bibliography and research in the field of theatre with emphasis on application of research to
+performance."
+THEA 61094 ,"COLLEGE TEACHING IN THEATRE
+",THEA,special approval of instructor and graduate standing.,None,"Strategies for teaching, issues on implications of pedagogical practice and responsibilities of academic
+leadership."
+THEA 61095 ,"SPECIAL TOPICS
+",THEA,"special approval of instructor and graduatestanding. 
+",None,"(Repeatable for credit)Offered irregularly when unusual resources permit a topic different from existing
+courses. Topic will be announced when scheduled."
+THEA 61096 ,"INDIVIDUAL INVESTIGATION:THEATRE AND DRAMA
+",THEA,"Special approval and graduatestanding. 
+",None,"(Repeatable for a maximum of 6 credit hours)Independent study of an area or problem approved by divisional
+graduate coordinator in consultation with project director."
+THEA 61098 ,"RESEARCH
+",THEA,"special approval of instructorand graduate standing. 
+",None,"(Repeatable for credit) Research or individual investigation for master's-level graduate students. Credits may
+be applied toward meeting degree requirements if school approves."
+THEA 61110 ,"HISTORY OF THEORIES OF ACTING AND SPACE I
+",THEA,"specialapproval of instructor. Prerequisite: special approval of instructor and graduate standing. 
+",None,History of theories of acting and space in the theatre from the beginning to ca. 1850.
+THEA 61111 ,"HISTORY OF THEORIES OF ACTING AND SPACE II
+",THEA,"special approval of instructor and graduatestanding. 
+",None,History of theories of acting and space in the theatre.
+THEA 61201 ,"SOFTWARE APPLICATIONS
+",THEA,Special approval and graduate standing.,None,"A survey of current software used in theatre production with an emphasis on applications for management,
+design and technical direction."
+THEA 61303 ,"ACTING III SCENE STUDY-NATURALISM AND ABSURD
+",THEA,Special approval of instructor and graduate standing.,None,"In-depth scene study in the genres of Naturalism and Absurd theatre. Exploration of the works of Chekhov,
+Strindberg, Beckett and others."
+THEA 61305 ,"ACTING STYLES II: GREEK AND COMEDY OF MANNERS
+",THEA,special approval of instructor and graduate standing.,None,"Application of acting, movement, and speech techniques to these specific genres. Focus on style and
+physicalization using Greek and English Restoration playwrights as well as Molière, Wilde and others."
+THEA 61309 ,"MASTER OF FINE ARTS COMPREHENSIVE PROJECT IN ACTING
+",THEA,THEA 61000; special approval of instructor and graduate standing.,None,"Intensive work in the development of the practical aspects of production; includes performance or exhibition
+of work, documentation of that work in a format appropriate for area and project, and an exit interview."
+THEA 61310 ,"MASTER OF FINE ARTS DESIGN AND TECHNOLOGY CULMINATING PROJECT
+",THEA,"THEA 61000; special approval of instructor and graduatestanding. 
+",None,"An intensive experience in the development of design and/or technical aspects of a theatrical production; the
+scope of work may include but not necessarily be limited to research, drawings and drafting, renderings and
+associated digital image, video or audio files. Documentation, appropriate for the area and project, is
+presented at an exit interview."
+THEA 61521 ,"ADVANCED THEATRE DRAFTING
+",THEA,Special approval and graduate standing.,None,"Advanced drafting techniques for the technical director, scenic designer and lighting designer. Includes film,
+television, industrial and engineering graphic techniques."
+THEA 61525 ,"MILLINERY AND 3-D CHARACTERS
+",THEA,special approval of instructor and graduate standing.,None,"Advanced studies of techniques of millinery construction and 3D character construction with an emphasis on
+current practice in the industry."
+THEA 61527 ,"SHOP MANAGEMENT
+",THEA,Special approval and graduate standing.,None,"Study of resource management for the professional shop. Topics business planning labor relations accounting
+budgeting and productivity techniques."
+THEA 61561 ,"ADVANCED CONSTRUCTION THEORY
+",THEA,Special approval and graduate standing.,None,"The theory and practice of structural and mechanical design for theatre production. Related issues in resource
+management for the professional shop."
+THEA 61701 ,"MOVEMENT, FORM AND SPACE II-NEUTRAL AND CHARACTER MASK
+",THEA,"THEA 51701; special approval of instructor and graduatestanding. 
+",None,"Advanced skills and conditioning focusing on the physical and vocal qualities of characterization achieved
+through performance in masks."
+THEA 61702 ,"MUSICAL THEATRE STYLES
+",THEA,"specialapproval of instructor and graduate standing. 
+",None,The study of diverse styles of choreography for the actor performing in Musical Theatre.
+THEA 61801 ,"VOICE AND SPEECH II-VOCAL DEMANDS AND DIALECTS
+",THEA,special approval of instructor and graduate standing.,None,"Voice principles are covered in depth and detail with emphasis on their applications to dialects, singing and
+media voice work."
+THEA 61802 ,"VOICE AND SPEECH III-THE ACTOR/SINGER
+",THEA,THEA 51801; special approval of instructor and graduate standing.,None,"Training in methods and skills necessary for the singing actor. Focus on the integration and physicalization of
+lyrics and music."
+THEA 61806 ,"SINGING FOR THE ACTOR
+",THEA,THEA 51801; special approval of instructor and graduate standing.,None,A comprehensive study of performance techniques and repertoire appropriate to the singing actor.
+THEA 61992 ,"PROFESSIONAL THEATRE INTERNSHIP II
+",THEA,"special approval andgraduate standing. 
+3.000 OR ",None,"(Repeatable for credit)Intensive advanced training in practical aspects of production. Periodic seminars,
+laboratory sessions and performance in a professional theatre company."
+THEA 62092 ,"PRACTICUM:DESIGN/TECHNOLOGY
+",THEA,"special approval of instructor and graduatestanding. 
+",None,"(Repeatable for credit)Practical experience for the graduate student in theatre design and technology under
+faculty supervision. SU grading, IP permissible."
+THEA 62192 ,"PRACTICUM:PERFORMANCE
+",THEA,special approval of instructor and graduate standing.,None,"(Repeatable for credit; cross-listed with KBT 62192) Practical experience for the graduate student in theatre
+performance under faculty supervision."
+THEA 62292 ,"PRACTICUM:THEATRE MANAGEMENT
+",THEA,Special approval and graduate standing.,None,"(Repeatable for a maximum of 12 credit hours)Practical experience for the graduate student in theatre
+management under faculty/staff supervision."
+THEA 62892 ,"THEATRE PRACTICUM
+",THEA,Special approval and graduate standing.,None,"(Repeatable twice for credit)Practical experience for the graduate student in cocurricular theatre activities,
+under faculty supervision."
+THEA 62992 ,"THEATRE PRODUCTION INTERNSHIP
+",THEA,Special approval of adviser and graduate standing.,None,"(Repeatable for a maximum of 12 credit hours) Intensive advanced training in practical aspects of production.
+Periodic seminars, laboratory sessions and performance in a theatre company or touring with Kent Theatre
+Ensemble."
+THEA 63192 ,"MENTORSHIP IN PERFORMANCE
+",THEA,graduate standing and special approval of instructor.,None,"(Repeatable for a total of 6 credit hours) Development of advanced skills and abilities to mentor student
+performers in aspects of the profession, including professional behavior, understanding of the business and
+the actor’s creative process. Major work done while participating in rehearsal and performance of main stage
+productions or assisting in THEA 451305 Professional Aspects. May be taken with THEA 62192 Practicum:
+Performance."
+THEA 64192 ,"MENTORSHIP AT PORTHOUSE
+",THEA,"graduate standing and special approval ofinstructor. 
+",None,"(Repeatable for a total of 6 credit hours) Development of advanced skills and abilities to mentor student
+performers in aspects of the profession, including professional behavior, understanding of the business and
+the actor’s creative process. Major work done while participating in rehearsal of Porthouse productions. May be
+taken with THEA 62192 Practicum: Performance."
+THEA 65192 ,"TEACHING PRACTICUM
+",THEA,"graduate standing;THEA61094 or special approval of instructor. 
+",None,"(Repeatable for a total of 6 credit hours) Application of strategies for teaching at the college level.
+Development of advanced skills in course preparation, classroom management and pedagogical practice. Major
+work done teaching or assisting with undergraduate classes. SU graded."
+THEA 72992 ,"THEATRE PRODUCTION INTERNSHIP
+",THEA,special approval of adviser and doctoral standing.,None,"(Repeatable for a total of 12 credit hours)Intensive advanced training in practical aspects of production.
+Periodic seminars, laboratory sessions and performance in a theatre company or touring with Kent Theatre
+Ensemble."

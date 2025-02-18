@@ -1,0 +1,144 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+SPAN 18201 ,"ELEMENTARY SPANISH I
+",SPAN,None.,None,An introduction to the Spanish language in the context of Hispanic cultures.
+SPAN 18202 ,"ELEMENTARY SPANISH II
+",SPAN,SPAN 18201.,None,A continuation of the introduction to the Spanish language in the context of Hispanic cultures.
+SPAN 18301 ,"SPANISH FOR HEALTH CARE I
+",SPAN,none.,None,"Introduction to the Spanish language in the context of health care situations, tasks and terminology and
+Hispanic cultures."
+SPAN 18302 ,"SPANISH FOR HEALTH CARE II
+",SPAN,SPAN 18301.,None,"A continuation of the introduction to the Spanish language in the context of health care situations, tasks and
+terminology and Hispanic cultures."
+SPAN 28201 ,"INTERMEDIATE SPANISH I
+",SPAN,SPAN 18202.,None,"A continuation of the development of listening, speaking, reading and writing skills using a variety of material
+on the Spanish language in the context of Hispanic cultures."
+SPAN 28202 ,"INTERMEDIATE SPANISH II
+",SPAN,SPAN 28201.,None,"A continuation of the development of listening, speaking, reading and writing skills using a variety of material
+on the Spanish language in the context of Hispanic cultures and specific areas of study like culture, business,
+justice, etc. Credit may be given for SPAN 28202 or SPAN 28206 but not for both."
+SPAN 28206 ,"SPANISH READING FOR COMPREHENSION
+",SPAN,SPAN 28201.,None,"Further develops skills and techniques for understanding written Spanish; conducted in English. Credit not
+applicable toward Spanish major or minor. Students may obtain credit in SPAN 28202 or SPAN 28206 but not
+both."
+SPAN 38211 ,"SPANISH GRAMMAR AND COMPOSITION
+",SPAN,SPAN 28202.,None,"This course provides an intensive grammar study and further written practice to help advanced intermediate
+students express complex ideas in Spanish."
+SPAN 38213 ,"SPANISH READING AND CONVERSATION
+",SPAN,SPAN 38211.,None,"This course provides reading techniques and develops oral skills to help advanced intermediate students
+express complex ideas in Spanish."
+SPAN 38215 ,"SPANISH PHONETICS AND DICTION
+",SPAN,SPAN 38211.,None,Study of the modern Spanish sound system with special emphasis on pronunciation and intonation.
+SPAN 38231 ,"TRANSLATION PRACTICE:SPANISH
+",SPAN,None,TRST 30230.,"Translation practice with Spanish texts using principles and techniques learned in the lecture class. To be
+taken concurrently with TRST 30230."
+SPAN 38240 ,"CONVERSATION FOR BUSINESS AND SPECIAL PURPOSES:SPANISH
+",SPAN,SPAN 38213.,None,"Introduction to the special vocabulary of business and other special subject areas; introduces the concept of
+language for special purposes and emphasizes the use of special vocabularies in conversations in business and
+other settings."
+SPAN 38330 ,"EARLY SPANISH LITERATURE
+",SPAN,SPAN 38211.,None,"Outline of development, reading of representative works to 1700."
+SPAN 38331 ,"RECENT SPANISH LITERATURE
+",SPAN,SPAN 38211.,None,"Outline of development, reading of representative works 1700 present."
+SPAN 38334 ,"EARLY SPANISH-AMERICAN LITERATURE
+",SPAN,SPAN 38211.,None,"Outline of development, reading of representative works including indigenous literature, 1492-1882."
+SPAN 38335 ,"RECENT SPANISH-AMERICAN LITERATURE
+",SPAN,SPAN 38211.,None,"Outline of the development of modern Spanish-American literature (1882 to the present). Reading of
+representative works."
+SPAN 38421 ,"CIVILIZATION OF SPAIN
+",SPAN,SPAN 38211.,None,General survey of evolution of Spanish civilization from antiquity to present day.
+SPAN 38424 ,"CULTURE AND CIVILIZATION OF LATIN AMERICA
+",SPAN,SPAN 38211.,None,"A thematic approach to the study of four or five representative Latin American countries focusing on 19th-and
+20th-century Latin American culture and society."
+SPAN 48093 ,"VARIABLE TITLE WORKSHOP IN SPANISH
+",SPAN,Departmental permission.,None,"(Repeatable for credit)Workshops individually designed to provide instruction and training in specific areas of
+hispanic studies. S u graded."
+SPAN 48095 ,"SELECTED TOPICS IN SPANISH
+",SPAN,9 hours,None,(Repeatable for a maximum of 9 credit hours)Topic announced in Schedule of Classes.
+SPAN 48096 ,"INDIVIDUAL INVESTIGATION
+",SPAN,Special approval.,None,"(Repeatable for a maximum of 6 credit hours) Allows the advanced, serious student to carry out research
+study project on Spanish literature language or culture. Prior approval of supervising faculty member
+department required."
+SPAN 48215 ,"ADVANCED SPANISH COMPOSITION AND CONVERSATION
+",SPAN,"SPAN 38211 andSPAN 38213; and one of SPAN 38330 or SPAN 38331 or SPAN 38334 or SPAN 38335; and special approval. 
+",None,"Focuses on description, summary, narration, exposition and argumentation on topics dealing with diverse
+areas of Hispanic culture as presented through literary and non-fiction texts."
+SPAN 48216 ,"CONTEMPORARY HISPANIC CULTURE
+",SPAN,6 hours from 30000-level Spanish courses.,None,"A study of selected sociological, political, cultural or economic issues in the contemporary Hispanic world."
+SPAN 48230 ,"ADVANCED TRANSLATION PRACTICE:SPANISH
+",SPAN,SPAN 38231.,None,"Theory and practice course that discusses translation theory and emphasizes Spanish-to-English translation of
+selected texts in business, technology, medicine and law."
+SPAN 48240 ,"BUSINESS AND SPECIAL TEXTS:SPANISH
+",SPAN,SPAN 38211.,None,"Survey of the typical text types of business in the Spanish culture and language. Practice sessions focus on
+reading and understanding specialized texts and on the translation and composition of selected special texts in
+Spanish."
+SPAN 48376 ,"CONTEMPORARY SPANISH-AMERICAN SHORT STORY
+",SPAN,"6 hours fromSPAN 38330 and SPAN 38331 and SPAN 38334 and SPAN 38335. 
+",None,The development of the Spanish-American short story from 1917 to the present.
+SPAN 48378 ,"U.S. LATINA/O WRITERS
+",SPAN,"SPAN 38211 and SPAN 38213; and one of the following: SPAN 38330 or SPAN38331 or SPAN 38334 or SPAN 38335. 
+",None,"The course focuses on a representative selection of literary pieces in Spanish by recent U.S. Latino writers
+developing oral and listening skills in Spanish and strengthening critical thinking on various cultural and
+literary matters."
+SPAN 48422 ,"EARLY SPANISH-AMERICAN DISCOURSE
+",SPAN,SPAN 38213 and SPAN 38334.,None,"This course provides a critical analysis of cultural and literary issues on texts dealing with early colonial
+Spanish-American expression."
+SPAN 58095 ,"SELECTED TOPICS IN SPANISH
+",SPAN,Graduate standing.,None,(Repeatable for a maximum of 15 credit hours)Topic to be announced in semester schedule of classes.
+SPAN 58216 ,"CONTEMPORARY HISPANIC CULTURE
+",SPAN,Graduate standing.,None,"A study of selected sociological, political, cultural or economic issues in the contemporary Hispanic world."
+SPAN 58376 ,"CONTEMPORARY SPANISH-AMERICAN SHORT STORY
+",SPAN,"Graduatestanding. 
+",None,The development of the Spanish-American short story from 1917 to the present.
+SPAN 58378 ,"U.S. LATINA/O WRITERS
+",SPAN,Graduate standing.,None,"The course focuses on a representative selection of literary pieces in Spanish by recent U.S. Latino writers
+developing oral and listening skills in Spanish and strengthening critical thinking on various cultural and
+literary matters."
+SPAN 58422 ,"EARLY SPANISH-AMERICAN DISCOURSE
+",SPAN,Graduate standing.,None,"This course provides a critical analysis of cultural and literary issues on texts dealing with early colonial
+Spanish-American expression."
+SPAN 68010 ,"THE PRACTICE OF SPANISH TRANSLATION
+",SPAN,graduate standing. ,TRST 60010.,Students apply linguistic and communication science concepts to case studies of language mediation.
+SPAN 68093 ,"VARIABLE TITLE WORKSHOP IN SPANISH
+",SPAN,Permission.,None,"(Repeatable for credit)Workshops individually designed to provide instruction and training in specific areas of
+spanish studies. S u graded."
+SPAN 68095 ,"SELECTED TOPICS
+",SPAN,Graduate standing.,None,(Repeatable for credit)Selected topics on Spanish literature or linguistics.
+SPAN 68098 ,"RESEARCH
+",SPAN,special approval.,None,"(Repeatable for credit) Research or individual investigation for master's level graduate students. Credits
+earned applied toward degree requirements if department approves."
+SPAN 68191 ,"SEMINAR IN FICTION
+",SPAN,Graduate standing.,None,"(Repeatable for credit)Intensive study of one or two major writers or of a movement in the history of Spanish
+and Spanish-American fiction."
+SPAN 68199 ,"THESIS I
+",SPAN,Graduate standing.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in a single semester distributed over several
+semesters if desired."
+SPAN 68215 ,"ADVANCED SPANISH COMPOSITION AND CONVERSATION
+",SPAN,Graduate standing.,None,"Focuses on description, summary, narration, exposition and argumentation on topics dealing with diverse
+areas of Hispanic culture as presented through literary and non-fiction texts."
+SPAN 68231 ,"TRANSLATION INTO SPANISH
+",SPAN,TRST 60010 and SPAN 68010; and graduate standing.,None,"Provides advanced intensive practice in the translation of a variety of texts into Spanish. Translation issues
+and appropriate strategies are identified. Also provides practice in the evaluation of translations, the
+identification of professional issues, and an advanced review of linguistic and grammatical aspects of Spanish
+as they apply to translation. Class meetings are conducted in a workshop format based on weekly assignments
+of readings and translation exercises."
+SPAN 68240 ,"LITERARY AND CULTURAL TRANSLATION
+",SPAN,Graduate standing.,None,"Translating documents from a variety of literary and cultural sources, including literature, expository and
+journalistic prose, scholarly treatises and essays. Translation into Spanish will also be emphasized."
+SPAN 68250 ,"COMMERCIAL, LEGAL AND DIPLOMATIC TRANSLATION
+",SPAN,TRST 60010 and graduate standing.,None,"An introduction to methods and resources for the translation of commercial,economic financial legal diplomatic
+and governmental documents."
+SPAN 68251 ,"SCIENTIFIC, TECHNICAL AND MEDICAL TRANSLATION
+",SPAN,TRST 60010 and graduate standing.,None,"An introduction to methods and resources for the translation of scientific, technical, industrial and medical
+documents."
+SPAN 68299 ,"THESIS II
+",SPAN,SPAN 68199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+SPAN 68391 ,"SEMINAR IN THEATRE
+",SPAN,Graduate standing.,None,"(Repeatable for credit)Intensive study of one or two major dramatists or movements in the history of Spanish
+and Spanish-American theatre."
+SPAN 68591 ,"SEMINAR IN POETRY
+",SPAN,Graduate standing.,None,"(Repeatable for credit)Intensive study of one or two major poets or of a movement in the history of Spanish
+and Spanish-American poetry."
+SPAN 68979 ,"CASE STUDY IN TRANSLATION
+",SPAN,Special approval and graduate standing.,None,"Students will be responsible for a major translation and a terminology glossary as well as a critical analysis of
+the source text, the problems encountered during the translation process and the strategies used to solve
+them."
