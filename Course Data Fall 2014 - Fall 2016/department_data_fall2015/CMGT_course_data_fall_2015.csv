@@ -1,0 +1,92 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+CMGT 10001 ,"INTRODUCTION TO CONSTRUCTION MANAGEMENT
+",CMGT,none.,None,"Serves to introduce the basic terms, concepts, procedures and current trends in the construction industry."
+CMGT 11044 ,"CONSTRUCTION SAFETY
+",CMGT,none.,None,"The theories and principles of construction safety and health applied to
+real-world setting. Upon completion of
+ course materials and required attendance hours, students receive their OSHA 30 certification."
+CMGT 11071 ,"CONSTRUCTION MATERIALS AND METHODS I
+",CMGT,none.,None,"An introduction to principles of building construction including preparation for the structures and environmental
+ control sequences. Includes a more detailed and systematic look at wood light frame construction."
+CMGT 21071 ,"CONSTRUCTION MATERIALS AND METHODS II
+",CMGT,none.,None,"Ties together steel and concrete structural systems and the integration of building service systems with a focus
+on the construction and detailing of building enclosure systems."
+CMGT 22200 ,"CONSTRUCTION DOCUMENT READING
+",CMGT,none.,None,"The reading and understanding of the drawings that are used to communicate information about commercial
+ and residential buildings."
+CMGT 25000 ,"PRINCIPLES OF L.E.E.D.
+",CMGT,none.,None,"Review LEED as it applies to the construction industry with a focus on preparation for the LEED Green Associate
+ exam."
+CMGT 31015 ,"CONSTRUCTION TECHNOLOGY
+",CMGT,ID 14512.,None,"This course provide basic concepts and practices of the construction industry, including estimating, materials,
+ tools, techniques and production of residential construction."
+CMGT 31023 ,"CONSTRUCTION SURVEYING
+",CMGT,CMGT 22200.,None,"The study of surveying including fieldwork using state of the art equipment and its relationship to the
+ construction documents."
+CMGT 31033 ,"MECHANICAL SYSTEMS
+",CMGT,none.,None,An overview of mechanical systems in commercial and residential buildings.
+CMGT 31040 ,"ELECTRICAL SYSTEMS FOR CONSTRUCTION MANAGERS
+",CMGT,none.,None,An overview of electrical systems in commercial and residential buildings.
+CMGT 32001 ,"PROPOSAL DEVELOPMENT AND ANALYSIS
+",CMGT,"CMGT 10001 andspecial approval.
+",None,"(Repeatable twice for credit) Create and combine Project Management, Safety, and Quality Control plans and
+ prepare quantity takeoffs and schedule for a construction project, in the form of a construction proposal and
+ presentation. Further analysis will be done on general construction proposals."
+CMGT 41040 ,"CONSTRUCTION ESTIMATING I
+",CMGT,CMGT 22200.,None,"Introduction to estimating and the quantity takeoff process needed to complete accurate estimates for all types
+ of construction projects."
+CMGT 41041 ,"CONSTRUCTION ESTIMATING II
+",CMGT,CMGT 41040.,None,"Putting costs to the project, finalizing the bid, incorporating the estimate into the schedule, buying out the
+ project, bidding ethics and using computer spreadsheets including Excel to automate estimating functions."
+CMGT 42105 ,"CONSTRUCTION CONTRACTS AND LAW
+",CMGT,none.,None,"The fundamentals of construction contracts and law, the impact of information technology on contracts and
+ contracting, and the effect of contracts and law on the management, administration and the costs of
+construction work."
+CMGT 42107 ,"CONSTRUCTION SCHEDULING
+",CMGT,none.,None,"The traditional theory of planning, scheduling and controlling construction projects. Current industry standard
+ computer applications for scheduling is utilized."
+CMGT 42110 ,"CONSTRUCTION MANAGEMENT CAPSTONE
+",CMGT,senior standing.,None,"The application of all previous construction management courses and experiences to ensure all major learning
+ objectives have been obtained and that these learning objectives can be applied to performance similar
+to
+ industry practices."
+CMGT 51040 ,"CONSTRUCTION ESTIMATING I
+",CMGT,graduate standing.,None,"Introduction to estimating and the quantity takeoff process needed to complete accurate estimates for all types
+ of construction projects. The ability to read and understand construction drawings is needed."
+CMGT 51041 ,"CONSTRUCTION ESTIMATING II
+",CMGT,CMGT 41040 or CMGT 51040 and graduate standing.,None,"Putting costs to the project, finalizing the bid, incorporating the estimate into the schedule, buying out the
+ project, bidding ethics and using computer spreadsheets including Excel to automate estimating functions."
+CMGT 52105 ,"CONSTRUCTION CONTRACTS AND LAW
+",CMGT,graduate standing.,None,"The fundamentals of construction contracts and law, the impact of information technology on contracts and
+ contracting, and the effect of contracts and law on the management, administration and the costs of
+construction work."
+CMGT 52107 ,"CONSTRUCTION SCHEDULING
+",CMGT,graduate standing.,None,"The traditional theory of planning, scheduling and controlling construction projects. Current industry standard
+ computer applications for scheduling are utilized."
+CMGT 52110 ,"APPLIED CONSTRUCTION MANAGEMENT
+",CMGT,"graduatestanding and special approval.
+",None,"A comprehensive application of construction management principles and practices to various situations and
+ projects according to construction industry methods and performance standards."
+CMGT 62040 ,"CONSTRUCTION METHODS IMPROVEMENTS
+",CMGT,graduate standing.,None,"A focused study of the philosophy and principles of quality management as applied to the construction industry.
+ Course presents a project-based
+approach to the principles and practices of Total Quality Management (TQM) in
+construction projects and the application of TQM and other quality measures during different phases of the
+ construction process."
+CMGT 62050 ,"INTERNATIONAL CONSTRUCTION MANAGEMENT
+",CMGT,graduate standing.,None,"Topics include operating and sustaining an international business or business presence, the global market,
+ project funding, case studies, and
+best practices. Course includes project specific case studies."
+CMGT 67320 ,"APPLIED SUSTAINABILITY IN CONSTRUCTION MANAGEMENT
+",CMGT,"graduatestanding and special approval.
+",None,"Investigation of strategies and methods used by construction managers and others to assist in developing
+ sustainable built environments. Takes
+a close look at standards for environmentally sustainable construction
+and at the application of Best Management Practices for construction activities. Focus is on LEED Certification,
+ International Standards on Environmental Management Systems, and other established criteria, guidelines,
+ standards, and tools associated with Green Building. Provides an in-depth discussion and practical application of
+ LEED assessment, guidelines and standards for various building sectors. Includes a major individual design
+ project/case study involving research
+in green construction and design on a particular construction project,
+along with the application of LEED guidelines, assessment and methods to
+the project."

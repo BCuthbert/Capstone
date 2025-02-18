@@ -1,0 +1,59 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+CLS 49010 ,"CLINICAL MICROBIOLOGY:THEORY
+",CLS,Medical technology (MEDT) major.,None,"Theoretical consideration of laboratory isolation, cultivation, identification and characterization of pathogenic
+ microorganisms."
+CLS 49011 ,"CLINICAL MICROBIOLOGY:APPLICATIONS
+",CLS,"Medicaltechnology (MEDT)
+ major.
+",None,"Applied and practical considerations of theoretical aspects of laboratory isolation, cultivation, identification and
+ characterization of pathogenic microorganisms. Letter grades and ip."
+CLS 49012 ,"CLINICAL IMMUNOLOGY:THEORY
+",CLS,"Medical technology (MEDT)major.
+",None,"Theoretical considerations of laboratory practices involving quantitation and detection of antigens and
+ antibodies and the significance of these findings in pathological states."
+CLS 49013 ,"CLINICAL IMMUNOLOGY:APPLICATIONS
+",CLS,Medical technology (MEDT) major.,None,"Applied and practical consideration of laboratory practices in immunology and serology relating to diagnosis of
+ disease states."
+CLS 49014 ,"CLINICAL MYCOLOGY:THEORY AND APPLICATIONS
+",CLS,Medical technology (MEDT) major.,None,"Theoretical, applied and practical consideration of the isolation, identification and characterization of pathogenic
+ fungi and their relation to human disease states."
+CLS 49015 ,"CLINICAL PARASITOLOGY:THEORY AND APPLICATIONS
+",CLS,Medical technology (MEDT) major.,None,"Theoretical, applied and practical considerations of the isolation identification and characterization of human
+ parasites and their relations to pathologic conditions."
+CLS 49020 ,"CLINICAL CHEMISTRY:THEORY
+",CLS,"Medical technology (MEDT)major.
+",None,"Theoretical considerations of the principles of clinical chemistry relating to the identification and quantitation of
+ biologically important substances in blood and other body fluids."
+CLS 49021 ,"CLINICAL CHEMISTRY:APPLICATIONS
+",CLS,Medical technology (MEDT) major.,None,"Applied and practical considerations of clinical chemistry principles relating to significant changes in body fluids
+ as the result of pathologic conditions."
+CLS 49022 ,"URINALYSIS:THEORY
+",CLS,Medical technology (MEDT) major.,None,"Theoretical considerations of the physiological activities of the renal system together with laboratory principles
+ of analysis of urine and other body fluids."
+CLS 49023 ,"URINALYSIS:APPLICATIONS
+",CLS,Medical technology (MEDT) major.,None,"Applied and practical considerations of laboratory practices in urine and other body fluid analysis as aids in
+ diagnosis of disease."
+CLS 49030 ,"IMMUNOHEMATOLOGY:THEORY
+",CLS,"Medicaltechnology (MEDT) major.
+",None,"Theoretical consideration of laboratory procedures involved in blood grouping and typing;identification of blood
+ group antigens and antibodies collection and preparation of blood for transfusion."
+CLS 49031 ,"IMMUNOHEMATOLOGY:APPLICATIONS
+",CLS,Medical technology (MEDT) major.,None,Applied and practical consideration of laboratory methods for the administration of blood and its components.
+CLS 49032 ,"COAGULATION:THEORY AND APPLICATIONS
+",CLS,Medical technology (MEDT) major.,None,"Theoretical consideration of the coagulation mechanism and its relation to pathological states;identification of
+ abnormalities and deficiencies."
+CLS 49033 ,"CLINICAL HEMATOLOGY:THEORY
+",CLS,Medical technology (MEDT) major.,None,"Theoretical considerations of the development of formed elements; identification of marrow and blood cells;
+ study of normal and abnormal cellular blood components."
+CLS 49034 ,"CLINICAL HEMATOLOGY:APPLICATIONS
+",CLS,Medical technology (MEDT) major.,None,"Applied and practical consideration of laboratory methods and procedures
+in identification and enumeration of
+ normal and abnormal formed elements of blood."
+CLS 49040 ,"TOPICS IN LABORATORY MANAGEMENT
+",CLS,Medical technology (MEDT) major.,None,"Consideration of topics relating to safety, education, personnel, budgeting, scheduling and medical legal
+ problems. Repeatable for a total
+of 4 hours."
+CLS 49095 ,"SPECIAL TOPICS IN MEDICAL TECHNOLOGY
+",CLS,"Medicaltechnology (MEDT) major.
+",None,"(Repeatable for a maximum of 4 credit hours)Topical consideration of special techniques encountered in nuclear
+ medicine, cytology, cytogenetics, virology, toxicology and special instrumentation."
