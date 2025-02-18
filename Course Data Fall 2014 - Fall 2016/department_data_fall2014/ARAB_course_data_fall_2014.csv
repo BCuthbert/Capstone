@@ -1,0 +1,48 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+ARAB 11101 ,"ELEMENTARY ARABIC I
+",ARAB,None.,None,Introduction to Modern Standard Arabic and colloquial Arabic in the context of the cultures of Arabic speakers.
+ARAB 11102 ,"ELEMENTARY ARABIC II
+",ARAB,ARAB 11101.,None,"Continuation of the introduction to Modern Standard Arabic and colloquial Arabic in the context of the cultures
+of Arabic speakers."
+ARAB 21201 ,"INTERMEDIATE ARABIC I
+",ARAB,ARAB 11102.,None,"Continued development of speaking, listening, reading and writing skills in Arabic, using a variety of cultural
+materials."
+ARAB 21202 ,"INTERMEDIATE ARABIC II
+",ARAB,ARAB 21201.,None,Continuation of ARAB 21201.
+ARAB 30095 ,"SPECIAL TOPICS IN ARABIC CULTURE AND LANGUAGE
+",ARAB,none.,None,"(Repeatable for a maximum of 9 credit hours)Special topics in Arabic civilization, culture or language."
+ARAB 31301 ,"ADVANCED INTERMEDIATE ARABIC I
+",ARAB,ARAB 21202.,None,"Continuation of the study of Modern Standard Arabic and colloquial Arabic in the context of Arab cultures.
+Further development of listening, speaking, reading and writing skills, using a variety of cultural materials."
+ARAB 31302 ,"ADVANCED INTERMEDIATE ARABIC II
+",ARAB,ARAB 31301.,None,Continuation of ARAB 31301.
+ARAB 41096 ,"INDIVIDUAL INVESTIGATION
+",ARAB,ARAB 21201.,None,"(Repeatable for a total of 6 credit hours) Individual study supervised by a faculty member on an approved
+topic dealing with Arabic language and-or culture."
+ARAB 41201 ,"ADVANCED ARABIC I
+",ARAB,ARAB 31302 and special approval.,None,"Continuation of ARAB 31302. Emphasis is on building active vocabulary for comprehension, reading authentic
+texts, writing of connected discourse and the development of higher levels of conversational proficiency."
+ARAB 41202 ,"ADVANCED ARABIC II
+",ARAB,ARAB 41201 and special approval.,None,Continuation of ARAB 41201.
+ARAB 41301 ,"ARABIC CULTURE
+",ARAB,none.,None,"Survey of the Arab world covering its geographical, ethnic, religious, and linguistic diversity and the roots of
+its current socio-cultural context."
+ARAB 41302 ,"BUSINESS ARABIC
+",ARAB,ARAB 31302.,None,"Study of the business protocol, language functions, texts and vocabulary associate with travel and business in
+the Arabic-speaking world."
+ARAB 67010 ,"PRACTICE OF ARABIC TRANSLATION
+",ARAB,graduate standing.,TRST 60010.,"Introductory course in which students translate a variety of non-specialized, non-fiction short texts in different
+domains, identify the most common semantic, syntactic, stylistic, cultural, and discourse-level problems
+encountered in translation, and apply appropriate cognitive strategies."
+ARAB 67240 ,"LITERARY AND CULTURAL TRANSLATION
+",ARAB,graduate standing.,None,"Translation of documents from a variety of literary and cultural sources, including literature, expository and
+journalistic prose, speeches and essays in and from Arabic."
+ARAB 67250 ,"COMMERCIAL, LEGAL AND DIPLOMATIC TRANSLATION
+",ARAB,TRST 60010 and graduate standing.,None,"An introduction to methods and resources for the translation of commercial, economic, financial, legal,
+diplomatic and governmental documents."
+ARAB 67251 ,"SCIENTIFIC, TECHNICAL AND MEDICAL TRANSLATION
+",ARAB,TRST 60010 and graduate standing.,None,"An introduction to methods and resources for the translation of scientific, technical, industrial and medical
+documents."
+ARAB 67979 ,"TRANSLATION CASE STUDY
+",ARAB,graduate standing and special approval.,None,"Students are responsible for a major translation and a terminology glossary as well as a critical analysis of the
+source text, the problems encountered during the translation process and the strategies used to solve them."

@@ -1,0 +1,122 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+BMRT 11000 ,"INTRODUCTION TO BUSINESS
+",BMRT,none.,None,"(Equivalent to BUS 10123) Overview of social, economic and consumer environments as related to large and
+small business. Emphasis is on production, marketing, finance, management and human resources. It is
+recommended that nay reading courses indicated by COMPASS score are taken prior to enrolling in this
+course."
+BMRT 11006 ,"BUSINESS COMPUTATIONS I
+",BMRT,None.,None,"Application of algebraic and arithmetic concepts to accounting, finance and marketing. Computation of finance
+charges, taxes, fundamentals of inventory control and depreciation."
+BMRT 11009 ,"INTRODUCTION TO MANAGEMENT TECHNOLOGY
+",BMRT,none.,None,"(Equivalent to MIS 24163) Study of planning, organizing, directing/leadership, controlling, staffing, decision
+making, and communication theories and management applications of human and material resources and
+methods. It is recommended that any reading courses indicted by COMPASS score are taken prior to enrolling
+in this course."
+BMRT 21000 ,"BUSINESS LAW AND ETHICS I
+",BMRT,"US 00006 or Compass Reading score of 86; and ENG01001 or Compass Writing score of 67. 
+",None,"(Equivalent to FIN 26074) Introduction to American law as related to government, business, society and the
+ethical issues that occur in the legal environment. Emphasis will focus on contract law. Relevant past and
+current law issues will be addressed."
+BMRT 21004 ,"INTRODUCTION TO BUSINESS STATISTICS
+",BMRT,"MATH 00023 orMATH 00024 or MATH 10009 or MATH 11010. 
+",None,"(Equivalent to MIS 24056) Basic decision making statistics for business management. Emphasis is on
+probability theory, statistical inferences and decision making under uncertainty."
+BMRT 21005 ,"PURCHASING AND SUPPLY MANAGEMENT
+",BMRT,BMRT 11000 or special approval of full-time BMRT faculty.,None,"Practical approach to the material acquisition, management and supply chain function in the American
+business system."
+BMRT 21008 ,"CASE STUDIES IN MANAGEMENT TECHNOLOGY
+",BMRT,"Special approval of full-time BMRTfaculty only. 
+",None,"Application of management theory to actual business situations. Emphasis on decision making and evaluation
+of methods and styles of management in all functional areas."
+BMRT 21011 ,"FUNDAMENTALS OF FINANCIAL MANAGEMENT
+",BMRT,"ACTT 11000 and COMT 11000 or specialapproval of BMRT faculty. 
+",None,"Understanding basic financial reports for analysis and performance of a business. Preparation of sales
+forecasts to develop capital and expense budgets."
+BMRT 21020 ,"INTRODUCTION TO ENTREPRENEURSHIP
+",BMRT,None.,None,"Provides information about the functional elements of starting a small business. Includes the use of
+instruments, exercises and case analyses to assess entrepreneurial skills."
+BMRT 21023 ,"FINANCING THE BUSINESS VENTURE
+",BMRT,"BMRT21020 or special approval of full-time BMRT faculty. 
+",None,"Course deals with determining capital needs, identifying sources of capital, developing a financial plan and
+interpreting financial statements. Both public and private loan programs will be reviewed."
+BMRT 21050 ,"FUNDAMENTALS OF MARKETING TECHNOLOGY
+",BMRT,ECON 22060.,None,"(Equivalent to MKTG 25010) An overview of the process, activities, and problems associated with the
+conception, planning and execution of pricing, promotion, product, and placement of goods and services"
+BMRT 21051 ,"FUNDAMENTALS OF RETAILING
+",BMRT,"BMRT 11000 or specialapproval of BMRT faculty. 
+",None,"A survey of retailing that emphasizes skills necessary for store organization,location, layout, pricing,
+merchandising and inventory control. New retail concepts are stressed."
+BMRT 21052 ,"PROFESSIONAL SELLING TECHNIQUES
+",BMRT,"BMRT 11000 or special approval of full-timeBMRT faculty. 
+",None,"Study of personal selling as a promotional technique to determine and satisfy the needs of buyers and to
+build a long-term relationship among all parties."
+BMRT 21053 ,"ADVERTISING IN BUSINESS
+",BMRT,"BMRT 21050 or special approval of BMRTfaculty. 
+",None,"A practical approach to the study of advertising. Emphasis is on the effective use of the media creating
+advertising operations and advertising management."
+BMRT 21092 ,"INTERNSHIP IN MANAGEMENT TECHNOLOGY
+",BMRT,special approval of full time BMRT faculty.,None,"(Repeatable for credit)Students participate in a supervised educational experience. Each credit hour requires a
+minimum of seven hours work without pay or 10 hours work with pay per week for 15 weeks."
+BMRT 21095 ,"SPECIAL TOPICS
+",BMRT,"specialapproval from full-time BMRT faculty. 
+",None,(Repeatable for credit) Special topics in business technology announced when scheduled.
+BMRT 21096 ,"INDIVIDUAL INVESTIGATION IN BUSINESS TECHNOLOGY
+",BMRT,special approval from full-time BMRT faculty.,None,"(Repeatable for credit)Individual study in business and related fields. Open to business technology students
+only."
+BMRT 31006 ,"HUMAN RESOURCE MANAGEMENT
+",BMRT,"BMRT 11009 or MIS24163. 
+",None,"The study of contemporary issues of human resources. Covers planning, job design, selection, appraisal,
+compensation, training, life quality, safety/health, diversity and unions."
+BMRT 31009 ,"SEMINAR IN MANAGEMENT TECHNOLOGY
+",BMRT,"BMRT 21008 or special approval of full-timeBMRT faculty. 
+",None,"Last semester students of business management technology engage in critical reading, writing and discussion
+to apply business theory to on-the-job experiences."
+BMRT 36401 ,"APPLICATIONS OF TECHNOLOGY MANAGEMENT SOFTWARE
+",BMRT,"BMRT 11000 and COMT 12000; or special approval of full-time AppliedBusiness faculty. 
+",None,"Combination of computer and business applications for managing technology within an organization. Focus is
+on using emerging computer software programs for the enhancement of decision making. Course is 2 hours
+lecture, 1 hour lab."
+BMRT 36410 ,"SECURITY FOR BUSINESS STUDENTS
+",BMRT,Junior standing.,None,"Concepts and principles of security and safety in industrial and commercial settings. Focus on executive
+oversight of corporate security functions. Includes risk analysis, security surveys, emergency preparedness
+and security policies and procedures."
+BMRT 36415 ,"CUSTOMER SERVICE TECHNOLOGY
+",BMRT,Junior standing.,None,"Analysis and definition of customer satisfaction with an emphasis on quality customer service that includes
+technique for assessing company service efforts and developing customer satisfaction programs."
+BMRT 36420 ,"PHYSICAL SECURITY
+",BMRT,Junior standing.,None,"Elements of design, technology and procedures that deter, delay, detect and defeat criminal activity.
+Deployment and optional countermeasures. Budgeting based on risk analysis."
+BMRT 36430 ,"SECURITY MANAGEMENT
+",BMRT,"Juniorstanding. 
+",None,"Principles of security and safety in private business and institutions. Emphasis on proprietary departments and
+security of those departments. Focus on need for proprietary security organization, internal controls, external
+threats and electronic devices. Examination of departmental policies and procedures."
+BMRT 36440 ,"SECURITY INVESTIGATION
+",BMRT,Junior standing.,None,"Addresses future of private security, conducting interviews and dealing with testimonial evidence. Following
+leads, collecting evidence, preserving crime scenes, use of investigative tools, surveillance techniques and
+report writing."
+BMRT 40092 ,"PRACTICUM IN APPLIED BUSINESS AND TECHNOLOGY
+",BMRT,junior standing and special approval.,None,"(Repeatable for a maximum of 4 credit hours) On sight internship or a project with a business or technology
+related organization approved by the Instructor."
+BMRT 40096 ,"INDIVIDUAL INVESTIGATION IN BUSINESS AND TECHNOLOGY
+",BMRT,junior standing and special approval.,None,"(Repeatable for a maximum of 4 credit hours) Perform an individual project or research assignment as
+approved by the instructor."
+BMRT 46295 ,"SPECIAL TOPICS IN APPLIED BUSINESS
+",BMRT,"Special approval of full time technology faculty or ofprofessor teaching the course. 
+",None,"(Repeatable for credit)Specialized advance instruction oriented primarily to applied business topics. Topics will
+vary and will be announced as scheduled."
+BMRT 46409 ,"STRATEGIC MANAGEMENT OF TECHNOLOGY AND INNOVATION
+",BMRT,"BMRT 11009 or MIS 24163;and sophomore standing. 
+",None,"An examination using case studies and readings of the management of technology and innovation through
+perspectives at the product line, business unit and corporate levels."
+BMRT 46410 ,"CRISIS AND DISASTER MANAGEMENT PLANNING
+",BMRT,"Juniorstanding. 
+",None,"Addresses planning process for mitigation and recovery strategies for natural and man-made crisis and
+disasters. Includes risk assessment, incident management and planning evaluation."
+BMRT 46418 ,"LABOR STUDIES IN TECHNOLOGY
+",BMRT,Junior standing.,None,"This course will include the history of the labor movement, interrelationships of labor with business and
+industry, labor law, contemporary labor problems that emphasizes how unions are organized, contracts,
+arbitration and management issues."
+BMRT 46420 ,"LEGAL ISSUES IN SECURITY
+",BMRT,Junior standing.,None,"Survey of laws applicable to security risks including torts, labor, employment, criminal and constitutional
+issues."

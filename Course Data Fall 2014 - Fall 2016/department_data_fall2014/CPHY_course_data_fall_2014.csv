@@ -1,0 +1,129 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+CPHY 60199 ,"THESIS I
+",CPHY,Approval of adviser and graduate standing.,None,"Thesis students must register for a total of 6 hours, 2-6 hours in a single semester or distributed over two
+semesters if desired."
+CPHY 60299 ,"THESIS II
+",CPHY,CPHY 60199 and graduate standing.,None,Thesis students must continually register each semester until all degree requirements are met.
+CPHY 60498 ,"RESEARCH
+",CPHY,Permission and graduate standing.,None,"Research or individual investigation. Credits earned may be applied toward meeting degree requirements if
+approved."
+CPHY 62241 ,"SOFT MATTER
+",CPHY,Graduate standing.,None,"(Cross-listed with CPHY 72241) Lectures on soft materials, including binary fluid mixtures, polymers, colloids,
+thermotropic and lyotropic liquid crystals. Structures, defects, and textures of phases with orientational and
+partial translational order. Dynamics of phase transitions."
+CPHY 62242 ,"CHARACTERIAZATION OF SOFT MATERIALS
+",CPHY,graduate standing.,None,"(Cross-listed with CPHY 72242) Basic techniques in characterization using X-ray scattering, neutron scattering,
+light scattering, NMR, optical microscopy, scanning electron microscopy, transmission electron and tunneling
+electron microscopy and ellipsometry. Laboratory measurements, error analysis, cell fabrication."
+CPHY 62245 ,"FUNDAMENTALS OF LIQUID CRYSTAL SCIENCE
+",CPHY,graduate standing.,None,"Basic liquid crystals structures and their main physical properties, such as visco-elastic, electric, magnetic and
+optical properties except the nature of their phase transitions. Also discussed is their interactions with
+surfaces and the structural defects that they can form."
+CPHY 62248 ,"LIQUID CRYSTAL OPTICS AND PHOTONICS
+",CPHY,graduate standing.,None,"(Cross-listed with CPHY 72248) Optics of cholesterics, liquid crystalline photonic bandgap materials, nonlinear
+optics of liquid crystals; optomechancial effects in liquid crystal elastomers."
+CPHY 62249 ,"LABVIEW FOR DATA ACQUISITION AND INSTRUMENT CONTROL
+",CPHY,graduate standing.,None,"(Cross-listed with CPHY 72249) Introduction to laboratory data acquisition and instrument control using
+LabView Software."
+CPHY 62335 ,"ADVANCED LIQUID CRYSTALLINE AND POLYMERIC MATERIALS
+",CPHY,doctoral standing.,None,"(Cross-listed with CPHY 72335) Liquid crystals and polymers are soft matters of two important disciplines of
+science and technology. They both have a similar history and are rich in physical and optical properties useful
+for fundamental and applied research. This course introduce students to recent advances in liquid crystals and
+polymers with emphasis on structure-property relationships, physical and optical properties, and their
+applications."
+CPHY 62640 ,"LIQUID CRYSTAL, POLYMER AND COLLOID COMPOSITES
+",CPHY,graduate standing.,None,"(Cross-listed with CPHY 72640) Interdisciplinary science of systems consisting of liquid crystal, polymer and
+colloid. Statistical physics of composite systems, mixing free energy, phase separation principle, phase
+diagrams and phase separation dynamics. States, structures and free energies of liquid crystal, polymer and
+colloidal systems. Polymer dispersed liquid crystals (PDLCs), polymer stabilized liquid crystals (PSCTs) and
+their applications. Laboratory experiments on composite systems and fabrication of PDLC and PSCT light
+shutters."
+CPHY 62643 ,"LIQUID CRYSTAL APPLICATIONS
+",CPHY,graduate standing.,None,"(Cross-listed with CPHY 72643) Apply knowledge of liquid crystals and optics to the design of liquid crystal
+electro-optical devices. Emphasis is on modeling of devices and the use of that modeling to optimize device
+characteristics. Several particular device designs are considered to familiarize the student with the state of the
+art in liquid crystal displays and other electro-optical applications of liquid crystals and to prepare them to
+advance the art in future designs."
+CPHY 62647 ,"STRUCTURED FLUIDS
+",CPHY,graduate standing.,None,"(Cross-listed with CPHY 72647) The basics of fluids having internal structures, such as long range orientational
+order andor one and two dimensional positional order. Materials include thermotropic smetic, lamellar lyotropic
+and columnar liquid crystals, soap films, fluid foams, fluid fibers and Langmuir monolayers."
+CPHY 62650 ,"COMPUTATIONAL MATERIALS SCIENCE
+",CPHY,graduate standing.,None,"(Cross-listed with CPHY 72650) Materials modeling at the classical (i.e. non-quantum) level. Monte Carlo
+methods; molecular dynamics simulation; mesoscale models; numerical methods; case studies."
+CPHY 62651 ,"NANOBIOTECHNOLOGY
+",CPHY,graduate standing.,None,"(Cross-listed with CPHY 72651) This interdisciplinary course presents the concepts, principles and the state-of-
+the-arts of nanotechnologies and their applications in biological and biomedical science and engineering. Focus
+is on the fundamental physical principles and engineering technologies of device miniaturization and system
+integration for bioapplications."
+CPHY 64491 ,"SEMINAR:LIQUID CRYSTALS
+",CPHY,"Special approval and graduatestanding. 
+",None,"(Repeatable for credit) (Cross-listed with CPHY 74491) Discussion of current literature or original research in
+liquid crystals. Participation by students faculty and guests."
+CPHY 64495 ,"SPECIAL TOPICS IN CHEMICAL PHYSICS
+",CPHY,Special approval and graduate standing.,None,(Repeatable for credit) (Cross-listed with CPHY 74495) Topic to be announced when scheduled.
+CPHY 72241 ,"SOFT MATTER
+",CPHY,Doctoral standing.,None,"(Cross-listed with CPHY 62241) Lectures on soft materials, including binary fluid mixtures, polymers, colloids,
+thermotropic and lyotropic liquid crystals. Structures, defects, and textures of phases with orientational and
+partial translational order. Dynamics of phase transitions."
+CPHY 72242 ,"CHARACTERIZATION OF SOFT MATERIALS
+",CPHY,doctoral standing.,None,"(Cross-listed with CPHY 62242) Basic techniques in characterization using X-ray scattering, neutron scattering,
+light scattering, NMR, optical microscopy, scanning electron microscopy, transmission electron and tunneling
+electron microscopy and ellipsometry. Laboratory measurements, error analysis, cell fabrication."
+CPHY 72245 ,"FUNDAMENTALS OF LIQUID CRYSTAL SCIENCE
+",CPHY,doctoral standing.,None,"Basic liquid crystals structures and their main physical properties, such as visco-elastic, electric, magnetic and
+optical properties, except the nature of their phase transitions. It also discusses their interactions with
+surfaces and the structural defects that they can form."
+CPHY 72248 ,"LIQUID CRYSTAL OPTICS AND PHOTONICS
+",CPHY,Doctoral standing.,None,"(Cross-listed with CPHY 62248) Optics of cholesterics, liquid crystalline photonic bandgap materials, nonlinear
+optics of liquid crystals; optomechancial effects in liquid crystal elastomers."
+CPHY 72249 ,"LABVIEW FOR DATA ACQUISITION AND INSTRUMENT CONTROL
+",CPHY,doctoral standing.,None,"(Cross-listed with CPHY 62249) Introduction to laboratory data acquisition and instrument control using
+Labview software."
+CPHY 72335 ,"ADVANCED LIQUID CRYSTALLINE AND POLYMERIC MATERIALS
+",CPHY,doctoral standing.,None,"(Cross-listed with CPHY 62335) Liquid crystals and polymers are soft matters of two important disciplines of
+science and technology. They both have a similar history and are rich in physical and optical properties useful
+for fundamental and applied research. This course introduce students to recent advances in liquid crystals and
+polymers with emphasis on structure-property relationships, physical and optical properties, and their
+applications."
+CPHY 72640 ,"LIQUID CRYSTAL, POLYMER AND COLLOID COMPOSITES
+",CPHY,doctoral standing.,None,"(Cross-listed with CPHY 62640) Interdisciplinary science of systems consisting of liquid crystal, polymer and
+colloid. Statistical physics of composite systems, mixing free energy, phase separation principle, phase
+diagrams and phase separation dynamics. States, structures and free energies of liquid crystal, polymer and
+colloidal systems. Polymer dispersed liquid crystals (PDLCs), polymer stabilized liquid crystals (PSLCs) and
+their applications. Laboratory experiments on composite systems and fabrication of PDLC and PSLC light
+shutters."
+CPHY 72643 ,"LIQUID CRYSTAL APPLICATIONS
+",CPHY,doctoral standing.,None,"(Cross-listed with CPHY 62643) Apply knowledge of liquid crystals and optics to the design of liquid crystal
+electro-optical devices. Emphasis is on modeling of devices and the use of that modeling to optimize device
+characteristics. Several particular device designs are considered to familiarize the student with the state of the
+art in liquid crystal displays and other electro-optical applications of liquid crystals and to prepare them to
+advance the art in future designs."
+CPHY 72647 ,"STRUCTURED FLUIDS
+",CPHY,doctoral standing.,None,"(Cross-listed with CPHY 62647) The basics of fluids having internal structures, such as long range orientational
+order andor one and two dimensional positinal order. Such materials include thermotropic smetic, lamellar
+lyotropic and columnar liquid crystals, soap films, fluid foams, fluid fibers and Langmuir monolayers."
+CPHY 72650 ,"COMPUTATIONAL MATERIALS SCIENCE
+",CPHY,doctoral standing.,None,"(Cross-listed with CPHY 62650) Materials modeling at the classical (i.e. non-quantum) level. Monte Carlo
+methods; molecular dynamics simulation; mesoscale models; numerical methods; case studies."
+CPHY 72651 ,"NANOBIOTECHNOLOGY
+",CPHY,doctoral standing.,None,"(Cross-listed with CPHY 62651) This interdisciplinary course presents the concepts, principles and the state-of-
+the-arts of nanotechnologies and their applications in biological and biomedical science and engineering. Focus
+is on the fundamental physical principles and engineering technologies of device miniaturization and system
+integration for bioapplications."
+CPHY 74491 ,"SEMINAR:LIQUID CRYSTALS
+",CPHY,"Special approval and doctoralstanding. 
+",None,"(Repeatable for credit) (Cross-listed with CPHY 64491) Discussion of current literature or original research in
+liquid crystals. Participation by students, faculty and guests."
+CPHY 74495 ,"SPECIAL TOPICS IN CHEMICAL PHYSICS
+",CPHY,Special approval and doctoral standing.,None,(Repeatable for credit) (Cross-listed with CPHY 64495) Topic to be announced when scheduled.
+CPHY 80199 ,"DISSERTATION I
+",CPHY,Special approval and doctoral standing.,None,"(Repeatable for credit)Doctoral dissertation for which registration in at least two semesters is required,first of
+which will be semester in which dissertation work is begun, and continuing until the completion of 30 hours."
+CPHY 80299 ,"DISSERTATION II
+",CPHY,"Completion of 30hours of CPHY 80199. Doctoral standing. 
+",None,"(Repeatable for credit)Continuing registration required of doctoral students who have completed the initial 30
+hours of dissertation and continuing until all degree requirements are met."
+CPHY 80498 ,"RESEARCH
+",CPHY,Doctoral standing.,None,"(Repeatable for credit)Research or individual investigation for doctoral student who has not yet passed
+candidacy exam. Credit earned may be applied toward degree."

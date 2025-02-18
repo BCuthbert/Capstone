@@ -1,0 +1,118 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+EPI 50196 ,"INDIVIDUAL INVESTIGATION IN EPIDEMIOLOGY
+",EPI,graduate standing and special approval.,None,"(repeatable for maximum 6 credits) Individual graduate investigation or research in areas related to
+epidemiology."
+EPI 52017 ,"FUNDAMENTALS OF PUBLIC HEALTH EPIDEMIOLOGY
+",EPI,graduate standing.,None,"Introduces principles, methods, and application of epidemiology. Covers the history of epidemiology, concepts
+of disease causation and prevention, measures of disease frequency and excessive risk, epidemiologic study
+designs, causal inference, outbreak investigation and screening. Provides experience with calculation of rate
+standardization, measures of disease frequency, association, and impact, and sensitivity and specificity of
+screening tests. Highlights applications of epidemiology to understanding of disease etiology, transmission,
+pathogenesis, and prevention, evaluation and public policy development."
+EPI 52028 ,"METHODS OF EVIDENCE BASED PUBLIC HEALTH
+",EPI,graduate standing.,None,"Explores tools and techniques used to quantitatively determine the effectiveness of public health interventions
+in the social sciences."
+EPI 60191 ,"VARIABLE CONTENT SEMINAR IN EPIDEMIOLOGY
+",EPI,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with EPI 80191) Seminar on current and important topics in
+epidemiology. Subject matter varies depending on the topic."
+EPI 60192 ,"PRACTICUM EXPERIENCE IN EPIDEMIOLOGY
+",EPI,graduate standing and special approval.,None,"Observational and participation in public health activities of a public health agency, hospital or other approved
+organization. The student completes the field experience with joint supervision from the university and
+approved organization or agency."
+EPI 60195 ,"SPECIAL TOPICS IN EPIDEMIOLOGY
+",EPI,Graduate standing.,None,"(Repeatable for a maximum 6 credit hours) (Cross-listed with EPI 80195) Special topics to sample new
+offerings on topics in epidemiology."
+EPI 63014 ,"EPIDEMILOGY OF CHRONIC DISEASES
+",EPI,"EPI 52017 andgraduate standing. 
+",None,"With a life course approach to chronic disease epidemiology, this course focuses on cardiovascular,
+respiratory, cerebrovascular diseases and cancer. Health and disease are addressed from a multicausal
+perspective which includes individual behaviors, psychosocial issues, and sociodemographic, biological, and
+physiological factors. Time points for prevention and intervention are identified."
+EPI 63015 ,"EPIDEMIOLOGY OF INFECTIOUS DISEASES
+",EPI,"EPI 52017 andgraduate standing. 
+",None,"Surveys the history, principles, methods and practice of infectious disease epidemiology, by (1) defining and
+understanding infectious disease epidemiology surveys, (2) collecting and measuring surveillance data, (3)
+interpreting epidemiology data and (4) predicting evidence-based outcomes. Primarily a course in
+epidemiology. Students learn some infectious disease microbiology as well."
+EPI 63016 ,"PRINCIPLES OF EPIDEMIOLOGIC RESEARCH
+",EPI,BST 52019 and EPI 52017; and graduate standing.,None,"Builds on the fundamental epidemiology course to explore deeper the concepts and methods in epidemiologic
+research. Reviews the measures of disease frequency, association and impact, and epidemiologic reasoning
+and causal inference, and covers methods and techniques for designing, implementing, analyzing, and
+interpreting various epidemiologic study designs. Discusses advantages and limitations of various study
+designs and explores threats to validity, precision, and generalizability of epidemiologic studies."
+EPI 63017 ,"EPIDEMIOLOGICAL ANALYSIS
+",EPI,"BST 52019; and EPI 52017 and63016; and graduate standing. 
+",None,"(Cross-listed with EPI 83017) Provides practical instruction in the analysis and interpretation of data from
+various epidemiologic study designs including cross-sectional, case-control and cohort studies. Reviews
+statistical concepts and epidemiologic studies designs, outlines a strategy for data analysis and reviews
+relevant methodologic issues and applies stratified analysis methods and multivariable regression models to
+the studies. Develops an understanding of the underlying principles and assumptions, practical application,
+and correct interpretation of the epidemiologic results. Provides hands on experience on the application of
+epidemiologic analysis methods and presentation of the results."
+EPI 63034 ,"LONGITUDINAL DATA ANALYSIS
+",EPI,BST 52019 and 63014; and graduate standing.,None,"(Cross-listed with EPI 73034) Statistical techniques for analyzing longitudinal, or repeated measures, data.
+Focuses primarily on application of the various statistical models covered, with direct application illustrated
+using standard statistical software. Topics covered include univariate and multivariate analysis of variance for
+repeated measures, mixed-effects models (HLM or multilevel models), covariance pattern models, generalized
+estimating equations (GEE), mixed-effects logistic regression models and missing data in longitudinal studies."
+EPI 72028 ,"METHODS OF EVIDENCE BASED PUBLIC HEALTH
+",EPI,doctoral standing.,None,"Explores tools and techniques used to quantitatively determine the effectiveness of public health interventions
+in the social sciences."
+EPI 73024 ,"EMERGING ISSUES IN CHRONIC DISEASE EPIDEMIOLOGY
+",EPI,doctoral standing.,None,"Covers emerging chronic disease issues on a global level and students understand the life course approach to
+chronic disease epidemiology. Putative factors and infectious agents are examined as causes of chronic
+disease and chronic syndromes. Issues related to screening and surveillance will be understood. Students
+appreciate issues pertaining to study design, modeling, and data analysis in life course epidemiology of
+chronic disease."
+EPI 73025 ,"EMERGING ISSUES IN INFECTIOUS DESEASE EPIDEMIOLOGY
+",EPI,doctoral standing.,None,"Investigates global emerging and reemerging infectious diseases. Students evaluate root causes of infectious
+disease emergence and predict outcomes. Data from primary literature is used to predict alternate outcomes.
+Specific disease models are used to evaluate and compare prevention, treatment and eradication strategies."
+EPI 73026 ,"DESIGN AND IMPLEMENTATION OF HEALTH SURVEYS
+",EPI,"doctoralstanding. 
+",None,"Covers survey design, variable construction, survey administration and data collection methods, variable
+coding and manipulation, and data analysis. Students will understand sampling methods, and sample size.
+Large health surveys are discussed. Students gain practical experience through design and implementation of
+a health survey which can be used to facilitate dissertation research or a publication."
+EPI 73027 ,"BIOLOGICAL BASIS OF PUBLIC HEALTH
+",EPI,doctoral standing.,None,"Integrates the sciences of biology and molecular biology into the principles and practice of public health.
+Implicit in this course are learning objectives that establish the ecology of infectious disease, the impact of
+vaccines in disease prevention, and the role of environmental toxins on human health and disease.
+Additionally, students propose policy, regulations and legislation designed to protect human health within the
+realm of personalized medicine."
+EPI 73029 ,"PUBLIC HEALTH SURVEILLANCE SYSTEMS
+",EPI,doctoral standing.,None,"Introduces students to surveillance systems of both infectious and non-infectious diseases as well as
+intentional and non-intentional injury. Students are exposed to the theory and practice of surveillance
+illustrated with examples existing systems from around the world. Culminates in a project where the student
+creates and evaluates a surveillance system of their own design."
+EPI 73033 ,"ENVIRONMENTAL EPIDEMIOLOGY
+",EPI,doctoral standing.,None,"Comprehensive course on concepts in environmental epidemiology and statistical methods in environmental
+epidemiology including causal inference models."
+EPI 73034 ,"LONGITUDINAL DATA ANALYSIS
+",EPI,doctoral standing.,None,"(Cross-listed with EPI 63034) Statistical techniques for analyzing longitudinal, or repeated measures, data.
+Focuses primarily on application of the various statistical models covered, with direct application illustrated
+using standard statistical software. Topics covered include univariate and multivariate analysis of variance for
+repeated measures, mixed-effects models (HLM or multilevel models), covariance pattern models, generalized
+estimating equations (GEE), mixed-effects logistic regression models and missing data in longitudinal studies."
+EPI 80191 ,"VARIABLE CONTENT SEMINAR IN EPIDEMIOLOGY
+",EPI,"Doctoralstanding. 
+",None,"(Repeatable for a maximum of 6 credit hours) (Cross-listed with EPI 60191) Seminar on current and
+important topics in epidemiology. Subject matter varies depending on the topic."
+EPI 80195 ,"SPECIAL TOPICS IN EPIDEMIOLOGY
+",EPI,Doctoral standing.,None,"(Repeatable for a maximum of 6 crerdit hours) (Cross-listed with EPI 60195) Special topics to sample new
+offerings on topics in epidemiology."
+EPI 80199 ,"DISSERTATION I
+",EPI,"doctoral standing and specialapproval. 
+",None,"Registration for two semesters required, first semester dissertation work begins and continues until completion
+of Dissertation II and 30 hours of total dissertation work."
+EPI 80299 ,"DISSERTATION II
+",EPI,EPI 80199; and doctoral standing; and special approval.,None,Second course of dissertation sequence completing requirement of with 30 total hours of dissertation work.
+EPI 83017 ,"EPIDEMIOLOGICAL ANALYSIS
+",EPI,"EPI 63016; and doctoralstanding. 
+",None,"(Cross-listed with EPI 63017) Provides practical instruction in the analysis and interpretation of data from
+various epidemiologic study designs including cross-sectional, case-control and cohort studies. Reviews
+statistical concepts and epidemiologic studies designs, outlines a strategy for data analysis and reviews
+relevant methodologic issues and applies stratified analysis methods and multivariable regression models to
+the studies. Develops an understanding of the underlying principles and assumptions, practical application,
+and correct interpretation of the epidemiologic results. Provides hands-on experience on the application of
+epidemiologic analysis methods and presentation of the results."

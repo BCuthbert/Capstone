@@ -1,0 +1,400 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+ARCH 10001 ,"UNDERSTANDING ARCHITECTURE
+",ARCH,None.,None,"The nature of the built environment, its forms and functions are explored within the cultural contexts of
+ecology, technology, human behavior, symbolism, art and history."
+ARCH 10011 ,"SURVEY OF ARCHITECTURAL HISTORY I
+",ARCH,"Not open to architecturemajors. 
+",None,History of architecture from Neolithic times through the 14th century.
+ARCH 10012 ,"SURVEY OF ARCHITECTURAL HISTORY II
+",ARCH,"ARCH 10011;not open to architecture majors. 
+",None,History of Western architecture from the Renaissance to the early 20th century.
+ARCH 10093 ,"WORKSHOP:VARIABLE TITLE
+",ARCH,Permission.,None,(repeated registration permitted.) Variable topics.
+ARCH 10101 ,"FIRST YEAR DESIGN STUDIO I
+",ARCH,"architecture (ARCH)or interior design (ID) majors. 
+",None,"Introduction to the fundamental principles of visual organization, structural organization, graphic
+communications, historical precedence and current directions in architecture. Graphic techniques include free
+hand drawing, and technical orthographics, axonometrics and perspectives."
+ARCH 10102 ,"FIRST YEAR DESIGN STUDIO II
+",ARCH,ARCH 10101.,None,"Investigations into strategies of form making through the introduction of client, type, context, site and
+form/space theories 2D,and 3D representation techniques and analysis of related reference architects."
+ARCH 10111 ,"HISTORY OF ARCHITECTURE I
+",ARCH,none.,None,History of architecture from pre-history through the Gothic period.
+ARCH 20101 ,"SECOND YEAR DESIGN STUDIO I
+",ARCH,ARCH 10102.,None,"The introduction of a building design process that emphasizes the integration of program requirements with
+specific form topologies using line and plane as the primary elements to provide shape and space."
+ARCH 20102 ,"SECOND YEAR DESIGN STUDIO II
+",ARCH,ARCH 20101.,None,"The introduction of a building design process that emphasizes the integration of program requirements with
+form typologies that are both influenced and informed by specific site context. Line and plane and primary
+configural shapes are again incorporated to develop building form solutions."
+ARCH 20112 ,"HISTORY OF ARCHITECTURE II
+",ARCH,"architecture (ARCH) orarchitectural studies (ARCS) major or architectural studies (ARCS) minor. 
+",None,History of architecture from the Medieval era through the 19th century.
+ARCH 20113 ,"HISTORY OF ARCHITECTURE III
+",ARCH,"ARCH 20112 and architecture (ARCH) or architecturalstudies (ARCS) major or architectural studies (ARCS) minor. 
+",None,A history of 20th century architecture.
+ARCH 20201 ,"BEYOND WESTERN ARCHITECTURE
+",ARCH,"ARCH 10111and 20112; and architecture (ARCH) or architectural studies (ARCS) major. 
+",None,"Course introduces students to the broad realm of contributions to world architecture made by cultures and
+civilizations that were not in the traditional sphere of Western/European influence."
+ARCH 20301 ,"INTRODUCTION TO BUILDING STRUCTURES
+",ARCH,"Architecture majors only and MATH 12011 and 12012, or MATH 12002; PHY 13001 or 13011.",None,"An introduction to building structures, statics, strength of materials, analysis for shear-moment-displacement,
+loads including dead-live-wind-earthquake and building code requirements for structural safety."
+ARCH 20601 ,"COMPUTER APPLICATIONS IN ARCHITECTURE I
+",ARCH,"architecture (ARCH) or architectural studies (ARCS) orinterior design (ID) major. 
+",None,"Course provides a basic understanding of two-dimensional CAD operations, parametric building design and
+building information modeling (BIM)."
+ARCH 20602 ,"COMPUTER APPLICATIONS IN ARCHITECTURE II
+",ARCH,"ARCH 20601 andarchitecture (ARCH) or architectural studies (ARCS) or interior design (ID) major. 
+",None,"Principles and practices of 3D digital modeling and rendering, including: production of geometric surfaces and
+forms using polygon construction, texturing, lighting and rendering."
+ARCH 20693 ,"WORKSHOP:COMPUTER APPLICATIONS
+",ARCH,Architecture and interior design majors only.,None,"(Repeatable for credit)Computer workshops are intended to provide an exposure to various fundamental
+computer topics and their application to architectural studies. Topics include file management, network
+applications, spreadsheets, raster image manipulations, two- and three- dimensional CAD and computer aided
+visualization."
+ARCH 30001 ,"SITE DESIGN
+",ARCH,architecture (ARCH) major and approved admission to advanced study (third year).,ARCH 30101.,"Research component addressing technical, cultural and contextual concerns, influences and directions in site
+design."
+ARCH 30002 ,"URBAN DESIGN
+",ARCH,"ARCH 30101, ARCH 30001. ",ARCH 30102.,"(This course is equivalent to ARCH 30012) Lecture/seminar/research component conducted concurrently with
+ARCH 30102 addressing design of form and space in cities through study of precedents,traditions and current
+directions in urban form making."
+ARCH 30012 ,"URBAN DESIGN, FLORENCE, ITALY
+",ARCH,ARCH 30101. ,ARCH 30112.,"(This courses is equivalent to ARCH 30002) Lecture/seminar/research component addressing design of form
+and space in cities through study of precedents, traditions and current directions in urban form making."
+ARCH 30101 ,"THIRD YEAR DESIGN STUDIO I
+",ARCH,Architecture (ARCH) majors with approved admission toadvanced study (third year). ,ARCH 30001.,"Studio investigation of the simultaneous concerns of program, site, context and materials of construction.
+Specific emphasis on the understanding of the goals, objectives, intentions and parameters of site/context in
+design, including cultural influences."
+ARCH 30102 ,"THIRD YEAR DESIGN STUDIO II
+",ARCH,ARCH 30101. ,ARCH 30002.,"(This course is equivalent to ARCH 30112) Studio investigation with specific emphasis on the understanding of
+the goals, objectives, intentions and parameters of urban design."
+ARCH 30112 ,"THIRD YEAR DESIGN STUDIO II-FLORENCE, ITALY
+",ARCH,special approval. ,"ARCH30012. 
+","(This course is equivalent to ARCH 30102) Studio investigation with specific emphasis on understanding of the
+goals, objectives, intentions and parameters of urban design."
+ARCH 30301 ,"STRUCTURAL SYSTEMS I
+",ARCH,"ARCH 20301 and architecture (ARCH) major with approved admission to advanced study (thirdyear). 
+",None,"A continuation of building structures,statics strength of materials and systems analysis. Emphasis is on elastic
+materials allowable stresses and design for wood and steel structural members and systems."
+ARCH 30401 ,"METHODS AND MATERIALS I
+",ARCH,"architecture (ARCH) majors with approved admission toadvanced study (third year). 
+",None,"Introduction to the origins, extraction, properties and processing of the basic materials of construction.
+Primary focus on wood and masonry-appropriate use and scale including code requirements, methods of
+construction and design consequences."
+ARCH 30501 ,"ENVIRONMENTAL TECHNOLOGY I
+",ARCH,"PHY 13012 and architecture(ARCH) major with approved admission to advanced study (third year). 
+",None,"Basic principles of ecological design and architecture environmental systems including lighting,sonic and
+thermal systems. Interior design (ID) majors by special approval."
+ARCH 40001 ,"SUSTAINABLE DESIGN
+",ARCH,ARCH 30102 or ARCH 30112. ,ARCH 40101.,"(Cross-listed with ARCH 50001) Research component addressing precedents, traditions, current directions in
+conservation of natural environment. Principles and methods of ecological design in architecture and urban
+design."
+ARCH 40002 ,"SYSTEMS DESIGN
+",ARCH,ARCH 40101. ,ARCH 40102.,"(Cross-listed with ARCH 50002) Lecture and research component addressing comprehensive integration of
+mechanical, electrical communications structural life safety systems and sustainable design concerns."
+ARCH 40101 ,"FOURTH YEAR DESIGN STUDIO I
+",ARCH,ARCH 30102 or ARCH 30112. ,ARCH 40001.,"(Cross-listed with ARCH 50101) Studio investigation of complex formal and spatial constructs addressing the
+comprehensive concerns of architecture. Special emphasis on understanding the conservation of the natural
+environment. CAD is required."
+ARCH 40102 ,"FOURTH YEAR DESIGN STUDIO II
+",ARCH,ARCH 40101. ,ARCH 40002.,"(Cross-listed with ARCH 50102) Studio investigation of the comprehensive concerns and understanding of
+building systems integration. CAD is required."
+ARCH 40302 ,"STRUCTURAL SYSTEMS II
+",ARCH,ARCH 30301.,None,"(Cross-listed with ARCH 50302) A continuation of building structures, statics, strength of materials and
+systems analysis. Emphasis is on inelastic materials, allowable stress and design for masonry and concrete
+structural members and systems."
+ARCH 40402 ,"METHODS AND MATERIALS II
+",ARCH,ARCH 30401.,None,"(Cross-listed with ARCH 50402) Continued investigation of the origins, extraction, properties and processing of
+the basic materials of construction. Primary focus on concrete and steel-appropriate use and scale, including
+allied systems and building materials, including glazing and interiors. Introduction to construction contract
+documents."
+ARCH 40502 ,"ENVIRONMENTAL TECHNOLOGY II
+",ARCH,ARCH 30501.,None,"(Cross-listed with ARCH 50502) Ecological design of large buildings. The investigation and analysis of lighting,
+thermal, water, electrical and waste systems in urban settings."
+ARCH 44611 ,"PORTFOLIO
+",ARCH,ARCH 40101.,None,"Architectural drawings and other allied work of the student reproduced and assembled in a professional
+portfolio suitable for job and graduate application."
+ARCH 45210 ,"RENAISSANCE ARCHITECTURE
+",ARCH,ARCH 10011 and 10012; or ARCH 10111 and 20112; or ARTH 22006 and 22007.,None,(Cross-listed with ARCH 55210) History and theory of renaissance architecture from 1400 until 1600.
+ARCH 45211 ,"BAROQUE ARCHITECTURE
+",ARCH,ARCH 10011 and 10012; or ARCH 10111 and 20112; or ART 22006 and 22007.,None,(Cross-listed with ARCH 55211) History and theory of architecture in Europe from 1600 through 1750.
+ARCH 45220 ,"AMERICAN ARCHITECTURE:COLONIAL TO 1900
+",ARCH,"ARCH 10011 and 10012; or ARCH 10111 and 20112; orARTH 22006 and 22007. 
+",None,"(Cross-listed with ARCH 55220) History of American architecture for Spanish, French, Dutch and English
+colonization through the 19th century."
+ARCH 45240 ,"THE SKYSCRAPER
+",ARCH,minimum C (2.000) grade in both ARCH 10111 and ARCH 20112.,None,"(Cross-listed with ARCH 55240) A study of skyscrapers from the standpoint of architectural, financial,
+structural, psychological, and technological considerations. Emphasis is placed on: early developments in
+Chicago and New York, the influence of the International Style, and current trends in ultra-high skyscrapers
+being built outside the US."
+ARCH 45291 ,"SEMINAR:VARIABLE TOPICS IN ARCHITECTURAL HISTORY
+",ARCH,"specialapproval. 
+",None,(repeatable for a total of 3 credit hours) (Cross-listed with ARCH 55291) Content varies.
+ARCH 45391 ,"SEMINAR:STRUCTURES III
+",ARCH,ARCH 40302.,None,"(Repeatable for credit) (Cross-listed with ARCH 55391) A continuation of building structures, statics, strength
+of materials and systems analysis. Emphasis is on complex systems, including horizontal long span and high
+rise structures. Computer analysis is required."
+ARCH 45491 ,"SEMINAR:METHODS AND MATERIALS III
+",ARCH,ARCH 40402.,None,"(Repeatable for credit) (Cross-listed with ARCH 55491) Advanced topics in methods and complex materials
+systems. Computer modeling and field experiences are required."
+ARCH 45591 ,"SEMINAR:ENVIRONMENTAL TECHNOLOGY III
+",ARCH,ARCH 40502.,None,"(Repeatable for credit) (Cross-listed with ARCH 55591) Variable topics in environmental technology-
+environmental design and energy conservation, advanced lighting techniques etc."
+ARCH 45601 ,"ADVANCED COMPUTER APPLICATIONS
+",ARCH,Special approval; admission to third year.,None,"(Repeatable for a total of 3 credit hours) (Cross-listed with ARCH 55601) This course discusses advanced
+visualization techniques such as raytracing,radiosity and animation, and presents a variety of presentation
+issues and options."
+ARCH 45620 ,"INTRODUCTION TO PRESERVATION
+",ARCH,Permission.,None,"(Repeatable for a maximum of 3 credit hours) (Cross-listed with ARCH 55620) An overview of preservation
+including building analysis,conservation adaptive reuse economic benefits of preservation planning as a
+revitalizing strategy."
+ARCH 45621 ,"CURRENT ISSUES IN HISTORIC PRESERVATION
+",ARCH,Permission.,None,"(Repeatable for a maximum of 3 credit hours) (Cross-listed with ARCH 55621) course in which practicing
+professionals including architects, planners developers and government officials present preservation related
+work."
+ARCH 45625 ,"EXPLORING HISTORIC STRUCTURES
+",ARCH,junior standing.,None,"(Cross-listed with ARCH 55625) Provides students with the skills and opportunity to document an historic
+structure using methods prescribed by the Historic American Buildings Survey (HABS). Course work will cover
+recording, documentation and assessment of the historic structure implementing the guidelines established by
+the Getty Conservation Institute, including history, purpose, means, methods and field work. Architecture
+majors must have approved admission to the third year of study."
+ARCH 45627 ,"PRESERVATION TECHNOLOGY
+",ARCH,"junior or seniorstanding in Architecture. 
+",None,"(Cross-listed with ARCH 55627) A study of historic building materials with an emphasis on causes of
+degradation, strategies for conservation and standards for preservation."
+ARCH 45630 ,"INTRODUCTION TO LANDSCAPE ARCHITECTURE
+",ARCH,None.,None,"(Repeatable for a maximum of 3 credit hours) (Cross-listed with ARCH 55630) Introduction to landscape
+design with emphasis upon the relationship between landscape and buildings."
+ARCH 45631 ,"SITE ANALYSIS AND DESIGN
+",ARCH,None.,None,"(Repeatable for a maximum of 3 credit hours) (Cross-listed with ARCH 55631) Analysis of environmental
+factors as a basis for site selection and site planning."
+ARCH 45640 ,"DEVELOPING ENVIRONMENTS FOR OLDER ADULTS
+",ARCH,None.,None,"(Repeatable for a maximum of 3 credit hours) (Cross-listed with ARCH 55640) Research of existing built
+environments and an investigation of the planning design process for the elderly. Repeatable for a total of 3
+credit hours."
+ARCH 45701 ,"URBAN DESIGN STUDIO I
+",ARCH,special approval.,None,"(Repeatable for a maximum of 6 credit hours) (Cross-listed with ARCH 55701) Introduction to urban design
+and its relationship to other design disciplines through analysis of neighborhoods and definition of
+comprehensive area improvement programs."
+ARCH 45703 ,"THEORIES AND PRINCIPLES OF URBAN DESIGN
+",ARCH,None.,None,"(Repeatable for a maximum of 3 credit hours) Course on the nature and utility of theory in urban design,
+examining the relationship between design ideologies and the theories of the environment on which they are
+based."
+ARCH 45704 ,"THEORIES AND PRINCIPLES OF URBAN DESIGN II
+",ARCH,special approval.,None,"(Repeatable for a maximum of 3 credit hours) course on the relationship between design ideologies/theories
+and the realities of existing spatial relationships/precednets."
+ARCH 45793 ,"WORKSHOP:URBAN DESIGN AND PLANNING
+",ARCH,None.,None,"(Repeatable for a maximum of 3 credit hours)This course provides an introduction to the scope of planning
+and design in the making of quality urban neighborhoods, with a particular emphasis on the role of urban
+design, architecture and landscape design."
+ARCH 46991 ,"SEMINAR:VARIABLE TOPIC
+",ARCH,Approved admission to third year.,None,(Repeatable for credit)Variable topic seminar.
+ARCH 46992 ,"FIELD STUDY
+",ARCH,"Approvedadmission to third year. 
+",None,(Repeatable for credit) (Cross-listed with ARCH 56992) Variable topic field experience.
+ARCH 46993 ,"WORKSHOP:VARIABLE TOPIC
+",ARCH,"Approvedadmission to third year. 
+",None,(Repeatable for credit) (Cross-listed with ARCH 56993) Variable topic workshop.
+ARCH 46995 ,"SPECIAL TOPICS IN ARCHITECTURE
+",ARCH,"Approvedadmission to third year. 
+",None,(Repeatable for credit) (Cross-listed with ARCH 56995) Special topics in architecture.
+ARCH 46996 ,"INDIVIDUAL INVESTIGATION
+",ARCH,"Permission prior written agreement with faculty isrequired. 
+",None,(Repeatable for credit)Individual investigation.
+ARCH 50001 ,"SUSTAINABLE DESIGN
+",ARCH,Graduate standing.,None,"(Cross-listed with ARCH 40001) Writing intensive and research component addressing precedents, traditions,
+current directions in conservation of natural environment. Principles and methods of ecological design in
+architecture and urban design."
+ARCH 50002 ,"SYSTEMS DESIGN
+",ARCH,Graduate standing.,None,"(Cross-listed with ARCH 40002) Lecture and research component addressing comprehensive integration of
+mechanical, electrical, communication, structural- and life-safety systems and sustainable design concerns."
+ARCH 50093 ,"VARIABLE TITLE WORKSHOP-ARCHITECTURE
+",ARCH,Graduate standing.,None,(Repeatable for credit)
+ARCH 50101 ,"FOURTH YEAR DESIGN STUDIO I
+",ARCH,ARCH 30102 or ARCH 30112; Graduate standing. ,ARCH 50001.,"(Cross-listed with ARCH 40101) Studio investigation of complex formal and spatial constructs addressing
+comprehensive concerns of architecture. Special emphasis on understanding conservation of the natural
+environment. CAD is required."
+ARCH 50102 ,"FOURTH YEAR DESIGN STUDIO II
+",ARCH,Graduate standing. ,ARCH 50002.,"(Cross-listed with ARCH 40102) Studio investigation of the comprehensive concerns and understanding of
+building systems integration. CAD is required."
+ARCH 50302 ,"STRUCTURAL SYSTEMS II
+",ARCH,Graduate standing.,None,"(Cross-listed with ARCH 40302) A continuation of building structures, statics, strength of materials and
+systems analysis. Emphasis is on inelastic materials, allowable stress, and design for masonry and concrete
+structural members and systems."
+ARCH 50402 ,"METHODS AND MATERIALS II
+",ARCH,Graduate standing.,None,"(Cross-listed with ARCH 40402) Continued investigation of the origins, extraction, properties and processing of
+the basic materials of construction. Primary focus on concrete and steel-appropriate use and scale including
+allied systems and building materials, including glazing and interiors."
+ARCH 50502 ,"ENVIRONMENTAL TECHNOLOGY II
+",ARCH,Graduate standing.,None,"(Cross-listed with ARCH 40502) Ecological design of large buildings. The investigation and analysis of lighting,
+thermal, water, electrical and waste systems in urban settings."
+ARCH 55101 ,"FIFTH-YEAR DESIGN STUDIO I
+",ARCH,Graduate standing.,None,"(Cross-listed with ARCH 45101) This studio intends to investigate a new scale of environmental issues which
+integrate both architectural and urban planning. Included are site visits data collection design of a master plan
+and an architectural form response to a segment of the total conceptual plan."
+ARCH 55102 ,"FIFTH-YEAR DESIGN STUDIO II
+",ARCH,Graduate standing.,None,"(Repeatable for a total of 6 credit hours) (Cross-listed with ARCH 45102) Advanced design studio emphasizing
+comprehensive and independent investigation-exploring and manifesting ideas through architecture using
+competition and hypothetical or real projects as vehicles of expression."
+ARCH 55210 ,"RENAISSANCE ARCHITECTURE
+",ARCH,Graduate standing.,None,(Cross-listed with ARCH 45210) History and theory of Renaissance architecture from 1400 until 1600.
+ARCH 55211 ,"BAROQUE ARCHITECTURE
+",ARCH,Graduate standing.,None,(Cross-listed with ARCH 45211) History and theory of architecture in Europe from 1600 through 1750.
+ARCH 55220 ,"AMERICAN ARCHITECTURE:COLONIAL TO 1900
+",ARCH,Graduate standing.,None,"(Cross-listed with ARCH 45220) History of American architecture from Spanish, French, Dutch and English
+colonization through the 19th century."
+ARCH 55240 ,"THE SKYSCRAPER
+",ARCH,"graduate standing; minimum C (2.000) grade in both ARCH 10111and ARCH 20112. 
+",None,"(Cross-listed with ARCH 45240) A study of skyscrapers from the standpoint of architectural, financial,
+structural, psychological, and technological considerations. Emphasis is placed on: early developments in
+Chicago and New York, the influence of the International Style, and current trends in ultra-high skyscrapers
+being built outside the US."
+ARCH 55291 ,"SEMINAR:VARIABLE TOPICS IN ARCHITECTURAL HISTORY
+",ARCH,special approval and graduate standing.,None,(Repeatable for a maximum of 3 credit hours) (Cross-listed with ARCH 45291) Content varies.
+ARCH 55391 ,"SEMINAR:STRUCTURES III
+",ARCH,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with ARCH 45391) A continuation of building structures,statics strength of
+materials and systems analysis. Emphasis is on complex systems including horizontal long span and high rise
+structures. Computer analysis is required."
+ARCH 55491 ,"SEMINAR:METHODS AND MATERIALS III
+",ARCH,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with ARCH 45491) Advanced topics in methods and complex materials
+systems. Computer modeling and field experience is required."
+ARCH 55591 ,"SEMINAR:ENVIRONMENTAL TECHNOLOGY III
+",ARCH,Graduate standing.,None,"(Repeatable for a maximum of 3 credit hours) (Cross-listed with ARCH 45591) Variable topics in
+environmental technology, environmental design and energy conservation, advanced lighting techniques, etc."
+ARCH 55601 ,"ADVANCED COMPUTER APPLICATIONS
+",ARCH,Graduate standing.,None,"(Repeatable for a maximum of 3 credit hours) (Cross-listed with ARCH 45601) This course discusses advanced
+visualization techniques such as raytracing,radiosity and animation and presents a variety of presentation
+issues and options."
+ARCH 55620 ,"INTRODUCTION TO PRESERVATION
+",ARCH,"Admission to the preservation program or permission of the instructor.Graduate standing. 
+",None,"(Repeatable for a maximum of 3 credit hours) (Cross-listed with ARCH 45620) An overview of preservation
+including building analysis conservation, adaptive reuse, economic benefits of preservation planning as a
+revitalizing strategy."
+ARCH 55621 ,"CURRENT ISSUES IN HISTORIC PRESERVATION
+",ARCH,Special approval and graduate standing.,None,"(Repeatable for a maximum of 3 credit hours) (Cross-listed with ARCH 45621) Course in which practicing
+professionals including architects, planners, developers and government officials present preservation related
+work."
+ARCH 55625 ,"EXPLORING HISTORIC STRUCTURES
+",ARCH,graduate standing in the College of Architecture and Environmental Design.,None,"(Cross-listed with ARCH 45625) This course provides students with the skills and opportunity to lead teams
+documenting an historic structure using methods prescribed by the Historic American Buildings Survey
+(HABS). Lectures will cover recording, documentation and assessment of the historic structure implementing
+the guidelines established by the Getty Conservation Institute, including history, purpose, means, methods,
+and field work."
+ARCH 55627 ,"PRESERVATION TECHNOLOGY
+",ARCH,"graduate standing; andminimum C (2.000) grade in both ARCH 30401 and ARCH 40402. 
+",None,"(Cross-listed with ARCH 45627) A study of historic building materials with an emphasis on causes of
+degradation, strategies for conservation, and standards for restoration."
+ARCH 55630 ,"INTRODUCTION TO LANDSCAPE ARCHITECTURE
+",ARCH,Graduate standing.,None,"(Repeatable for a maximum of 3 credit hours) (Cross-listed with ARCH 45630) Introduction to landscape
+design with emphasis upon the relationship between landscape and buildings."
+ARCH 55631 ,"SITE ANALYSIS AND DESIGN
+",ARCH,Graduate standing.,None,"(Repeatable for a maximum of 3 credit hours) (Cross-listed with ARCH 45631) Analysis of environmental
+factors as a basis for site selection and site planning."
+ARCH 55640 ,"DEVELOPING ENVIRONMENTS FOR OLDER ADULTS
+",ARCH,"Graduatestanding. 
+",None,"(Repeatable for a maximum of 3 credit hours) (Cross-listed with ARCH 45640) Research of existing built
+environments and an investigation of the planning design process for the elderly."
+ARCH 55707 ,"REPRESENTATION IN DESIGN
+",ARCH,Graduate standing.,None,"(Repeatable for a maximum of 3 credit hours)Course on the nature of communication in design and the
+representational tools the designer uses to give form to abstract ideas and converse with clients and
+colleagues."
+ARCH 55793 ,"WORKSHOP IN URBAN DESIGN AND PLANNING
+",ARCH,Graduate standing.,None,"(Repeatable for a maximum of 3 credit hours)This course provides an introduction to the scope of planning
+and design in the making of quality urban neighborhoods with particular emphasis on the role of urban
+design, architecture and landscape design."
+ARCH 56991 ,"SEMINAR:VARIABLE TOPIC
+",ARCH,"Special approval andgraduate standing. 
+",None,(Repeatable for a maximum of 3 credit hours)Variable topic seminar.
+ARCH 56992 ,"FIELD STUDY
+",ARCH,Special approval and graduate standing.,None,(Repeatable for a maximum of 3 credit hours) (Cross-listed with ARCH 46992) Field experience.
+ARCH 56993 ,"WORKSHOP:VARIABLE TOPIC
+",ARCH,Graduate standing.,None,(Repeatable for credit) (Cross-listed with ARCH 46993) Field experience.
+ARCH 56995 ,"SPECIAL TOPICS IN ARCHITECTURE
+",ARCH,"Specialapproval and graduate standing. 
+",None,(Repeatable for credit) (Cross-listed with ARCH 46995) Special topics in architecture.
+ARCH 60101 ,"GRADUATE DESIGN STUDIO I
+",ARCH,Graduate standing.,None,"Architectural studies related to buildings. Emphasis on spatial, aesthetic, environmental and functional factors
+in design."
+ARCH 60102 ,"GRADUATE DESIGN STUDIO II
+",ARCH,ARCH 60101 and 60301 and graduate standing. ,ARCH 60922.,"Independent design project, completed under the direction of an individual adviser selected from the graduate
+faculty."
+ARCH 60103 ,"GRADUATE DESIGN STUDIO III
+",ARCH,ARCH 60101 and 60150 and 60922 and graduate standing.,None,"Capstone-studio (or ""Master Project"") aimed at further investigating building design issues both at a greater
+depth of complexity and by focusing on particular design aspects or areas of concentration."
+ARCH 60141 ,"HEALTH CARE DESIGN I
+",ARCH,"AED 63001 and ARCH 63002 and 63003; and graduatestanding. 
+",None,"Oriented to the individual student, focusing on research surrounding a specific aspect health care facility
+design. The student then defines the capstone issue and establishes the parameters around which their
+capstone design project is executed."
+ARCH 60142 ,"HEALTH CARE DESIGN II
+",ARCH,ARCH 60141 and doctoral standing.,None,"Focused on an individual student’s defined capstone issue and overseen by a capstone advisor. Concludes in
+the design of the specific issue detailed by the student in Health Care Design I. This is the culminating course
+for the Master Degree in Health Care Design."
+ARCH 60150 ,"PROJECT PROGRAMMING
+",ARCH,Graduate standing; ARCH 60101 and 60301.,None,"Study and discussion of the notion of program in architecture and the principles of project programming. Case
+study analysis and preparation of a comprehensive program for an architectural project."
+ARCH 60301 ,"THEORIES OF ARCHITECTURE
+",ARCH,Graduate standing.,None,"(Repeatable for a maximum of 3 credit hours) In-depth analysis and discussion of contemporary architectural
+theories. Critical evaluation of major authors and architectural projects."
+ARCH 60922 ,"METHODS OF INQUIRY IN ARCHITECTURAL STUDIES
+",ARCH,"ARCH 60101 and 60301 and graduate standing andspecial approval. 
+",None,"(Cross-listed with AED 60922 and LARC 60922) Provides a comprehensive coverage of architectural inquiry
+techniques including qualitative and quantitative research methods and critical thinking skills to help students
+better conduct and understand research."
+ARCH 63002 ,"HEALTH CARE FACILITIES I
+",ARCH,graduate standing and special approval.,None,"An investigation of the history and types of health care facilities, and basic planning and programming
+requirements for their planning and design."
+ARCH 63003 ,"HEALTH CARE FACILITIES II
+",ARCH,graduate standing.,None,"An investigation of architectural finishes, furnishings, mechanical systems, regulatory systems, and design
+team dynamics in health care design."
+ARCH 65001 ,"PROFESSIONAL PRACTICE:REAL ESTATE AND DEVELOPMENT
+",ARCH,"Graduatestanding. 
+",None,"Introduction to the economic, social, ethical and legal impact on/of development projects in both the public
+and the private sectors. Computer applications and case-studies analysis are required."
+ARCH 65002 ,"PROFESSIONAL PRACTICE:CONTRACT AND PLANNING LAW
+",ARCH,architecture (ARCH) major and graduate standing.,None,"The course surveys laws relating to the practice of architecture and to dispute resolution with emphasis on
+contract laws contrasted with laws of negligence and the standard of care in the profession. The planning law
+component surveys land use control mechanisms as seen through zoning, variances and practical applications."
+ARCH 65003 ,"PROFESSIONAL PRACTICE: LEADERSHIP, ETHICS AND OFFICE MANAGEMENT
+",ARCH,"ARCH 65002 and architecture (ARCH)major and graduate standing. 
+",None,"Course discusses issues of professional leadership and examines architectural office structures. Management
+approaches, professional registration and practice, use of consulting engineers and financial management of
+an office in the context of the profession as business."
+ARCH 66199 ,"THESIS I
+",ARCH,Graduate standing.,None,Thesis students must register for a total of 6 hours.
+ARCH 66299 ,"THESIS II
+",ARCH,6 credit hours of ARCH 66199. Graduate standing.,None,"(Repeatable for credit)Following completion of 6 credit hours of Thesis I all graduate students must
+continuously register for Thesis II for all subsequent academic terms ( including summer) until all degree
+requirements are met."
+ARCH 66892 ,"PRACTICUM
+",ARCH,Permission.,None,(Repeatable for credit)Variable topic practicum.
+ARCH 66991 ,"SEMINAR:VARIABLE TOPIC
+",ARCH,Graduate standing.,None,(Repeatable for credit)Seminar on a variable topic.
+ARCH 66992 ,"FIELD STUDY
+",ARCH,Graduate standing.,None,(Repeatable for credit)Field study in architecture.
+ARCH 66993 ,"WORKSHOP:VARIABLE TOPIC
+",ARCH,Graduate standing.,None,(Repeatable for credit)Variable topic workshop.
+ARCH 66995 ,"SPECIAL TOPICS IN ARCHITECTURE
+",ARCH,Graduate standing.,None,(Repeatable for credit)Special topics in architecture.
+ARCH 66996 ,"INDIVIDUAL INVESTIGATION
+",ARCH,Graduate standing.,None,(Repeatable for credit)Individual investigation in architecture.
+ARCH 66998 ,"RESEARCH
+",ARCH,Graduate standing.,None,(Repeatable for credit)Research in architecture.
+ARCH 67510 ,"SUSTAINABLE BUILDING CONSTRUCTION I
+",ARCH,"TECH 57000and graduate standing. 
+",None,"First course of a two-course sequence. Provides an in-depth survey of design, pre- and post-construction
+activities pertinent to Green Building and Sustainable Design of the Built environment. Reviews fundamental
+concepts and principles of sustainable building design and construction with special emphasis on construction
+site issues. Provides a comprehensive review of impact of site on construction and building design on the site
+and its resources. Focus is on understanding the role building design and construction play on resources
+efficiency and minimizing the impact of construction activities on the environment."
+ARCH 67511 ,"SUSTAINABLE BUILDING CONSTRUCTION II
+",ARCH,ARCH 67510 and graduate standing.,None,"Second course of a two-course sequence. Provides an in-depth survey of design, pre- and post-construction
+activities pertinent to Green Building and Sustainable Design of the Built environment. Reviews fundamental
+concepts and principles of sustainable building design and construction with special emphasis on building
+systems. Provides a comprehensive review of impact of building component, materials, and systems on design
+and construction of High-performance buildings. Focus is on understanding the role building design and
+construction play on resources efficiency and minimizing the impact of construction activities on the
+environment."
