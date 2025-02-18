@@ -1,0 +1,211 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+ID 14011 ,"INTRODUCTION TO INTERIOR DESIGN
+",ID,none.,None,"Introduction to a broad range of interior design issues including environmental, ecological, aesthetic, social,
+global, spatial, ethical and technical, and addresses the needs of the human being related to interior design
+practice. Students acquire knowledge and understanding of significant aspects in interior design and diverse
+options within the profession, which helps them to identify their career paths in interior design."
+ID 14012 ,"DESIGN AND HUMAN BEHAVIOR
+",ID,minimum grade of C (2.000) in ID 14011.,None,"Introduces the concepts of human factors, the way in which humans relate to the physical environment within
+cultural milieus, and investigates applications of these factors in the design of interiors with consideration of
+specialized populations."
+ID 14501 ,"STUDIO PROBLEMS IN INTERIOR DESIGN I
+",ID,TECH 11083.,None,"Studio problems in interior design is a course for the beginning student whose interest is in interior space
+design."
+ID 14512 ,"INTERIOR DESIGN GRAPHICS I
+",ID,Interior Design (ID) major.,None,"Studio based course introducing concepts of architectural drawing and sketching techniques including plan,
+elevation, section and perspective."
+ID 24001 ,"INTERIOR DESIGN STUDIO I-SPACE PLANNING AND HUMAN FACTORS
+",ID,"minimum grade of C(2.000) in ID 14012. 
+",None,"Focuses on space planning and the application of human factors to interior design solutions. Based on knowledge
+received in ID 14012 Design and Human Behavior, the following areas are incorporated into the studio projects:
+Americans with Disabilities Act; data gathering; space analysis and synthesis."
+ID 24002 ,"INTERIOR DESIGN STUDIO II-DETAILING AND FABRICATION
+",ID,minimum grade of C (2.000) in ID 24001.,None,"Focus is the understanding of detailing and fabrication in interior design that leads students to have a balanced
+ability between the creative and the technical abilities in design projects. Studies of architectural and interior
+design detailing, custom cabinetry, casework, joinery, millwork, fabrication, and FF&E are blended into each of
+the projects to instill a proficiency in construction execution. Usage of a 3D printer and laser cutter is introduced
+along with design projects."
+ID 24011 ,"METHODS AND MATERIALS I: BUILDING SYSTEMS
+",ID,minimum grade of C (2.000) in ID 14012. ,ID 24001.,"Introduction to the principles of building construction and systems. Covers topics related to structural systems in
+buildings which include: floor, wall and roof systems; environmental comfort and sustainability; safety and
+security; HVAC; electrical; building control; and conveying systems, that influence and interact with interior
+design. Designed to advance the student to a higher level of understanding and competence in building
+technology for interior design."
+ID 24012 ,"CODES AND STANDARDS FOR INTERIOR DESIGN
+",ID,minimum grade of C (2.000) in ID24001. ,ID 24002.,"Presents codes, standards and regulations that pertain to the materials and finishes of building interiors, their
+proper methods of application, installation and maintenance."
+ID 24013 ,"HISTORY OF INTERIORS I-ANCIENT TO 15TH CENTURY
+",ID,minimum grade of C (2.000) in ID 24001. ,ID 24002.,"Provides a thorough background of the major design periods and traditions of global civilizations from ancient
+times to the 15th century including the design of furnishings, architecture, interiors, textiles, and the decorative
+and fine arts. The influences of culture, geography, technology, religion and politics on design are investigated."
+ID 24021 ,"INTEGRATED DIGITAL APPLICATIONS I
+",ID,minimumgrade of C in AED 10102. ,ID 24001.,"Prepares students for an ongoing exploration and integration of architectural software to assist with design
+problems within the interior design practice. Course work covers basic fundamentals of popular architectural
+programs and enables students to continuously build upon acquired knowledge and skills."
+ID 24022 ,"3D MODELING AND RENDERING
+",ID,minimum grade of C (2.000) in ID 24001. ,ID 24002.,"Introduces fundamental concepts, principles and practices of 3D digital modeling and rendering techniques
+applicable to design practice. Thorough instruction is given in the production of geometric surfaces and forms
+using surface and solid modeling tools, texturing, and lighting. Tutorial-based with supporting demonstrations
+and lectures on the various commands and approaches to interior design and architectural modeling and
+rendering."
+ID 24502 ,"STUDIO PROBLEMS IN INTERIOR DESIGN II
+",ID,Interior design (ID) major and ID 14501.,None,"Special problems dealing with design of residential and related spaces, traffic flow, placement of furnishings,
+emphasis on color and textural experience and lighting of space. Practical, integrated approach."
+ID 24510 ,"TEXTILES IN THE BUILT ENVIRONMENT
+",ID,interior design (ID) major.,ID 34503.,"A concise background in textile science is estalishe3d with a hands-on approach to the evaluation, selection and
+application of textiles by interior design professionals and architects."
+ID 24522 ,"INTERIOR DESIGN GRAPHICS II
+",ID,ID 14501 and ID 14512 and ID 24502.,None,"Studio based course continuation of ID 14512. Exploration of color, media and graphic representation of interior
+design materials and environments."
+ID 34001 ,"INTERIOR DESIGN STUDIO III-LARGE SCALE PLANNNING AND DOCUMENTATION
+",ID,minimum grade of C (2.000) in ID 24002.,None,"Introduction to large-scale commercial space design through studio projects and lectures with an emphasis on
+space planning, office systems furniture planning, and development of workstation prototype development."
+ID 34002 ,"INTERIOR DESIGN STUDIO IV-GLOBAL AND HISTORICAL CONTEXT
+",ID,minimum grade of C (2.000) in ID 34001. ,ID 44014.,"Focus is on projects involving the historical design traditions of the United States and various global cultures.
+Historical approaches to interiors include: preservation; restoration; recreation of historic interiors; and the
+reuse of historic structures for new purposes. The use of metric dimensioning is a component of one project."
+ID 34010 ,"DESIGN THEORY AND AESTHETICS
+",ID,Sophomore standing; and interior design (ID) major.,None,"This survey course discusses theories related to interior design and other design disciplines. Topics include
+environmental aesthetics, visual perception, psychology of design, and other multidisciplinary theories and their
+relationship to humans in places and time."
+ID 34011 ,"LIGHTING FOR INTERIOR SPACES
+",ID,minimum grade of C (2.000) in ID 24002.,ID 34001.,"Lighting for Interior Spaces is structured to provide the interior design student with the knowledge required to
+select, design and install the proper lighting in the interior environment. Builds from elementary information to
+the complex and current technology in the industry."
+ID 34012 ,"METHODS AND MATERIALS II-INTERIOR MATERIALS
+",ID,minimum grade of C (2.000) in ID 24002. ,ID 34001.,"Explores the methods and materials utilized in the design and construction of the sustainable interior
+environment. Presents the standards and requirements that pertain to finishes and materials; manufacture and
+composition of various interior materials and finishes; and proper methods of application and installation of
+selected materials."
+ID 34013 ,"INTERIOR DESIGN BUSINESS AND PROFESSIONAL PRACTICE
+",ID,minimum grade of C (2.000) in ID 24002.,ID 34001.,"Undertakes a study of business and professional practices of interior designers. Topics to be covered include:
+opportunities within the design profession; types of business formations; legal and ethical responsibilities;
+business operations; and project management. Students develop a business plan; write resumes and cover
+letters; and develop a design services proposal."
+ID 34021 ,"LIGHTING FOR INTERIOR SPACES LABORATORY
+",ID,minimum grade of C (2.000) in ID 24002. ,ID 34011.,"Lighting for Interior Spaces Lab is a co-requisite to ID 34011 Lighting for Interior Spaces lecture. Structured for
+hands-on experience with calculating, specifying and testing different types of light and their application."
+ID 34022 ,"METHODS AND MATERIALS II-INTERIOR MATERIALS LABORATORY
+",ID,minimum grade of C (2.000) in ID 24002. ,"ID34012. 
+","Provides hands-on experience in the application of selected materials for the design and construction of the
+sustainable interior environment. Information presented in ID 34012 Methods and Materials II - Interior
+Materials are applied to design scenarios."
+ID 34023 ,"PERSONAL BRANDING AND IMAGE MAKING
+",ID,minimum grade of C (2.000) in ID24002. ,ID 34001.,"Designed to provide the student with an understanding of 1) branding as a mechanism for personal and group
+identity; 2) the job market, versatility of the profession, and industry expectations; 3) a developed knowledge of
+portfolio layout, cover letter and resume writing; 4) increased sense of who they are as a designer and their
+future; and 5) the ability to market themselves and their work."
+ID 34503 ,"STUDIO PROBLEMS IN INTERIOR DESIGN III
+",ID,ID 24502.,None,Special problems concerning design of small to moderate size commercial interior space.
+ID 34504 ,"STUDIO PROBLEMS IN INTERIOR DESIGN IV
+",ID,ARCH 10101 and ID 34503; and pre/,None,Introduction to large scale planning.
+ID 34515 ,"COMPUTER AIDED DESIGN FOR INTERIOR DESIGNERS
+",ID,interior design (ID)major. ,ID 34503.,"Introduction to application of computer drawing and drafting techniques used in interior design. Study of two
+dimensional and three dimensional techniques as well as symbol libraries."
+ID 34522 ,"METHODS AND MATERIALS FOR INTERIOR DESIGN
+",ID,interior design (ID) major. ,ID 24502.,"Information regarding the manufacture, construction and application of materials used in interior design. Proper
+methods and installation procedures of both surface materials and furnishings required in the profession are
+explored."
+ID 41093 ,"VARIABLE TITLE WORKSHOP IN INTERIOR DESIGN
+",ID,Interior design (ID) major.,None,"(Repeatable for credit)Workshops dealing with variable topics related to the interior design profession. Learning
+experiences provided in a broad spectrum of specialties."
+ID 41095 ,"SPECIAL TOPICS IN INTERIOR DESIGN
+",ID,Interior design (ID) major.,None,"(Repeatable for credit)Discussion of a major topic or issue within the profession of interior design. Repeat
+registration permitted."
+ID 41096 ,"INDIVIDUAL INVESTIGATION IN INTERIOR DESIGN
+",ID,Interior design (ID) major.,None,"(Repeatable for credit)Independent study of interior design and related topics under the guidance of a faculty
+member."
+ID 44001 ,"INTERIOR DESIGN STUDIO V-SPECIALIZED FOCUS AND POPULATIONS
+",ID,"minimumgrade of C (2.000) in ID 34002. 
+",None,"Structured to allow for a specialized focus on design problems that can occur based on current trends or issues
+that affect the built environment for varying populations. Environmental conditions and current and on-going
+specific design issues in the interior environment are utilized as problems for the course."
+ID 44002 ,"INTERIOR DESIGN STUDIO VI-COMMUNITY ENGAGEMENT
+",ID,"minimum grade of C (2.000) in ID44001. 
+",None,"Community engagement refers to the process by which organizations and individuals build ongoing, permanent
+relationships for the purpose of applying a collective vision for the benefit of a community. Structured to
+establish relationships and work with community organizations and leaders in formal and informal manners and
+partnering to create change and improve physical environments."
+ID 44011 ,"INTEGRATED DESIGN PRACTICE AND PROJECT MANAGEMENT
+",ID,minimumgrade of C (2.000) in ID 44612. ,ID 44001.,"Introduction and application of current interior design and related disciplines project management needs,
+methods, and techniques in order to complete a design-build project. Content is project scheduling,
+documentation and supervision of all members of a design-build team including interior designers, architects,
+construction personnel and assorted trades involved in producing a built environment."
+ID 44014 ,"HISTORY OF INTERIORS II-16TH THROUGH 19TH CENTURY
+",ID,minimum grade of C (2.000) in ID 24013. ,ID 34002.,"Provides a thorough background of the major design periods and traditions of global civilizations from the 16th
+through the 19th centuries including the design of furnishings, architecture, interiors, textiles, and the
+decorative and fine arts. The influence of culture, geography, technology, religion and politics on design are
+investigated."
+ID 44015 ,"HISTORY OF INTERIORS III-20TH CENTURY TO THE PRESENT
+",ID,minimum grade of C (2.000) in ID 44014. ,ID 44001.,"Provides a thorough background of the major design periods and traditions of global civilizations from the 20th
+century to the present including the design of furnishings, architecture, interiors, textiles, and the decorative
+and fine arts. The influence of culture, geography, technology, religion and politics on design are investigated."
+ID 44041 ,"CURRENT ISSUES IN INTERIOR DESIGN
+",ID,ID 44001. ,ID 44002.,"Structured to inform the advanced design student about issues within the design and social world and how
+design contributes to improving human well-being and livelihood. Focuses the student on developing an
+understanding that designers and creative professionals have a responsibility and are able to cause real change
+in the world through good design."
+ID 44505 ,"STUDIO PROBLEMS IN INTERIOR DESIGN V
+",ID,ID 34504 and ID 44534. ,ID 44535.,"Introduction to principles of historic design focusing on hands-on and on-site design techniques. For interior
+design majors only."
+ID 44506 ,"STUDIO PROBLEMS IN INTERIOR DESIGN VI
+",ID,TECH 31015 andID 44505. ,ARCH 30501.,Special problems concerning the design of large-scale commercial environments.
+ID 44507 ,"STUDIO PROBLEMS IN INTERIOR DESIGN VII
+",ID,ID 44506 and ARCH 30501.,None,"This course will provide the opportunity for a senior design thesis. Problems will be selected by the students and
+will represent their own area of interest."
+ID 44512 ,"HISTORIC FURNISHING TEXTILES
+",ID,ID 44534 and ID 44535.,None,"(Slashed with ID 54512) Designed to acclimate students to historic textiles created primarily for use in interior
+architecture. Focus is on aesthetics, design and construction. A comprehensive adaptive reuse or restoration
+project is required."
+ID 44523 ,"INTERIOR DESIGN PROFESSIONAL PRACTICE
+",ID,ID 34504.,None,A study of the business and professional practices of interior designers.
+ID 44525 ,"LIGHTING APPLICATION IN INTERIOR SPACES
+",ID,ID 34503.,None,Design application of lighting technology for various interior spaces. Field trips to study lighting installations.
+ID 44527 ,"STUDY TOURS
+",ID,junior or senior standing.,None,"A series of study tours for in-depth, first-hand experiences of historic sites, markets, manufacturing facilities and
+attendance at product seminars."
+ID 44534 ,"HISTORY OF INTERIORS TO 1600
+",ID,"ID 34504;and ARTH 22006 and ARTH 22007; or ARCH 10011 and ARCH 10012; and special approval. 
+",None,A chronological study of housing and furnishings from civilization to the 15th century.
+ID 44535 ,"HISTORY OF INTERIORS-1600 TO PRESENT
+",ID,ID 44534.,None,"A chronological study of housing and furnishings from the Renaissance to the Victorian Period-16th to 19th
+centuries and 20th century."
+ID 44592 ,"PROFESSIONAL INTERIOR DESIGN INTERNSHIP
+",ID,minimum grade of C in ID 34002.,None,"(Repeatable for a maximum of 4 credit hours) Provides practical professional interior design experience by
+exposing the student to first-hand knowledge of the professional work environment. Students are required to
+prepare a portfolio and resume, and interview for the positions offered by the professional design firms locally,
+nationally and internationally."
+ID 44611 ,"INTERIOR DESIGN RESEARCH AND PROGRAMMING
+",ID,minimum grade of C (2.000) in ID34001. ,ID 44631.,"Structured to provide the student with an understanding of the research systems of inquiry related to the
+interior design process; the ability to demonstrate an understanding of the knowledge and tools related to the
+gathering of data related to the successful completion of a design project; and experience in researching,
+evaluating and programming of private and public spaces."
+ID 44612 ,"INTERIOR SPECIFICATIONS AND COST ANALYSIS
+",ID,minimum grade of C (2.000) inID 34001. ,ID 34002.,"Promotes an understanding of specifications and cost analysis of materials and furniture utilized in the design
+and construction of the sustainable interior environment. Informs students about format and content of the
+specifications that pertain to the interior contract documentation."
+ID 44631 ,"INQUIRY FOR EVIDENCE BASED DESIGN
+",ID,minimum grade of C (2.000) in ID 34001. ,ID 44611.,"Structured to provide the student with the ability 1) to apply the research systems of inquiry related to the
+interior design process; 2) to demonstrate an understanding of the knowledge and tools related to the gathering
+of data related to the successful completion of a design project; 3) to experience the research, evaluation, and
+programming of private and public spaces."
+ID 51093 ,"VARIABLE TITLE WORKSHOP IN INTERIOR DESIGN
+",ID,"Interior design (ID) major andgraduate standing. 
+",None,"(Repeatable for credit)Workshop topics dealing with variable topics related to the interior design profession.
+Learning experiences are provided in a wide range of areas."
+ID 51095 ,"SPECIAL TOPICS IN INTERIOR DESIGN
+",ID,Interior design (ID) major and graduate standing.,None,(Repeatable for credit) Discussion of a major topic or issue within the profession of interior design.
+ID 51096 ,"INDIVIDUAL INVESTIGATION IN INTERIOR DESIGN
+",ID,Interior design (ID) major and graduate standing.,None,"(Repeatable for credit)Independent study of interior design and related topics under the guidance of a faculty
+member."
+ID 54512 ,"HISTORIC FURNISHING TEXTILES
+",ID,ID 44534 and ID 44535 and graduate standing.,None,"(Slashed with 44512) Designed to acclimate students to historic textiles created primarily for use in interior
+architecture. Focus is on aesthetics, design and construction. A comprehensive adaptive reuse or restoration
+project is required."
+ID 54534 ,"HISTORY OF INTERIORS TO 1600
+",ID,"Graduatestanding and special approval and ID 34504; and ARTH 22006 and ARTH 22007; or ARCH 20001 and ARCH
+20002. 
+",None,A chronological study of housing and furnishings from civilization to the 15th century.
+ID 54535 ,"HISTORY OF INTERIORS 1600 TO PRESENT
+",ID,ID 54534 and graduate standing.,None,"A chronological study of housing and furnishings from the Renaissance to the Victorian Period, sixteenth to
+nineteenth centuries and twentieth century."

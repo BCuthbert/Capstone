@@ -1,0 +1,514 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+IAKM 41095 ,"SPECIAL TOPICS IN INFORMATION ARCHITECTURE AND KNOWLEDGE MANAGEMENT
+",IAKM,None.,None,"(Repeatable for credit) Topics will be announced in schedule of classes. Offered irregularly as resources and
+opportunities permit."
+IAKM 41096 ,"INDIVIDUAL INVESTIGATION IN INFORMATION ARCHITECTURE, INFORMATION USE
+",IAKM,Permission of instructor.,None,"OR KNOWLEDGE MANAGEMENT
+(Repeatable for credit)Research or individual investigation for baccalaureate level students at or above the junior
+level."
+IAKM 60002 ,"KNOWLEDGE ORGANIZATION STRUCTURES, SYSTEMS AND SERVICES
+",IAKM,graduate standing.,None,"(Slashed with IAKM 80002; Cross-listed with LIS 60636 and LIS 80636) Introduction to various types of
+knowledge organization systems/services/structures (KOS) used in the networked environment. Understanding
+of the functional, philosophical, logical and linguistic fundamentals of KOS. Explanation of design options,
+features of KOS, and procedures to be used in the thesaurus, taxonomy and ontology construction."
+IAKM 60101 ,"INFORMATION ARCHITECTURE I
+",IAKM,"IAKM 60120 or IAKM 80120; IAKM 60121 or IAKM 80121 with a minimum of C; and graduatestanding. 
+",None,"Introduction to the fundamental concepts and practices of information architecture (IA). Students develop
+practical skills for comparing, analyzing, critiquing and designing information architectures. Major topics include
+organization, navigation, labeling, search and other core IA concepts. Students learn to create blueprints,
+wireframes, process flows and other documents used to communicate an information architecture design."
+IAKM 60102 ,"INFORMATION AND VISUAL DESIGN
+",IAKM,graduate standing.,None,"This course provides a cultural and technological context for understanding the information design process.
+Topics include: basic design and typographic principles, aesthetics and information design, functional integration
+of visual and verbal elements, creation and use of information graphics visualization of quantitative information
+and visual navigation systems."
+IAKM 60103 ,"RESEARCHING THE USER EXPERIENCE I
+",IAKM,"IAKM 60120 or IAKM 80120 with a minimum grade of C (2.000); andIAKM 60121 or IAKM 80121 with a minimum grade of C (2.000); and graduate standing. 
+",None,"(Slashed with IAKM 80103) Design research seeks to understand user needs, goals and tasks. Deals with
+research methods for human-centered design of information-rich artifacts and experiences. Covers interviews,
+surveys, diary studies and other methods applicable to the formative stages of the design process. Students
+learn to distill research findings into audience segments, user profiles, personas, scenarios and other documents
+that model user behavior."
+IAKM 60104 ,"USABILITY I
+",IAKM,IAKM 60120 and IAKM 60121; and graduate standing.,None,"Provides a conceptual and practical overview of the processes and methods of usability testing, such as Think
+Aloud protocols, performance measurements and eye-tracking analysis. Actual usability testing is performed,
+using quantitative and qualitative methods and employing current and emerging software tools to facilitate data
+collection and analysis."
+IAKM 60105 ,"INFORMATION TECHNOLOGIES
+",IAKM,IAKM 60120 and IAKM 60121; and graduate standing.,None,"(Cross-listed with IAKM 80105) Covers four aspects of information technology: essential technology concepts,
+the making of software, the social consequences of information technology and the role of non-programmers in
+technology design. Topics include operating systems, networks, search engines, markup languages, social
+software, dynamic languages, cloud computing, open source software, technology trends and the history of
+computing."
+IAKM 60106 ,"CONTENT STRATEGY I
+",IAKM,"IAKM 60120 or IAKM 80120; and IAKM 60121 or IAKM80121; and graduate standing. 
+",None,"(Slashed with IAKM 80106) Introduces the field of content strategy and its relationship to user experience
+design. Includes history and practices of content strategy, how to analyze user needs for content, the production
+of written materials related to content strategy and content audits and governance models. This course is the
+conceptual basis behind content strategy."
+IAKM 60110 ,"CONTENT MANAGEMENT SYSTEMS
+",IAKM,IAKM 60105 or 80105; and graduate standing.,None,"(Cross-listed with IAKM 80110) This course provides an overview of the concepts and practices of Content
+Management (CM) and Content Management Systems (CMS), including understanding the parts and branches of
+a CMS criteria for selecting a CMS, CMS configuration, and evaluating and implementing CMS software."
+IAKM 60111 ,"ONLINE BRANDING
+",IAKM,graduate standing.,None,"(Cross-listed with IAKM 80111) This course will focus on the strategies needed to advance brands through
+effective online experiences including web sites, intranets extranets and emerging web technologies. Students
+will also learn how to extend the brand through personalization, localization and other segmentation techniques."
+IAKM 60112 ,"INFORMATION ARCHITECTURE II
+",IAKM,"IAKM 60120 or IAKM 80120 with a minimum grade of C(2.000); and IAKM 60121 or IAKM 80121 with a minimum grade of C (2.000); and IAKM 60101 or IAKM 80101
+with a minimum grade of C (2.000); and graduate standing. 
+",None,"(Slashed with IAKM 80112) Web site design from emerging directions, such as the separation of content from
+presentation with e.g., the use of Cascading Style Sheets (CSS) for formatting web-based documents. The
+course includes considerations of making web sites compliant with federal regulations or other standards and
+validation for various markup guidelines."
+IAKM 60113 ,"RESEARCHING THE USER EXPERIENCE II
+",IAKM,"IAKM 60120 orIAKM 80120 with a minimum grade of C (2.000); and IAKM 60121 or IAKM 80121 with a minimum grade of C
+(2.000); and IAKM 60103 or IAKM 80103 with a minimum grade of C (2.000); and graduate standing. 
+",None,"(Slashed with IAKM 80113) In order to design and develop effective user interfaces, task analysis process and
+theory are explored and applied via principles drawn from anthropology, ethnography, cognitive psychology,
+document and instruction systems design and market research. Practical techniques and methodologies are
+presented to improve interface design through all phases of the design process."
+IAKM 60114 ,"USABILITY II
+",IAKM,IAKM 60104 or 80104; and IAKM 60120 and IAKM 60121; and graduate standing.,None,"Provides students with an understanding of qualitative and quantitative research methods appropriate for
+conducting advanced studies of human interaction with computers. In addition, students learn how to evaluate,
+purchase, implement and operate equipment for usability labs in a manner consistent with research methods."
+IAKM 60116 ,"CONTENT STRATEGY II
+",IAKM,"IAKM 60106 and IAKM60120 and IAKM 60121; and graduate standing 
+",None,"(Slashed with IAKM 80116) Delves into the actual practice of content strategy, and more advanced topics of how
+content strategy intersects with user experience design. Topics such as return on investment, change
+management, content management systems, document delivery, future-­proofing, and content promotion and
+optimization are introduced as topics relevant to user experience design."
+IAKM 60120 ,"USER EXPERIENCE DESIGN PRINCIPLES AND CONCEPTS
+",IAKM,graduate standing.,None,"(Cross-listed with VCD 60120; slashed with IAKM 80120) Students explore the context in which User Experience
+Design exists and the various methods employed by designers in various fields related to design research, the
+generation of ideas and implementation of designs. Students are introduced to methods of design evaluation and
+to the conceptual framework of the related curricula."
+IAKM 60121 ,"USER EXPERIENCE DESIGN IN PRACTICE
+",IAKM,IAKM 60120 or IAKM 80120 with a minimum grade of C (2.000); and graduate standing.,None,"(Slashed with IAKM 80121) Students learn and employ methods for engaging in creative problem solving.
+Introduce students to design research methods and current research on human behavior as it applies to user
+experience design. A core set of design deliverables are examined. Students begin to develop individual portfolio
+materials."
+IAKM 60122 ,"PROFESSIONAL PORTFOLIO DESIGN AND ASSESSMENT
+",IAKM,"completion of 30 credithours of IAKM courses; and graduate standing. 
+",None,"Students complete the assembly and evaluation of their work throughout the User Experience Design program in
+the form of a professional portfolio that will be used in efforts to gain employment or freelance work. Evaluation
+is done through critique by User Experience Design faculty and by peers."
+IAKM 60301 ,"FOUNDATIONAL PRINCIPLES OF KNOWLEDGE MANAGEMENT
+",IAKM,graduate standing.,None,"(Slashed with IAKM 80301) This course covers an introduction to: historical roots for knowledge and knowledge
+management; theories/definitions of knowledge; theories, applications tools and practices of KM; Knowledge
+Management Life-Cycle Framework and Models; significant issues in KM-- best practices, culture, economics,
+strategy, intellectual capital, sustainable innovation."
+IAKM 60302 ,"FOUNDATIONS OF DOCUMENT MANAGEMENT
+",IAKM,IAKM 60301 and graduate standing.,None,"Covers three main themes: Principles, which covers the document and records management conceptual
+framework, relationships with information policy, definitions and industry standards; Practices, which covers the
+management and procedural framework for effective planning and implementation of document and records
+management solutions; Technologies, which provides a business-oriented analysis of the nature of the enabling
+information systems available to support effective document and records management solutions."
+IAKM 60303 ,"KNOWLEDGE ASSESSMENT AND EVALUATION
+",IAKM,IAKM 60301 and graduate standing.,None,"Explores all aspects of effective knowledge management within all types of organizations. Lays out the context
+for knowledge management – at each multiple levels (strategic, technical, business-aligned, and individual) and
+across all competencies. Covers theory, practice and methods of assessment and evaluation for all levels and all
+competencies. Provides an introduction to knowledge strategy formulation and planning, knowledge
+management maturity modeling, knowledge typologies and audits, knowledge mapping, organizational network
+analysis, knowledge competency mapping and human capital analytics, strategic workforce planning concepts,
+internal knowledge markets and incentives, community of practice metrics, organizational culture metrics."
+IAKM 60304 ,"RESEARCH METHODS FOR KNOWLEDGE MANAGEMENT
+",IAKM,graduate standing.,None,"(Slashed with IAKM 80304) This course provides a broad overview of the use of the qualitative methods in
+knowledge management, including an examination of the process of conducting qualitative research from
+conceptualization, design, data collection, articulation and preliminary implementation. Critical thinking analysis
+and writing skills are emphasized."
+IAKM 60305 ,"COMMUNITIES OF PRACTICE
+",IAKM,"IAKM 60301or IAKM 80301; and graduatestanding. 
+",None,"(Slashed with IAKM 80305) Explores collaboration and communities from both a theoretical and a practical
+perspective. The theory includes structural elements (defining a community identity, scoping the domain,
+defining practice), and natural lifecycles, and best practices for cultivating communities. On the practical side,
+students explore strategic placement of communities, the community development process, community design
+and implementation, and measuring the impacts of communities on intellectual capital creation. Communities of
+practice are also discussed in the context of digital ecosystems (Web 2.0 and Web 3.0). Utilizes readings and
+reviews of real life case studies of communities of practice in education, health care and nursing, disaster
+management, military sciences, and hobbies and craft circles. Students also complete a course project
+pertaining to community of practice evaluation."
+IAKM 60306 ,"ORGANIZATIONAL CULTURE ASSESSMENT
+",IAKM,IAKM 60301 and graduate standing.,None,"Examines different types of cultures and how each type influences a knowledge organization - how culture
+influences the way knowledge workers work, how they make decisions and how they behave, the internal
+cultures of groups and communities, the cultural attributes of knowledge workers which may impact their
+knowledge behaviors. Organizational cultures of multicultural, global and virtual organizations are covered.
+Students conduct an organizational culture assessment."
+IAKM 60307 ,"ORGANIZATIONAL LEARNING
+",IAKM,IAKM 60301 and graduate standing.,None,"Addresses organizational learning in fast-paced, complex and changing organizational environments. For
+knowledge organizations in the 21st century, learning is a continuous activity. To survive and grow, a knowledge
+organization must learn through its people, its groups and the organization as a whole. The capacity to learn is a
+competitive advantage for a knowledge organization. Covers the fundamental theory of organizational learning,
+organizational learning types, and the five disciplines of learning organizations, and factors that facilitate or
+impede organizational learning."
+IAKM 60310 ,"INTELLECTUAL CAPITAL MANAGEMENT
+",IAKM,IAKM 60301 or 80301 with a minimum grade of C (2.000) and graduate standing.,None,"This course encompasses the new knowledge-intensive economic units: human capital and social capital
+intellectual assets, intellectual property, brands and trademarks. A ""lifecycle"" approach for intellectual assets is
+described-- creation, codification, valuation, protection and leveraging of intellectual assets for competitive
+advantage."
+IAKM 60311 ,"BUSINESS PROCESS MANAGEMENT
+",IAKM,"IAKM 60301 or 80301 with a minimum grade of C (2.000); andgraduate standing. 
+",None,"Introduction to business process management and workflow management. BPM will describe how organizational
+business processes (internal, external, manual and automated) can be transformed and managed to increase
+efficiency, effectiveness and positively affect performance. Topics include the discovery, analysis, modeling and
+automation of workflow processes."
+IAKM 60312 ,"BUSINESS INTELLIGENCE-COMPETITIVE INTELLIGENCE
+",IAKM,"IAKM 60301 or 80301with a minimum grade of C (2.000); and graduatestanding. 
+",None,"An introduction to strategic intelligence consisting of competitive and business intelligence. Strategic intelligence
+is an art, science and craft. Businesses and governments require effective intelligence programs, processes and
+tools to track businesses competitors, markets and trends by acquiring, creating, managing and disseminating
+intelligence knowledge."
+IAKM 60340 ,"BUSINESS NARRATIVE AND STORYTELLING
+",IAKM,IAKM 60301; and graduate standing.,None,"(Slashed with IAKM 80340) Focuses on the business use of storytelling and narrative intelligence. Narrative
+intelligence is the ability to make sense of the world through narrative and storytelling. Business narrative helps
+a knowledge organization to strengthen its organizational visions, to enhance communications, to capture and
+transfer knowledge, externalize and internalize tacit knowledge, encourage innovation, build communities, and
+develop effective training, mentoring and learning strategies. Business narrative is the primary way that
+procedural knowledge is understood and shared. Covers oral and written stories, documentaries, oral histories,
+organizational myths and legends, case scenarios, training scenarios, encoded and embedded business rules,
+gossip and business conversations. Students learn how to develop business stories, craft and deliver a
+springboard story, evaluate narrative architectures, and design systems that support access to business
+narratives and stories."
+IAKM 60370 ,"SEMANTIC ANALYSIS METHODS AND TECHNOLOGIES
+",IAKM,IAKM 60301 or DSCI 64210 or MIS 64036; and graduate standing.,None,"Introduces students to the practical contexts, methods and tools associated with semantic analysis. Focuses on
+early life cycle aspects of semantics, including identification and modeling of semantic problems, design of
+semantic solutions, and the identification and implementation of appropriate semantic technologies. Covers
+natural language processing, rule-based and grammar based concept extraction, rule-based and dynamic
+classification and automated summarization. Students work with a variety of semantic technologies."
+IAKM 60401 ,"HEALTH INFORMATICS MANAGEMENT
+",IAKM,graduate standing.,None,"Covers the areas encompassing health informatics management including the planning, selection, deployment,
+and management of electronic medical records (EMR), management decision-support and tracking systems
+(DSS), and other health information technologies (HIT)."
+IAKM 60402 ,"LEGAL ISSUES IN HEALTH INFORMATICS
+",IAKM,"IAKM 60401; andgraduate standing. 
+",None,"Introduction to the fundamentals of law for Health Informatics and Information Management. Elements of the
+course include general legal principles and healthcare; legal electronic medical records (EMR); Health Insurance
+Portability and Accountability Act (HIPAA) privacy rules and security rules; access, requests and disclosure of
+health information; required reporting and mandatory disclosure laws; risk management and quality
+improvement; compliance; workforce overview; related ethics and social issues."
+IAKM 60403 ,"HEALTH INFORMATION SYSTEMS
+",IAKM,IAKM 60401; and graduate standing.,None,"Introduction to information systems and their applications in healthcare used for managerial and clinical support.
+Study the fundamentals of information systems, including Electronic Medical Records (EMR), information
+security. Understand the role of standardized codes, vocabularies and terminologies used in health information
+systems. Analysis of management and enterprise systems, identify the key elements to manage information
+resources effectively and the trends affecting the development of health information systems and networks."
+IAKM 60410 ,"HEALTH RECORDS MANAGEMENT
+",IAKM,"IAKM 60401; andgraduate standing. 
+",None,"Conceptual foundations and practicum for health records management, including the planning, implementation
+and operation of electronic medical records (EMR); the management of EMR in management and enterprise
+systems; identifying, selecting and evaluating EMR and health information systems, applications, and
+repositories; and issues of data quality, integrity, migration, and interoperability."
+IAKM 60411 ,"CLINICAL ANALYTICS
+",IAKM,IAKM 60401 or MIS 64936; and graduate standing.,None,"The use of well-defined and well-integrated clinical analytics throughout the healthcare value chain can be
+transformative. Through careful implementation of health analytics, hospitals can transform unwieldy
+amalgamations of data into information that can: improve patient outcomes, increase safety , enhance
+operational efficiency and support public health. Given the immense size of the data challenge, the distinctness
+and geographic spread of many healthcare-related activities, and the fact that so many healthcare activities are
+conducted by different entities which must interact with each other, there is really no other way to provide
+operations management tools necessary to deliver personalized medicine and to control spiraling costs. Since
+clinical analytics is an immature discipline, we carefully examine the practices of those institutions who are
+standard setters in the industry."
+IAKM 60412 ,"CLINICAL DECISION SUPPORT
+",IAKM,"IAKM60401; and graduate standing. 
+",None,"Provides a practical survey of clinical decision support systems that collect clinical data and enable the transition
+to clinical knowledge in real world applications intended to improve quality and safety of patient care. Students
+become familiar with the basic requirements for clinical decision support systems and the challenges associated
+with the development and deployment of new applications within the healthcare setting."
+IAKM 60413 ,"CHANGE MANAGEMENT IN HEALTH INFORMATICS
+",IAKM,"IAKM 60401 or IAKM 80401; and graduatestanding. 
+",None,"(Slashed with IAKM 80413) Designed to cover the process of change management in large healthcare
+organizations in light of current trends. Topics related to technology requirements, technology implementations,
+risk assessment and buy-in are among those covered."
+IAKM 60414 ,"HUMAN FACTORS AND USABILITY IN HEALTH INFORMATICS
+",IAKM,IAKM 60401 or IAKM 80401 with a minimum grade of C (2.000); and graduate standing,None,"Provides students with the foundational principles of usability and human factors as applied to safety and quality
+in health informatics technology. Course readings and materials review the concepts of human factors, usability
+and the cognitive consequences of health information technology on clinical performance and decision making.
+Attention is given to the role of mobile computing in health care, as well as information visualization."
+IAKM 60415 ,"HEALTH INFORMATICS INQUIRY AND ASSESSMENT
+",IAKM,"IAKM 60401 or IAKM 80401 with a minimum C (2.000)grade; and graduate standing. 
+",None,"Provides a foundation for understanding research in health informatics with a focus on user and experience
+design research. Through lectures, readings, discussions and assignments, students review user research
+methods, data collection techniques and communication strategies within the healthcare context. Students then
+apply this knowledge to creating a research plan for assessing health information technology and communicating
+results to key organizational stakeholders."
+IAKM 60691 ,"SEMINAR IN INFORMATION ARCHITECTURE AND KNOWLEDGE MANAGEMENT
+",IAKM,Graduate standing.,None,"(Repeatable for credit)Advanced research by students who are qualified to examine problems of certain special
+areas related to concentrations of study in information architecture and knowledge management."
+IAKM 60692 ,"PRACTICUM IN INFORMATION ARCHITECTURE AND KNOWLEDGE MANAGEMENT
+",IAKM,"Graduate standing and specialapproval. 
+2.000 OR ",None,"Supervised work experience in concentration areas in IAKM Program of a professional nature of not less than
+100 clock hours with directed readings and preparation of a paper."
+IAKM 60693 ,"VARIABLE TITLE WORKSHOP IN INFORMAITON ARCHITECTURE AND KNOWLEDGE
+",IAKM,Graduate standing.,None,"MANAGEMENT
+(Repeatable for credit)Intensive examination of special topics of interest to those involved in program
+concentrations. Maximum number of workshop credits for the MS-IAKM degree is 4 semester hours."
+IAKM 60792 ,"INTERNSHIP IN INFORMATION ARCHITECTURE AND KNOWLEDGE MANAGEMENT
+",IAKM,"Graduate standing and director'sapproval. 
+",None,"(Repeatable for credit)Supervised work experience of an advanced professional nature that concentrates on
+developing skills in areas of concentration in the IAKM program."
+IAKM 61081 ,"CAPSTONE EXPERIENCE
+",IAKM,"IAKM 60001 and 60002and graduate standing and special approval. 
+",None,"Provides students the opportunity to integrate their knowledge from all IAKM courses and experiences, interact
+with other IAKM students who may have different perspectives and make connections with real-world problems
+through a guided, project-based, collaborative culminating experience."
+IAKM 61095 ,"SELECTED TOPICS IN INFORMATION ARCHITECTURE AND KNOWLEDGE MANAGEMENT
+",IAKM,Graduate standing.,None,"(Repeatable for credit) (Slashed with IAKM 81095) Offered irregularly as resources and/or opportunities permit.
+Topics could include current or emerging issues in concentrations available in the IAKM program. Specific topics
+are announced in the Schedule of Classes."
+IAKM 61096 ,"INDIVIDUAL INVESTIGATION IN INFORMATION ARCHITECTURE AND KNOWLEDGE
+",IAKM,graduate standing.,None,"MANAGEMENT
+(Repeatable for credit)Research or individual investigation for master's level students. Maximum credit towards
+master's degree: 6 hours."
+IAKM 61098 ,"MASTER'S PROJECT
+",IAKM,Minimum 30 credit hours in IAKM; and graduate standing; and special approval.,None,"Provides a means for the application of the knowledge, research and competencies learned through study in the
+Information Architecture and Knowledge Management Program to the development of an information system,
+product, setting or service. Cumulative GPA of 3.000 is required prior to enrolling in the course."
+IAKM 61199 ,"THESIS I
+",IAKM,"Minimum30 credit hours of IAKM courses; and graduate standing; and special approval. 
+",None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in a single semester distributed over several
+semesters if desired. A 3.000 cumulative GPA is required prior to enrolling in this course."
+IAKM 61299 ,"THESIS II
+",IAKM,IAKM 61199; graduate standing; and special approval.,None,Thesis students must continue registration each semester until all degree requirements are met.
+IAKM 80002 ,"KNOWLEDGE ORGANIZATION STRUCTURES, SYSTEMS AND SERVICES
+",IAKM,doctoral standing.,None,"(Slashed with IAKM 60002; Cross-listed with LIS 60636 and LIS 80636) Introduction to various types of
+knowledge organization systems/services/structures (KOS) used in the networked environment. Understanding
+of the functional, philosophical, logical and linguistic fundamentals of KOS. Explanation of design options,
+features of KOS, and procedures to be used in the thesaurus, taxonomy and ontology construction."
+IAKM 80101 ,"INFORMATION ARCHITECTURE I
+",IAKM,"IAKM 60120 or IAKM 80120 with a minimum grade of C (2.000);and IAKM 60121 or IAKM 80121 with a minimum grade of C (2.000); and doctoral standing. 
+",None,"(Slashed with IAKM 60101) Introduction to the fundamental concepts and practices of information architecture
+(IA). Students develop practical skills for comparing, analyzing, critiquing and designing information
+architectures. Major topics include organization, navigation, labeling, search and other core IA concepts.
+Students learn to create blueprints, wireframes, process flows and other documents used to communicate an
+information architecture design."
+IAKM 80102 ,"INFORMATION AND VISUAL DESIGN
+",IAKM,doctoral standing.,None,"(Cross-listed with IAKM 60102) This course provides a cultural and technological context for understanding the
+information design process. Topics include: basic design and typographic principles, aesthetics and information
+design, functional integration of visual and verbal elements, creation and use of information graphics,
+visualization of quantitative information, and visual navigation systems."
+IAKM 80103 ,"RESEARCHING THE USER EXPERIENCE I
+",IAKM,"IAKM 60120 or IAKM 80120 with a minimum grade of C (2.000); IAKM60121 or IAKM 80121 with a minimum grade of C (2.000); and doctoral standing. 
+",None,"(Slashed with IAKM 60103) Design research seeks to understand user needs, goals and tasks. Deals with
+research methods for human-centered design of information-rich artifacts and experiences. Covers interviews,
+surveys, diary studies and other methods applicable to the formative stages of the design process. Students
+learn to distill research findings into audience segments, user profiles, personas, scenarios and other documents
+that model user behavior."
+IAKM 80104 ,"USABILITY I
+",IAKM,"IAKM 80120 and IAKM 80121; and doctoralstanding. 
+",None,"(Cross-listed with IAKM 60104) Provides a conceptual and practical overview of the processes and methods of
+usability testing, such as Think Aloud protocols, performance measurements and eye-tracking analysis. Actual
+usability testing is performed, using quantitative and qualitative methods and employing current and emerging
+software tools to facilitate data collection and analysis."
+IAKM 80105 ,"INFORMATION TECHNOLOGIES
+",IAKM,IAKM 80120 and IAKM 80121; and doctoral standing.,None,"(Cross-listed with IAKM 60105) Covers four aspects of information technology: essential technology concepts,
+the making of software, the social consequences of information technology and the role of non-programmers in
+technology design. Topics include operating systems, networks, search engines, markup languages, social
+software, dynamic languages, cloud computing, open source software, technology trends and the history of
+computing."
+IAKM 80106 ,"CONTENT STRATEGY I
+",IAKM,"IAKM 60120 or IAKM 80120; and IAKM 60121 or IAKM80121; and doctoral standing. 
+",None,"(Slashed with IAKM 60106) Introduces the field of content strategy and its relationship to user experience
+design. Includes history and practices of content strategy, how to analyze user needs for content, the production
+of written materials related to content strategy, and content audits and governance models. This course is the
+conceptual basis behind content strategy."
+IAKM 80110 ,"CONTENT MANAGEMENT SYSTEMS
+",IAKM,IAKM 60105 or 80105; and doctoral standing.,None,"(Cross-listed with IAKM 60110) This course provides an overview of the concepts and practices of Content
+Management (CM) and Content Management Systems (CMS), including understanding the parts and branches of
+a CMS, criteria for selecting a CMS, CMS configuration, and evaluating and implementing CMS software."
+IAKM 80111 ,"ONLINE BRANDING
+",IAKM,doctoral standing.,None,"(Cross-listed with IAKM 60111) This course will focus on the strategies needed to advance brands through
+effective online experiences including Web sites, intranets, extranets and emerging web technologies. Students
+will also learn how to extend the brand through personalization, localization and other segmentation techniques."
+IAKM 80112 ,"INFORMATION ARCHITECTURE II
+",IAKM,"IAKM 60120 or IAKM 80120 with a minimum grade of C(2.000); and IAKM 60121 or IAKM 80121 with a minimum grade of C (2.000); IAKM 60101 or 80101 with a
+minimum grade of C (2.000); and doctoral standing. 
+",None,"(Slashed with IAKM 80112) Web site design from emerging directions, such as the separation of content from
+presentation, with e.g., the use of Cascading Style Sheets (CSS) for formatting web-based documents. The
+course includes considerations of making web sites compliant with federal regulations or other standards and
+validation for various markup guidelines."
+IAKM 80113 ,"RESEARCHING THE USER EXPERIENCE II
+",IAKM,"IAKM 60120 orIAKM 80120 with a minimum grade of C (2.000); and IAKM 60121 or IAKM 80121 with a minimum grade of C
+(2.000); and IAKM 60103 or IAKM 80103 with a minimum grade of C (2.000); and doctoral standing. 
+",None,"(Slashed with IAKM 60113) In order to design and develop effective user interfaces, task analysis process and
+theory are explored and applied via principles drawn from anthropology, ethnography, cognitive psychology,
+document and instruction systems design and market research. Practical techniques and methodologies are
+presented to improve interface design through all phases of the design process."
+IAKM 80114 ,"USABILITY II
+",IAKM,IAKM 60104 or 80104; and IAKM 80120 and 80121; and doctoral standing.,None,"Provides students with an understanding of qualitative and quantitative research methods appropriate for
+conducting advanced studies of human interaction with computers. In addition, students learn how to evaluate,
+purchase, implement and operate equipment for usability labs in a manner consistent with research methods."
+IAKM 80116 ,"CONTENT STRATEGY II
+",IAKM,"IAKM 60106 or IAKM80106; and IAKM 60120 or IAKM 80120; and IAKM 60121 or IAKM 80121; and doctoral standing. 
+",None,"(Slashed with IAKM 60116) Delves into the actual practice of content strategy, and more advanced topics of how
+content strategy intersects with user experience design. Topics such as return on investment, change
+management, content management systems, document delivery, future-­proofing, and content promotion and
+optimization are introduced as topics relevant to user experience design."
+IAKM 80120 ,"USER EXPERIENCE DESIGN PRINCIPLES AND CONCEPTS
+",IAKM,Doctoral standing.,None,"(Cross-listed with VCD 60120; slashed with IAKM 60120) Students explore the context in which User Experience
+Design exists and the various methods employed by designers in various fields related to design research, the
+generation of ideas and implementation of designs. Students are introduced to methods of design evaluation and
+to the conceptual framework of the related curricula."
+IAKM 80121 ,"USER EXPERIENCE DESIGN IN PRACTICE
+",IAKM,IAKM 60120 or IAKM 80120 with a minimum grade of C (2.000); and doctoral standing.,None,"(Slashed with IAKM 60121) Students learn and employ methods for engaging in creative problem solving.
+Introduce students to design research methods and current research on human behavior as it applies to user
+experience design. A core set of design deliverables are examined. Students begin to develop individual portfolio
+materials."
+IAKM 80301 ,"FOUNDATIONAL PRINCIPLES OF KNOWLEDGE MANAGEMENT
+",IAKM,doctoral standing.,None,"(Slashed with IAKM 60301) This course covers an introduction to: historical roots for knowledge and knowledge
+management; theories/definitions of knowledge; theories, applications, tools, and practices of KM; Knowledge
+Management Life-Cycle Framework and Models; significant issues in KM - best practices, culture, economics,
+strategy, intellectual capital, sustainable innovation."
+IAKM 80302 ,"FOUNDATIONS OF DOCUMENT MANAGEMENT
+",IAKM,IAKM 60301 or 80301; and doctoral standing.,None,"Covers three main themes: Principles, which covers the document and records management conceptual
+framework, relationships with information policy, definitions and industry standards; Practices, which covers the
+management and procedural framework for effective planning and implementation of document and records
+management solutions; Technologies, which provides a business-oriented analysis of the nature of the enabling
+information systems available to support effective document and records management solutions."
+IAKM 80303 ,"KNOWLEDGE ASSESSMENT AND EVALUATION
+",IAKM,IAKM 60301 or 80301; and doctoral standing.,None,"Explores all aspects of effective knowledge management within all types of organizations. Lays out the context
+for knowledge management – at each multiple levels (strategic, technical, business-aligned, and individual) and
+across all competencies. Covers theory, practice and methods of assessment and evaluation for all levels and all
+competencies. Provides an introduction to knowledge strategy formulation and planning, knowledge
+management maturity modeling, knowledge typologies and audits, knowledge mapping, organizational network
+analysis, knowledge competency mapping and human capital analytics, strategic workforce planning concepts,
+internal knowledge markets and incentives, community of practice metrics, organizational culture metrics."
+IAKM 80304 ,"RESEARCH METHODS FOR KNOWLEDGE MANAGEMENT
+",IAKM,doctoral standing.,None,"(Slashed with IAKM 60304) This course provides a broad overview of the use of qualitative methods in
+knowledge management, including an examination of the process of conducting qualitative research from
+conceptualization, design, data collection, articulation, and preliminary implementation. Critical thinking,
+analysis, and writing skills are emphasized."
+IAKM 80305 ,"COMMUNITIES OF PRACTICE
+",IAKM,"IAKM 60301 or IAKM 80301; and doctoralstanding. 
+",None,"(Slashed with IAKM 60305) Explores collaboration and communities from both a theoretical and a practical
+perspective. The theory includes structural elements (defining a community identity, scoping the domain,
+defining practice), and natural lifecycles, and best practices for cultivating communities. On the practical side,
+students explore strategic placement of communities, the community development process, community design
+and implementation, and measuring the impacts of communities on intellectual capital creation. Communities of
+practice are also discussed in the context of digital ecosystems (Web 2.0 and Web 3.0). Utilizes readings and
+reviews of real life case studies of communities of practice in education, health care and nursing, disaster
+management, military sciences, and hobbies and craft circles. Students also complete a course project
+pertaining to community of practice evaluation."
+IAKM 80306 ,"ORGANIZATIONAL CULTURE ASSESSMENT
+",IAKM,"IAKM 60301 or 80301; and doctoralstanding. 
+",None,"Examines different types of cultures and how each type influences a knowledge organization - how culture
+influences the way knowledge workers work, how they make decisions and how they behave, the internal
+cultures of groups and communities, the cultural attributes of knowledge workers which may impact their
+knowledge behaviors. Organizational cultures of multicultural, global and virtual organizations are covered.
+Students conduct an organizational culture assessment."
+IAKM 80307 ,"ORGANIZATIONAL LEARNING
+",IAKM,IAKM 60301 or 80301; and doctoral standing.,None,"Addresses organizational learning in fast-paced, complex and changing organizational environments. For
+knowledge organizations in the 21st century, learning is a continuous activity. To survive and grow, a knowledge
+organization must learn through its people, its groups and the organization as a whole. The capacity to learn is a
+competitive advantage for a knowledge organization. Covers the fundamental theory of organizational learning,
+organizational learning types, and the five disciplines of learning organizations, and factors that facilitate or
+impede organizational learning."
+IAKM 80310 ,"INTELLECTUAL CAPITAL MANAGEMENT
+",IAKM,"IAKM 60301 or IAKM 80301 with a minimum grade of C (2.000); and doctoralstanding. 
+",None,"This course encompasses the new knowledge-intensive economic units: human capital and social capital
+intellectual assets, intellectual property, brands, and trademarks. A ""lifecycle"" approach for intellectual assets is
+described - creation, codification, valuation, protection and leveraging of intellectual assets for competitive
+advantage."
+IAKM 80311 ,"BUSINESS PROCESS MANAGEMENT
+",IAKM,"IAKM 60301 or 80301 with a minimum grade of C (2.000);and doctoral standing. 
+",None,"Introduction to business process management and workflow management. BPM will describe how organizational
+business processes, (internal, external, manual and automated), can be transformed and managed to increase
+efficiency, effectiveness and positively affect performance. Topics include the discovery, analysis, modeling and
+automation of workflow processes."
+IAKM 80312 ,"BUSINESS INTELLIGENCE-COMPETITIVE INTELLIGENCE
+",IAKM,"IAKM 60301 or 80301 with a minimum grade of C (2.000);and doctoral standing. 
+",None,"An introduction to strategic intelligence consisting of competitive and business Intelligence. Strategic intelligence
+is an art, science, and craft. Businesses and governments require effective intelligence programs, processes, and
+tools to track businesses, competitors, markets and trends by acquiring, creating, managing, packaging, and
+disseminating intelligence knowledge."
+IAKM 80340 ,"BUSINESS NARRATIVE AND STORYTELLING
+",IAKM,IAKM 60301 or IAKM 80301; and doctoral standing.,None,"(Slashed with IAKM 60340) Focuses on the business use of storytelling and narrative intelligence. Narrative
+intelligence is the ability to make sense of the world through narrative and storytelling. Business narrative helps
+a knowledge organization to strengthen its organizational visions, to enhance communications, to capture and
+transfer knowledge, externalize and internalize tacit knowledge, encourage innovation, build communities, and
+develop effective training, mentoring and learning strategies. Business narrative is the primary way that
+procedural knowledge is understood and shared. Covers oral and written stories, documentaries, oral histories,
+organizational myths and legends, case scenarios, training scenarios, encoded and embedded business rules,
+gossip and business conversations. Students learn how to develop business stories, craft and deliver a
+springboard story, evaluate narrative architectures, and design systems that support access to business
+narratives and stories."
+IAKM 80370 ,"SEMANTIC ANALYSIS METHODS AND TECHNOLOGIES
+",IAKM,IAKM 80301 and doctoral standing.,None,"(Slashed with IAKM 60370) Introduces students to the practical contexts, methods and tools associated with
+semantic analysis. Focuses on early life cycle aspects of semantics, including identification and modeling of
+semantic problems, design of semantic solutions, and the identification and implementation of appropriate
+semantic technologies. Covers natural language processing, rule-based and grammar based concept extraction,
+rule-based and dynamic classification and automated summarization. Students work with a variety of semantic
+technologies."
+IAKM 80401 ,"HEALTH INFORMATICS MANAGEMENT
+",IAKM,doctoral standing.,None,"Covers the areas encompassing Health informatics management including the planning, selection, deployment,
+and management of electronic medical records (EMR), management decision-support and tracking systems
+(DSS), and other health information technologies (HIT)."
+IAKM 80402 ,"LEGAL ISSUES IN HEALTH INFORMATICS
+",IAKM,"IAKM 80401; anddoctoral standing. 
+",None,"Introduction to the fundamentals of law for Health Informatics and Information Management. Elements of the
+course include general legal principles and healthcare; legal electronic medical records (EMR); Health Insurance
+Portability and Accountability Act (HIPAA) privacy rules and security rules; access, requests and disclosure of
+health information; required reporting and mandatory disclosure laws; risk management and quality
+improvement; compliance; workforce overview; related ethics and social issues."
+IAKM 80403 ,"HEALTH INFORMATION SYSTEMS
+",IAKM,IAKM 80401; and doctoral standing.,None,"Introduction to information systems and their applications in healthcare used for managerial and clinical support.
+Study the fundamentals of information systems, including Electronic Medical Records (EMR), information
+security. Understand the role of standardized codes, vocabularies and terminologies used in health information
+systems. Analysis of management and enterprise systems, identify the key elements to manage information
+resources effectively and the trends affecting the development of health information systems and networks."
+IAKM 80410 ,"HEALTH RECORDS MANAGEMENT
+",IAKM,"IAKM 80401; anddoctoral standing. 
+",None,"Conceptual foundations and practicum for health records management, including the planning, implementation
+and operation of electronic medical records (EMR); the management of EMR in management and enterprise
+systems; identifying, selecting and evaluating EMR and health information systems, applications, and
+repositories; and issues of data quality, integrity, migration, and interoperability."
+IAKM 80411 ,"CLINICAL ANALYSIS
+",IAKM,IAKM 80401; and doctoral standing.,None,"The use of well-defined and well integrated clinical analytics throughout the healthcare value chain can be
+transformative. Through careful implementation of health analytics, hospitals can transform unwieldy
+amalgamations of data into information that can: Improve patient outcomes, increase safety, enhance
+operational efficiency and support public health. Given the immense size of the data challenge, the distinctness
+and geographic spread of many healthcare-related activities, and the fact that so many healthcare activities are
+conducted by different entities which must interact with each other, there is really no other way to provide
+operations management tools necessary to deliver personalized medicine and to control spiraling costs. Since
+clinical analytics is an immature discipline, we carefully examine the practices of those institutions who are
+standard setters in the industry."
+IAKM 80412 ,"CLINICAL DECISION SUPPORT
+",IAKM,IAKM 80401; and doctoral standing.,None,"(Cross-listed with IAKM 60412) Provides a practical survey of clinical decision support systems that collect
+clinical data and enable the transition to clinical knowledge in real world applications intended to improve quality
+and safety of patient care. Students become familiar with the basic requirements for clinical decision support
+systems and the challenges associated with the development and deployment of new applications within the
+healthcare setting."
+IAKM 80413 ,"CHANGE MANAGEMENT IN HEALTH INFORMATICS
+",IAKM,"IAKM 60401 or IAKM80401 with a minimum grade of C (2.000); and doctoral standing. 
+",None,"(Slashed with IAKM 60413) Designed to cover the process of change management in large healthcare
+organizations in light of current trends. Topics related to technology requirements, technology implementations,
+risk assessment, end user computing and buy-in are among those covered."
+IAKM 80414 ,"HUMAN FACTORS AND USABILITY IN HEALTH INFORMATICS
+",IAKM,"IAKM 60401 or IAKM 80401 with a minimum grade of C (2.000); anddoctoral standing. 
+",None,"(Slashed with IAKM 60414) Provides students with the foundational principles of usability and human factors as
+applied to safety and quality in health informatics technology. Course readings and materials review the
+concepts of human factors, usability, and the cognitive consequences of health information technology on clinical
+performance and decision making. Attention is given to the role of mobile computing in health care, as well as
+information visualization."
+IAKM 80415 ,"HEALTH INFORMATICS INQUIRY AND ASSESSMENT
+",IAKM,"IAKM 60401 or IAKM 80401 with a minimum grade of C (2.000); and doctoralstanding. 
+",None,"(Slashed with IAKM 60415) This course will provide a foundation for understanding research in health
+informatics with a focus on user and experience design research. Through course lectures, readings, discussions
+and assignments, students will review user research methods, data collection techniques and communication
+strategies within the healthcare context. Students will then apply this knowledge to creating a research plan for
+assessing health information technology and communicating results to key organizational
+stakeholders."
+IAKM 80691 ,"SEMINAR IN INFORMATION ARCHITECTURE AND KNOWLEDGE MANAGEMENT
+",IAKM,doctoral standing.,None,"(Repeatable for credit)Advanced research by students who are qualified to examine problems of certain special
+areas related to current concentrations of study in IAKM."
+IAKM 80693 ,"VARIABLE TITLE WORKSHOP IN INFORMATION ARCHITECTURE AND KNOWLEDGE
+",IAKM,doctoral standing.,None,"MANAGEMENT
+(Repeatable for credit)Intensive examination of special topics of interest to those involved in program
+concentrations."
+IAKM 81095 ,"SELECTED TOPICS IN INFORMATION ARCHITECTURE AND KNOWLEDGE MANAGEMENT
+",IAKM,doctoral standing.,None,"(Repeatable for credit) (Slashed with IAKM 61095) Offered irregularly as resources and-or opportunities permit.
+Topics could include current or emerging issues in concentrations available in the IAKM program. Specific topics
+will be announced in the Schedule of Classes."
+IAKM 81096 ,"INDIVIDUAL INVESTIGATION IN INFORMATION ARCHITECTURE AND KNOWLEDGE
+",IAKM,"doctoralstanding. 
+",None,"MANAGEMENT
+(Repeatable for credit)Research or individual investigation for doctoral level students."

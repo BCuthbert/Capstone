@@ -1,0 +1,22 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+GRE 14201 ,"ELEMENTARY CLASSICAL GREEK I
+",GRE,None.,None,An introduction to the classical Greek language in the context of ancient Greek culture.
+GRE 14202 ,"ELEMENTARY CLASSICAL GREEK II
+",GRE,GRE 14201.,None,A continuation of the introduction to the classical Greek language in the context of ancient Greek culture.
+GRE 24201 ,"INTERMEDIATE CLASSICAL GREEK I:READINGS
+",GRE,GRE 14202.,None,Excerpts from classical Greek literature with emphasis on translation into English.
+GRE 24202 ,"INTERMEDIATE CLASSICAL GREEK II:READINGS
+",GRE,GRE 24201.,None,Excerpts from classical Greek literature with emphasis on both prose (e.g. Plato) and poetry (e.g. Euripides).
+GRE 34370 ,"PLATO:APOLOGY AND PHAEDO
+",GRE,GRE 24202.,None,"Readings in the original Greek of Plato's dialogues centering on the trial, conviction and death of Socrates."
+GRE 34371 ,"HOMER
+",GRE,"GRE24202. 
+",None,Selections from the Iliad or Odyssey studied from a literary and grammatical standpoint.
+GRE 40393 ,"VARIABLE TITLE WORKSHOP
+",GRE,Department permission.,None,"(Repeatable for credit) (Cross-listed with GRE 50393) Workshops individually designed to provide instruction and
+training in specific areas of greek studies. S/U graded."
+GRE 44096 ,"INDIVIDUAL INVESTIGATION
+",GRE,special approval.,None,(Repeatable for credit) Investigation of problems in Greek literature or linguistics.
+GRE 50393 ,"VARIABLE TITLE WORKSHOP IN GREEK
+",GRE,Graduate standing and special approval.,None,"(Repeatable for credit) (Cross-listed with GRE 40393) Variable topic offered as need arises to train in specific
+area of field."

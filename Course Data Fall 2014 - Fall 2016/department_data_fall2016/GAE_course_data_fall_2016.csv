@@ -1,0 +1,21 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+GAE 32000 ,"FUEL CELL TECHNOLOGY
+",GAE,PHY 13012 or PHY 13002.,None,"Designed to provide a general perspective to fuel cell technology. Students are introduced to the various types
+of fuel cells, historical perspective, terminology, applications, fuel cell operation, basic electrochemical and
+thermodynamics principles involved in fuel cells, fuel cell components, materials and systems. Students learn
+basic fuel cell design principles and calculations."
+GAE 42002 ,"ENERGY MANAGEMENT SYSTEMS
+",GAE,junior standing.,None,"Covers modern theory and applications of energy management. Students use software tools for the control and
+effective energy management of systems of diverse configurations. Students learn how to build device-to-
+enterprise applications and Internet-enabled products and software applications for controlling and managing
+diverse smart devices across an enterprise in real time."
+GAE 42003 ,"LEAN MANUFACTURING, SIX SIGMA AND OPERATIONS TECHNOLOGY
+",GAE,none.,None,"Designed to provide a better understanding of the components and underlying philosophy of Theory of
+Constraints, Lean, and Six Sigma and how the elements and philosophies work together to support an
+companies operational plan."
+GAE 42004 ,"ADVANCED FUEL CELL TECHNOLOGY
+",GAE,GAE 32000.,None,"Covers the theory and applications of fuel cell technology with an emphasis to proton exchange membrane fuel
+cells (PEMFCs). Students learn fuel cell component, stack and system design principles and fabrication methods,
+performance characterization, fuel cell testing and diagnostics methods. Students are introduced to transport
+phenomena in fuel cells. Introduction to hydrogen storage, generation and delivery, as well as hydrogen safety
+and regulations."

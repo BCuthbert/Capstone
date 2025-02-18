@@ -1,0 +1,82 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+EERT 10192 ,"OVERHEAD LINE TECHNOLOGY PRACTICUM I
+",EERT,Special approval.,None,"Practical application of electrical overhead line worker job duties in a setting under direct supervision of First
+Energy Personnel. Prior to enrollment, students must be accepted into the First Energy Power Systems Institute
+(PSI)."
+EERT 10292 ,"OVERHEAD LINE TECHNOLOGY II PRACTICUM
+",EERT,"EERT 10192; andspecial approval. 
+",None,"Supervised practical application of electrical overhead line worker duties including the use of ladders, rescue
+operations, and transformers under the supervision of FirstEnergy personnel."
+EERT 12000 ,"ELECTRIC CIRCUITS I
+",EERT,None,"MATH11010. 
+","Direct current circuit analysis involving current and voltage, resistance, energy and power, Ohm's law, series
+and parallel networks. Mesh and nodal analysis, network theorems and DC instruments."
+EERT 12001 ,"ELECTRIC CIRCUITS II
+",EERT,EERT 12000. ,MATH 11012 or 19002.,"Analysis of capacitive, inductance and magnetic circuits and transients in R-L-C combinations. AC network
+analysis: mesh and nodal, phasor algebra, power factor, resonance."
+EERT 12005 ,"ELECTRICAL/ELECTRONIC DRAWING
+",EERT,None.,None,"Electrical/electronic drawing techniques using computer-aided design emphasizing schematic, block and wiring
+diagrams. Either printed, circuit or power layout is covered as needed."
+EERT 12010 ,"INTRODUCTION TO ELECTRONICS
+",EERT,EERT 12000.,None,"Semiconductor theory. Properties and application of PN junctions and bipolar junction transistors, amplifiers,
+field effect transistors (FET) amplifiers, JFET and MOSFET biasing and their use in simple circuits."
+EERT 20192 ,"OVERHEAD LINE TECHNOLOGY III PRACTICUM
+",EERT,EERT 10292; and special approval.,None,"Supervised practical applications of electrical line worker job duties under the supervision of FirstEnergy
+personnel. Emphasis on URD equipment, grounding distribution circuits and working with energized three phase
+circuits."
+EERT 20292 ,"OVERHEAD LINE TECHNOLOGY PRACTICUM IV
+",EERT,"EERT 20192;and special approval. 
+",None,"Supervised practical application of electrical overhead line worker job duties under the direct supervision of
+FirstEnergy personnel. Emphasis on line equipment, hot line tools, and transmission."
+EERT 21010 ,"ENGINEERING AND PROFESSIONAL ETHICS
+",EERT,None.,None,"Application of codes of ethics in the engineering and technology profession reflective of social and moral
+responsibilities to the public and accountability in engineering practice."
+EERT 21096 ,"INDIVIDUAL INVESTIGATION IN ELECTRICAL/ENGINEERING TECHNOLOGY
+",EERT,Permission.,None,"(Repeatable for credit)Independent,in depth research of an electrical electronic engineering technology topic
+supervised and coordinated by an engineering technology faculty member."
+EERT 22000 ,"ELECTRICITY/ELECTRONICS WITH APPLICATIONS
+",EERT,None.,None,"Basic electronics theory and fundamental concepts of electrical/electronic and digital circuits with applications in
+the various fields of engineering."
+EERT 22002 ,"INDUSTRIAL CONTROLS
+",EERT,EERT 12010 or EERT 22000; and special approval.,None,"Introduction to control of AC and DC machinery by electromechanical and solid state devices. Study of circuits,
+troubleshooting methods and logic systems."
+EERT 22003 ,"TECHNICAL COMPUTING
+",EERT,None,MATH 11010.,"An introduction to digital computer systems, flowchart techniques, programming using a scientific high-level
+language with applications. Number system conversions, binary codes, error detection and correction. Boolean
+algebra."
+EERT 22004 ,"DIGITAL SYSTEMS
+",EERT,None.,None,"Modern integrated digital logic families. Analysis and design of digital circuits such as gates, multivibrators,
+comparators, counters, registers including interface, control memory and computer circuits. Programmable logic
+controllers and integrated circuit technologies."
+EERT 22005 ,"ELECTRONIC INSTRUMENTATION
+",EERT,EERT 12010.,None,"Understanding of automation control and process characteristics. Application of various type of measurement
+devices & control equipments.Use of modern simulation software for process control and troubleshooting."
+EERT 22006 ,"ELECTRICAL MACHINES
+",EERT,EERT 12001.,None,"Introduction to transformer action, losses and efficiency. Fundamentals of DC and AC motors and generators and
+three phase systems."
+EERT 22007 ,"INDUSTRIAL MOTOR CONTROL AND APPLICATION
+",EERT,EERT 22000.,None,"Application and use of DC, single and polyphase electric motors and industrial control systems. Construction,
+troubleshooting and operation of starting systems is emphasized."
+EERT 22011 ,"ELECTRONIC SYSTEMS
+",EERT,EERT 12010.,None,"Continuation of EERT 12010. Frequency effects, Miller's Theorem, decibel notation and negative feedback,
+Oscillators, Op-amps, circuits and applications, Thyristors and electronically regulated power supplies."
+EERT 22014 ,"MICROPROCESSORS AND ROBOTICS
+",EERT,None.,None,"An introduction to microprocessor system fundamentals, software and hardware, architecture and instruction
+set, with applications to robot systems motor control, speech and sensor programming."
+EERT 22016 ,"PRODUCTIVITY SOFTWARE FOR INDUSTRY
+",EERT,none.,None,"(Repeatable for a maximum of 3 credit hours) Introduces students to the use of computers for word processing,
+spreadsheets and database management applications. Students receive hands-on training on the use of the
+software applicable to engineering problems using hands-on formats."
+EERT 22018 ,"PC/NETWORK ENGINEERING AND TROUBLESHOOTING
+",EERT,none.,None,"Covers the service, maintenance, upgrade and optimization of personal computers. Specification, installation and
+maintenance of local area networks is covered. Students learn communication protocols and network
+architecture. Two lectures and two labs."
+EERT 22095 ,"SPECIAL TOPICS IN ELECTRICAL/ELECTRONIC AND RELATED ENGINEERING
+",EERT,Permission.,None,"TECHNOLOGIES
+(Repeatable for credit)Special topics in electrical/electronic engineering technology."
+EERT 23000 ,"SENSORS
+",EERT,Sophomore standing.,None,"A study of sensors, transducers, relays, solenoids, servomotors, actuators, lasers, LEDs, photonic and
+temperature sensors and electronic devices in electromechanical control."
+EERT 32005 ,"INSTRUMENTATION
+",EERT,EERT 12010.,None,"Introduction to modern instrument techniques, includes signal to noise enhancement, active filters, phase locked
+loops, lock-in-amplifiers, box car integrators, averages and correlator."

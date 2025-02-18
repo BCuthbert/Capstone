@@ -1,0 +1,236 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+EVAL 45610 ,"CLASSROOM ASSESSMENT
+",EVAL,none.,None,"(Slashed with EVAL 55610 and EVAL 75610) Instruction on contemporary and classic theories and issues in
+classroom assessment. Students learn about the purposes and strengths of informal and formal, traditional and
+alternative approaches to classroom assessment. Students examine both selected response assessments and
+constructed response assessments, develop assessment frameworks, identify alternative models of
+assessments, evaluate best practices in classroom assessment, and discuss respective advantages and
+disadvantages of multiple kinds of assessments."
+EVAL 50093 ,"VARIABLE TOPIC WORKSHOP EVALUATION AND MEASUREMENT
+",EVAL,Graduate standing and special approval.,None,"(Repeatable once for a maximum of 6 credit hours) (Cross-listed with EVAL 70093) Offered on request of school
+system. Enrollment limited to teachers, administrators or supervisors who are employed in sponsoring system
+and who are accepted to the university."
+EVAL 55610 ,"CLASSROOM ASSESSMENT
+",EVAL,graduate standing.,None,"(Slashed with EVAL 45610 and EVAL 75610) Instruction on contemporary and classic theories on and issues in
+classroom assessment. Students will learn about the purposes and strengths of informal and formal, traditional
+and alternative approaches to classroom assessment. Students will examine both selected response
+assessments and constructed response assessments, develop assessment frameworks, identify alternative
+models of assessments, evaluate best practices in classroom assessment, and discuss respective advantages
+and disadvantages of multiple kinds of assessments."
+EVAL 60199 ,"THESIS I
+",EVAL,graduate standing and special approval.,None,"Thesis student must register for total of 6 hours, 2 to 6 hours in a single semester distributed over several
+semesters if desired."
+EVAL 60299 ,"THESIS II
+",EVAL,EDPF 60199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+EVAL 65510 ,"STATISTICS I FOR EDUCATIONAL SERVICES
+",EVAL,Graduate standing.,None,"(Cross-listed with EVAL 75510) Introduction to descriptive and inferential statistics used in educational services
+research: univariate and bivariate techniques (correlations and simple regression); hypothesis testing; non-
+parametric techniques. Ordinarily taken in graduate course sequence."
+EVAL 65511 ,"RESEARCH IN EDUCATIONAL SERVICES
+",EVAL,Graduate standing.,None,"Introduction to purposes and practice of qualitative and quantitative research related to educational services.
+Emphasis on elements of doing research and using products of research to support and enhance practice.
+Authentic examples used as illustration."
+EVAL 65515 ,"QUANTITATIVE RESEARCH DESIGN AND ANALYSIS
+",EVAL,EVAL 65510; and graduate standing.,None,"(Slashed with EVAL 85515) Introduction to quantitative research design and analysis in the social sciences.
+Students are introduced to various concerns and issues that arise in conducting quantitative research, as well as
+various quantitative research designs, including experimental, quasi-experimental, and non-experimental
+research approaches. Students will also learn to critically examine quantitative research reports in terms of
+reliability and validity. Additionally, students will be introduced to analysis of variance (ANOVA) procedures for
+analyzing quantitative research designs."
+EVAL 65516 ,"QUALITATIVE RESEARCH DESIGN
+",EVAL,"graduatestanding. 
+",None,"(Slashed with EVAL 85516) Introduction to qualitative research approaches, design, and methods. Students
+learn about the theoretical underpinnings, nature, characteristics, and methods of qualitative research. Students
+are introduced to several types of qualitative research designs. They learn to engage in critical reading of
+qualitative research reports. Students also learn to design qualitative research studies."
+EVAL 65530 ,"PRACTITIONER INQUIRY
+",EVAL,none,None,"(Slashed with EVAL 85530) This course prepares students to engage in practitioner research. It provides an
+overview of the history, theoretical, ethical, and practical issues related to engaging in practitioner work in a
+variety of fields. Research design, data collection and analysis are explored and practiced. Students will critique
+practitioner research and design their own practitioner research study."
+EVAL 68710 ,"CLASSICAL TEST THEORY
+",EVAL,Graduate standing; EVAL 65510.,None,"(Cross-listed with EVAL 78710) Students develop an understanding of ideas and procedures related to classical
+test theory sufficient for test development and meaningful interpretation of results from standardized tests and
+other assessments."
+EVAL 68711 ,"MODERN TEST THEORY: ITEM RESPONSE THEORY
+",EVAL,"graduatestanding; and EVAL 65510. 
+",None,"(Cross-listed with EVAL 78711) The primary objective of the course is to provide students with knowledge and
+skills necessary to use item response theory methods and to organize, manipulate, analyze and interpret data
+from IRT applications. Some of the popular IRT computer programs are introduced."
+EVAL 68713 ,"MULTIVARIATE ANALYSIS IN EDUCATIONAL RESEARCH
+",EVAL,graduate standing; and EVAL 65510.,None,"(Cross-listed with EVAL 78713) Objectives are to enable students to select and use multivariate methods
+appropriately, to develop knowledge and skills necessary to conduct multivariate analyses using various
+statistical packages (SPSS, SAS) and to develop knowledge and skills necessary for interpreting results of
+multivariate analysis."
+EVAL 68714 ,"FACTOR ANALYSIS IN EDUCATIONAL RESEARCH
+",EVAL,graduate standing; and EVAL 65510.,None,"(Cross-listed with EVAL 78714) This course develops the ability of students to conceptualize and apply the logic
+and techniques of factor analysis. The focus is on both exploratory and confirmatory procedures."
+EVAL 68715 ,"SURVEY DESIGN AND APPLIED RESEARCH IN EDUCATION
+",EVAL,"EVAL65510; and graduate standing. 
+",None,"Designed to be an introduction to survey design including the use of online survey applications data collection
+and will focus on applied quantitative research using SPSS. Open to any graduate students with appropriate
+prerequisite courses and an interest in applied quantitative research. The project-based course has two major
+components: survey construction and applied research. Students will perform tasks typically requested of data
+analysts, institutional researchers, and program evaluators including but not limited to SPSS data management,
+data transformations, descriptive and inferential analysis, and interpretation of results."
+EVAL 68716 ,"EDUCATIONAL STATISTICS II
+",EVAL,EVAL 65510; and graduate standing.,None,"The primary objective of the course is to develop students’ understanding of statistical concepts and procedures
+sufficient for both conducting appropriate statistical analysis and interpreting the results. Authentic research
+examples are used throughout the course as illustrations of the different methods of conducting statistical
+analyses for the social sciences. This course is designed to lead students to become informed consumers of
+intermediate level statistical analyses, specifically analysis of variance (ANOVA) procedures, used in the social
+sciences."
+EVAL 68791 ,"SEMINAR IN EVALUATION AND MEASUREMENT
+",EVAL,graduate standing and special approval.,None,"(Repeatable for credit)Variable topic seminar for advance study of specialized topics and areas in evaluation and
+measurement; emphasis on theory and research findings as related to educational practice."
+EVAL 68795 ,"SPECIAL TOPICS IN EVALUATION AND MEASUREMENT
+",EVAL,graduate standing and special approval.,None,"(Repeatable for credit)Specific topic course offering in response to emerging student or program needs in
+evaluation and measurement."
+EVAL 68796 ,"INDIVIDUAL INVESTIGATION IN EVALUATION AND MEASUREMENT
+",EVAL,doctoral standing and special approval.,None,"(Repeatable for credit)Specific topic course offering in response to emerging student or program needs in
+evaluation and measurement."
+EVAL 68798 ,"RESEARCH IN EVALUATION AND MEASUREMENT
+",EVAL,"graduate standing and specialapproval. 
+",None,"(Repeatable for credit)Students pursue an individual research project on a specific topic in evaluation and
+measurement with approval and under direction of instructor."
+EVAL 68806 ,"HIGHER EDUCATION DATA AND INSTITUTIONAL RESEARCH
+",EVAL,graduate standing.,None,"(Slashed with EVAL 78806) This course is designed to be an overview of institutional research function and
+practice, introducing students to the purpose and history of IR, IR terminology and metrics, and IR application to
+a variety of university areas. The target audiences for this course are: 1) students with an evaluation and
+measurement background who are interested in applying their skills in a higher education context and 2)
+students from a higher education and or student affairs background who are looking to better understand higher
+education data and the applied research that occurs within an institution."
+EVAL 68807 ,"PROGRAM EVALUATION
+",EVAL,graduate standing.,None,"(Slashed with EVAL 78807) Study of principles and techniques of evaluation and measurement, and utilization of
+evidence to improve teaching, learning and implementation programs."
+EVAL 70093 ,"VARIABLE TOPIC WORKSHOP IN EVALUATION AND MEASUREMENT
+",EVAL,Doctoral standing and special approval.,None,"(Repeatable for credit) (Cross-listed with EVAL 50093) Offered on request of school system. Enrollment limited
+to teachers, administrators or supervisors who are employed in sponsoring system and who are accepted to the
+university."
+EVAL 75510 ,"STATISTICS I FOR EDUCATIONAL SERVICES
+",EVAL,doctoral standing.,None,"(Cross-listed with EVAL 65510) Introduction to descriptive and inferential statistics used in educational services
+research: univariate and bivariate techniques (correlations and simple regression); hypothesis testing; non-
+parametric techniques. Ordinarily taken in graduate course sequence."
+EVAL 75610 ,"CLASSROOM ASSESSMENT
+",EVAL,doctoral standing.,None,"(Slashed with EVAL 45610 and EVAL 65610) Instruction on contemporary and classic theories and issues in
+classroom assessment. Students will learn about the purposes and strengths of informal and formal, traditional
+and alternative approaches to classroom assessment. Students will examine both selected response
+assessments and constructed response assessments, develop assessment frameworks, identify alternative
+models of assessments, evaluate best practices in classroom assessment, and discuss respective advantages
+and disadvantages of multiple kinds of assessments."
+EVAL 78710 ,"CLASSICAL TEST THEORY
+",EVAL,doctoral standing; and EVAL 65510.,None,"(Cross-listed with EVAL 68710) Students develop an understanding of ideas and procedures related to classical
+test theory sufficient for test development and meaningful interpretation of results from standardized tests and
+other assessments."
+EVAL 78711 ,"MODERN TEST THEORY: ITEM RESPONSE THEORY
+",EVAL,"doctoralstanding; and EVAL 75510. 
+",None,"(Cross-listed with EVAL 68711) The primary objective of the course is to provide students with knowledge and
+skills necessary to use item response theory methods and to organize, manipulate, analyze and interpret data
+from IRT applications. Some of the popular IRT computer programs are introduced."
+EVAL 78713 ,"MULTIVARIATE ANALYSIS IN EDUCATIONAL RESEARCH
+",EVAL,doctoral standing; and EVAL 75510.,None,"(Cross-listed with EVAL 68713) Objectives are to enable students to select and use multivariate methods
+appropriately, to develop knowledge and skills necessary to conduct multivariate analyses using various
+statistical packages (SPSS, SAS) and to develop knowledge and skills necessary for interpreting results of
+multivariate analysis."
+EVAL 78714 ,"FACTOR ANALYSIS IN EDUCATIONAL RESEARCH
+",EVAL,doctoral standing; EVAL 75510.,None,"(Cross-listed with EVAL 68714) This course develops the ability of students to conceptualize and apply the logic
+and techniques of factor analysis. The focus is on both exploratory and confirmatory procedures."
+EVAL 78715 ,"SURVEY DESIGN AND APPLIED RESEARCH IN EDUCATION
+",EVAL,"EVAL65510 or EVAL 75510; and doctoral standing. 
+",None,"Designed to be an introduction to survey design including the use of online survey applications data collection
+and will focus on applied quantitative research using SPSS. Open to any graduate students with appropriate
+prerequisite courses and an interest in applied quantitative research. The project-based course has two major
+components: survey construction and applied research. Students will perform tasks typically requested of data
+analysts, institutional researchers, and program evaluators including but not limited to SPSS data management,
+data transformations, descriptive and inferential analysis, and interpretation of results."
+EVAL 78716 ,"EDUCATIONAL STATISTICS II
+",EVAL,EVAL 65510 or EVAL 75510; and doctoral standing.,None,"(Slashed with EVAL 68716) The primary objective of the course is to develop students’ understanding of
+statistical concepts and procedures sufficient for both conducting appropriate statistical analysis and interpreting
+the results. Authentic research examples are used throughout the course as illustrations of the different methods
+of conducting statistical analyses for the social sciences. This course is designed to lead students to become
+informed consumers of intermediate level statistical analyses, specifically analysis of variance (ANOVA)
+procedures, used in the social sciences."
+EVAL 78728 ,"EDUCATIONAL STATISTICS III
+",EVAL,Doctoral standing.,None,"Advanced univariate and introductory multivariate techniques in education research: including analyses of
+variance and covariance, multiregression and causal modeling, factor analysis, and canonical correlation."
+EVAL 78806 ,"HIGHER EDUCATION DATA AND INSTITUTIONAL RESEARCH
+",EVAL,doctoral standing.,None,"(Slashed with EVAL 68806) This course is designed to be an overview of institutional research function and
+practice, introducing students to the purpose and history of IR, IR terminology and metrics, and IR application to
+a variety of university areas. The target audiences for this course are: 1) students with an evaluation and
+measurement background who are interested in applying their skills in a higher education context and 2)
+students from a higher education and or student affairs background who are looking to better understand higher
+education data and the applied research that occurs within an institution."
+EVAL 78807 ,"PROGRAM EVALUATION
+",EVAL,doctoral standing.,None,"(Slashed with EVAL 68807) Study of principles and techniques of evaluation and measurement, and utilization of
+evidence to improve teaching, learning and implementation programs."
+EVAL 78898 ,"COMPARATIVE RESEARCH DESIGN
+",EVAL,Doctoral standing.,None,"(Repeatable for credit)The course develops the ability of the student to conceptualize the design elements of
+educational research and to write results of studies."
+EVAL 80090 ,"DOCTORAL RESIDENCY SEMINAR
+",EVAL,Doctoral standing.,None,"Advanced doctoral residency seminar for students in all areas of educational foundations. Focus on current and
+emergent issues research and trends in education in multiple settings."
+EVAL 80199 ,"DISSERTATION I
+",EVAL,Doctoral standing and special approval.,None,"(Repeatable for credit)Doctoral dissertation for which registration in at least two semesters is required,first of
+which will be semester in which dissertation work is begun and continuing until the completion of 30 hours."
+EVAL 80299 ,"DISSERTATION II
+",EVAL,"Doctoral standing; EVAL80199. 
+",None,"(Repeatable for credit)Continuing registration required of doctoral students who have completed the initial 30
+hours of dissertation and continuing until all degree requirements are met."
+EVAL 85515 ,"QUANTITATIVE RESEARCH DESIGNS AND ANALYSIS
+",EVAL,EVAL 65510 or 75510; and doctoral standing.,None,"(Slashed with EVAL 65515) Introduction to quantitative research design and analysis in the social sciences.
+Students are introduced to various concerns and issues that arise in conducting quantitative research, as well as
+various quantitative research designs, including experimental, quasi-experimental, and non-experimental
+research approaches. Students will also learn to critically examine quantitative research reports in terms of
+reliability and validity. Additionally, students will be introduced to analysis of variance (ANOVA) procedures for
+analyzing quantitative research designs."
+EVAL 85516 ,"QUALITATIVE RESEARCH DESIGN
+",EVAL,"doctoralstanding. 
+",None,"(Slashed with EVAL 65516) Introduction to qualitative research approaches, design, and methods. Students
+learn about the theoretical underpinnings, nature, characteristics, and methods of qualitative research. Students
+are introduced to several types of qualitative research designs. They learn to engage in critical reading of
+qualitative research reports. Students also learn to design qualitative research studies."
+EVAL 85517 ,"ADVANCED QUANTITATIVE RESEARCH IN EDUCATIONAL SERVICES
+",EVAL,EVAL 85515 and doctoral standing.,None,"Advanced quantitative research design and application in educational services. Statistical packages of
+instructional strategies with methodological principles focus, theoretical models and practical application of
+experimental and multivariate research design."
+EVAL 85518 ,"ADVANCED QUALITATIVE RESEARCH IN EDUCATIONAL SERVICES
+",EVAL,EVAL 85516 and doctoral standing.,None,"Utilizes qualitative data in educational services. Applications in qualitative methodology (video techniques) and
+protocol analysis are applied and evaluated. Generate findings; develop applications to theory; reliability and
+validity considerations."
+EVAL 85520 ,"MIXED METHODS RESEARCH
+",EVAL,EVAL 85515 and EVAL 85516; and doctoral standing.,None,"This course provides an overview of theoretical and practical issues pertaining to mixed methods research in
+educational settings. This overview includes the history and philosophy of mixed methods research, types of
+mixed methods designs, and various strategies for mixed methods data collection and analysis. Course
+outcomes include the development of a rationale for mixed methods approaches, critique of published mixed
+methods educational research, and the design and preliminary implementation of a mixed methods research
+project."
+EVAL 85530 ,"PRACTITIONER INQUIRY
+",EVAL,doctoral standing.,None,"(Slashed with EVAL 65530) This course prepares students to engage in practitioner research. It provides an
+overview of the history, theoretical, ethical, and practical issues related to engaging in practitioner work in a
+variety of fields. Research design, data collection and analysis are explored and practiced. Students will critique
+practitioner research and design their own practitioner research study."
+EVAL 85540 ,"GROUNDED THEORY AND PHENOMENOLOGICAL RESEARCH
+",EVAL,EVAL 85516; and doctoral standing.,None,"This course prepares students to engage in and argue for phenomenological research and grounded theory
+research. It provides an overview of the history, theoretical, and practical background related to various forms
+of phenomenological and grounded theory research. Research design, data collection and analysis are explored
+and practiced. Students will critique phenomenological and grounded theory research and design their own study
+or pilot a study of one of the two types."
+EVAL 85560 ,"CRITICAL SOCIAL RESEARCH
+",EVAL,doctoral standing.,None,"Critical social research refers to a diverse set of a approaches to research that employ a critical ontological and
+epistemological lens. Critical researchers work from sets of assumptions about power in the social world
+articulated by some form of critical theory. This graduate course surveys a range of approaches to critical social
+research, engaging students in learning about the theoretical foundations and inquiry methods of these diverse
+approaches."
+EVAL 88791 ,"SEMINAR: EVALUATION AND MEASUREMENT
+",EVAL,doctoral standing and special approval.,None,"(Repeatable for credit)Variable topic seminar for advance study of specialized topics and areas in evaluation and
+measurement; emphasis on theory and research findings as related to educational practice."
+EVAL 88795 ,"SPECIAL TOPICS: EVALUATION AND MEASUREMENT
+",EVAL,graduate standing and special approval.,None,"(Repeatable for credit)Specific topic course offering in response to emerging student or program needs in
+evaluation and measurement."
+EVAL 88796 ,"INDIVIDUAL INVESTIGATION IN EVALUATION AND MEASUREMENT
+",EVAL,doctoral standing and special approval.,None,"(Repeatable for credit)Specific topic course offering in response to emerging student or program needs in
+evaluation and measurement."
+EVAL 88798 ,"RESEARCH IN EVALUATION AND MEASUREMENT
+",EVAL,"doctoral standing andspecial approval. 
+",None,"(Repeatable for credit)Students pursue an individual research project on a specific topic in evaluation and
+measurement of education with approval and under direction of instructor."

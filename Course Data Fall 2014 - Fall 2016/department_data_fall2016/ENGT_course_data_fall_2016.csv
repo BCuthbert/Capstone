@@ -1,0 +1,25 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+ENGT 12005 ,"APPLICATIONS IN COMPUTER-AIDED DESIGN
+",ENGT,None.,None,"Course for training on the use of a popular, computer-aided drafting and design software. Practice with the
+advanced features of the software applicable to modern design in the graphics, mechanical, industrial and
+electronics fields."
+ENGT 20192 ,"INTERNSHIP IN ENGINEERING TECHNOLOGY
+",ENGT,Sophomore standing; and special approval.,None,"(Repeatable for credit) Supervised internship experience in approved business or industrial environment relative
+to the student's major. The internship experience must be for a period of at least 12 consecutive weeks at 25
+hours per week, or 20 hours per week for 15 weeks, totaling not less than 300 hours. Most co-ops occur during
+the summer."
+ENGT 22000 ,"STATISTICAL PROCESS CONTROL
+",ENGT,"Specialapproval. 
+",None,"Process variability, process monitoring, statistical methods using control charts for variables and attributes;
+acceptance sampling plans; process capability, process adjustment, process improvement."
+ENGT 22003 ,"SUPERVISION AND LABOR RELATIONS
+",ENGT,None.,None,"Practical methods and techniques for improving supervision and labor relations in industry. Personnel and
+performance evaluation, implementing policy, labor contracts, collective bargaining, wage and salary
+administration."
+ENGT 22006 ,"ECONOMIC DECISION ANALYSIS
+",ENGT,None.,None,"Economic decision making for industrial engineering technology with applications emphasis, estimating economic
+elements, interest and economic equivalence, methods of comparing alternatives and evaluating replacement
+alternatives."
+ENGT 22010 ,"COMPUTER INTEGRATED MANUFACTURING
+",ENGT,None.,None,"Planning, developing and implementing a strategy to control and coordinate all the engineering production and
+business operations within a manufacturing enterprise."

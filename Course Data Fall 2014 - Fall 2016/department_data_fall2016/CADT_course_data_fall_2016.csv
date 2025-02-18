@@ -1,0 +1,40 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+CADT 12000 ,"2D GRAPHICS & ANIMATION TECHNOLOGY
+",CADT,None.,None,"Introductory course for creation of 2D graphics using vector and raster imaging for use in mapping and
+character development in animation and gaming."
+CADT 12001 ,"3D MODELING & TEXTURING
+",CADT,"CADT12000. 
+",None,"Introduction to the basic concepts of 3D modeling and animation. Topics will include terminology, techniques of
+creating textures and imaging for mapping, 3D modeling, lighting, shading and rendering."
+CADT 21092 ,"ANIMATION AND GAME DESIGN PRACTICUM
+",CADT,none.,None,(Repeatable for a maximum of 6 credit hours) Supervised work experience. One credit hour for 50 work hours.
+CADT 22000 ,"ADVANCED CAD
+",CADT,None.,None,"Comprehensive training with 2D and 3D elements of computer-aided-design (CAD) from the foundation to
+advanced techniques applicable to design in the graphics, mechanical, industrial and electronics fields."
+CADT 22001 ,"CAD: ARCHITECTURE
+",CADT,"MERT12000 or TECH 13580. 
+",None,"Introduction to building information modeling (BIM) fundamentals using an industry-standard architectural
+software application, including creation of full 3D architectural project into working drawings."
+CADT 22002 ,"CAD:CIVIL APPLICATIONS
+",CADT,None.,None,A course on the use of computer-aided drafting and design for civil engineering applications.
+CADT 22003 ,"SOLID MODELING
+",CADT,None.,None,"Instruction given in the best usage approaches for parametric design philosophy through a hands-on, practice-
+intensive curriculum. Students acquire the knowledge needed to complete the process of designing models from
+conceptual sketching, through to solid modeling, assembly design and drawing production."
+CADT 22004 ,"COMPUTER ANIMATION AND GAMING
+",CADT,CADT 12001.,None,"3D modeling and computerized techniques. Introduction to the basic concepts, terminology and techniques of 3D
+modeling, lighting, shading, imaging and animation."
+CADT 22005 ,"MULTIMEDIA AND GAME DESIGN
+",CADT,CADT 12000; and COMT 20001 or COMT 20011 or CS 10051.,None,"2D and 3D game development which includes the creation of flowcharts, roughs and interactive navigation
+systems. Integration of images, animation, video, sound and custom code for the app or game for mobile
+device."
+CADT 22007 ,"3-D MODELING PROJECT
+",CADT,CADT 22005.,None,A guided project course in 3-D modeling for computer animation and game design.
+CADT 22008 ,"PROJECT IN TEXTURE AND MATERIAL CREATION
+",CADT,CADT 22007.,None,A guided project course in texture and material creation for computer animation and game design.
+CADT 22009 ,"APPLIED ENGINEERING SOFTWARE
+",CADT,none.,None,"A course on the use of the computer as a problem solving tool for applications in engineering and
+manufacturing. Emphasis is on the use of productivity software training on the use of the software applicable to
+engineering problems using hands-on workshop formats."
+CADT 22095 ,"SPECIAL TOPICS IN COMPUTER ANIMATION AND GAME DESIGN TECHNOLOGY
+",CADT,none.,None,(Repeatable for credit) Special topics in Computer Animation and game design. Repeated registration permitted.
