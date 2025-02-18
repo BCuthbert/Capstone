@@ -1,0 +1,565 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+CS 10001 ,"COMPUTER LITERACY
+",CS,None.,None,"Introduction to history, language, procedures, applications, abuses and impact of computers. Hands-on
+ experience with microcomputers. Not open to students with previous experience."
+CS 10051 ,"INTRODUCTION TO COMPUTER SCIENCE
+",CS,none.,None,"An introductory, broad and hands-on coverage of aspects of computer science, including algorithms, problem
+ solving, operating systems concepts, computer architecture, programming languages and modern applications.
+ Three-credit lecture with one-credit lab."
+CS 10061 ,"INTRODUCTION TO COMPUTER PROGRAMMING
+",CS,"MATH 11009 or 11010; orminimum SAT 480/ACT 20 and Compass Algebra score of 55; or minimum SAT 620/ACT 26 and Compass
+ Algebra score of 36.
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+",None,"Emphasizes programming in a high-level language, includes structured programming, program design,
+ expressions, data control, arrays, records,
+strings and functions."
+CS 13001 ,"COMPUTER SCIENCE I-PROGRAMMING AND PROBLEM SOLVING
+",CS,"MATH 11010 or MATH 12001 with a minimumgrade of C (2.000).
+",None,"Computer science concepts including algorithm development and problem solving strategies focused on
+ procedural abstraction. High-level programming concepts including data types, expressions, program
+structures, functions, parameter passing, scope, extent, arrays, introduction to recursion and an introduction to
+ object oriented-concepts."
+CS 13011 ,"COMPUTER SCIENCE IA-PROCEDURAL PROGRAMMING
+",CS,MATH 11010 or MATH 12001 with a minimum grade of C (2.000).,None,"Computer science concepts including algorithm development and problem solving strategies focused on
+ programming abstractions. High-level programming concepts including variables, branching, iteration, and
+functions."
+CS 13012 ,"COMPUTER SCIENCE IB-OBJECT ORIENTED PROGRAMMING
+",CS,CS 13011 with a minimum grade of C (2.000).,None,"Computer science concepts including algorithm development and problem solving strategies focused on
+ programming abstractions. High-level programming concepts including introduction to recursion and an
+introduction to object oriented-concepts."
+CS 13401 ,"USER LEVEL COMPUTER SECURITY
+",CS,"none.2015 Kent State University Catalog - Spring 2016 Course Descriptions
+",None,"Introduction to computer and network safety; detection and removal of viruses, detection and defense against
+ spyware and rootkits, firewall description and use, protection mechanisms against computer system hacking,
+ spam, identity theft and phishing, protecting wireless networks, safe computing. Includes many in-lecture
+ tutorials."
+CS 19995 ,"SPECIAL TOPICS IN COMPUTER SCIENCE
+",CS,Permission.,None,(Repeatable for credit)Special topics from all areas of computer science.
+CS 23001 ,"COMPUTER SCIENCE II-DATA STRUCTURES AND ABSTRACTION
+",CS,CS 13001 or CS 13012 with a minimum grade of C (2.000). ,CS 23022.,"Computer science concepts and problem solving focusing on data structure and abstraction. Object-oriented
+ concepts and programming including encapsulation, information hiding, object design, generics, polymorphism
+ and an introduction to inheritance. Dynamic memory structures including dynamic arrays, pointers, linked-lists
+ and the use of recursion for problem solving. Abstract data types including stacks, queues, lists, trees and
+ graphs."
+CS 23022 ,"DISCRETE STRUCTURES FOR COMPUTER SCIENCE
+",CS,minimum grade of C (2.000) in MATH 11009 or 11010.,None,"(Cross-listed with MATH 23022) Discrete structures for computer scientists with a focus on: mathematical
+ reasoning, combinatorial analysis, discrete structures, algorithmic thinking, applications and modeling. Specific
+ topics include logic, sets, functions, relations, algorithms, proof techniques, counting, graphs, trees, Boolean
+ algebra, grammars and languages."
+CS 27101 ,"INTRODUCTION TO WEB INTERFACE DESIGN
+",CS,none.,None,"Introduction to principles for the design and implementation of user-centered website interfaces, website
+ interface evaluation, human computer interaction, effective data organization and manipulation and tools for
+ website creation."
+CS 29995 ,"SPECIAL TOPICS IN COMPUTER SCIENCE
+",CS,Permission.,None,(Repeatable for credit)Special topics from all areas of computer science.
+CS 33006 ,"SOCIAL AND ETHICAL ISSUES IN COMPUTING
+",CS,C (2.000) or better in CS 13001.,None,"Social issues, including historical and social context, professional responsibilities, risks and liabilities and
+ intellectual property."
+CS 33007 ,"INTRODUCTION TO DATABASE SYSTEM DESIGN
+",CS,"minimum grade of C (2.000) in CS23001.
+",None,"An introduction to the basic theoretical aspects of database systems, file organization, search methodologies,
+ language design and performance
+evaluation techniques, initial modeling concepts and their use in hierarchical,
+ network, relational and object-oriented database designs."
+CS 33011 ,"SPEED PROGRAMMING TECHNIQUES
+",CS,"CS23001.
+",None,Discussion and practice of pertinent aspects related to programming under time constraints.
+CS 33092 ,"SPEED PROGRAMMING PRACTICUM
+",CS,CS 33011.,None,(Repeatable for credit)Practice of pertinent aspects from CS 3301.
+CS 33101 ,"STRUCTURE OF PROGRAMMING LANGUAGES
+",CS,C (2.000) or better in CS 23001.,None,"Introduction to syntax, semantics, behavior and implementation issues in
+imperative, functional, logic and
+ object-oriented languages; type theory, concurrency, data dependency, nondeterminism and internet
+languages."
+CS 33192 ,"INTERNSHIP IN COMPUTER SCIENCE
+",CS,special approval.,None,"(Repeatable for credit for a maximum of 12 credit hours) Supervised work
+experience in computer science.
+ Since this work will be outside the department a report and final presentation will be required; a site visit might
+ also be necessary. Satisfactory/unsatisfactory (S/U) graded."
+CS 33211 ,"OPERATING SYSTEMS
+",CS,CS 23001 with a minimum grade of C (2.000). Pre or Co-requisite: CS 35101.,uisite: CS 35101.,"Introduction to operating systems, processes and threads, CPU scheduling, mutual exclusion and
+ synchronization, deadlock, memory management, file systems, networking and distributed systems."
+CS 33223 ,"UNIX TOOLS
+",CS,"CS13001.
+",None,"Course will cover UNIX operating system environment topics that will make the user more productive. Topics
+ will include the user environment,
+shells, files, the file system, editors, scripting languages, document
+processing, processes, remote access and documentation."
+CS 33901 ,"SOFTWARE ENGINEERING
+",CS,"C(2.000) or better in CS 23001.
+",None,"An introduction to software engineering concepts: life cycle models; modeling languages; requirements
+ analysis; specification; design; testing; validation; project management and maintenance."
+CS 35101 ,"COMPUTER ARCHITECTURE
+",CS,CS 13001.,None,"Functional overview of computer systems, interconnection of basic components, system performance measures,
+ instruction set design, arithmetic logic unit, control unit, memory system, pipelining, interrupts and input-
+output."
+CS 35201 ,"COMPUTER COMMUNICATION NETWORKS
+",CS,"minimum grade of C (2.000) in CS23001.
+",None,"An introduction to net-centric systems, data communication protocols, network architectures, routing protocols,
+ network management, congestion
+control, network security, compression techniques, mobile and wireless
+networks, and WWW as an example of a client-server system."
+CS 38101 ,"INTRODUCTION TO GAME PROGRAMMING
+",CS,"minimum grade of C (2.000)2015 Kent State University Catalog - Spring 2016 Course Descriptions
+or better in CS 23001.
+",None,"Game engine scripting, event driven and data driven programming, game engine data structures, basic game
+ related graphics and AI concepts, a short game development project."
+CS 39995 ,"SPECIAL TOPICS IN COMPUTER SCIENCE
+",CS,Permission.,None,(Repeatable for credit)Special topics from all areas of computer science.
+CS 41038 ,"INTERMEDIATE LOGIC
+",CS,none.,None,"(Cross-listed with MATH 41038 and MATH 51038 and PHIL 41038 and PHIL 51038) Study of first order
+ predicate calculus with identity and function symbols."
+CS 41045 ,"METALOGIC
+",CS,PHIL 41038.,None,"(Cross-listed with CS 51045 and MATH 41045 and MATH 51045 and PHIL 41045
+and PHIL 51045) Consideration
+ of various metatheorems including soundness and completeness of propositional and predicate calculus,
+undecidability of predicate calculus and incompleteness of the theory of
+arithmetic."
+CS 42201 ,"INTRODUCTION TO NUMERICAL COMPUTING I
+",CS,MATH 12003; and MATH 21001 or MATH 32051; and CS 10061 or CS 13001.,None,"An introduction to numerical methods and software for solving many common scientific computing problems.
+ Linear systems, least-squares data
+fitting, nonlinear equations and systems and optimization problems."
+CS 42202 ,"INTRODUCTION TO NUMERICAL COMPUTING II
+",CS,"MATH 32044 or MATH 32052; and MATH42201 or CS 42201.
+",None,"(Cross-listed with CS 52202 and MATH 42202 and MATH 52202) A continuation of CS 42201. Topics include
+ interpolation, numerical differentiation and integration, and numerical solution of ordinary differential equations."
+CS 43006 ,"THEORY OF OBJECT-ORIENTED PROGRAMMING
+",CS,CS 23001.,None,"(Cross-listed with CS 53006) In depth course on the theory and principles of object-based and object-oriented
+ programming using a language such as C++. The course covers advanced topics in inheritance and interface
+ planning, generic (type independent) programming, factors of polymorphism, structure and organization of
+ class libraries and object oriented design principles."
+CS 43111 ,"STRUCTURE OF COMPILERS
+",CS,CS 35101 and 33101.,None,"(Cross-listed with CS 53111) Techniques used to write compilers including lexical analysis, syntax analysis,
+ syntax-directed translation, type checking, run-time environments, and intermediate code
+generation."
+CS 43202 ,"SYSTEMS ADMINISTRATION
+",CS,CS 33211.,None,"(Cross-listed with CS 53202) The setting up and day-to-day administration of multiuser multitasking systems,
+ such as the various versions of UNIX, together with the analysis of problems which can arise
+in these activities."
+CS 43203 ,"SYSTEMS PROGRAMMING
+",CS,CS 23001 with a minimum grade of C.,None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+(Slashed with CS 53203) Implementation and maintenance of system programs, system utilities; command
+ interpreters, editors, file maintenance programs, text processors. Interrupt handling. Device drivers."
+CS 43401 ,"SECURE PROGRAMMING
+",CS,C (2.000) or better in CS 23001 and junior standing.,None,"Code vulnerabilities, static code analysis, error handling, secure I/O, race conditions and mediation, handling
+ buffer and integer overflow, handling vulnerabilites in web and database programming, privacy and
+cryptography, random number generators."
+CS 44001 ,"COMPUTER SCIENCE III-PROGRAMMING PATTERNS
+",CS,"CS23001 with a minimum grade of C (2.000).
+",None,"(Slashed with CS 54001) CS III Programming Patterns extends students' knowledge of object oriented
+ programming, and improves their C++ programming skills. Specifically, it covers procedural and object-based
+programming, inheritance, polymorphism, popular design patterns, and generic programming."
+CS 44105 ,"WEB PROGRAMMING I
+",CS,CS 23001 with a minimum grade of C (2.000).,None,"(Slashed with CS 54105) This course is the first of a two-course sequence on Web Programming covering from
+ basic to advanced topics on Web Programming based on open standards and best practices. Topics covered
+ include the HyperText Markup Language (HTML), specifying look and feel using Cascading Style Sheets (CSS),
+ client side programming in Javascript, server side programming in PHP, and the Hypertext Transfer Protocol
+ (HTTP)."
+CS 44106 ,"WEB PROGRAMMING II
+",CS,CS 44105.,None,"(Slashed with CS 54106) This course is the second of a two-course sequence on Web Programming covering
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+advanced topics on Web Programming based on open standards and best practices. This is a project course
+exploring advanced aspects of Web programming. Topics covered include advanced server side programming in
+ PHP; database driven websites; structured query language (SQL) and MySQL; E-commerce; web hosting using
+ Apache, PHP and MySQL; basic and digest authentication; web security, encryption and digital certificates;
+ Extensible Markup Language (XML) for the web, AJAX and web services; scalable vector graphics (SVG); mobile
+ websites."
+CS 44201 ,"ARTIFICIAL INTELLIGENCE
+",CS,CS 23001.,None,"(Cross-listed with CS 54201) Examines goals, problems, concepts and methods of artificial intelligence, heuristic
+ versus algorithmic methods, natural language comprehension, theorem proving."
+CS 44901 ,"SOFTWARE DEVELOPMENT PROJECT
+",CS,"CS 23001 with a minimumgrade of C (2.000); and junior standing.
+",None,"With the supervision of the instructor, students will work in teams to design and implement a realistic software
+ project similar to projects they would encounter in the workplace."
+CS 45203 ,"COMPUTER NETWORK SECURITY
+",CS,CS 35201.,None,"(Cross-listed with CS 55203) Overview of network security including attacks and vulnerabilities and defense
+ measures, secure network design,
+network and transport layers security, intrusion detection techniques,
+defense against denial of service attacks, network hardware, software, and applications attacks and their
+ defense, security policies, legal and
+ethical issues in cyber and computer crimes."
+CS 45231 ,"INTERNET ENGINEERING
+",CS,"CS 23001, 33211 and 35201.",None,"Design fundamentals and working principles of internet systems at the IP
+layer and above. DNS, inter-domain
+ routing, internet client server programming, application level protocols (HTTP, XML,etc.) web server
+architecture, browser internet security and multimedia serving."
+CS 46101 ,"DESIGN AND ANALYSIS OF ALGORITHMS
+",CS,"MATH 12003and C (2.000) or better in CS 23001.
+",None,"(Cross-listed with CS 56101) Introduction to algorithmic concepts, design and complexity analysis of
+ algorithms, searching, sorting, graphs, geometric algebraic and parallel algorithms."
+CS 47101 ,"COMPUTER GRAPHICS
+",CS,CS 23001.,None,"Display file generation, interactive graphics techniques, display devices, three-dimensional graphics, graphic
+ system design, graphic languages and applications in man-machine communications."
+CS 47201 ,"HUMAN COMPUTER INTERACTION
+",CS,CS 23001.,None,"Approaches the human-computer interaction as an activity of the human whose productivity is increased by the
+ use of the computer as a tool. Examines physiology and psychology considers the structure and operation
+of the
+ computer and models the interaction between the two."
+CS 47205 ,"INFORMATION SECURITY
+",CS,"CS 23001 with a minimum grade of C(2.000).
+",None,"(Slashed with CS 57205) An introduction to concepts and methodology useful for information security, as
+ specified by the NSTISSI NO. 4011 standard from the NSA."
+CS 47221 ,"INTRODUCTION TO CRYPTOLOGY
+",CS,C (2.000) or better in CS 23001 and junior standing.,None,"Introduction to cryptography, classical cryptology, authentication, complexity issues, encryption standards,
+ algebraic foundations, survey of existing cryptology protocols: AES/Rijndael, block chaining, asymmetric
+ techniques."
+CS 48101 ,"GAME ENGINE CONCEPTS
+",CS,minimum grade of C (2.000) in CS 23001.,None,"Introduction to 3D game engine design, game memory management, multithreading in games, sprites and
+ bitmap animation level design, path
+finding, audio-visual effects, AI and physical modeling in games, networked
+ gaming."
+CS 48102 ,"GAME DEVELOPMENT PRACTICUM
+",CS,"CS 33007 and33901 and 35201 and 48101; and junior standing.
+",None,"With the supervision of the instructor, students will work in teams to design and implement a computer game or
+ 3D interactive learning environment using a game engine in a professional setup."
+CS 49901 ,"CAPSTONE PROJECT
+",CS,CS 33007 and 33901 and 35201.,None,"The course is an integrative experience that brings together all components of the undergraduate computer
+ science curriculum in an applied, hands-on real-world setting. The course is three-credits lecture and one-credit
+ lab."
+CS 49995 ,"SPECIAL TOPICS IN COMPUTER SCIENCE
+",CS,special approval.,None,"(Repeatable for credit) (Cross-listed with CS 59995) Special topics from
+all areas of computer science."
+CS 49996 ,"INDIVIDUAL STUDY
+",CS,special approval.,None,(Repeatable for credit).
+CS 49998 ,"RESEARCH
+",CS,special approval.,None,(Repeatable for credit).
+CS 51045 ,"METALOGIC
+",CS,"Graduatestanding.
+",None,"(Cross-listed with CS 41045 and MATH 41045 and MATH 51045 and PHIL 41045
+and PHIL 51045) Consideration
+ of various metatheorems including soundness and completeness of propositional and predicate calculus,
+undecidability of predicate calculus and incompleteness of the theory of
+arithmetic."
+CS 52201 ,"INTRODUCTION TO NUMERICAL COMPUTING I
+",CS,Graduate standing.,None,"(Cross-listed with CS 42201 and MATH 42201 and MATH 52201) An introduction to numerical methods and
+ software for solving many common scientific computing problems. Linear systems, least-squares data fitting,
+ nonlinear equations and systems, and optimization problems."
+CS 52202 ,"INTRODUCTION TO NUMERICAL COMPUTING II
+",CS,Graduate standing.,None,"(Cross-listed with CS 42202 and MATH 42202 and MATH 52202) A continuation of CS 52201. Topics include
+ interpolation numerical differentiation and integration and numerical solution of ordinary differential equations."
+CS 53006 ,"THEORY OF OBJECT-ORIENTED PROGRAMMING
+",CS,Graduate standing.,None,"(Cross-listed with CS 43006) In-depth course on the theory and principles of object-based and object-oriented
+ programming using a language such as C ++. The course covers advanced topics in inheritance and interface
+ planning, generic (type independent) programming, factors of polymorphism, structure and organization of
+ class libraries, and object-oriented design principles."
+CS 53111 ,"STRUCTURE OF COMPILERS
+",CS,Graduate standing.,None,"(Cross-listed with CS 43111) Techniques used to write compilers including lexical analysis, syntax analysis,
+ syntax directed translation, type checking, run-time environments and intermediate code generation."
+CS 53202 ,"SYSTEMS ADMINISTRATION
+",CS,Graduate standing.,None,"(Cross-listed with CS 43202) The setting up and day-to-day administration of multiuser multitasking systems,
+ such as the various versions of UNIX together with the analysis of problems which can arise
+in these activities."
+CS 53203 ,"SYSTEMS PROGRAMMING
+",CS,Graduate standing.,None,"(Cross-listed with CS 43203) Design, implementation and maintenance of system programs, system utilities;
+ command interpreters, editors, file maintenance programs, text processors. Interrupt handling. Device drivers."
+CS 53401 ,"SECURE PROGRAMMING
+",CS,Graduate standing.,None,"Code vulnerabilites, static code analysis, error handling, secure I/O, race conditions and mediation, handling
+ buffer and integer overflow, handling vulnerabilities in web and database programming, privacy and
+cryptography, random number generators."
+CS 54001 ,"COMPUTER SCIENCE III-PROGRAMMING PATTERNS
+",CS,Graduate standing.,None,"(Slashed with CS 44001) Extends students' knowledge of object oriented programming, and improves their
+ C++ programming skills. Specifically, it
+covers procedural and object-based programming, inheritance,
+polymorphism, popular design patterns, and generic programming."
+CS 54105 ,"WEB PROGRAMMING I
+",CS,Graduate standing.,None,"(Slashed with CS 44105) This course is the first of a two-course sequence on Web Programming covering from
+ basic to advanced topics on Web Programming based on open standards and best practices. Topics covered
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+include the HyperText Markup Language (HTML), specifying look and feel using Cascading Style Sheets (CSS),
+ client side programming in Javascript, server side programming in PHP, and the Hypertext Transfer Protocol
+ (HTTP)."
+CS 54106 ,"WEB PROGRAMMING II
+",CS,Graduate standing.,None,"(Slashed with CS 44106) This course is the second of a two-course sequence on Web Programming covering
+ advanced topics on Web Programming based on open standards and practices. This is a project course exploring
+ advanced aspects of Web programming. Topics covered include advanced server side programming in PHP;
+ database driven websites; structured query language (SQL) and MySQL; E-commerce; web hosting using
+ Apache, PHP MySQL; basic and digest authentication; web security, encryption and digital certificates; Markup
+ Language (XML) for the web, AJAX and web services; scalable vector graphics (SVG); websites."
+CS 54201 ,"ARTIFICIAL INTELLIGENCE
+",CS,"Graduatestanding.
+",None,"(Cross-listed with CS 44201) Examines goals, problems, concepts and methods of artificial intelligence heuristic
+ versus algorithmic methods, natural language comprehension, theorem proving."
+CS 55201 ,"COMPUTER COMMUNICATION NETWORKS
+",CS,graduate standing.,None,"An introduction to net-centric systems, data communication protocols, network architectures, routing protocols,
+ network management, congestion
+control, network security, compression techniques, mobile and wireless
+networks, and WWW as an example of a client server system."
+CS 55203 ,"COMPUTER NETWORK SECURITY
+",CS,"graduatestanding.
+",None,"(Cross-listed with CS 45203) Overview of network security including attacks and vulnerabilities and defense
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+measures, secure network design,
+network and transport layers security, intrusion detection techniques,
+defense against denial of service attacks, network hardware, software, and applications attacks and their
+ defense, security policies, legal and
+ethical issues in cyber and computer crimes."
+CS 55231 ,"INTERNET ENGINEERING
+",CS,"CS 33001and 55201; graduate standing.
+",None,"(Cross-listed with CS 45231) Design fundamentals and working principles of internet systems at the IP layer
+ and above. DNS, inter-domain routing, internet client server programming, application level protocols
+(HTTP,
+ XML,etc.) Web server architecture, browser, internet security, and multimedia serving."
+CS 56101 ,"DESIGN AND ANALYSIS OF ALGORITHMS
+",CS,Graduate standing.,None,"(Cross-listed with CS 46101) Introduction to algorithmic concepts, practical techniques for the design and
+ analysis of algorithms; searching, sorting, integer and floating point arithmetic; vector and matrix manipulation."
+CS 57101 ,"COMPUTER GRAPHICS
+",CS,Graduate standing.,None,"(Cross-listed with CS 47101) Display file generation, interactive graphics techniques, display devices, three-
+dimensional graphics, graphic system design, graphic languages and applications in man-machine
+ communications."
+CS 57201 ,"HUMAN COMPUTER INTERACTION
+",CS,"2015 Kent State University Catalog - Spring 2016 Course DescriptionsGraduate standing.
+",None,"(Cross-listed with CS 47201) Approaches the human-computer interaction as an activity of the human whose
+ productivity is increased by the use of the computer as a tool. Examines physiology and psychology considers
+the structure and operation of the computer and models the interaction between the two."
+CS 57205 ,"INFORMATION SECURITY
+",CS,Graduate standing.,None,"(Cross-listed with CS 47205) An introduction to concepts and methodology
+useful for information security, as
+ specified by the NSTISSI NO. 4011 standard from the NSA."
+CS 57221 ,"INTRODUCTION TO CRYPTOLOGY
+",CS,Graduate standing.,None,"Introduction to cryptography, classical cryptology, authentication, complexity issues, encryption standards,
+ algebraic foundations, survey of existing cryptology protocols: AES/Rijndael, block chaining, asymmetric
+ techniques."
+CS 59893 ,"VARIABLE TITLE WORKSHOP IN COMPUTER SCIENCE
+",CS,"Special approval and graduatestanding.
+",None,(Repeatable for credit)Studies in special topics in computer science.
+CS 59995 ,"SPECIAL TOPICS IN COMPUTER SCIENCE
+",CS,Special approval and graduate standing.,None,"(Repeatable for credit) (Cross-listed with CS 49995) Various special courses will be announced in the schedule
+ of classes under this title."
+CS 60093 ,"VARIABLE TITLE WORKSHOP IN COMPUTER SCIENCE
+",CS,"Special approval andgraduate standing.
+",None,"(Repeatable for credit)Studies of special topics in computer science. Not acceptable for credit toward a graduate
+ degree in computer science without approval of the student's adviser."
+CS 60094 ,"COLLEGE TEACHING OF COMPUTER SCIENCE
+",CS,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with CS 70094) Techniques and problems of college teaching of computer
+ science. Student presentation of computer science papers will be included."
+CS 61002 ,"ALGORITHMS AND PROGRAMMING I
+",CS,Graduate standing.,None,"An introduction to the algorithms and tools used in computer science; includes programming in a high level
+ language. No credit for CS majors."
+CS 61003 ,"ALGORITHMS AND PROGRAMMING II
+",CS,"CS 61002;graduate standing.
+",None,Further exploration into the tools used in computer science. No credit for CS majors.
+CS 61092 ,"PRACTICUM IN CS FOR INFORMATION ARCHITECTURE AND KNOWLEDGE MANAGEMENT
+",CS,Graduate standing.,None,"(Repeatable for credit)This course is an alternative to IAKM 60199 for students interested in pursuing a CS
+ thesis. Credit for IAKM 60199 or any other project course is not allowed."
+CS 61199 ,"THESIS I FOR INFORMATION ARCHITECTURE AND KNOWLEDGE MANAGEMENT
+",CS,"Graduatestanding.
+",None,Thesis students must register for a minimum of 6 hours. No credit for CS students.
+CS 61299 ,"THESIS II FOR INFORMATION ARCHITECTURE AND KNOWLEDGE MANAGEMENT
+",CS,CS 61199.,None,"STUDENTS
+Thesis students must continue registration each semester until all degree requirements are met."
+CS 63005 ,"ADVANCED DATABASE SYSTEMS DESIGN
+",CS,Graduate standing.,None,"(Cross-listed with CS 73005) Introduction to a variety of advanced database topics and on-going trends in
+ modern database systems. The course includes advanced issues of object-oriented database, XML, advanced
+ client server architecture and distributed database techniques."
+CS 63015 ,"DATA MINING TECHNIQUES
+",CS,Graduate standing.,None,"(Cross-listed with CS 73015) Concepts and techniques of data mining. Data mining is a process of discovering
+ information from a set of large databases. This course takes a database perspective on data mining."
+CS 63201 ,"ADVANCED OPERATING SYSTEMS
+",CS,Graduate standing.,None,"(Cross-listed with CS 73201) Introduction to distributed systems, interprocess communication, distributed
+ mutual exclusion, synchronization and deadlock, distributed process management and distributed file systems."
+CS 63301 ,"PARALLEL AND DISTRIBUTED COMPUTING
+",CS,Graduate standing.,None,"(Cross-listed with CS 73301) Overview of parallel and distributed computing; structuring parallel and distributed
+ programs; parallel programming using SIMD, SPMD, MIMD and associative computing; parallel and distributed
+ architecture using existing machines as case studies."
+CS 63304 ,"CLUSTER COMPUTING
+",CS,Graduate standing.,None,"(Cross-listed with CS 73304) This course will investigate clusters of computers as a computing platform,
+ hardware and software tradeoffs for clusters and application performance and programming of clusters."
+CS 63901 ,"SOFTWARE ENGINEERING METHODOLOGIES
+",CS,Graduate standing.,None,"(Cross-listed with CS 73901) Software process models; modeling languages; software process improvement;
+ requirement analysis and elicitation; advanced systems and architectural design; estimation; verification and
+ validation; reuse; and metrics."
+CS 63902 ,"SOFTWARE EVOLUTION
+",CS,Graduate standing.,None,"(Cross-listed with CS 73902) Methods and techniques supporting later lifecycle activities, including software
+ testing and maintenance, reuse and reverse engineering."
+CS 64201 ,"ADVANCED ARTIFICIAL INTELLIGENCE
+",CS,Graduate standing.,None,"Additional topics in AI such as logic programming, advanced problem-solving systems, understanding natural
+ languages, vision, learning, plan-generating systems."
+CS 64301 ,"PATTERN RECOGNITION PRINCIPLES
+",CS,Graduate standing.,None,"(Cross-listed with CS 74301) Introduction to mathematical pattern recognition, feature selection, distribution-
+free classification, statistical classification, nonsupervised learning, sequential learning and application."
+CS 64401 ,"IMAGE PROCESSING
+",CS,Graduate standing.,None,"(Cross-listed with CS 74401) This course covers digital processing of digital imagery. Digitization of TV imagery,
+ noise removal, image enhancement, edge and texture detection, object recognition and scene analysis."
+CS 65101 ,"ADVANCED COMPUTER ARCHITECTURE
+",CS,Graduate standing.,None,"(Cross-listed with CS 75101) System performance measures, processor implementation, pipelining, system
+ interconnection, memory hierarchy interrupts, stack architecture, vector and multiprocessors."
+CS 65202 ,"ADVANCED COMMUNICATION NETWORKS
+",CS,Graduate standing.,None,"(Cross-listed with CS 75202) This course covers central problems that confront network designers in high-speed
+ networking such as real-time traffic, congestion control, quality of service (QoS), performance analysis, traffic
+ management and internet routing."
+CS 65203 ,"WIRELESS AND MOBILE COMMUNICATION NETWORKS
+",CS,Graduate standing.,None,"(Cross-listed with CS 75203) Examines how wireless systems work and how mobile systems are supported by
+ the underlying network infrastructure. Course covers the architecture and the interactions among different
+functional units in wireless and mobile systems."
+CS 65208 ,"DISTRIBUTED MULTIMEDIA LANGUAGES AND SYSTEMS
+",CS,Graduate standing.,None,"(Cross-listed with CS 75208) MPEG standards, multimedia formats, 3-D object and movement representation,
+ multimedia storage, QoS maintenance,
+transmission and buffering, multimedia clocks and synchronization,
+content based indexing, matching and retrieval of 2-D and 3-D objects, XMLl based distributed multimedia
+ languages, synchronous and reactive languages."
+CS 65301 ,"SYSTEM MODELING AND PERFORMANCE EVALUATION
+",CS,Graduate standing.,None,"(Cross-listed with CS 75301) Provides a detailed study of queuing, network models and their application to
+ operating systems, computer time
+sharing and multi access systems."
+CS 66101 ,"ADVANCED TOPICS IN ALGORITHMS
+",CS,Graduate standing.,None,"(Cross-listed with CS 76101) Advanced algorithms, fast fourier transforms, algorithms on trees and graphs,
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+rational and polynomial arithmetic, gcd, factoring, numerical and symbolic computational algorithms, Risch
+ integration algorithm, pattern matching."
+CS 66105 ,"PARALLEL AND DISTRIBUTED ALGORITHMS
+",CS,Graduate standing.,None,"(Cross-listed with CS 76105) Introduces and evaluates important models of parallel (synchronous and
+ asynchronous) and distributed computation, using basic searching, sorting, graph, matrix, numerical computing
+ and computational geometry algorithms."
+CS 66110 ,"COMPUTATIONAL GEOMETRY
+",CS,"CS 56101; graduatestanding.
+",None,"(Cross-listed with CS 76110) Geometric structures are the underlying model of several important applications,
+ including robotics, graphics, CAD/CAM, VLSIi layout, wireless networks and information visualization.
+Computational geometry studies algorithms for geometric problems."
+CS 66120 ,"EVOLUTIONARY COMPUTATION
+",CS,Graduate standing.,None,"(Cross-listed with CS 76120) Introduction to evolutionary computation techniques for optimization, learning and
+ design. Topics include natural
+and artificial evolution, chromosome representations, search operators,
+co-
+evolution, constraint handling techniques, niching and speciation, classifier systems and theoretical foundations."
+CS 67101 ,"ADVANCED COMPUTER GRAPHICS
+",CS,"Graduate standing.2015 Kent State University Catalog - Spring 2016 Course Descriptions
+",None,"(Cross-listed with CS 77101) In-depth study of active research topics in
+computer graphics. Topics include
+ volume rendering, image-based rendering and modeling, graphics architectures, virtual reality, modeling in
+ computer graphics, non-photorealistic rendering, computer animation and computer games."
+CS 67301 ,"SCIENTIFIC VISUALIZATION
+",CS,Graduate standing.,None,"(Cross-listed with CS 77301) Discusses the visualization of scientific, engineering and medical data sets.
+ Introduces mechanisms to acquire sampled or computed data and points out methods to transform these data
+into the visual system."
+CS 69098 ,"RESEARCH
+",CS,Graduate standing.,None,"(Repeatable for credit) Satisfactory/Unsatisfactory (S/U) graded. In Progress (IP) mark permissable. Research
+ or individual investigation. Credits are applied toward degree requirements with approval if grade of
+""S"" is
+ given."
+CS 69191 ,"MASTER'S SEMINAR
+",CS,"Computer Science (CS) major within theMaster of Arts (MA) or Master of Science (MS) degree.
+",None,"(Repeatable for credit) Course is Satisfactory/Unsatisfactory (S/U) graded. Seminar for masters students to
+ present and discuss computer science related research and academics. Masters students are required to
+take at
+ least 2 credit hours for completion of degree and make at least
+one presentation of project work or research.
+ Only two credits count towards the masters degree."
+CS 69199 ,"THESIS I
+",CS,Graduate standing.,None,"Thesis student must register for total of 6 hours, 2 to 6 hours in a single semester distributed over several
+ semesters if desired."
+CS 69299 ,"THESIS II
+",CS,CS 69199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+CS 69995 ,"SPECIAL TOPICS IN COMPUTER SCIENCE
+",CS,"Graduatestanding.
+",None,(Repeatable for credit) (Cross-listed with CS 79995) Special topics in computer science.
+CS 70094 ,"COLLEGE TEACHING OF COMPUTER SCIENCE
+",CS,Doctoral standing.,None,"(Repeatable for credit) (Cross-listed with CS 60094) Techniques and problems of college teaching of computer
+ science. Student presentation of computer science papers will be included."
+CS 73005 ,"ADVANCED DATABASE SYSTEMS DESIGN
+",CS,Doctoral standing.,None,"(Cross-listed with CS 63005) Introduction to a variety of advanced database topics and on-going trends in
+ modern database systems. The course includes advanced issues of object-oriented database, XML, advanced
+ client server architecture and distributed database techniques."
+CS 73015 ,"DATA MINING TECHNIQUES
+",CS,Doctoral standing.,None,"(Cross-listed with CS 63015) Concepts and techniques of data mining. Data mining is a process of discovering
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+information from a set of large databases. This course takes a database perspective on data mining."
+CS 73201 ,"ADVANCED OPERATING SYSTEMS
+",CS,Doctoral standing.,None,"(Cross-listed with CS 63201) Introduction to distributed systems, interprocess communication, distributed
+ mutual exclusion, synchronization and deadlock, distributed process management and distributed file systems."
+CS 73301 ,"PARALLEL AND DISTRIBUTED COMPUTING
+",CS,Doctoral standing.,None,"(Cross-listed with CS 63301) Overview of parallel and distributed computing; structuring parallel and distributed
+ programs; parallel programming using simd spmd mimd and,associative computing parallel and distributed
+ architecture using existing machines as case studies."
+CS 73304 ,"CLUSTER COMPUTING
+",CS,Doctoral standing.,None,"(Cross-listed with CS 63304) This course will investigate clusters of computers as a computing platform,
+ hardware and software tradeoffs for clusters and application performance and programming of clusters."
+CS 73901 ,"SOFTWARE ENGINEERING METHODOLOGIES
+",CS,Doctoral standing.,None,"(Cross-listed with CS 63901) Software process models; modeling languages; software process improvement
+ ;requirement analysis and elicitation; advanced systems and architectural design; estimation; verification and
+ validation reuse; and metrics."
+CS 73902 ,"SOFTWARE EVOLUTION
+",CS,Doctoral standing.,None,"(Cross-listed with CS 63902) Methods and techniques supporting later lifecycle activities, including software
+ testing and maintenance reuse and reverse engineering."
+CS 74201 ,"ADVANCED ARTIFICIAL INTELLIGENCE
+",CS,Doctoral standing.,None,"Additional topics in AI such as logic programming, advanced problem-solving systems, understanding natural
+ languages, vision, learning, plan generating systems."
+CS 74301 ,"PATTERN RECOGNITION PRINCIPLES
+",CS,Doctoral standing.,None,"(Cross-listed with CS 64301) Introduction to mathematical pattern recognition, feature selection, distribution-
+free classification, statistical classification, nonsupervised learning, sequential learning and application."
+CS 74401 ,"IMAGE PROCESSING
+",CS,Doctoral standing.,None,"(Cross-listed with CS 64401) This course covers digital processing of digital imagery. Digitization of TV imagery,
+ noise removal, image enhancement ,edge and texture detection, object recognition and scene analysis."
+CS 75101 ,"ADVANCED COMPUTER ARCHITECTURE
+",CS,Doctoral standing.,None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+(Cross-listed with CS 65101) System performance measures, processor implementation, pipelining, system
+ interconnection, memory hierarchy interrupts, stack architecture, vector and multiprocessors."
+CS 75202 ,"ADVANCED COMMUNICATION NETWORKS
+",CS,Doctoral standing.,None,"(Cross-listed with CS 65202) This course covers central problems that confront network designers in high-speed
+ networking such as real-time traffic, congestion control, quality of service (QoS), performance analysis, traffic
+ management and internet routing."
+CS 75203 ,"WIRELESS AND MOBILE COMMUNICATION NETWORKS
+",CS,Doctoral standing.,None,"(Cross-listed with CS 65203) Examines how wireless systems work and how mobile systems are supported by
+ the underlying network infrastructure. Course covers the architecture and the interactions among different
+functional units in wireless and mobile systems."
+CS 75208 ,"DISTRIBUTED MULTIMEDIA LANGUAGES AND SYSTEMS
+",CS,Doctoral standing.,None,"(Cross-listed with CS 65208) MPEG standards, multimedia formats, 3-D object and movement representation,
+ multimedia storage, QoS maintenance,
+transmission and buffering, multimedia clocks and synchronization,
+content based indexing, matching and retrieval of 2-D and 3-D objects, XMLl based distributed multimedia
+ languages, synchronous and reactive languages."
+CS 75301 ,"SYSTEM MODELING AND PERFORMANCE EVALUATION
+",CS,Doctoral standing.,None,"(Cross-listed with CS 65301) Provides a detailed study of queuing, network models and their application to
+ operating systems, computer time
+sharing and multi-access systems."
+CS 76101 ,"ADVANCED TOPICS IN ALGORITHMS
+",CS,Doctoral standing.,None,"(Cross-listed with CS 66101) Advanced algorithms, fast Fourier transforms, algorithms on trees and graphs,
+ rational and polynomial arithmetic, GCD, factoring, numerical and symbolic computational algorithms,
+ Rischintegration algorithm, pattern matching."
+CS 76105 ,"PARALLEL AND DISTRIBUTED ALGORITHMS
+",CS,Doctoral standing.,None,"(Cross-listed with CS 66105) Introduces and evaluates important models of parallel (synchronous and
+ asynchronous) and distributed computation, using basic searching, sorting, graph, matrix, numerical computing
+ and computational geometry algorithms."
+CS 76110 ,"COMPUTATIONAL GEOMETRY
+",CS,CS 56101; doctoral standing.,None,"(Cross-listed with CS 66110) Geometric structures are the underlying model of several important applications,
+ including robotics, graphics, CAD/CAM, VLSI layout, wireless networks and information visualization.
+Computational geometry studies algorithms for geometric problems."
+CS 76120 ,"EVOLUTIONARY COMPUTATION
+",CS,Doctoral standing.,None,"(Cross-listed with CS 66120) Introduction to evolutionary computation techniques for optimization, learning and
+ design. Topics include natural
+and artificial evolution, chromosome representations, search operators,
+co-
+evolution, constraint handling techniques, niching and speciation, classifier systems and theoretical foundations."
+CS 77101 ,"ADVANCED COMPUTER GRAPHICS
+",CS,Doctoral standing.,None,"(Cross-listed with CS 67101) In-depth study of active research topics in
+computer graphics. Topics include
+ volume rendering, image-based rendering and modeling, graphics architectures, virtual reality, modeling in
+ computer graphics, non-photorealistic rendering, computer animation and computer games."
+CS 77301 ,"SCIENTIFIC VISUALIZATION
+",CS,Doctoral standing.,None,"(Cross-listed with CS 67301) Discusses the visualization of scientific, engineering and medical data sets.
+ Introduces mechanisms to acquire sampled or computed data and points out methods to transform these data
+into the visual system."
+CS 79995 ,"SPECIAL TOPICS IN COMPUTER SCIENCE
+",CS,"Graduatestanding.
+",None,(Repeatable for credit) (Cross-listed with CS 69995) Special topics in computer science.
+CS 89098 ,"RESEARCH
+",CS,Doctoral standing.,None,"(Repeatable for credit) Satisfactory/Unsatisfactory (S/U) graded. In Progress (IP) mark permissable. Research
+ or individual investigation for
+doctoral students who have not yet passed their candidacy examinations."
+CS 89191 ,"DOCTORAL SEMINAR
+",CS,Computer Science (CS) major within the Doctor of Philosophy (PHD) degree.,None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+(Repeatable for credit) Satisfactory/Unsatisfactory (S/U) graded. In Progress (IP) mark permissable. Seminar
+ for doctoral students to present
+and discuss computer science related research and academics. Doctoral
+students are required to take at least 3 credit hours for completion of degree and make at least two
+ presentations of project work or research. Only two credits count towards the doctoral degree."
+CS 89199 ,"DISSERTATION I
+",CS,Special approval and doctoral standing.,None,"(Repeatable for credit)Doctoral dissertation, for which registration in at least two semesters is required, first of
+ which will be semester in which dissertation work is begun and continuing until the completion of 30 hours."
+CS 89299 ,"DISSERTATION II
+",CS,"CS 89199and doctoral
+ standing.
+",None,"(Repeatable for credit)Continuing registration required for doctoral students who have completed the initial 30
+ hours of dissertation and continuing until all degree requirements are met."
+CS 89991 ,"RESEARCH SEMINAR IN COMPUTER SCIENCE
+",CS,"Specialapproval; doctoral standing.
+",None,(Repeatable for credit)Research seminar on current research in computer science.

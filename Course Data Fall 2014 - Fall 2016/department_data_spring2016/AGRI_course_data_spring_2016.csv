@@ -1,0 +1,91 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+AGRI 20000 ,"ECONOMIC PERSPECTIVES ON FOOD AND AGRICULTURE
+",AGRI,none.,None,"Introduction of the role of economics in agriculture at the firm, national, and international level. An overview of
+ the structure and scope of the U.S. Food and Fiber Sector and its current trends and implications for the
+ national economy. Students learn to apply various economic principles and concepts relating to production
+ agriculture, business management, consumer behavior, market price analysis and equilibrium, international
+ trade and public policy formation."
+AGRI 30000 ,"FARM BUSINESS MANAGEMENT
+",AGRI,ACTT 11000 and BMRT 11009 and ECON 22060.,None,"Develops an understanding of the various business management decisions involved in the organization and
+ operation of a farm business operation for continuous profit and production cost efficiency. Students acquire
+knowledge and proficiency in applying the various economic principles and farm business management analysis
+ concepts which aid a farm operator
+or owner in the decision making process for a farm business operation."
+AGRI 31000 ,"AGRIBUSINESS MANAGEMENT
+",AGRI,"ACTT 11000and ACTT 11001 and BMRT 11009 and ECON 22060.
+",None,"Intended for students interested in careers eventually leading to managerial positions in commodity production
+ and marketing, input supply, banking, cooperatives and related agricultural industries. Focus
+is on the use of
+ financial statements, operating and managerial functions, communication, and the inter-personal work
+ environment within
+an organization. Presentation is by lecture integrated with experiential learning through use
+ of student-team decision making applied to an agribusiness management simulation."
+AGRI 32000 ,"FARM RECORDS ANALYSIS AND INCOME TAX MANAGEMENT
+",AGRI,AGRI 30000.,None,"Develop an understanding of the procedures involved with farm recordkeeping and illustrates the ways in which
+ farm records can be used
+to evaluate and to improve the economic performance and profitability of a farm
+ business. Students have the opportunity to gain an understanding of the current tax system. Students learn to
+ apply the various tax management methods and strategies that can be used to maximize the after tax income
+ to a farm business operation."
+AGRI 33000 ,"AGRICULTURAL COMMODITY MARKETING
+",AGRI,AGRI 20000 and BMRT 11009 and BMRT 21050 and ECON 22060.,None,"Covers the economic factors, socioeconomic trends, farm demographic changes, global competitiveness, and
+ consumer attitudes that shape the current structure and operation of the U.S. agricultural marketing system.
+ Includes how decisions at one level in the value chain impact all other levels and explores how and when the
+ system changes as a result of individual decisions. Also focuses on quality-based marketing,
+contracting and
+ provides a global perspective."
+AGRI 34000 ,"LIVESTOCK PRODUCTION MANAGEMENT
+",AGRI,"AGRI 31000; and BSCI 10001 and 10003, or BSCI 10100.",None,"An introduction to the livestock industry and its role in society and our economy. Principles of livestock
+ production management are introduced for beef, swine, dairy cattle, horses, sheep, goats and poultry.
+2015 Kent State University Catalog - Spring 2016 Course Descriptions"
+AGRI 35000 ,"CROP AND FORAGE PRODUCTION MANAGEMENT
+",AGRI,"BSCI 10001 and10003, or BSCI 10100; and AGRI 30000.
+",None,"Deals with crop plants in relation to the environment, crop improvement,
+seeds, and seeding. The practice of
+ tillage, fertilizer, rotation, cropping, and weed control is covered. Pastureland and farmland, the harvest of field
+ crops, and the handling and marking of grain seeds and hay are also included, as well as crops of the grass
+ family, perennial forage grasses, the legume family and miscellaneous crops."
+AGRI 40000 ,"ADVANCED FARM BUSINESS MANAGEMENT
+",AGRI,AGRI 30000.,None,"Application of economics and business principles to the management of a Farm Business. Use of analytical tools
+ such as enterprise budgeting, linear programming, pro-forma cash flow budgeting, capital budgeting, and risk
+ management analysis to aid the decision-making process. Understanding of farm transfer and succession
+ planning and its importance in the intergenerational viability of a farm business."
+AGRI 40092 ,"AGRIBUSINESS INTERNSHIP
+",AGRI,"junior or seniorstanding; and agribusiness (AGRI) major; and special approvla.
+",None,"Provide students an internship work experience in the agribusiness industry. This internship may be completed
+ in any one of the following areas of agribusiness: sales management, agriculture lending, insurance,
+ cooperative management, commodity merchandising, farm business management, public relations, farm
+ marketing, agricultural policy, dairy
+production or farm business operations."
+AGRI 41000 ,"AGRICULTURAL PRICE ANALYSIS
+",AGRI,"AGRI 20000 and BMRT21050 and ECON 22061.
+",None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+The economics of supply and demand provide a foundation for understanding the behavior of agricultural
+ markets, the formation of prices, and the role of prices in the allocation of goods and services. Traditional topics
+ include: price determination, seasonality, market adjustments, marketing margins, short-run and long-run
+ demand, derived demand, hedging with futures markets, marketing strategies, and trade. Graphical and
+ empirical methods, including regression, are used to do price analysis."
+AGRI 42000 ,"AGRICULTURAL FINANCE
+",AGRI,AGRI 30000 and ECON 22060 and MATH 11010.,None,"To develop an understanding and proficiency in applying the various economic principles and concepts of
+ financial management for analyzing alternative investment decisions and solving financial problems in a farm
+ business operation. Various strategies for acquiring and financing capital resources in the farm business
+ operation are explored. Characteristics of the financial institutions providing credit to farmers and their
+ particular lending programs are studied."
+AGRI 43000 ,"AGRICULTURAL ENVIRONMENTAL LAW
+",AGRI,"AGRI 30000 and BMRT 21000 andECON 22061.
+",None,"To acquaint students with the fundamentals of state and federal pollution control law. Major topics include: air
+ pollution control, water pollution control, toxic substance control, solid waste management
+and disposal,
+ Superfund, wetlands, endangered species, land use regulation, environmental assessment, environmental law
+ administration and enforcement and global environmental law."
+AGRI 44000 ,"AGRICULTURAL AND INTERNATIONAL TRADE POLICY
+",AGRI,AGRI 20000 and ECON 22061.,None,"History, development, programs, and analysis of public policy issues in agriculture and natural resources.
+ Analysis of science, economic, and political factors involved in policy development. Emphasis on farm policy and
+ farm structure; food and nutrition; trade and development; and natural resources, the environment, and
+ bioenergy, with special attention to issues and policies impacting Ohio and the United States."
+AGRI 45000 ,"SENIOR SEMINAR
+",AGRI,"senior standing; and agribusiness(AGRI) major.
+",None,"Capstone course designed to expose Agribusiness majors to current events
+and the interpretation of those
+ events in an economics framework for use in management decision making. Students are introduced to the
+scientific method and complete a senior research project."
