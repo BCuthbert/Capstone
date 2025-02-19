@@ -1,0 +1,7 @@
+Course Number,Course Name,Department,Prerequisites,Description
+22000,Advanced CAD,CADT,none,The use of advanced concepts and techniques of computer-aided drafting and design and related productivity improvement tools for two- and three-dimensional drawings.
+22001,CAD: Architecture,CADT,none,"Comprehensive study of the use of a popular computer-aided drafting package for architectural design, including systems management methods and project planning concept."
+22002,CAD: Civil Applications,CADT,none,A course on the use of computer-aided drafting and design for civil engineering applications.
+22003,Solid Modeling,CADT,none,A course in solid modeling using computers. Modeling techniques using regional and solid modular for two-dimensional regions and three-dimensional solids.
+22004,Computer Animation and Gaming,CADT,none,"3D modeling and computerized techniques. Introduction to the basic concepts, terminology and techniques of 3D modeling, lighting, shading,imaging and animation."
+22005,Multimedia and Game Design,CADT,none,"Covers the creation of interactive multimedia presentations. Development of flowcharts, roughs and interactive navigation systems.Integration of images, animation, video, sound and custom code for the creation of an interactive multimedia presentation."
