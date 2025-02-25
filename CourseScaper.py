@@ -3,13 +3,14 @@ import requests
 import re
 import pandas as pd
 
-save_path = "./Database"
-year = 2017
 
-def scrape(department, graduate=False):
+
+def scrape(year, department, graduate=False):
     URL = f"https://catalog.kent.edu/previous-catalogs/{year}-{year+1}//coursesaz/{department}/"
+    #Save path is ./Database/2017-2018, ./Database/2018-2019, ./Database/2019-2020 etc.
+    save_path = f"./Database/{year}-{year+1}"
 
-    r = requests.get(URL) 
+    r = requests.get(URL)
     soup = BeautifulSoup(r.content, "lxml")
 
     # Gets all the courses in the department
@@ -69,7 +70,55 @@ def scrape(department, graduate=False):
     output_df.to_csv(f"{save_path}/{department}_data{year}-{year+1}.csv", header=False, index=False) # no header, so that importing it into the SQL database is easy.
     
     
-scrape("acct")
+#Takes in URL with the courses, and if the cataloge is >= 2020
+#Will work for 24-25, 23-24, 22-23, 21-22, 20-21, 19-20, 18-19, 17-18
+def scrapeDepts(URL, older = False):
     
+    r = requests.get(URL)
+    soup = BeautifulSoup(r.content, "html.parser")
+
+    departments = soup.find_all("a", href=True)
+
+    deptName = []
+    depts = []
+
+    #Filters out anything without "/coursesaz/"
+    for link in departments:
+        if "/coursesaz/" in link["href"]:
+            deptName.append(link.text)
+
+    #Gets the deptartment inide the parenthesis while also converting it into a lowercase string
+    for dept in deptName:
+        extracted = (re.findall(r'\((.*?)\)', dept))
+        if extracted:
+            depts.append(extracted[0].lower())
+
+    #PDF Can show at end of list, removes it if it's there
+    if depts[-1] != "PDF":
+        depts.pop()  
+
+    #Older versions of catalog need to be checked for dupes
+    if older:
+        sortedDepts = []
+        for element in depts:
+            if element not in sortedDepts:
+                sortedDepts.append(element)
+        return sortedDepts
+
+    return depts
+
+
+#Main Loop
+#Scrapes every year until 2024
+year = 2017 #Starting year, going upward
+while year != 2024:
+    URL = f"https://catalog.kent.edu/previous-catalogs/{year}-{year + 1}/coursesaz/"
+    depts = scrapeDepts(URL, True)
+    print(f"Scraping {year} - {year + 1}...")
+    for element in depts:
+        scrape(year, element)
+    year += 1
+
+print("Done Scraping!")
 
 # Works for 23-24, 22-23, 21-22, 20-21, 19-20, 18-19, 17-18
