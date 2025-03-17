@@ -1,0 +1,64 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+RTT 11000 ,"INTRODUCTION TO RESPIRATORY THERAPY
+",RTT,"respiratory therapy technology (RTT) major andadmitted to technical study. 
+",None,"Establishes a foundation in the field of respiratory care. Topics include: career options, licensing and
+credentialing, quality assurance, evidence based learning, health promotion, community health, healthcare
+management and reimbursement, professional ethics and law, infection control, HIPAA and OSHA standards,
+patient education and managing disasters."
+RTT 11001 ,"RESPIRATORY CARE PHARMACOLOGY
+",RTT,"RTT 11003 with a minimumgrade of C (2.000). 
+",None,"Basic principles in pharmacology, specific to respiratory care, covering the pharmacokinetic action of drugs,
+administration, calculations, and effects on the body systems."
+RTT 11002 ,"CARDIOPULMONARY DISEASES
+",RTT,"RTT 11000 and RTT 11003 and RTT 11006 with a minimumgrade of C (2.000). 
+",None,"A study of diseases and disorders affecting the cardiopulmonary system; etiology, pathophysiology, clinical
+manifestations, analyzing and interpreting data, constructing respiratory care plans and the role of the
+respiratory therapist in treatment."
+RTT 11003 ,"APPLICATION AND MECHANISMS OF CARDIOPULMONARY ANATOMY AND PHYSIOLOGY
+",RTT,"respiratory therapy technology (RTT) major andadmitted to technical study.. 
+",None,"Provides a solid foundation in cardiopulmonary anatomy and physiology with relevant applied physiology as it
+relates to the profession of respiratory care."
+RTT 11004 ,"THERAPEUTICS
+",RTT,"RTT 11000, 11003, 11006with a minimum grade of C (2.000). 
+",None,"Introduction to inhaled medication administration, hyperinflation therapy, bronchopulmonary hygiene, and
+airway management. There is a laboratory and clinical component."
+RTT 11006 ,"INTRODUCTION TO CLINICAL RESPIRATORY CARE
+",RTT,respiratory therapy technology (RTT) major and admitted to technical study.,None,"Introduction to patient assessment and monitoring, communication, infection control, medical records, medical
+gas and humidity therapy, and the clinical environment. There is a laboratory component."
+RTT 11008 ,"BLOOD GAS ANALYSIS
+",RTT,"RTT 11003 with aminimum grade of C (2.000). 
+",None,"A study of methods, equipment, and procedures for obtaining arterial blood; additionally, the principles and
+standards of analysis and applications of physiological data is stressed."
+RTT 21000 ,"CRITICAL CARE
+",RTT,"RTT 21001 and 21003 with aminimum grade of C (2.000). 
+",None,"An advanced-level course that provides a foundation for managing patients in critical care utilizing mechanical
+ventilation, pharmacology, and hemodynamic monitoring systems. Students perform, interpret and apply data,
+and learn advanced life support. There is a clinical component."
+RTT 21001 ,"MECHANICAL VENTILATION
+",RTT,"RTT 11001, RTT 11002,RTT 11004 and RTT 11008, BSCI 11010 and BSCI 11020 or BSCI 20020, PHY 12111 or PHY 13001, PTST
+10009 or HED 14020, CHEM 10050 or CHEM 10054 or CHEM 10060, ENG 11011 or 21011, or HONR 10197
+or 10297; all with a minimum grade of C (2.000). 
+",None,"Establishes a foundation of mechanical ventilation and associated equipment; assessment, monitoring and
+modifying parameters. There is a laboratory and clinical component."
+RTT 21003 ,"PERINATAL AND PEDIATRIC RESPIRATORY THERAPY
+",RTT,"RTT 11001 and 11002 and11004 and 11008 with a minimum grade of C (2.000). 
+",None,"An intense study of assessing, providing, and evaluating neonatal and pediatric respiratory care. Topics
+include: assessment of growth and development from conception to delivery, resuscitation, persistent illness,
+therapeutic interventions, and managing mechanical ventilation."
+RTT 21004 ,"ADVANCED DIAGNOSTICS
+",RTT,RTT 11003 and 11008 with a minimum grade of C (2.000).,None,"Provides knowledge and skills necessary to work effectively in a pulmonary function laboratory. Topics include:
+spirometry, testing standards and techniques, equipment set up and utilization, analyzing test results and
+applying them in the clinical setting."
+RTT 21005 ,"PULMONARY REHABILITATION AND CONTINUING CARE
+",RTT,RTT 21001 with a minimum grade of C (2.000),None,Roles and functions of respiratory therapists in cardiopulmonary rehabilitation and home care.
+RTT 21010 ,"RESPIRATORY THERAPY CAPSTONE COURSE
+",RTT,RTT 21000 with a minimum grade of C (2.000).,None,"Contemporary issues and trends in respiratory care; preparation for the CRT and RRT credentialing
+examinations; obtaining employment after graduation. There is a laboratory and clinical component."
+RTT 21012 ,"BASIC RESEARCH DEVELOPMENT AND ANALYSIS
+",RTT,RTT 21000 with a minimum grade of C (2.000).,None,"Survey of research problems, methods, and designs utilized in respiratory care with a focus on developing
+analytical and critiquing skills."
+RTT 21095 ,"SPECIAL TOPICS IN RESPIRATORY THERAPY
+",RTT,RTT 11000.,None,(Repeatable for credit)Scheduled topics of interest to students and faculty.
+RTT 21096 ,"INDIVIDUAL INVESTIGATION IN RESPIRATORY THERAPY
+",RTT,respiratory therapy technology (RTT) majors.,None,"(Repeatable for a maximum of 6 credit hours)Readings and/or investigation of respiratory therapy topics
+supervised by respiratory therapy faculty."

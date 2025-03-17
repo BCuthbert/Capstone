@@ -1,0 +1,34 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+ILS 21091 ,"INTEGRATED LIFE SCIENCES SEMINAR I
+",ILS,"IntegratedLife Sciences
+ (ILS) major.
+",None,"(Repeatable for credit)Seminar for first-year students in Kent State/NEOUCOM program to provide correlation of
+ natural sciences, social
+sciences and humanities with medical sciences."
+ILS 21092 ,"INTEGRATED LIFE SCIENCES SEMINAR II
+",ILS,"ILS 21091 and Integrated Life Sciencesmajor.
+",None,"Seminar for first-year students in Kent State/NEOUCOM program to provide
+correlation of natural sciences,
+ social sciences and humanities with medical sciences."
+ILS 30392 ,"PSYCHOLOGICAL HELPING SKILLS FOR MEDICINE
+",ILS,Integrated Life Sciences majors.,None,"Basic strategies for helping persons in crisis. Includes guided self exploration of attitudes values and personality
+ styles."
+ILS 32091 ,"INTEGRATED LIFE SCIENCES SEMINAR III
+",ILS,"ILS 21091 and 21092 and Integrated LifeSciences majors.
+",None,(Repeatable for credit)Continuation of ILS 21092.
+ILS 32092 ,"INTEGRATED LIFE SCIENCES SEMINAR IV
+",ILS,"ILS 21091, 21092 and 32091 and Integrated Life Sciences majors.",None,Continuation of ILS 32091.
+ILS 32592 ,"SOCIOLOGICAL PERSPECTIVES IN PUBLIC HEALTH
+",ILS,Integrated Life Sciences majors.,None,"Sociological phenomena of public health through research/theory and field-research experience consisting of
+ participatory and non-participatory experiences in areas related to medical practice, but not associated with
+ traditionally legitimated medical curricula."
+ILS 40392 ,"PRACTICUM IN MEDICAL PSYCHOLOGY
+",ILS,Integrated Life Sciences majors.,None,"Community mental health through community agency field placement. Observation and participation in
+ interviewing crisis intervention and community consultation. Didactic exposure to community mental health
+theory."
+ILS 42591 ,"MEDICAL SOCIOLOGY RESEARCH SKILLS
+",ILS,Integrated Life Sciences majors. ,ILS 42592.,"Formulation of community health-related research problem, theoretical concepts and techniques of data
+ collection and analysis."
+ILS 42592 ,"MEDICAL SOCIOLOGY PRACTICUM
+",ILS,Integrated Life Sciencesmajors. ,IILS 42591.,"Application of sociological research designs and methods to problems in medical sociology through field
+ research and report on a community health-related research problem."

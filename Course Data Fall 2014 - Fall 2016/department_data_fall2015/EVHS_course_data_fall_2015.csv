@@ -1,0 +1,51 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+EVHS 10001 ,"ENVIRONMENTAL TECHNOLOGY I
+",EVHS,None.,None,"Survey course in environmental technology, including health and safety, history, environmental compliance and
+ related issues."
+EVHS 10004 ,"TOXICOLOGY
+",EVHS,None.,None,"Examination of the terminology and classification of poisons that affect
+humans. Includes poison sources,
+modes of exposure, health effects and control measures."
+EVHS 10010 ,"INDUSTRIAL HYGIENE I
+",EVHS,"EVHS10004.
+",None,"In-depth study of safety methods and procedures with lab for identifying,monitoring, handling, containing and
+ disposing of hazardous substances and hazardous conditions in the workplace."
+EVHS 20001 ,"ENVIRONMENTAL LAW
+",EVHS,None.,None,"Emphasize civil, criminal and tort liability issues; procedural and constitutional requirements; and administrative
+ codes, rules and regulations for fire, health, safety and environmental hazards."
+EVHS 20004 ,"ENVIRONMENTAL HEALTH AND SAFETY I
+",EVHS,EVHS 10001.,None,"Examination of hazards assessment including organizational, environmental and disaster planning; health and
+ safety inspection and reporting criteria; and first aid procedures."
+EVHS 20008 ,"ENVIRONMENTAL SAFETY ADMINISTRATION
+",EVHS,EVHS 10010.,None,"Organization and operation of environmental safety unit; relationships with business governmental and
+ community entities involved in environmental safety and hazards control."
+EVHS 20092 ,"ENVIRONMENTAL TECHNOLOGY INTERNSHIP I
+",EVHS,EVHS 20008.,None,"(Repeatable for credit)This on- or off campus experience gives students an opportunity to apply learned
+ concepts in the classroom to practical environmental technology situations."
+EVHS 21010 ,"INDUSTRIAL HYGIENE II
+",EVHS,BSCI 10120; and CHEM 10052; and EVHS 10010.,None,"Emphasis is placed on methodologies of gas, vapor, and aerosol sampling;
+including instrumentation function
+ and claibration. Measurement and evaluation of physical hazards including noise, heat stress, lighting and
+ radiation hazards. Includes a major emphasis upon the types of problems and calculations likely to be found in
+ general industry. Laboratory exercises and use of a case study to explore the methods of sampling."
+EVHS 21092 ,"ENVIRONMENTAL TECHNOLOGY INTERNSHIP II
+",EVHS,"EVHS 20092 andspecial
+approval.
+",None,"(Repeatable for credit) This on-or off-campus experience gives students an opportunity to apply learned
+ concepts in the classroom to practical environmental technology situations."
+EVHS 22095 ,"SPECIAL TOPICS IN ENVIRONMENTAL HEALTH AND SAFETY
+",EVHS,special approval.,None,"(Repeatable for a total of 6 hours) Specialized instruction oriented primarily to application of current technology
+ developed for the field of environmental technology. Course is repeatable as the specific topics
+will vary."
+EVHS 22096 ,"INDIVIDUAL INVESTIGATION IN ENVIRONMENTAL HEALTH AND SAFETY
+",EVHS,special approval.,None,"(Repeatable for credit)Independent research of environmental technology topic supervised by an environmental
+ technology faculty member."
+EVHS 30002 ,"ENVIRONMENTAL ISSUES II
+",EVHS,EVHS 10001.,None,Current topics in environmental technology including climate change and alternate energy sources.
+EVHS 30020 ,"HAZARDOUS WASTE OPERATIONS AND EMERGENCY RESPONSE
+",EVHS,None.,None,"Study of hazardous waste operations and emergency response to release of
+hazardous materials in compliance
+ with EPA and OSHA regulations (29CRF 1910.120)."
+EVHS 40006 ,"FIRE PREVENTION AND CONTROL
+",EVHS,EVHS 10001.,None,"Conditions and properties conductive for combustible states and hazards;techniques and procedures for fire
+ extinguishing and control; preventative strategies; fire codes and alarm systems."

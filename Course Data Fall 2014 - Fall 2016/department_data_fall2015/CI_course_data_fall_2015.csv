@@ -1,0 +1,614 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+CI 40093 ,"VARIABLE TITLE WORKSHOP IN CURRICULUM AND INSTRUCTION
+",CI,Permission.,None,"(Repeatable for credit) (Cross-listed with CI 50093 and CI 70093) Variable topic workshop designed to respond
+ to curriculum trends and issues,and specialized needs."
+CI 47095 ,"SPECIAL TOPICS IN CURRICULUM AND INSTRUCTION
+",CI,special approval.,None,(Repeatable for credit)
+CI 47096 ,"INDIVIDUAL INVESTIGATION IN CURRICULUM AND INSTRUCTION
+",CI,special approval.,None,(Repeatable for credit)
+CI 47195 ,"SPECIAL TOPICS IN CURRICULUM AND INSTRUCTION
+",CI,special approval.,None,Student teaching.
+CI 47330 ,"READING AND WRITING IN ADOLESCENCE/ADULTHOOD
+",CI,"Admission toadvanced study.
+",None,"(Cross-listed with CI 57330) Understanding of literacy learning in adolescence and adulthood (ages 12-21) with
+ an emphasis on strategies for text learning, literacy in electronic environments and teaching students who
+ struggle as readers and writers."
+CI 47501 ,"TEACHING MATHEMATICS IN EARLY AND MIDDLE GRADES
+",CI,"Advanced standing, minimum C (2.000) in MATH14001 or 14002.
+",None,"Addresses pedagogical content knowledge for the teaching and learning of
+mathematics in grades K-9, based on
+ the national content and process standards."
+CI 47502 ,"SCIENCE TEACHING IN EARLY AND MIDDLE GRADES
+",CI,Admission to advanced study.,None,"(Cross-listed with CI 57502) Addresses pedagogical content knowledge for
+the teaching and learning of science
+ in grades K-9. In addition students examine how to best align science practice to state and national standards."
+CI 47503 ,"TEACHING SOCIAL STUDIES IN EARLY AND MIDDLE GRADES
+",CI,"Admission to advancedstudy.
+",None,"(Cross-listed with CI 57503) Addresses pedagogical content knowledge for
+the teaching and learning of social
+ studies in grades k-9,based on the national content and process standards."
+CI 47504 ,"TEACHING READING AND WRITING IN MIDDLE GRADES
+",CI,"Admission toadvanced study.
+",None,"(Cross-listed with CI 57504) Addresses pedagogical content knowledge for
+the teaching and learning of reading
+ and writing in grades 4-9, based on the national content and process standards."
+CI 50093 ,"VARIABLE TITLE WORKSHOP IN CURRICULUM AND INSTRUCTION
+",CI,Graduate standing and special approval.,None,"(Repeatable for credit) (Cross-listed with CI 40093 and CI 70093) Variable topic workshop designed to respond
+ to curriculum trends and issues, and specialized needs."
+CI 50095 ,"SPECIAL TOPICS: SEMINAR/WORKSHOP IN CURRICULUM AND INSTRUCTION
+",CI,Graduate standing.,None,"Special topic: seminar workshop for international baccalaureate program,"
+CI 53093 ,"VARIABLE TITLE WORKSHOP IN EXERCISE, LEISURE AND SPORT
+",CI,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with SRM 53093) Workshop in exercise, leisure and sport studies topics
+ vary. Maximum 4 hours may be
+applied to degree."
+CI 55015 ,"PSYCHOLOGY OF COACHING
+",CI,Graduate standing.,None,"(Cross-listed with PEP 45015) Factors affecting athletic performance emphasizing skill, motivation, personality
+ and practice conditions."
+CI 55020 ,"CONTEMPORARY ATHLETIC COACHING
+",CI,Graduate standing.,None,"A focus on the philosophy, skills, strategies and tactics of coaching within contemporary society."
+CI 55051 ,"ELEMENTARY SCHOOL PHYSICAL EDUCATION METHODS
+",CI,"Special approval; and graduate standing; and students in the Physical Education Teacher Education (PETE)concentration in the Curriculum and Instruction (CI) major within
+the Master of Education (MED) degree.
+ ",usite: CI 55053.,"(Cross-listed with PEP 45051) Approaches to teaching in elementary school physical education. Focus on
+ establishing an environment for learning, planning standards based lessons, instructional effectiveness,
+and
+ assessment of student learning. Students are required to complete Bureau of Criminal Investigation and
+ Identification (BCII) and Federal Bureau of Investigation (FBI) background checks and submit the results to
+ authorized personnel at their assigned school-agency before the first
+day of field experience."
+CI 55053 ,"ELEMENTARY SCHOOL PHYSICAL EDUCATION CONTENT
+",CI,Special approval and graduate standing. ,CI 55051.,"(Cross-listed with PEP 45053) Physical education content for the elementary school child with emphasis on
+ developmentally appropriate learning in three domains. Students are required to complete Bureau of Criminal
+ Investigation and Identification (BCII) and Federal Bureau of Investigation (FBI) background checks and submit
+ the results to authorized personnel at their assigned school-agency before the first day of field experience."
+CI 55058 ,"SECONDARY SCHOOL PHYSICAL EDUCATION METHODS
+",CI,Special approval and graduate standing. ,CI 55059.,"(Cross-listed with PEP 45058) Approaches to teaching in secondary physical education. Focus on management
+ of the learning environment, planning for learning outcomes in three domains, instructional effectiveness, and
+ sequential curriculum development. Students are required to complete Bureau of Criminal Investigation and
+ Identification
+(BCII) and Federal Bureau of Investigation (FBI) background checks and submit the results to
+ authorized personnel at their assigned school-agency before the first day of field experience."
+CI 55059 ,"SECONDARY SCHOOL PHYSICAL EDUCATION CONTENT
+",CI,Special approval and graduatestanding. ,CI 55058.,"(Cross-listed with PEP 45059) Introduction and development of content, standards-based curriculum models,
+ management and organizational skills related to sports and activities utilized in secondary school physical
+education. Students are required to complete Bureau of Criminal Investigation and Identification (BCII) and
+ Federal Bureau of Investigation (FBI) background checks and submit the results to authorized personnel at their
+ assigned school-agency before the first day of field experience."
+CI 57330 ,"READING AND WRITING IN ADOLESCENCE/ADULTHOOD
+",CI,Graduate standing.,None,"(Cross-listed with CI 47330) Understanding of literacy learning in adolescence and adulthood (ages 12-21) with
+ an emphasis on strategies for text learning, literacy in electronic environments, and teaching students who
+ struggle as readers and writers."
+CI 57501 ,"TEACHING MATHEMATICS IN EARLY AND MIDDLE GRADES
+",CI,Graduate standing.,None,"(Cross-listed with CI 47501) This course addresses pedagogical content knowledge for the teaching and
+ learning of mathematics in grades K-9, based on the national content and process standards."
+CI 57502 ,"SCIENCE TEACHING IN EARLY AND MIDDLE GRADES
+",CI,Graduate standing.,None,"(Cross-listed with CI 47502) This course addresses pedagogical content knowledge for the teaching and
+ learning of science in grades K-9. In addition students will examine how to best align science practice to state
+ and national standards."
+CI 57503 ,"TEACHING SOCIAL STUDIES IN EARLY AND MIDDLE GRADES
+",CI,Graduate standing.,None,"(Cross-listed with CI 47503) This course addresses pedagogical content knowledge for the teaching and
+ learning of social studies in grades K-9,
+based on the national content and process standards."
+CI 57504 ,"TEACHING READING AND WRITING IN MIDDLE GRADES
+",CI,"Graduatestanding.
+",None,"(Cross-listed with CI 47504) Addresses pedagogical content knowledge for
+the teaching and learning of reading
+ and writing in grades K-9, based on the national content and process standards."
+CI 60199 ,"THESIS I
+",CI,Graduate standing and special approval.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in a single semester distributed over several
+ semesters if desired."
+CI 60299 ,"THESIS II
+",CI,CI 60199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+CI 61125 ,"ISSUES AND TRENDS IN SOCIAL STUDIES EDUCATION
+",CI,Graduate standing.,None,"(Cross-listed with CI 71125) This course will provide an overview of historical trends and contemporary issues
+ in social studies education."
+CI 61126 ,"RESEARCH IN SOCIAL STUDIES TEACHING AND LEARNING
+",CI,Graduate standing.,None,"(Cross-listed with CI 71126) During this course students will examine, discuss and study research in the
+ teaching and learning of social studies as well as develop their own study of social studies teaching and
+ learning."
+CI 61127 ,"TECHNOLOGY AND SOCIAL STUDIES
+",CI,Graduate standing.,None,"(Cross-listed with CI 71127) Course provides experiences with and study of various uses of technology in social
+ studies teaching and learning. During the course we will examine implications and effects of technology
+on
+ student learning, teaching and society as a whole."
+CI 61130 ,"MULTICULTURAL EDUCATION:STRATEGIES
+",CI,Graduate standing.,None,"(Cross-listed with CI 71130) Teachers will be provided with knowledge and strategies for teaching children to
+ function effectively in a pluralistic society."
+CI 61133 ,"ISSUES AND TRENDS IN ELEMENTARY SCIENCE
+",CI,Graduate standing.,None,"(Cross-listed with CI 71133) New discoveries in science, including issues in society with direct science content.
+ Emphasis is on practical and simple classroom applications."
+CI 61134 ,"RESEARCH TRENDS IN SCIENCE EDUCATION
+",CI,Graduate standing.,None,(Cross-listed with CI 71134) Course in issues relating to research methods pertinent to science education.
+CI 61140 ,"CULTURE AND MULTICULTURALISM IN SCIENCE EDUCATION
+",CI,"Graduatestanding.
+",None,"(Cross-listed with CI 71140) This course provides a general introduction
+to the impacts of multiculturalism and
+ the social studies of science on
+science education. Implications for science educational curriculum theory,
+ classroom practice and research are explored. Topics examined include, race and gender in science education,
+ teaching the culture of science and teaching science in a global context."
+CI 61141 ,"NATURE OF SCIENCE IN SCIENCE EDUCATION
+",CI,Graduate standing.,None,(Cross-listed with CI 71141) Course in issues relating to the nature of science as it impacts science education.
+CI 63193 ,"VARIABLE TITLE WORKSHOP IN EXERCISE, LEISURE AND SPORT
+",CI,Special approval and graduate standing.,None,"(Repeatable for credit)Workshop in exercise, leisure and sport topics vary. Maximum 4 hours applied to the
+ degree."
+CI 65025 ,"CONTEMPORARY ISSUES IN SPORT PEDAGOGY - AN INTERNATIONAL PERSPECTIVE
+",CI,graduate standing.,None,"An international perspective on the investigation and study of current problems, issues and trends in sport
+ pedagogy."
+CI 65037 ,"ADAPTED PHYSICAL EDUCATION
+",CI,graduate standing.,None,"This online course is designed to prepare physical education teachers to
+provide safe, appropriate, and
+ individualized accommodations to students with disabilities. All information presented is structured around
+ research-based and cross-culturally appropriate practices in adapted physical education that have been
+ implemented in physical education programs globally. This web-based program includes lecture notes,
+ supplemental readings, and video clips."
+CI 65044 ,"PEDAGOGICAL ANALYSIS OF PHYSICAL EDUCATION AND SPORT
+",CI,Graduate standing.,None,"An analysis of contemporary pedagogical models, practices and theories relevant to the multidimensional
+ environments of physical education and sport."
+CI 65055 ,"CURRICULUM DEVELOPMENT IN SPORT PEDAGOGY
+",CI,Graduate standing.,None,"The analysis, development and design of curricular theory and practice in physical education and sport. An
+ examination of current and future issues in curriculum implementation."
+CI 65392 ,"ADVANCED PRACTICUM IN PHYSICAL EDUCATION
+",CI,"Special approval andgraduate standing; and Official
+ valid certification of Child Safety Training, approved Basic Life Support and A.L.I.C.E. Training must be
+presented to the campus office of clinical experience or designated faculty/staff at Regional campuses as
+ prerequisite for student teaching.
+",None,"(Repeatable for credit) A sixteen week practicum, in K-12 physical education, combining full-time student
+ teaching and student teaching seminar. Eight weeks student teaching at the preschool to fifth grade level and
+ eight weeks at the sixth to twelfth grade level. Students are required to complete Bureau of Criminal
+ Investigation and Identification
+(BCII) and Federal Bureau of Investigation (FBI) background checks and submit
+ the results to authorized personnel at their assigned school/agency before the first day of the semester in which
+student teaching/ internship will take place."
+CI 65592 ,"PRACTICUM IN ADAPTED PHYSICAL EDUCATION
+",CI,Special approval and graduate standing.,None,"(Repeatable for credit) (Cross-listed with CI 75592) Supervised and supervisory experiences in motor
+ development for all ages and abilities,
+including conceptual bases for assessment and individualized task
+analysis."
+CI 65692 ,"INTERNSHIP IN ATHLETIC COACHING
+",CI,"Graduate standing andspecial approval.
+",None,"(Repeatable for a maximum of 4 credits) Supervised experience in organized sport focused upon the duties of a
+ coach; can involve one or more level (youth, school, college, professional) and sport. A focus on the philosophy,
+ skills, strategies and tactics of coaching within contemporary society. 45 contact hours per credit. Students are
+ required
+to complete Bureau of Criminal Investigation and Identification (BCII) and Federal Bureau of
+ Investigation (FBI) background checks and submit the results to authorized personnel at their assigned school-
+agency before the first day of the semester in which student teaching-internship will take place."
+CI 67001 ,"FUNDAMENTALS OF CURRICULUM
+",CI,Graduate standing.,None,"(Cross-listed with CI 77001) Orientation to the curriculum field. Theoretical examination of foundations,
+ elements, design and development
+of school, college and nonschool curricula."
+CI 67002 ,"CURRICULUM LEADERSHIP
+",CI,"CI 67001;graduate standing.
+",None,"(Cross-listed with CI 77002) This course explores the theories and practices of curriculum leadership with
+ reference to the current politics of education and the democratic ideals of information-age, pluralistic societies.
+ Mandated accountability reform is critically compared to invited professional renewal."
+CI 67003 ,"TEACHER EDUCATION
+",CI,Graduate standing.,None,"(Cross-listed with CI 77003) This course is designed to provide a broad overview of teacher education, including
+ curriculum, organization, governance and policy."
+CI 67004 ,"PROFESSIONAL DEVELOPMENT IN TEACHING
+",CI,"Graduatestanding.
+",None,"(Cross-listed with CI 77004) This course is designed to provide a broad overview and conceptual framework for
+ professional development; its historical, cultural, psychological and social contexts."
+CI 67005 ,"INTERCULTURAL DIMENSIONS OF TEACHING AND LEARNING
+",CI,graduate standing.,None,"(Cross-listed with CI 77005) Increasing intercultural interaction in schools and communities across the nation
+ and around the world are prompting educational changes in terms of what is being taught and how it is being
+ taught. Educators at all levels are increasingly being called upon to enhance their own intercultural competence
+ and to consider how best to translate this to students in their charge. Addresses teaching and learning in the
+ intercultural K-16 context."
+CI 67007 ,"CRITICAL REFLECTION IN CI
+",CI,"CI 67001 andgraduate standing.
+",None,"Capstone course for a master's degree in curriculum and instruction. Students critique their content area
+ studies with reference to the standard of curriculum-based pedagogy. Three concepts inform this critique:
+ continuing professional development, multicultural education, curriculum leadership for reform and renewal."
+CI 67010 ,"CURRICULUM EVALUATION
+",CI,Graduate Standing.,None,"(Cross-listed with CI 77010) This course is designed to help students learn to plan for and use a variety of
+ techniques to gather information in systematic ways, across different phases of curriculum planning,
+development, implementation, and evaluation to enhance decision-making processes. Students will develop
+ evaluation questions around a curriculum or program of their choice and then design a detailed evaluation plan."
+CI 67091 ,"SEMINAR IN CURRICULUM AND INSTRUCTION
+",CI,"Instructor's special approval andgraduate standing.
+",None,"(Repeatable for credit) (Cross-listed with CI 77091) A wide range of topics for advanced graduate inquiry.
+ Normally a balance of theoretical study and creative application."
+CI 67092 ,"ADVANCED PRACTICUM AND INTERNSHIP IN CURRICULUM AND INSTRUCTION
+",CI,Graduate standing and special approval.,None,"(Repeatable for credit) (Cross-listed with CI 77092) Supervised practicum in curriculum design, development,
+ implementation, and-or leadership. Planned with and directed by a graduate faculty member. Students are
+ required to complete Bureau of Criminal Investigation and Identification (BCII) and Federal Bureau of
+ Investigation (FBI) background checks and submit the results to authorized personnel at their assigned
+ schoolagency before the first day of the semester in which student teaching internship will take place."
+CI 67095 ,"SPECIAL TOPICS IN CURRICULUM AND INSTRUCTION
+",CI,"Graduate standing andspecial approval.
+",None,"(Repeatable for credit) (Cross-listed with CI 77095) Specialized offerings in response to emerging or selected
+ program needs in curriculum design, development and implementation."
+CI 67096 ,"INDIVIDUAL INVESTIGATION IN CURRICULUM AND INSTRUCTION
+",CI,Graduate standing and special approval.,None,"(Repeatable for credit) (Cross-listed with CI 77096) Directed independent reading and/or research of special
+ interest or need in student's program. Planned with and directed by a graduate faculty member."
+CI 67098 ,"RESEARCH IN CURRICULUM AND INSTRUCTION
+",CI,Graduate standing and special approval.,None,"(Repeatable for credit)Students pursue an individualized research project on a specialized topic with approval
+ and under direction of instructor."
+CI 67105 ,"IMPROVING CLASSROOM INSTRUCTION
+",CI,Graduate standing.,None,"(Cross-listed with CI 77105) Emphasizes motivation, varied materials and
+methods, individual needs and
+ sources of teacher help. Class members define goals and means."
+CI 67107 ,"CURRICULUM AND ORGANIZATION IN THE MIDDLE GRADES
+",CI,Graduate standing.,None,"(Cross-listed with CI 77107) History, philosophy, curriculum and organization of schools serving children ages
+ 8- 15. Emphasis on development of programs and curriculum that are responsive to the needs of early
+ adolescents."
+CI 67108 ,"TEACHING AND LEARNING IN THE MIDDLE GRADES
+",CI,Graduate standing.,None,"(Cross-listed with CI 77108) Pedagogical theories and practices; approaches to instruction, relationship of
+ teaching to learning and development for children ages 8 15."
+CI 67224 ,"TEACHING MATHEMATICS USING COMPUTERS AND CALCULATORS
+",CI,graduate standing.,None,"(Cross-listed with CI 77224) The purpose is to develop knowledge of research and theories regarding teaching
+ and learning mathematics via computing devices. Further to develop proficiency in the use of computing devices
+ and software that would be used in the teaching and learning of mathematics."
+CI 67225 ,"RESEARCH IN MATHEMATICS EDUCATION
+",CI,Graduate standing.,None,"(Cross-listed with CI 77225) Current research theory, methodology and results in mathematics education will be
+ investigated. Implications for instructional practice and curriculum design will be examined."
+CI 67226 ,"IMPROVING MATHEMATICS INSTRUCTION IN MIDDLE CHILDHOOD
+",CI,Graduate standing.,None,"(Cross-listed with CI 77226) Instructional psychology and materials including technology for the effective
+ teaching of mathematics in grade three through eight with a theoretical emphasis on cognitive development."
+CI 67227 ,"ASSESSMENT IN MATHEMATICS EDUCATION
+",CI,"Completion of 2 of the following: ADED 52267, CI67224, CI
+67226 or ECED 50147. Graduate standing.
+",None,"(Cross-listed with CI 77227) Investigation of standards and practices in
+mathematical assessments as
+recommended by NCTM and current research."
+CI 67228 ,"INTERVENTION IN MATHEMATICS INSTRUCTION
+",CI,"Completion of 2 of the following: ADED52267, CI 67224, CI 67226 or ECED 50147. Graduate standing.
+",None,"(Cross-listed with CI 77228) Investigation of alternative methods of teaching mathematics to diverse learners
+ who experience difficulties in learning mathematics."
+CI 67240 ,"INTRODUCTION TO ENVIRONMENTAL EDUCATION
+",CI,Graduate standing.,None,"(Cross-listed with CI 77240) Survey course emphasizes current debates in
+environmental issues, exploring the
+ interconnectedness of ecology, understanding the impact of culture and education on notions of environmental
+ concerns, and how these ideas can be investigated within classroom contexts. The course is designed for
+ teachers, science educators and other concerned citizens of the earth."
+CI 67292 ,"PRACTICUM IN MATHEMATICAL ASSESSMENT
+",CI,"Completion of 2 of the following: ADED 52267, CI 67224, CI67226 or
+ ECED 50147. Graduate standing.
+",None,"(Cross-listed with CI 77292) (Repeatable for credit) Experience in designing and administering both formal and
+ informal assessments."
+CI 67310 ,"THEORY AND PRACTICE IN THE TEACHING OF READING
+",CI,Graduate standing.,None,"(Cross-listed with CI 77310) Nature and development of reading, approaches to instruction, relation to learning
+ and development."
+CI 67312 ,"TEACHING WRITING AS A PROCESS
+",CI,Graduate standing.,None,"(Cross-listed with CI 77312) Emphasizes a process approach to writing instruction in grades K through 12.
+ Examines the steps and studies of composing, evaluation and components of a school wide program."
+CI 67314 ,"SURVEY OF YOUNG ADULT LITERATURE
+",CI,"Graduatestanding.
+",None,"(Cross-listed with CI 77314) Presents a survey of selected types of literature appropriate for students in middle
+ school, junior high and high school. Emphasis on evaluating, selecting and teaching."
+CI 67315 ,"SURVEY OF CHILDREN'S LITERATURE
+",CI,Graduate standing.,None,"(Cross-listed with CI 77315 and ENG 66052 and ENG 76052) Wide reading in
+children's literature, with
+ particular application to school curriculum
+and field of reading."
+CI 67319 ,"DIAGNOSIS AND REMEDIATION IN READING
+",CI,CI 6/77310. Graduate standing.,None,"(Cross-listed with CI 77319) Theory and application of diagnostic principles and remedial reading approaches
+ with school-age children. Cultural, linguistic, cognitive and affective factors in diagnosing and remediating
+ reading problems."
+CI 67320 ,"TEACHER AS LITERACY RESEARCHER
+",CI,EVAL 65510 or EVAL 65511 or CI 67351 and graduate standing.,None,"Capstone experience in master's program in literacy in which students pursue an individualized literacy research
+ program."
+CI 67330 ,"READING IN CONTENT AREAS
+",CI,Graduate standing.,None,"(Cross-listed with CI 77330) Information and competencies for improving students' reading and studying in the
+ content areas. Focus on intermediate grades through postsecondary years."
+CI 67333 ,"BLACK WOMEN AND LITERACY
+",CI,Graduate standing.,None,"(Cross-listed with CI 77333) This graduate level course is designed to support inquiry into literacy and its
+ implications for women from the African diaspora. Several aspects of literacy will be considered i.e. verbal,
+ visual and graphic. Questions will be raised about the implications of these forms of literacy for black women in
+ different geographical locations."
+CI 67337 ,"THEORY AND PRACTICE OF TEACHING LITERATURE-SECONDARY AND COLLEGE
+",CI,Graduate standing.,None,"(Cross-listed with CI 77337) This course provides a rationale for and means of relating literary theory to
+ classroom practice and pedagogical research. For secondary and post secondary English teachers."
+CI 67339 ,"WRITING ASSESSMENT AND RESPONSE
+",CI,Graduate standing.,None,"(Cross-listed with CI 77339) Exploration of issues in writing assessment, theoretical base for effective formative
+ response to student
+writing and design, and implementation of writing assessment measures."
+CI 67351 ,"PERSPECTIVES ON LITERACY RESEARCH
+",CI,"Reading specialization (READ) major andgraduate standing.
+",None,"(Cross-listed with CI 77351) Inquiry into basic concepts and agendas for
+research through a study of historical,
+ landmark and ground-breaking studies in literacy."
+CI 67352 ,"LITERACY COACHING
+",CI,"CI 67310 or 77310; and 67319 or 77319; and 67323 or 77323;and 67330 or 77330; and MCED 50005 and graduate standing.
+",None,"(Cross-listed with CI 77352) Focus on principles and strategies related to literacy coaching p--adult, within
+ classrooms, schools and districts."
+CI 67353 ,"MULTICULTURAL VOICES IN TEACHING CHILDREN'S AND YOUNG ADULT LITERATURE
+",CI,M.Ed. or M.A. in Reading Specialization (READ) major.,None,"(Cross-listed with CI 77353) Exploring diverse voices in children's and young adult literature in K-12 literacy
+ classrooms to support culturally
+responsive teaching and learning and broaden student understandings of
+diversity"
+CI 67392 ,"ADVANCED PRACTICUM AND INTERNSHIP IN READING
+",CI,Graduate standing and special approval.,None,"(Repeatable for credit) (Cross-listed with CI 77392) Supervised program requiring application of theory and
+ practices in reading in field settings. Planned with and directed by a graduate faculty member. Students are
+ required to complete Bureau of Criminal Investigation and Identification (BCII) and Federal Bureau of
+ Investigation (FBI) background checks and submit the results to authorized personnel at their assigned
+ ¿school/agency¿ before the first day of the
+semester in which student teaching/ internship will take place."
+CI 67395 ,"SPECIAL TOPICS IN READING
+",CI,Graduate standing and special approval.,None,"(Repeatable for credit) (Cross-listed with CI 77395) Specialized offerings in response to emerging or selected
+ program needs in reading."
+CI 67396 ,"INDIVIDUAL INVESTIGATION IN READING AND LANGUAGE ARTS
+",CI,Graduate standing and special approval.,None,"(Repeatable for credit) (Cross-listed with CI 77396) Directed independent reading and/or research of special
+ interest or need in student's program. Planned with and directed by a graduate faculty member."
+CI 67517 ,"NEW LITERACIES IN PRACTICE
+",CI,graduate standing.,None,"(Cross-listed with CI 87517) Developing technologies are changing the very definition of ""literacy."" Designed to
+ provide an overview of current (and past) theory and practices related to the growing line of inquiry known as
+ “new literacies.” Participants of the class
+follow their own paths of inquiry related to the question: How is our
+definition of “literacy” changing? Participants engage in discussions of theoretical positions related to this
+ question (from perspectives as “new literacies,” “multiliteracies,” and “arts-based knowing” to name a few) as
+ well as encounter such ""nuts and bolts"" information as how to set up a blog or a wiki and basics of video
+ editing. Appropriate for any educator who is interested in examining how “new literacies” are transforming our
+ classrooms."
+CI 67592 ,"PRACTICUM MATH INTERVENTION
+",CI,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with CI 77592) Experience in providing leadership in designing intervention
+ programs for schools, and
+designing curriculum and instruction for individual learners that experience difficulties
+ in learning mathematics."
+CI 67692 ,"CLINICAL PRACTICUM IN CORRECTIVE READING
+",CI,CI 67319. Graduate standing.,None,"(Cross-listed with CI 77692) Application of previous courses includes supervised diagnostic/prescriptive reading
+ work with school-age pupils and diagnostic/remedial reporting."
+CI 67791 ,"SEMINAR IN MATHEMATICS EDUCATION
+",CI,Graduate standing.,None,"(Repeatable for credit) An in-depth exploration of the theoretical frameworks and methodologies used in current
+ research in mathematics education will be conducted."
+CI 70093 ,"VARIABLE TITLE WORKSHOP IN CURRICULUM AND INSTRUCTION
+",CI,Doctoral standing and special approval.,None,"(Repeatable for credit) (Cross-listed with CI 40093 and CI 50093) Variable topic workshop designed to respond
+ to curriculum trends and issues, and specialized needs."
+CI 71125 ,"ISSUES AND TRENDS IN SOCIAL STUDIES EDUCATION
+",CI,Doctoral standing.,None,"(Cross-listed with CI 61125) This course will provide an overview of historical trends and contemporary issues
+ in social studies education."
+CI 71126 ,"RESEARCH IN SOCIAL STUDIES TEACHING AND LEARNING
+",CI,Doctoral standing.,None,"(Cross-listed with CI 61126) During this course students will examine, discuss and study research in the
+ teaching and learning of social studies as well as develop their own study of social studies teaching and
+learning."
+CI 71127 ,"TECHNOLOGY AND SOCIAL STUDIES
+",CI,Doctoral standing.,None,"(Cross-listed with CI 61127) Course provides experiences with and study of various uses of technology in social
+ studies teaching and learning. During the course we will examine implications and effects of technology
+on
+ student learning teaching and society as a whole."
+CI 71130 ,"MULTICULTURAL EDUCATION:STRATEGIES
+",CI,Doctoral standing.,None,"(Cross-listed with CI 61130) Teachers will be provided with knowledge and strategies for teaching children to
+ function effectively in a pluralistic society."
+CI 71133 ,"ISSUES AND TRENDS IN ELEMENTARY SCIENCE
+",CI,Doctoral standing.,None,"(Cross-listed with CI 61133) New discoveries in science, including issues in society with direct science content.
+ Emphasis is on practical and simple classroom applications."
+CI 71134 ,"RESEARCH TRENDS IN SCIENCE EDUCATION
+",CI,Doctoral standing.,None,(Cross-listed with CI 61134) Course in issues relating to research methods pertinent to science education.
+CI 71140 ,"CULTURE AND MULTICULTURALISM IN SCIENCE EDUCATION
+",CI,"Doctoralstanding.
+",None,"(Cross-listed with CI 61140) This course provides a general introduction
+to the impacts of multiculturalism and
+ the social studies of science on
+science education. Implications for science educational curriculum theory
+ classroom practice and research are explored. Topics examined include race and gender in science education
+ teaching the culture of science and teaching science in a global context."
+CI 71141 ,"NATURE OF SCIENCE IN SCIENCE EDUCATION
+",CI,Doctoral standing.,None,(Cross-listed with CI 61141) Course in issues relating to the nature of science as it impacts science education.
+CI 75592 ,"PRACTICUM IN ADAPTED PHYSICAL EDUCATION
+",CI,Special approval and doctoral standing.,None,"(Repeatable for credit) (Cross-listed with CI 65592) Supervised and supervisory experiences in motor
+ development for all ages and abilities,
+including conceptual bases for assessment and individualized task
+analysis."
+CI 77001 ,"FUNDAMENTALS OF CURRICULUM
+",CI,Doctoral standing.,None,"(Cross-listed with CI 67001) Orientation to the curriculum field. Theoretical examination of foundations
+ elements design and development of school college and non school curricula."
+CI 77002 ,"CURRICULUM LEADERSHIP
+",CI,doctoral standing.,None,"Explores the theories and practices of curriculum leadership with reference to the current politics of education
+ and the democratic ideals
+of information-age, pluralistic societies. Mandated accountability reform is critically
+compared to invited professional renewal. CI 77001 or compatible professional experience with fundamentals of
+ curriculum work is recommended."
+CI 77003 ,"TEACHER EDUCATION
+",CI,Doctoral standing.,None,"(Cross-listed with CI 67003) This course is designed to provide a broad overview of teacher education, including
+ curriculum, organization, governance and policy."
+CI 77004 ,"PROFESSIONAL DEVELOPMENT IN TEACHING
+",CI,"Doctoralstanding.
+",None,"(Cross-listed with CI 67004) This course is designed to provide a broad overview and conceptual framework for
+ professional development; its historical, cultural, psychological and social contexts."
+CI 77005 ,"INTERCULTURAL DIMENSIONS OF TEACHING AND LEARNING
+",CI,doctoral standing.,None,"(Cross-listed with CI 67005) Increasing intercultural interaction in schools and communities across the nation
+ and around the world are prompting educational changes in terms of what is being taught and how it is being
+ taught. Educators at all levels are increasingly being called upon to enhance their own intercultural competence
+ and to consider how best to translate this to students in their charge. Addresses teaching and learning in the
+ intercultural K-16 context."
+CI 77010 ,"CURRICULUM EVALUATION
+",CI,Doctoral standing.,None,"(Cross-listed with CI 67010) This course is designed to help students learn to plan for and use a variety of
+ techniques to gather information in systematic ways, across different phases of curriculum planning,
+development, implementation, and evaluation to enhance decision-making processes. Students will develop
+ evaluation questions around a curriculum or program of their choice and then design a detailed evaluation plan."
+CI 77092 ,"ADVANCED PRACTICUM IN CURRICULUM AND INSTRUCTION
+",CI,doctoral standing and special approval.,None,"(Repeatable for credit) (Cross-listed with CI 67092) Supervised practicum in curriculum design, development,
+ implementation, and-or leadership. Planned with and directed by a graduate faculty member. Students are
+ required to complete Bureau of Criminal Investigation and Identification (BCII) and Federal Bureau of
+ Investigation (FBI) background checks and submit the results to authorized personnel at their assigned
+ schoolagency before the first day of the semester in which student teaching internship will take place."
+CI 77095 ,"SPECIAL TOPICS IN CURRICULUM AND INSTRUCTION
+",CI,"Doctoral standing andspecial approval.
+",None,"(Repeatable for credit) (Cross-listed with CI 67095) Specialized offerings in response to emerging or selected
+ program needs in curriculum design, development and implementation."
+CI 77096 ,"INDIVIDUAL INVESTIGATION IN CURRICULUM AND INSTRUCTION
+",CI,Doctoral standing and special approval.,None,"(Repeatable for credit) (Cross-listed with CI 67096) Directed independent reading and/or research of special
+ interest or need in student's program. Planned with and directed by a graduate faculty member."
+CI 77105 ,"IMPROVING CLASSROOM INSTRUCTION
+",CI,Doctoral standing.,None,"(Cross-listed with CI 67105) Emphasizes motivation, varied materials and
+methods individual needs and
+ sources of teacher help. Class members define goals and means."
+CI 77107 ,"CURRICULUM AND ORGANIZATION IN THE MIDDLE GRADES
+",CI,Doctoral standing.,None,"(Cross-listed with CI 67107) History, philosophy, curriculum and organization of schools serving children ages
+ 8- 15. Emphasis on development of programs and curriculum that are responsive to the needs of early
+ adolescents."
+CI 77108 ,"TEACHING AND LEARNING IN THE MIDDLE GRADES
+",CI,Doctoral standing.,None,"(Cross-listed with CI 67108) Pedagogical theories and practices; approaches to instruction, relationship of
+ teaching to learning and development for children, ages 8-15."
+CI 77224 ,"TEACHING MATHEMATICS USING COMPUTERS AND CALCULATORS
+",CI,doctoral standing.,None,"(Cross-listed with CI 67224) The purpose is to develop knowledge of research and theories regarding teaching
+ and learning mathematics via computing devices. Further to develop proficiency in the use of computing devices
+ and software that would be used in the teaching and learning of mathematics."
+CI 77225 ,"RESEARCH IN MATHEMATICS EDUCATION
+",CI,Doctoral standing.,None,"(Cross-listed with CI 67225) Current research theory, methodology and results in mathematics education will be
+ investigated. Implications for instructional practice and curriculum design will be examined."
+CI 77226 ,"IMPROVING MATHEMATICS INSTRUCTION IN MIDDLE CHILDHOOD
+",CI,Doctoral standing.,None,"(Cross-listed with CI 67226) Instructional psychology and materials including technology for the effective
+ teaching of mathematics in grade three through eight with a theoretical emphasis on cognitive development."
+CI 77227 ,"ASSESSMENT IN MATHEMATICS EDUCATION
+",CI,"Completion of 2 of the following: ADED 52267, CI67224, CI
+67226, or ECED 50147. Doctoral standing.
+",None,"(Cross-listed with CI 67227) Investigation of standards and practices in
+mathematical assessments as
+ recommended by NCTM and current research."
+CI 77228 ,"INTERVENTION IN MATHEMATICS INSTRUCTION
+",CI,"Completion of 2 of the following: ADED52267, CI 67224, CI 67226, or ECED 50147. Doctoral standing.
+",None,"(Cross-listed with CI 67228) Investigation of alternative methods of teaching mathematics to diverse learners
+ who experience difficulties in learning mathematics."
+CI 77240 ,"INTRODUCTION TO ENVIRONMENTAL EDUCATION
+",CI,Doctoral standing.,None,"(Cross-listed with CI 67240) Survey course emphasizing current debates in environmental issues, exploring the
+ interconnectedness of ecology, understanding the impact of culture and education on notions of environmental
+ concerns, and how these ideas can be investigated within classroom contexts. The course is designed for
+ teachers, science educators and other concerned citizens of the earth."
+CI 77292 ,"PRACTICUM IN MATHEMATICAL ASSESSMENT
+",CI,"Completion of 2 of the following: ADED 52267, CI 67224, CI67226, or
+ECED 50147. Doctoral standing.
+",None,"(Repeatable for credit) (Cross-listed with CI 67292) Experience in designing and administering both formal and
+ informal assessments."
+CI 77310 ,"THEORY AND PRACTICE IN THE TEACHING OF READING
+",CI,Doctoral standing.,None,"(Cross-listed with CI 67310) Nature and development of reading, approaches to instruction, relation to learning
+ and development."
+CI 77312 ,"TEACHING WRITING AS A PROCESS
+",CI,Doctoral standing.,None,"(Cross-listed with CI 67312) Emphasizes a process approach to writing instruction in grades K through 12.
+ Examines the steps and studies of composing evaluation and components of a school-wide program."
+CI 77314 ,"SURVEY OF YOUNG ADULT LITERATURE
+",CI,"Doctoralstanding.
+",None,"(Cross-listed with CI 67314) Presents a survey of selected types of literature appropriate for students in middle
+ school, junior high and high school. Emphasis on evaluating, selecting and teaching."
+CI 77315 ,"SURVEY OF CHILDREN'S LITERATURE
+",CI,Doctoral standing.,None,"(Cross-listed with CI 67315 and ENG 66052 and ENG 76052) Wide reading in
+children's literature, with
+ particular application to school curriculum
+and field of reading."
+CI 77319 ,"DIAGNOSIS AND REMEDIATION IN READING
+",CI,CI 6/77310. Doctoral standing.,None,"(Cross-listed with CI 67319) Theory and application of diagnostic principles and remedial reading approaches
+ with school-age children. Cultural linguistic cognitive and affective factors in diagnosing and remediating
+ reading problems."
+CI 77330 ,"READING IN CONTENT AREAS
+",CI,Doctoral standing.,None,"(Cross-listed with CI 67330) Information and competencies for improving students' reading and studying in the
+ content areas. Focus on intermediate grades through postsecondary years."
+CI 77333 ,"BLACK WOMEN AND LITERACY
+",CI,Doctoral standing and special approval from instructor.,None,"(Cross-listed with CI 67333) This graduate level course is designed to support inquiry into literacy and its
+ implications for women from the African diaspora. Several aspects of literacy will be considered i.e. verbal,
+ visual, and graphic. Questions will be raised about the implications of these forms of literacy for black women in
+ different geographical locations."
+CI 77337 ,"THEORY AND PRACTICE IN TEACHING LITERATURE-SECONDARY AND COLLEGE
+",CI,Doctoral standing.,None,"(Cross-listed with CI 67337) This course provides a rationale for and means of relating literary theory to
+ classroom practice and pedagogical research. For secondary and post secondary English teachers."
+CI 77339 ,"WRITING ASSESSMENT AND RESPONSE
+",CI,Doctoral standing.,None,"(Cross-listed with CI 67339) Exploration of issues in writing assessment, theoretical base for effective formative
+ response to student
+writing, and design and implementation of writing assessment measures."
+CI 77351 ,"PERSPECTIVES ON LITERACY RESEARCH
+",CI,"Curriculum and instruction (CI) majorand
+ doctoral standing.
+",None,"(Cross-listed with CI 67351) Inquiry into basic concepts and agendas for
+research through a study of historical,
+ landmark and ground-breaking studies in literacy."
+CI 77352 ,"LITERACY COACHING
+",CI,"CI 67310 or CI 77310; and CI 67319 or CI 77319; and CI67323 or CI 77323; and CI 67330 or CI 77330; and MCED 50005; and doctoral standing.
+",None,"(Cross-listed with CI 67352) Focus on principles and strategies related to literacy coaching, p--adult, within
+ classrooms, schools and districts."
+CI 77353 ,"MULTICULTURAL VOICES IN TEACHING CHILDREN'S AND YOUNG ADULT LITERATURE
+",CI,doctoral standing.,None,"(Cross-listed with CI 67353) Exploring diverse voices in children's and young adult literature in K-12 literacy
+ classrooms to support culturally
+responsive teaching and learning and broaden student understandings of
+diversity."
+CI 77392 ,"ADVANCED PRACTICUM AND INTERNSHIP IN READING
+",CI,Doctoral standing and special approval.,None,"(Repeatable for credit) (Cross-listed with CI 67392) Supervised program requiring application of theory and
+ practices in reading in field settings. Planned with and directed by a graduate faculty member. Students are
+ required to complete Bureau of Criminal Investigation and Identification (BCII) and Federal Bureau of
+ Investigation (FBI) background checks and submit the results to authorized personnel at their assigned
+ school/agency before the first day of the semester in which student teaching/ internship will take place."
+CI 77395 ,"SPECIAL TOPICS IN READING
+",CI,Doctoral standing and special approval.,None,"(Repeatable for credit) (Cross-listed with CI 67395) Specialized offerings in response to emerging or selected
+ program needs in reading."
+CI 77396 ,"INDIVIDUAL INVESTIGATION IN READING AND LANGUAGE ARTS
+",CI,Doctoral standing and special approval.,None,"(Repeatable for credit) (Cross-listed with CI 67396) Directed independent reading and/or research of special
+ interest or need in student's program. Planned with and directed by a graduate faculty member."
+CI 77592 ,"PRACTICUM MATH INTERVENTION
+",CI,"ADED 52267, CI 67224 and 67226, ECED 50147. Doctoral standing.",None,"(Repeatable for credit) (Cross-listed with CI 67592) Experience in providing leadership in designing intervention
+ programs for schools, and
+designing curriculum and instruction for individual learners that experience difficulties
+ in learning mathematics."
+CI 77692 ,"CLINICAL PRACTICUM IN CORRECTIVE READING
+",CI,CI 67319 and doctoral standing.,None,"(Cross-listed with CI 67323) Application of previous courses includes supervised diagnostic/prescriptive reading
+ work with school-age pupils and diagnostic/remedial reporting."
+CI 77791 ,"SEMINAR IN MATHEMATICS EDUCATION
+",CI,Doctoral standing.,None,"(Repeatable for credit)An in-depth exploration of the theoretical frameworks and methodologies used in current
+ research in mathematics education will be conducted."
+CI 80089 ,"RESIDENCY I
+",CI,Doctoral standing.,None,"Beginning doctoral seminar. Students begin to explore the field of curriculum and instruction by reading and
+ discussing foundational and current theories and research in the field. Students will begin to identify and
+ explore their research interests in the field."
+CI 80090 ,"RESIDENCY II
+",CI,CI 80089; doctoral standing.,None,"Advanced doctoral seminar. This will be a structured opportunity for students to synthesize research from the
+ field, explore research options
+for their dissertation study, review literature for their research studies and
+ discuss the development of their research."
+CI 80199 ,"DISSERTATION I
+",CI,Doctoral standing.,None,"(Repeatable for credit)Doctoral dissertation for which registration in at least two semesters is required,first of
+ which will be semester in which dissertation work is begun and continuing until the completion of 30 hours."
+CI 80299 ,"DISSERTATION II
+",CI,"Doctoral standing; CI80199.
+",None,"(Repeatable for credit)Continuing registration required of doctoral students who have completed the initial 30
+hours of dissertation and continuing until all degree requirements are met."
+CI 87000 ,"THEORY AND RESEARCH IN TEACHING
+",CI,"Doctoral standing and specialapproval.
+",None,"Focuses on critical study of contrasting approaches to the study of teaching processes. Surveys issues to give
+ students a more critical perspective and to provoke thought about the relationship among theory research and
+ practice. Required of Curriculum and Instruction Ph.D. students."
+CI 87001 ,"THEORY AND RESEARCH IN CURRICULUM
+",CI,CI 6/77001. Doctoral standing.,None,"Focuses on historic and contemporary examples of curriculum theory and their application in curriculum design,
+ development and evaluation. Examines modes of inquiry used by curriculum researchers and contemporary
+ curriculum issues. Required of CI Ph.D students."
+CI 87002 ,"FORMS OF INQUIRY IN CURRICULUM AND INSTRUCTION
+",CI,Doctoral standing.,None,"Introduction to the history, context, philosophy and ethics of inquiry in curriculum and instruction. Emphasis on
+ acquainting Curriculum and Instruction doctoral students with faculty lines of inquiry and research
+foci while
+ preparing doctoral students for critical consumption of and significant contribution to inquiry in curriculum and
+ instruction."
+CI 87091 ,"SEMINAR IN CURRICULUM AND INSTRUCTION
+",CI,"Doctoral standing and instructor'sspecial approval.
+",None,"(Repeatable for credit) (Cross-listed with CI 67091) A wide range of topics for advanced graduate inquiry.
+ Normally a balance of theoretical study and creative application."
+CI 87098 ,"RESEARCH IN CURRICULUM AND INSTRUCTION
+",CI,Doctoral standing and special approval.,None,"(Repeatable for credit)Students pursue an individualized research project on a specialized topic with approval
+ and under direction of instructor."
+CI 87340 ,"RESEARCH IN READING
+",CI,Doctoral standing and special approval.,None,"An introduction to a perspective on psychological processes underlying levels of reading from prereading to
+ mature reading with implications for instruction."
+CI 87342 ,"SEMINAR IN READING AND LANGUAGE
+",CI,Doctoral standing.,None,"Exploration of some of the issues,methods and findings on the relationship of reading and language.
+ Examination of selected issues such as dialect bilingualism readability language based-strategies for reading
+ instruction."
+CI 87343 ,"RESEARCH IN TEACHING OF WRITING
+",CI,Doctoral standing.,None,"Issues and methodologies in research in the teaching of writing. Students will review the literature and conduct
+ research in a significant area of writing instruction."
+CI 87391 ,"SEMINAR IN READING
+",CI,Doctoral standing and special approval.,None,"(Repeatable for credit)Variable topic seminar for advanced study of specialized areas and topics. Normally
+ designed around research and theory applied to practice."
+CI 87398 ,"RESEARCH IN READING AND LANGUAGE ARTS
+",CI,Doctoral standing and special approval.,None,"(Repeatable for credit)Students pursue an individualized research project on a specialized topic with approval
+ and under direction of instructor."
+CI 87517 ,"NEW LITERACIES IN PRACTICE
+",CI,doctoral standing.,None,"(Cross-listed with CI 67517) Developing technologies are changing the very definition of ""literacy."" Course
+ designed to provide an overview of
+current (and past) theory and practices related to the growing line of inquiry
+ known as “new literacies.” Participants of the class
+follow their own paths of inquiry related to the question:
+ How is our definition of “literacy” changing? Participants engage in discussions of theoretical positions related to
+ this question (from perspectives as “new literacies,” “multiliteracies,” and “arts-based knowing” to name a few)
+ as well as encounter such ""nuts and bolts"" information as how to set up a blog or a wiki and basics of video
+ editing. Appropriate for any educator who is interested in examining how “new literacies” are transforming our
+ classrooms."
+CI 87791 ,"DOCTORAL SEMINAR IN MATHEMATICS EDUCATION
+",CI,Doctoral standing and CI major.,None,"(Repeatable for a maximum of 12 credit hours) Doctoral Seminar in Math Education. Faculty adviser
+ recommendation required for registration."

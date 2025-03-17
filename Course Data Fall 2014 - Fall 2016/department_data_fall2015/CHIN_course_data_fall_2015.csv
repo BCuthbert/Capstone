@@ -1,0 +1,36 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+CHIN 15101 ,"ELEMENTARY CHINESE I
+",CHIN,None.,None,An introduction to Mandarin Chinese in the context of modern Chinese-speaking cultures.
+CHIN 15102 ,"ELEMENTARY CHINESE II
+",CHIN,CHIN 15101.,None,"A continuation of the introduction to Mandarin Chinese in the context of
+modern chinese-speaking cultures."
+CHIN 25201 ,"INTERMEDIATE CHINESE I
+",CHIN,CHIN 15102.,None,"Continued development of speaking, listening, reading and writing skills
+using a variety of cultural materials."
+CHIN 25202 ,"INTERMEDIATE CHINESE II
+",CHIN,CHIN 25201.,None,Continuation of CHIN 25201.
+CHIN 30095 ,"SPECIAL TOPICS
+",CHIN,Permission.,None,(Repeatable for credit)Topic to be announced in schedule of classes.
+CHIN 35201 ,"ADVANCED INTERMEDIATE CHINESE I
+",CHIN,CHIN 25202.,None,"Continuation of Intermediate Chinese II. Emphasis is on building active vocabulary for comprehension, reading
+ authentic texts, writing of connected discourse and the development of conversational proficiency."
+CHIN 35202 ,"ADVANCED INTERMEDIATE CHINESE II
+",CHIN,CHIN 35201,None,"Continuation of Advanced Intermediate Chinese I. Emphasis is on building
+active vocabulary for comprehension,
+ reading authentic texts, writing of connected discourse and the development of conversational proficiency."
+CHIN 45096 ,"INDIVIDUAL INVESTIGATION
+",CHIN,CHIN 25201.,None,"(Repeatable for a total of 6 credit hours) Individual study supervised by a faculty member on an approved topic
+ dealing with Chinese language and-or culture."
+CHIN 45201 ,"ADVANCED CHINESE I
+",CHIN,CHIN 35202.,None,"Continuation of Advanced Intermediate Chinese II. Emphasis is on building active vocabulary for
+ comprehension, reading authentic texts, writing of connected discourse and the development of higher levels of
+conversational proficiency."
+CHIN 45202 ,"ADVANCED CHINESE II
+",CHIN,CHIN 45201.,None,Continuation of Advanced Chinese I.
+CHIN 45301 ,"CHINESE CULTURE
+",CHIN,none.,None,"Survey of Chinese culture including ethnic, religious, and linguistic diversity and the roots of China's current
+ socio-cultural context."
+CHIN 45302 ,"BUSINESS CHINESE
+",CHIN,CHIN 35202.,None,"Study of the business protocol, language functions, texts and vocabulary
+associated with travel and business in
+ the Chinese-speaking world."

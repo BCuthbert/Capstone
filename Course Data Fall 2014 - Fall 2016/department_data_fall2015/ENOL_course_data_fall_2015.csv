@@ -1,0 +1,53 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+ENOL 14600 ,"INTRODUCTION TO ENOLOGY
+",ENOL,None.,None,"Targets people who became interested in home winemaking with possibilities to grow into the small business
+ opportunity, as well as cellar employees interested in winemaking career. During this course, students build
+ proper basic understanding of winemaking which alleviates
+common home winemaker’s errors."
+ENOL 14800 ,"WINERY SANITATION
+",ENOL,ENOL 14600.,None,"The basic science and technology of winery sanitation that includes an introduction to wine microbiology. Covers
+ all methods used for winery sanitation including premises, tanks, pumps, filters, oak barrels and sampling
+ equipment, including but not limited to chemical agents, reagents and thermal treatments leading to sterile
+ bottling. Environmental issues and compliance are also addressed."
+ENOL 16000 ,"WINERY EQUIPMENT OPERATION
+",ENOL,ENOL 14600.,None,"Covers process technologies and process systems used in modern commercial wineries. Overview of
+ winemaking systems, including work place safety, cleaning and sanitation procedures, winemaking equipment
+and materials, tanks, barrels and barrel alternatives, filtration systems and bottling equipment. Also touches
+ upon on chillers and electrical needs."
+ENOL 21000 ,"INTRODUCTION TO WINE MICROORGANISMS
+",ENOL,ENOL 14600.,None,"Introduction to the basic principles of wine microbiology and the variety of microorganisms frequently
+ encountered in the wine making process. Yeasts, bacteria and molds play vital roles in the production of wine,
+ both beneficial and harmful. Students become familiar with the morphology, reproduction and sensory
+ attributes of wine microorganisms in order to understand their influence on winemaking and to be able to
+manage them effectively."
+ENOL 24600 ,"INTERMEDIATE ENOLOGY - HARVEST AND CRUSH
+",ENOL,ENOL 14600.,None,"Focused on advanced science and technology concepts of winemaking as it relates to pre-harvest, fruit harvest,
+ and procedures involved in juice and must preparation. Builds on the fundamentals taught in Introduction to
+ Enology, Molecular Principles of Grape and Wine, and Wine Microbiology."
+ENOL 24700 ,"INTERMEDIATE ENOLOGY - POSTHARVEST
+",ENOL,ENOL 14600 and ENOL 24600.,None,"Focused on advanced science and technology concepts of winemaking as it relates to post harvest procedures
+ involved in stabilization, clarification, fining, and bottling. Builds on the fundamentals taught in Introduction to
+ Enology, Molecular Principles of Grape and Wine, Wine
+Microbiology, Wine and Must Analysis, and Intermediate
+ Enology Harvest and Crush."
+ENOL 25792 ,"FALL WINE PRODUCTION FIELD WORK
+",ENOL,ENOL 14600; and ENOL 14800; and ENOL 16000. ,ENOL 24600.,"Principles of grape juice and wine analysis and the reasons for use of each analysis. Analyses of a practical and
+ useful nature are chosen for the laboratory exercises demonstrating various chemical, physical and biochemical
+ methods. Students participate in workshops and hands-on experiences at participating wineries."
+ENOL 25992 ,"CELLAR OPERATIONS FIELD WORK
+",ENOL,ENOL 25792.,None,"Provide students initiated in the field of enology with actual and practical exposure to the technology of wine
+ making as is performed during the passive vineyard periods associated with winter and spring. Students are
+ expected to improve their understanding of the methods and science involved by on-site participation in each of
+ the various activities associated with finished wine production. Course serves as actual practical exposure and
+ may qualify as experience for those seeking employment in commercial enology."
+ENOL 26600 ,"SENSORY EVALUATION
+",ENOL,ENOL 14600.,None,"Intended for those individuals who need to develop an understanding of the principles of sensory evaluation
+ used in commercial wine making. It also benefits wine enthusiasts interested in reaching advanced levels of
+ appreciation, as well wine producers, wine merchants and enologists, who by the nature of their profession
+ need to discern flavors and establish tasting benchmarks. Students practice sensory analysis at home
+and in
+ workshops to further their sensory evaluation skills and techniques."
+ENOL 26800 ,"WINE AND MUST ANALYSIS
+",ENOL,ENOL 14600.,None,"Principles of grape juice and wine analysis and the reasons for use of each analysis. Analyses of a practical and
+ useful nature are chosen for the laboratory exercises demonstrating various chemical, physical and biochemical
+ methods. Students participate in workshops and hands-on experiences at participating wineries."

@@ -1,0 +1,104 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+RPTM 16000 ,"FOUNDATIONS OF RECREATION AND LEISURE
+",RPTM,None.,None,"Historical examination of the park and recreation movement, sociological, economic, psychological and political
+ considerations for the delivery of leisure and recreation services in contemporary society."
+RPTM 26001 ,"INTRODUCTION TO COMMUNITY INCLUSION FOR INDIVIDUALS WITH DISABILITIES
+",RPTM,none.,None,"Interdisciplinary exploration of conceptual theoretical, philosophical and legal aspects related to inclusion of
+ individuals with disabilities in community life."
+RPTM 26010 ,"COMMUNITY DEVELOPMENT IN RECREATION
+",RPTM,RPTM 16000.,None,"Explores the contemporary and historical roles, organization and services of public and non-profit leisure service
+ providers. Includes various theoretical perspectives on community organization and development as well as
+ methods available to the recreation practitioner to facilitate the development of recreation services in
+ communities."
+RPTM 26030 ,"RECREATION GROUP LEADERSHIP
+",RPTM,None,None,"Group leadership concepts, methods and techniques. Practical experience in planning and conducting
+ recreational activities for a variety of populations. Pre- or co-requisite: RPTM 16000."
+RPTM 26060 ,"INTRODUCTION TO GLOBAL TOURISM
+",RPTM,None.,None,"(Cross-listed with GEOG 22040) Introduction to travel and tourism around the world, including tourism
+ technologies, cultural and natural environments as attractions, benefits of travel ethics and sustainable
+development."
+RPTM 26071 ,"MAIN AND OPER OF AREAS
+",RPTM,"RPTM16000.
+",None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1664
+A systems approach for the effective maintenance and operation of areas and facilities."
+RPTM 26081 ,"PRINCIPLES OF OUTDOOR RECREATION
+",RPTM,none.,None,"Introduction to outdoor recreation including historical and cultural perspectives, outdoor recreation resources,
+ environmental aspects, trends and management."
+RPTM 36010 ,"RECREATION, LEISURE AND AGING
+",RPTM,none.,None,"Knowledge and understanding of leisure and aging. Planning and implementing recreation programs and
+ activities for enriching the lives of older persons."
+RPTM 36040 ,"INCLUSION OF PEOPLE WITH DISABILITIES IN LEISURE SERVICES
+",RPTM,RPTM 26030.,None,"An examination of attitudes toward people with disabilities, characteristics of various disability groups, the role
+ and responsibility of leisure service providers to be inclusive of all individuals and techniques for adapting
+ programs."
+RPTM 36060 ,"ENTREPRENEURIAL APPROACHES TO LEISURE AND HOSPITALITY SERVICES
+",RPTM,none.,None,"Principles of commercial recreation and tourism services, including entrepreneurship, economic concepts of the
+ for-profit recreation industries and management skills."
+RPTM 36075 ,"PROGRAM DESIGN AND EVALUATION
+",RPTM,RPTM 26030.,None,"Programming leisure services within a socio-cultural context, involving understanding and assessing client
+ behavior and needs, proficiency in program design and implementation, and knowledge of evaluation methods
+reflective of a service-centered and benefits approach."
+RPTM 36081 ,"ADVENTURE EDUCATION
+",RPTM,RPTM 26030 and RPTM 26081.,None,"Introduction to adventure education, the history and philosophy, initiatives, ropes courses, adventure curricula
+ and the basics of outdoor leadership and process faciliation."
+RPTM 36082 ,"INTERPRETATION OF NATURAL AND CULTURAL RESOURCES
+",RPTM,RPTM 26081.,None,"Interpretation is the art of creating intellectual and emotional bonds between people and natural and cultural
+ resources. Interpretation is commonly practiced in parks and other protected areas, zoos, museums and a
+ variety of tourist attractions. This course provides students with the philosophies, concepts and practical
+ techniques necessary to plan and present effective interpretation of natural and cultural resources."
+RPTM 36083 ,"ENVIRONMENTAL EDUCATION AND CONSERVATION
+",RPTM,RPTM 26081.,None,"Environmental education helps people better understand the natural world and to develop attitudes and
+ behaviors conducive to environmental conservation. Teaches students the foundations, principles and
+techniques of environmental education thus enabling students to prepare and present effective environmental
+ education programs."
+RPTM 36085 ,"LEISURE AND CULTURE
+",RPTM,None.,None,"Leisure behaviors and beliefs for people from diverse cultures, factors perpetuating inequity in the United States
+ and strategies for leisure programming in a pluralistic society."
+RPTM 36192 ,"PRACTICUM IN RECREATION, PARK AND TOURISM MANAGEMENT
+",RPTM,"RPTM 16000; and special approval; and recreation, park andtourism management (RPTM) major or Park Management (PMM) minor or Recreation Management (RMM) minor
+ or Tourism Management (TMM minor) or Event Planning (EVPL) minor.
+",None,"(Repeatable for credit) A 60-hour field experience in a recreation, park, or tourism setting. Must be approved by
+ instructor prior to registration."
+RPTM 36911 ,"WILDERNESS AND REMOTE FIRST AID FOR PROFESSIONALS AND EDUCATORS
+",RPTM,none.,None,"Students build first aid knowledge skills and behaviors through a variety of learning strategies to individually
+ help in an emergency. A key focus is on how to work in limited resource environments or remote environments
+ (i.e., foreign countries, wilderness, air travel). Then students learn and demonstrate how to prepare others, and
+ be a leader during emergencies through practical experiences. Course is taught and assessed in a cognitively,
+ physically, and emotionally stressed manner. This course includes three weekends and include outdoors
+ experiences. Successful completion of the course may result in American Red Cross certification and Instructor
+ status."
+RPTM 45031 ,"SPORT TOURISM
+",RPTM,junior or senior standing.,None,"Incorporates both theoretical learning of travel for sports as a global phenomenon and application of such
+ knowledge in hosting a sporting event with travel as the focus. The experiential, cultural, and economic aspects
+ of sport tourism are examined. Students demonstrate their ability to prepare a sport tourism plan upon the
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1667
+completion of the course."
+RPTM 46000 ,"TOURISM DEVELOPMENT AND RECREATIONAL TRAVEL
+",RPTM,none.,None,"(Cross-listed with GEOG 42040) Investigation of travel and tourism development using an interdisciplinary
+ social science approach."
+RPTM 46001 ,"PRINCIPLES AND METHODS OF COMMUNITY INCLUSION
+",RPTM,RPTM 26001.,None,"Interdisciplinary approach to the principles and methods of designing an inclusive environment. Focus is on
+ characteristics of disability groups and societal considerations to making adaptations and accommodations.
+Students complete a service learning component that focuses on inclusion of people with disabilities in
+ community life."
+RPTM 46030 ,"DYNAMICS OF LEISURE BEHAVIOR
+",RPTM,RPTM 36040 and 36075.,None,"(Cross-listed with SRM 56030) Analysis of leisure behavior through an examination of social-psychological
+ theories and research."
+RPTM 46060 ,"ADMINISTRATION OF LEISURE SERVICES
+",RPTM,RPTM 36040 and 36075 and 36192.,None,"(Repeatable for a maximum of 9 credit hours) Administrative practices of private and public leisure service
+ agencies. Organization, philosophy, personnel and fiscal management, public relations and legal concerns are
+ examined."
+RPTM 46070 ,"PARK PLANNING
+",RPTM,RPTM 26081 and 36040.,None,"(Cross-listed with SRM 56070) Understanding the relationship between recreation places and the people who
+ use them. This includes the planning, design and functioning of public and commercial recreation places."
+RPTM 46091 ,"SEMINAR FOR INTERNSHIP PREPARATION
+",RPTM,"junior standing; and recreation, park and tourism management (RPTM) major; and RPTM 36092 or RPTM36192; and special approval.
+",None,"(Repeatable for credit)Planning and preparation for the internship experience in leisure service settings.
+ Students should register for this course two semesters before enrolling in the internship course."
+RPTM 46092 ,"INTERNSHIP IN RECREATION
+",RPTM,senior standing and RPTM 46091 and special approval.,None,Supervised full-time experience providing knowledge of overall agency operation in approved leisure setting.
+RPTM 46095 ,"SELECTED TOPICS IN RECREATION
+",RPTM,None.,None,(Repeatable for a maximum of 6 credit hours)Selected topics dependent upon interest.
+RPTM 46096 ,"INDIVIDUAL INVESTIGATION IN RECREATION
+",RPTM,Junior standing and special approval.,None,"(Repeatable for a maximum of 6 credit hours)Independent study completed under the supervision of a faculty
+ member. Written approval of the supervising faculty member and school director required prior to registration."

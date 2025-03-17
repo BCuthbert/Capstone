@@ -1,0 +1,90 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+LAT 16201 ,"ELEMENTARY LATIN I
+",LAT,None.,None,An introduction to the classical Latin language in the context of ancient Roman culture.
+LAT 16202 ,"ELEMENTARY LATIN II
+",LAT,LAT 16201.,None,A continuation of the introduction to the classical Latin language in the context of ancient Roman culture.
+LAT 26201 ,"INTERMEDIATE LATIN I:READINGS
+",LAT,LAT 16202.,None,Excerpts from Latin literature with emphasis on translation into English.
+LAT 26202 ,"INTERMEDIATE LATIN II:READINGS
+",LAT,LAT 26201.,None,"Excerpts from Latin literature with emphasis on both prose (e.g., Caesar, Cicero) and poetry (Vergil, Catullus)."
+LAT 36170 ,"CICERO
+",LAT,LAT 26202.,None,"Readings in Cicero's orations and philosophical works, stressing rhetorical techniques. Consideration of Cicero's
+role in Roman history and his place in Latin literature."
+LAT 36171 ,"VERGIL
+",LAT,LAT 26202.,None,"A study of the Latin text of Vergil's Aeneid stressing the poetry of the language. Consideration of entire poem
+and its impact on Latin literature."
+LAT 40393 ,"VARIABLE TITLE WORKSHOP
+",LAT,Departmental permission.,None,"(Repeatable for credit)Workshops individually designed to provide instruction and training in latin studies. S u
+graded."
+LAT 41214 ,"LATIN EPIGRAPHY
+",LAT,LAT 36170 or LAT 36171; and special approval.,None,"Study of ancient inscriptions (funerary, career, documentary, graffiti, etc.) preserved on any kind of durable
+material, with focus on cultural information necessary to understand the content and significance of the
+inscriptions under investigation."
+LAT 41304 ,"ROMAN HISTORIANS
+",LAT,LAT 36170 or LAT 36171; and special approval.,None,"(Slashed with LAT 51304) Stylistics and cultural context of Roman historians. Readings from any of the
+following: Caesar, Livy, Suetonius, Tacitus."
+LAT 41305 ,"ROMAN COMEDY AND SATIRE
+",LAT,LAT 36170 or LAT 36171; and special approval.,None,"Stylistics, history and cultural context of Roman comedy and satire. Readings from any of the following: Plautus,
+Terence, Horace, Juvenal, Persius, Martial."
+LAT 41306 ,"LATIN EPIC
+",LAT,LAT 36170 or LAT 36171; and special approval.,None,"(Slashed with LAT 51306) Stylistics, history and cultural context of Latin epic poetry. Readings from any of the
+following: Vergil, Lucretius, Ovid, Lucan, Statius."
+LAT 41307 ,"LYRIC AND ELEGIAC POETRY
+",LAT,"LAT 36170 or LAT 36171; andspecial approval. 
+",None,"(Slashed with LAT 51307) Stylistics, history and cultural context of Latin lyric and elegiac poetry. Readings from
+any of the following: Catullus, Horace, Propertius, Tibullus, Ovid."
+LAT 41308 ,"ORATORY AND LETTERS
+",LAT,LAT 36170 or LAT 36171; and special approval.,None,"Stylistics, history and cultural context of Latin oratory and the Latin epistle. Readings from any of the following:
+Cicero, Seneca, Pliny."
+LAT 46095 ,"SELECTED TOPICS IN LATIN
+",LAT,LAT 36170 or LAT 37171.,None,(Repeatable for credit)Topic announced in the schedule of classes.
+LAT 46096 ,"INDIVIDUAL INVESTIGATION
+",LAT,"minimum 3 hoursof coursework at the 40000-level and departmental special approval. 
+",None,(Repeatable for credit)Investigation of problems in Latin literature or linguistics.
+LAT 46211 ,"LATIN PROSE COMPOSITION
+",LAT,"LAT36170 or LAT 36171. 
+",None,Analysis of prose models; writing of connected Latin prose with attention to the Latin idiom.
+LAT 46373 ,"ADVANCED PROSE AUTHORS
+",LAT,LAT 36170 or LAT 36171.,None,"(Repeatable for credit) Consideration of a major prose author such as Pliny the Younger, Livy, Tacitus or
+Suetonius."
+LAT 50393 ,"VARIABLE TITLE WORKSHOP IN LATIN
+",LAT,Special approval and graduate standing.,None,(Repeatable for credit)Workshops individually designed to provide instruction and training in Latin studies.
+LAT 51304 ,"ROMAN HISTORIANS
+",LAT,Graduate standing; and special approval.,None,"(Slashed with LAT 41304) Stylistics and cultural context of Roman historians. Readings from any of the
+following: Caesar, Livy, Suetonius, Tacitus."
+LAT 51306 ,"LATIN EPIC
+",LAT,Graduate standing; and special approval.,None,"(Slashed with LAT 41306) Stylistics, history and cultural context of Latin epic. Readings from any of the
+following: Vergil, Ovid, Lucan, Lucretius, Statius."
+LAT 51307 ,"LYRIC AND ELEGIAC POETRY
+",LAT,"Graduate standing; and specialapproval. 
+",None,"(Slashed with LAT 41307) Stylistics, history and cultural context of Latin lyric and elegiac poetry. Readings from
+any of the following. Catullus, Horace, Propertius, Tibullus, Ovid."
+LAT 56095 ,"SELECTED TOPICS IN LATIN
+",LAT,LAT 37171 and graduate standing.,None,(Repeatable for a maximum of 15 credit hours)Topic to be announced in semester schedule of classes.
+LAT 61001 ,"RESEARCH AND WRITING
+",LAT,Graduate standing; and special approval.,None,"Use of lexical tools, bibliographies and corpora specific to research in Classics and Latin. Conventions of
+scholarship in the discipline of Classics. To be taken in conjunction with a 50000 or 60000-level course in Latin
+literature."
+LAT 61214 ,"LATIN EPIGRAPHY
+",LAT,Graduate standing; and special approval.,None,"Study of ancient inscriptions (funerary, career, documentary, graffiti, etc.) preserved on any kind of durable
+material, with focus on cultural information necessary to understand the content and significance of the
+inscriptions under investigation."
+LAT 61305 ,"ROMAN COMEDY AND SATIRE
+",LAT,Graduate standing; and special approval.,None,"Stylistics, history and cultural context of Roman comedy and satire. Readings from any of the following: Plautus,
+Terence, Horace, Juvenal, Persius, Martial."
+LAT 61308 ,"ORATORY AND LETTERS
+",LAT,Graduate standing; and special approval.,None,"Stylistics, history and cultural context of Latin oratory and the Latin epistle. Readings from any of the following:
+Cicero, Seneca, Pliny."
+LAT 66199 ,"THESIS I
+",LAT,Graduate standing.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in single semester distributed over several
+semesters if desired."
+LAT 66211 ,"ADVANCED PROSE COMPOSITION
+",LAT,Graduate standing.,None,More thorough training in composition where need is established.
+LAT 66299 ,"THESIS II
+",LAT,LAT 66199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+LAT 66391 ,"SEMINAR IN CLASSICAL LITERATURE
+",LAT,Graduate standing.2.000 OR ,None,(Repeatable for credit)Topics to be announced.
+LAT 66398 ,"RESEARCH
+",LAT,"Special approval and graduatestanding. 
+",None,"(Repeatable for credit)Research or individual investigation for master's level graduate students. Credits earned
+applied toward degree requirements if department approves."

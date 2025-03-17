@@ -1,0 +1,464 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+PSYC 11762 ,"GENERAL PSYCHOLOGY
+",PSYC,none.,None,"Introduction to the scientific approach to understanding human behavior and mental processes such as
+emotions, perceptions and cognitions. Topics may include personality, social and environmental factors,
+biological aspects of behavior and the experience of emotion and psychological disorders."
+PSYC 20651 ,"CHILD PSYCHOLOGY
+",PSYC,PSYC 11762.,None,"A review of the data, concepts and theories of psychology that contribute to the understanding of child
+development from conception to age 14."
+PSYC 21211 ,"PSYCHOLOGY OF ADJUSTMENT
+",PSYC,PSYC 11762.,None,"A review of theories, concepts and data that contribute to the understanding of human adjustment. Topics
+may include the following: personality, stress and coping, transitions from adolescence to adulthood,
+psychological disorders and psychotherapy."
+PSYC 21621 ,"QUANTITATIVE METHODS IN PSYCHOLOGY I
+",PSYC,PSYC 11762.,None,"Application of quantitative, statistical methods in psychological research. Descriptive and inferential methods
+(includes ANOVA, t-test and correlation)."
+PSYC 22221 ,"MULTICULTURAL PSYCHOLOGY
+",PSYC,PSYC 11762.,None,"Examination of areas of psychology upon which diversity issues have a bearing and focused study of
+psychological issues relevant to African-American, Asian- American, Hispanic/Latino American and American
+Indian groups."
+PSYC 30111 ,"FORENSIC PSYCHOLOGY
+",PSYC,PSYC 11762.,None,"Surveys major areas of forensic psychology, which focuses on the application of the science and profession of
+psychology to legal settings. Topics include roles and responsibilities of forensic psychologists, forensic
+assessment, psychological theories of criminal behavior, law enforcement psychology and eyewitness
+testimony."
+PSYC 30651 ,"ADOLESCENT PSYCHOLOGY
+",PSYC,"PSYC11762. 
+",None,"A review of the theories, concepts and data that contribute to our understanding of the physical, intellectual,
+educational, personality and social development of adolescents in contemporary society."
+PSYC 30652 ,"SOCIAL AND PERSONALITY DEVELOPMENT
+",PSYC,PSYC 11762; and PSYC 20651 or HDFS 24012.,None,"Processes and findings in social and personality development, with a focus on childhood and adolescence. Will
+include the examination of individual differences as well as developmental changes in social function and
+personality."
+PSYC 30655 ,"CHILDREN'S THINKING
+",PSYC,PSYC 11762; and PSYC 20651 or HDFS 24012.,None,"Focuses on how children’s cognitive processes and mental representations change from infancy to early
+adulthood. Theoretical claims, empirical findings, and methodological issues are critically evaluated. Topics
+include children’s visual and auditory perception, language and literacy, learning and memory, mathematical
+and spatial thinking, logical and scientific reasoning, problem solving, theory of mind and social cognition."
+PSYC 30656 ,"PSYCHOLOGY OF AGING
+",PSYC,PSYC 11762.,None,"(Cross-listed with GERO 30656) Exploration of basic research and theory on the psychological consequences of
+aging and psychological factors that affect the behavior of older persons."
+PSYC 30821 ,"PSYCHOLOGY OF MOTIVATION
+",PSYC,PSYC 11762.,None,"Factors that provide the energy and direction for behaviors, emotions and cognitive processes. Seeks to
+answer the question ""why"" concerning the things people do, feel and think. A survey approach is used to
+include both the traditional and newly emerging concepts in motivation."
+PSYC 31141 ,"PERCEPTION
+",PSYC,"PSYC11762. 
+",None,"Investigates how humans detect, organize and interpret information from the environment. Considers how
+both biological and psychological process create and influence our perception of the world."
+PSYC 31282 ,"PERSONALITY
+",PSYC,PSYC 11762.,None,"A review of the data, concepts and theories of psychology that contribute to the understanding of personality."
+PSYC 31498 ,"UNDERGRADUATE RESEARCH
+",PSYC,"PSYC11762 and special approval. 
+",None,"(Repeatable for a maximum 16 credit hours)Individual research open to qualified students. See Arts and
+Sciences and psychology major/minor requirements for applicability repeatable limits."
+PSYC 31532 ,"SOCIAL PSYCHOLOGY
+",PSYC,PSYC 11762.,None,"Study of environmental/situational influences on our own and others' thoughts,behaviors and feelings-focus on
+topics such as aggression, attitudes and behaviors, conformity, helping, personal relationships and social
+cognition."
+PSYC 31574 ,"RESEARCH METHODS IN PSYCHOLOGY
+",PSYC,PSYC 11762 and PSYC 21621.,None,"The rationale, logic and procedures of scientific research in psychology with an emphasis on measurement,
+causal inference and research design."
+PSYC 31634 ,"ANIMAL COGNITION
+",PSYC,PSYC 11762.,None,"Focuses on the nature of cognition and intelligence in nonhuman animals. Topics include animal studies of
+perception and attention, associative learning, memory, spatial cognition, concept formation, reasoning and
+language in nonhuman animals."
+PSYC 31684 ,"QUANTITATIVE METHODS IN PSYCHOLOGY II
+",PSYC,"PSYC21621. 
+",None,"Small sample theory, analysis of variance, linear regression and nonparametric statistics (e.g. Chi Square).
+This course may include qualitative analyses and computer based data analyses with SPSS."
+PSYC 31773 ,"INDUSTRIAL PSYCHOLOGY
+",PSYC,"PSYC11762. 
+",None,"Application of principles, facts and theories of psychology to people at work. Includes motivation and
+satisfaction at work, personnel selection and placement, training and development, performance appraisal,
+organizational development, quality of work life, ergonomics and consumer psychology."
+PSYC 40111 ,"ABNORMAL PSYCHOLOGY
+",PSYC,PSYC 11762.,None,"Survey of the definitions as well as the biological, psychological and sociocultural causes of various
+psychological disorders. Illustrations of these disorders with cases. Overview of treatment approaches to these
+disorders may be included."
+PSYC 40112 ,"PSYCHOLOGICAL DISORDERS OF CHILDHOOD AND ADOLESCENCE
+",PSYC,"PSYC11762; and PSYC 20651 or HDFS 24012; and junior or senior standing. 
+",None,"Covers the biological, psychological, and socio-cultural factors influencing the development of psychological
+disorders in children and adolescents. Emphasis is placed on conceptual and research issues and the
+application of knowledge to understanding diagnosis and case studies of specific disorders."
+PSYC 40231 ,"PSYCHOLOGICAL ASSESSMENT
+",PSYC,PSYC 11762 and PSYC 21621.,None,"Introduction to psychometrics and test theory. Use and basic interpretation of intellectual and personality
+tests. Skills in using tests at a professional level not given."
+PSYC 40383 ,"INTRODUCTION TO CLINICAL PSYCHOLOGY
+",PSYC,PSYC 11762.,None,"Application of psychological principles and techniques to the problems of the individual. This course is
+designed to introduce the field of clinical psychology,including models of understanding abnormal behavior,
+treatment of individuals and ethics and professional issues."
+PSYC 40445 ,"COGNITIVE PSYCHOLOGY
+",PSYC,PSYC 11762.,None,"Covers the mental processes that underline human thought and behavior, such as attention, memory,
+comprehension, reasoning, problem-solving and language. Considers established and current theoretical
+models, research methods and experimental results."
+PSYC 40446 ,"COGNITIVE NEUROSCIENCE
+",PSYC,PSYC 11762.,None,"Covers the cognitive and neural processes that underlie vision, attention, spatial processing, memory,
+language, social processes, executive functioning, and action. Introduces basic brain structure and the
+behavioral and functional imaging techniques used to study the brain bases of cognition. Data from patients
+with neurological disorders such as Alzheimer's, aphasia, amnesia and others are also be examined."
+PSYC 40461 ,"PSYCHOLOGY OF LANGUAGE
+",PSYC,PSYC 11762 and PSYC 30445.,None,"Investigates psychological processes involved in language production,comprehension and development. Within
+each broad area emphasis is on theories, psychological experiments, key findings and the relationships
+between theory, method and data."
+PSYC 40625 ,"DEVELOPMENT OF GENDER ROLE AND IDENTITY
+",PSYC,PSYC 11762.,None,"A life-span, developmental model is used to analyze the changes which occur with age in gender-related role
+performance and identity formation."
+PSYC 40974 ,"HISTORY OF PSYCHOLOGY
+",PSYC,PSYC 11762 and Special Approval.,None,"Course examines the historical context, influences and individuals instrumental in the development of
+psychology. Course organization is designed to compare and contrast systems, theories and fundamental
+issues with which psychologists have concerned themselves in past and contemporary stages of the science."
+PSYC 41043 ,"BASIC LEARNING PROCESSES
+",PSYC,PSYC 11762.,None,"Examination of basic principles of Pavlovian conditioning, instrumental conditioning, animal learning and
+memory processes, and animal cognition. Emphasis on major empirical phenomena derived from research
+with animals with reference to related psychological processes in humans."
+PSYC 41363 ,"BIOPSYCHOLOGY
+",PSYC,PSYC 11762.,None,"Covers the relationship between brain and behavior at the physiological, chemical and anatomical levels.
+Focuses on the association between the central nervous system and various processes and behaviors such as
+learning, emotions, neurological disorders and psychopathology."
+PSYC 41364 ,"DRUGS AND BEHAVIOR
+",PSYC,PSYC 11762.,None,"Provides an overview of drug taking in society, the actions of drugs in the body, and the effects of drugs on
+behavior. Focus is on drugs and the nervous system, psychopharmacology, and actions and side effects of
+such drugs as alcohol, opiates, stimulants, marijuana, hallucinogens, depressants, and performance-enhancing
+drugs. Particular focus is on medications for psychiatric disorders, abuse-potential and the causes of addiction,
+dependence and relapse."
+PSYC 41492 ,"INTERNSHIP IN PSYCHOLOGY
+",PSYC,"Must have junior standing and 9 credit hours inpsychology and 3.000 GPA overall. Open to psychology majors only. Special approval required. 
+",None,"(Repeatable for credit)Application of psychological knowledge and skills in applied settings. Allows academic
+credit for participation as an intern at approved internship sites including social service, non-profit agencies,
+government agencies and hospital settings."
+PSYC 41495 ,"SPECIAL TOPICS IN PSYCHOLOGY
+",PSYC,Junior standing and special approval.,None,"(Repeatable for credit)In-depth examination of particular topics of current interest to faculty and students.
+Specialized areas of research theory or methodology may be covered. Specific topics announced."
+PSYC 41498 ,"INDIVIDUAL INVESTIGATION
+",PSYC,"PSYC 11762 and specialapproval. 
+",None,"(Repeatable for a maximum of 16 credit hours)Involves participation in empirical research, review of
+psychological literature and preparation of a paper or annotated bibliography. See Arts and Sciences and
+psychology major/minor requirements for applicability repeatable limits."
+PSYC 41573 ,"LABORATORY EXPERIENCE IN PSYCHOLOGICAL RESEARCH:SOCIAL/CLINICAL
+",PSYC,3.200 GPA and PSYC 11762 and PSYC 21621 and PSYC 31574.,None,"Intensive experience in the conduct, analysis and reporting of empirical research in social or clinical
+psychology. Specific content varies with instructor. Repeatable once with instructor, and departmental
+permission if topic is different."
+PSYC 41574 ,"LABORATORY EXPERIENCE IN PSYCHOLOGICAL RESEARCH:COGNITIVE/LEARNING
+",PSYC,"3.200 GPA and PSYC 11762 andPSYC 21621 and PSYC 31574 and special approval. 
+",None,"(Repeatable once for credit with instructor and departmental permission if topic is different) Intensive
+experience in the conduct, analysis and reporting of empirical research in cognitive psychology or
+human/animal learning. Specific content varies with instructor."
+PSYC 41581 ,"HEALTH PSYCHOLOGY
+",PSYC,PSYC 11762.,None,"Role of psychological and social factors in health and illness, typically covering three general areas: (1)
+psychological factors affecting disease, (2) psychological and social consequences of illness and (3)
+psychotherapeutic interventions."
+PSYC 41990 ,"WRITING IN PSYCHOLOGY
+",PSYC,special approval.,None,"Writing-intensive course taken in conjunction with a 3-credit-hour, upper-division psychology course (except
+PSYC 31498, 41498, 41573, 41574 or 41993)."
+PSYC 41993 ,"VARIABLE TITLE WORKSHOP IN PSYCHOLOGY
+",PSYC,PSYC 11762 and special approval.,None,"(Repeatable for credit)Variable topic offered as need arises. Specific topics will be announced in the schedule
+of classes."
+PSYC 51993 ,"VARIABLE TITLE WORKSHOP IN PSYCHOLOGY
+",PSYC,Special approval and graduate standing.,None,"(Repeatable for credit)Variable topics offered as need arises to train in specific area of field. Specific topics will
+be announced in schedule of classes."
+PSYC 60110 ,"INTRODUCTION TO PSYCHOPATHOLOGY:CHILD
+",PSYC,Graduate standing in psychology.,None,"Introduction to psychopathology from a developmental perspective. Covers models of classification and specific
+disorders of childhood."
+PSYC 60170 ,"INTRODUCTION TO PSYCHOPATHOLOGY:ADULT
+",PSYC,Graduate status in psychology.,None,"An examination of the etiology,symptomology and theoretical models of adult psychopathology."
+PSYC 60192 ,"INTEGRATION PRACTICUM
+",PSYC,PSYC 6/70292 and PSYC 6/70792 and graduate standing in psychology.,None,"(Repeatable for credit)Integration of assessment, psychopathology and psychotherapy coursework. Emphasis
+on learning how to conceptualize cases in general and from differing theoretical perspectives."
+PSYC 60272 ,"INTRODUCTION TO PSYCHOLOGICAL ASSESSMENT
+",PSYC,Graduate standing in psychology.,None,"Introduction to psychological assessment as a process for solving important clinical problems. Theoretical
+methodological and research issues are emphasized. Students will also become familiar with major
+psychological tests."
+PSYC 60273 ,"ADVANCED PSYCHOLOGICAL ASSESSMENT:ADULT
+",PSYC,PSYC 6/70272 and graduate standing in psychology.,None,"Examines psychodiagnosis within a context of ""personality-as-a-coherent-whole."" Emphasizes an ideographic
+approach with a theoretical framework, which organizes and gives meaning to observations."
+PSYC 60274 ,"ADVANCED PSYCHOLOGICAL ASSESSMENT:CHILD
+",PSYC,"PSYC 6/70272 and PSYC 6/70292; and graduate standing inpsychology. 
+",None,"Interviewing, developmental and intellectual assessments personality evaluations behavioral assessments and
+assessment of special child populations. Emphasis on the rationale and integration of research relevant to
+appropriate use and interpretation."
+PSYC 60275 ,"BEHAVIORAL ASSESSMENT
+",PSYC,"PSYC 6/70272 andPSYC 6/70292; and graduate standing in psychology. 
+",None,"Considers behavioral assessment from an empirical as well as an applied perspective. Intended for persons
+familiar with general assessment,psychopathology and psychotherapy issues."
+PSYC 60276 ,"NEUROPSYCHOLOGICAL ASSESSMENT
+",PSYC,"PSYC 6/70272 andPSYC 6/70292; graduate standing in psychology. 
+",None,"Introduction to the conceptual foundations of neuropsychological assessment and practical knowledge in
+assessment procedures, methods of interpretation and differential diagnosis."
+PSYC 60292 ,"PSYCHOLOGICAL ASSESSMENT PRACTICUM
+",PSYC,"Concurrent enrollment in PSYC 6/70272; andgraduate standing in psychology. 
+",None,"(Repeatable for credit)Applied aspects of material presented in PSYC 6/70272. Emphasis on administering,
+scoring and interpreting major assessment tools."
+PSYC 60324 ,"PROFESSIONAL ISSUES AND ETHICS IN CLINICAL PSYCHOLOGY
+",PSYC,"Graduate standing inpsychology. 
+",None,"Review of professional concerns in the field, including training, ethics, client rights, economics, legal issues,
+relationship to other professions and professional organization and policy."
+PSYC 60326 ,"CLINICAL ASPECTS OF HEALTH PSYCHOLOGY
+",PSYC,Graduate standing in psychology.,None,"Consideration of psychosocial influences on health status that are relevant to the clinician. Attention is given
+to interventions on both individual and community levels. Emphasis on approaches to prevention treatment
+and public policy."
+PSYC 60371 ,"INTRODUCTION TO PSYCHOLOGICAL THERAPY
+",PSYC,"PSYC 6/70170 and PSYC6/71260; and graduate standing in psychology. 
+",None,"Introduction to psychotherapy with special emphasis on psychodynamic and phenomenological approaches
+with theory, technique and major research findings considered."
+PSYC 60373 ,"FAMILY THERAPY
+",PSYC,"PSYC 6/70371 and PSYC6/70792 and graduate standing in psychology. 
+",None,"Consideration of major theories, approaches and research in family therapy. Practical experience in conducting
+family therapy through supervision and discussion of ongoing cases."
+PSYC 60374 ,"GROUP PSYCHOTHERAPY
+",PSYC,PSYC 6/70371 and PSYC 6/70792; and graduate standing in psychology.,None,"Introduction to group psychotherapy with emphasis on theories, techniques and research findings."
+PSYC 60375 ,"COGNITIVE BEHAVIOR THERAPY
+",PSYC,"PSYC 6/70371 and PSYC 6/70292;and graduate standing in psychology. 
+",None,"Empirical and clinical aspects of cognitive and behavioral interventions. Intended for students familiar with
+basic psychotherapy assessment and psychopathology issues."
+PSYC 60376 ,"CHILD PSYCHOTHERAPY
+",PSYC,PSYC 6/70371 and PSYC 6/70792; and graduate standing in psychology.,None,"Consideration of various aspects of child psychotherapy, including general issues, traditional therapies,
+behavior and cognitive behavior therapies, and child therapy research. Emphasis on integration of theory,
+technique and research."
+PSYC 60395 ,"ADVANCED TOPICS-CLINICAL PSYCHOLOGY
+",PSYC,Permission and graduate standing.,None,"Advanced-level consideration of selected content areas in assessment,psychotherapy psycho pathology
+professional issues and community psychology. Specific topics will be announced in schedule of classes."
+PSYC 60453 ,"INTRODUCTION TO COGNITIVE PSYCHOLOGY
+",PSYC,Graduate standing in psychology.,None,"Information-processing approaches to human thought. Focus on processes used to transform store manipulate
+and retrieve sensory input. Topics include attention pattern recognition memory and language."
+PSYC 60792 ,"PSYCHOTHERAPY PRACTICUM
+",PSYC,"PSYC 6/70292; concurrent enrollment in PSYC 6/70371; and graduatestanding in psychology. 
+",None,"(Repeatable for credit)Basic training in applied aspects of psychotherapy. Through didactic and experiential
+methods students learn basic listening and communication skills that are then applied to specific techniques,
+situations and issues."
+PSYC 60895 ,"ADVANCED TOPICS-EXPERIMENTAL PSYCHOLOGY
+",PSYC,Special approval and graduate standing.,None,"(Repeatable for credit)Advanced-level consideration of selected content areas in experimental psychology.
+Specific topics will be announced in schedule of classes."
+PSYC 60950 ,"HISTORY AND CONTEMPORARY SYSTEMS
+",PSYC,Graduate standing in psychology.,None,Relationships between historical antecedents and the major contemporary systems and theories of psychology.
+PSYC 61054 ,"LEARNING AND CONDITIONING
+",PSYC,"Graduate standing inpsychology. 
+",None,"Introduction to basic conditioning processes. Emphasis on Pavlovian and instrumental learning phenomena
+particularly as these are exemplified in animal models of behavior."
+PSYC 61199 ,"THESIS I
+",PSYC,Special approval and graduate standing.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in a single semester distributed over several
+semesters if desired."
+PSYC 61260 ,"THEORIES OF PERSONALITY
+",PSYC,Graduate standing in psychology.,None,"Consideration of major theoretical orientations including psychoanalysis, phenomenology and those stressing
+learning. Emphasis on principal concepts deals less with research methods and findings."
+PSYC 61299 ,"THESIS II
+",PSYC,PSYC 61199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+PSYC 61350 ,"PHYSIOLOGICAL PSYCHOLOGY
+",PSYC,Graduate standing in psychology.,None,"Neurophysiological, neurochemical and neuroanatomical factors in the control of cognitive processes
+motivation and behavior. Emphasis is on the broad coverage of major topics in the field."
+PSYC 61496 ,"INDIVIDUAL INVESTIGATION
+",PSYC,Special approval and graduate standing.,None,"(Repeatable for credit)Intensive pursuit of a subject matter beyond normal course coverage with possibility of
+associated research."
+PSYC 61498 ,"RESEARCH
+",PSYC,Graduate standing and special approval.,None,"(Repeatable for credit) Research or individual investigation for master's level graduate students. Credits may
+be applied toward meeting degree requirements if department approves and if letter grade or ""S"" is given."
+PSYC 61548 ,"PSYCHOLOGY OF GENDER AND MINORITIES
+",PSYC,Graduate standing in psychology.,None,"Neurophysiological, neurochemical and neuroanatomical factors in the control of cognitive processes
+motivation and behavior. Emphasis is on the broad coverage of major topics in the field."
+PSYC 61580 ,"SOCIAL PSYCHOLOGY
+",PSYC,Graduate standing in psychology.,None,"Introduction to empirical research and theories on the psychological processes related to interpersonal and
+small group behavior."
+PSYC 61651 ,"QUANTITATIVE STATISTICAL ANALYSIS I
+",PSYC,"Graduate standing in psychology and specialapproval. 
+",None,"Review of univariate statistics and an introduction to using bivariate and multivariate statistics. Part one of a
+two semester sequence on statistical analysis."
+PSYC 61654 ,"QUANTITATIVE STATISTICAL ANALYSIS II
+",PSYC,"PSYC 61651or 71651 and graduate standing in psychology. 
+",None,"Multivariate statistics for classifying individuals and variables. Additional topics include power/effect size and
+handling missing data. Part two of a two-semester sequence on statistical analysis."
+PSYC 61685 ,"CLINICAL RESEARCH METHODS
+",PSYC,"Graduatestanding in psychology. 
+",None,"Consideration of research methodologies relevant to clinical psychology with emphasis on strengths and
+weaknesses of research designs and issues related to collection and evaluation of data."
+PSYC 61993 ,"VARIABLE TITLE WORKSHOP IN PSYCHOLOGY
+",PSYC,Graduate standing in psychology (PSYC).,None,(Repeatable for a maximum of 6 credit hours)Training and experience in college teaching.
+PSYC 62392 ,"CLINICAL PRACTICUM
+",PSYC,Special approval and graduate standing.,None,"(Repeatable for credit)Beginning practicum in psychological clinic involving selection, administration and
+evaluation of tests of ability and personality."
+PSYC 62492 ,"ADVANCED PRACTICUM
+",PSYC,"PSYC 6/70192 and PSYC 6/70292 and PSYC 6/70792; and graduatestanding in psychology. 
+",None,"(Repeatable for credit)Intensified experience in the diagnosis and treatment of specific disorders from the
+scientist-practitioner model."
+PSYC 70110 ,"INTRODUCTION TO PSYCHOPATHOLOGY:CHILD
+",PSYC,Doctoral standing in psychology.,None,"Introduction to psychopathology from a developmental perspective. Covers models of classification and specific
+disorders of childhood."
+PSYC 70170 ,"INTRODUCTION TO PSYCHOPATHOLOGY:ADULT
+",PSYC,Doctoral status in psychology.,None,"An examination of the etiology, symptomology and theoretical models of adult psychopathology."
+PSYC 70192 ,"INTEGRATION PRACTICUM
+",PSYC,PSYC 6/70292 and PSYC 6/70792; and doctoral standing in psychology.,None,"(Repeatable for credit)Integration of assessment, psychopathology and psychotherapy coursework. Emphasis
+on learning how to conceptualize cases in general and from differing theoretical perspectives."
+PSYC 70272 ,"INTRODUCTION TO PSYCHOLOGICAL ASSESSMENT
+",PSYC,Doctoral standing in psychology.,None,"Introduction to psychological assessment as a process for solving important clinical problems. Theoretical
+methodological and research issues are emphasized. Students will also become familiar with major
+psychological tests."
+PSYC 70273 ,"ADVANCED PSYCHOLOGICAL ASSESSMENT:ADULT
+",PSYC,PSYC 6/70272 and doctoral standing in psychology.,None,"Examines psychodiagnosis within a context of ""personality-as-a-coherent-whole."" Emphasizes an ideographic
+approach with a theoretical framework, which organizes and gives meaning to observations."
+PSYC 70274 ,"ADVANCED PSYCHOLOGICAL ASSESSMENT:CHILD
+",PSYC,"PSYC 6/70272 and PSYC 6/70292; and doctoral standing inpsychology. 
+",None,"Interviewing, developmental and intellectual assessments, personality evaluations, behavioral assessments,
+and assessment of special child populations. Emphasis on the rationale and integration of research relevant to
+appropriate use and interpretation."
+PSYC 70275 ,"BEHAVIORAL ASSESSMENT
+",PSYC,"PSYC 6/70272 andPSYC 6/70292; and doctoral standing in psychology. 
+",None,"Considers behavioral assessment from an empirical as well as an applied perspective. Intended for persons
+familiar with general assessment, psychopathology and psychotherapy issues."
+PSYC 70276 ,"NEUROPSYCHOLOGICAL ASSESSMENT
+",PSYC,"PSYC 6/70272 andPSYC 6/70292 and doctoral standing in psychology. 
+",None,"Introduction to the conceptual foundations of neuropsychological assessment and practical knowledge in
+assessment procedures, methods of interpretation and differential diagnosis."
+PSYC 70292 ,"PSYCHOLOGICAL ASSESSMENT PRACTICUM
+",PSYC,"Concurrent enrollment in PSYC 6/70272 anddoctoral standing in psychology. 
+",None,"(Repeatable for credit)Applied aspects of material presented in PSYC 6/70272. Emphasis on administering,
+scoring and interpreting major assessment tools."
+PSYC 70324 ,"PROFESSIONAL ISSUES AND ETHICS IN CLINICAL PSYCHOLOGY
+",PSYC,"Doctoral standing inpsychology. 
+",None,"Review of professional concerns in the field, including training, ethics, client rights, economics, legal issues,
+relationship to other professions and professional organization and policy."
+PSYC 70326 ,"CLINICAL ASPECTS OF HEALTH PSYCHOLOGY
+",PSYC,Doctoral standing in psychology.,None,"Consideration of psychosocial influences on health status that are relevant to the clinician. Attention is given
+to interventions on both individual and community levels. Emphasis on approaches to prevention treatment
+and public policy."
+PSYC 70371 ,"INTRODUCTION TO PSYCHOLOGICAL THERAPY
+",PSYC,"PSYC 6/70170 and PSYC 6/71260and doctoral standing in psychology. 
+",None,"Introduction to psychotherapy with special emphasis on psychodynamic and phenomenological approaches
+with theory, technique and major research findings considered."
+PSYC 70373 ,"FAMILY THERAPY
+",PSYC,"PSYC 6/70371 and PSYC6/70792; and doctoral standing in psychology. 
+",None,"Consideration of major theories, approaches and research in family therapy. Practical experience in conducting
+family therapy through supervision and discussion of ongoing cases."
+PSYC 70375 ,"COGNITIVE BEHAVIOR THERAPY
+",PSYC,"PSYC 6/70371 and PSYC 6/70292;and doctoral standing in psychology. 
+",None,"Empirical and clinical aspects of cognitive and behavioral interventions. Intended for students familiar with
+basic psychotherapy assessment and psychopathology issues."
+PSYC 70376 ,"CHILD PSYCHOTHERAPY
+",PSYC,PSYC 6/70371 and PSYC 6/70792; and doctoral standing in psychology.,None,"Consideration of various aspects of child psychotherapy, including general issues, traditional therapies,
+behavior and cognitive behavior therapies, and child therapy research. Emphasis on integration of theory
+technique and research."
+PSYC 70392 ,"SUPERVISED CLINICAL EXPERIENCE
+",PSYC,"PSYC 6/72392 and special approval; anddoctoral standing. 
+",None,"(Repeatable for credit)Post-practicum, psychological service provision and/or research activities in institution
+or agency under supervision of licensed psychologist and by arrangement of department of psychology.
+Requires successful completion of PSYC 6/72392."
+PSYC 70395 ,"ADVANCED TOPICS-CLINICAL PSYCHOLOGY
+",PSYC,Special approval and doctoral standing.,None,"(Repeatable for credit)Advanced-level consideration of selected content areas in assessment, psychotherapy,
+psychopathology, professional issues and community psychology. Specific topics will be announced in schedule
+of classes."
+PSYC 70413 ,"COGNITIVE NEUROPSYCHOLOGY
+",PSYC,Doctoral standing in psychology.,None,"The effect of brain injury and anomalous neurological development on cognitive skills such as language,
+perception and memory are explored."
+PSYC 70453 ,"INTRODUCTION TO COGNITIVE PSYCHOLOGY
+",PSYC,Doctoral standing in psychology.,None,"Information-processing approaches to human thought. Focus on processes used to transform, store,
+manipulate and retrieve sensory input. Topics include attention, pattern recognition, memory and language."
+PSYC 70485 ,"READING PROCESSES
+",PSYC,Doctoral standing in psychology.,None,"Analysis of basic psychological processes involved in reading with emphasis on models of the skilled reader
+and of learning to read. Current research is surveyed."
+PSYC 70604 ,"COGNITIVE DEVELOPMENT
+",PSYC,Doctoral standing in psychology.,None,"Examination of theories and research concerning changes in memory, perception, thought and language over
+the life span."
+PSYC 70615 ,"SOCIAL AND PERSONALITY DEVELOPMENT
+",PSYC,Doctoral standing in psychology.,None,"Examination of theories and research in social development, with a focus on how personal relationships
+influence personality development."
+PSYC 70792 ,"PSYCHOTHERAPY PRACTICUM
+",PSYC,"PSYC 6/70292; and concurrent enrollment in PSYC 6/70371; and doctoralstanding in psychology. 
+",None,"(Repeatable for credit)Basic training in applied aspects of psychotherapy. Through didactic and experiential
+methods students learn basic listening and communication skills that are then applied to specific techniques
+situations and issues."
+PSYC 70895 ,"ADVANCED TOPICS-EXPERIMENTAL PSYCHOLOGY
+",PSYC,Special approval and doctoral standing.,None,"(Repeatable for credit)Advanced-level consideration of selected content areas in experimental psychology.
+Specific topics will be announced in schedule of classes."
+PSYC 70950 ,"HISTORY AND CONTEMPORARY SYSTEMS
+",PSYC,Doctoral standing in psychology.,None,Relationships between historical antecedents and the major contemporary systems and theories of psychology.
+PSYC 71004 ,"ANIMAL MEMORY PROCESSES
+",PSYC,"Doctoralstanding in psychology. 
+",None,"Examination of basic phenomena and principles of memory, as exemplified by research with animals and
+humans. Consideration of behavioral and biological processes in memory functioning."
+PSYC 71054 ,"LEARNING AND CONDITIONING
+",PSYC,"Doctoral standing inpsychology. 
+",None,"Introduction to basic conditioning processes. Emphasis on Pavlovian and instrumental learning phenomena,
+particularly as these are exemplified in animal models of behavior."
+PSYC 71260 ,"THEORIES OF PERSONALITY
+",PSYC,"Doctoralstanding in psychology. 
+",None,"Consideration of major theoretical orientations including psychoanalysis, phenomenology and those stressing
+learning. Emphasis on principal concepts deals less with research methods and findings."
+PSYC 71307 ,"PSYCHOBIOLOGICAL ASPECTS OF HEALTH PSYCHOLOGY
+",PSYC,Doctoral standing in psychology.,None,"An introduction to non-neural aspects of psychobiology,with emphasis on psycho-endocrinology,
+psychoimmunology and the psychobiologic aspects of disease."
+PSYC 71350 ,"PHYSIOLOGICAL PSYCHOLOGY
+",PSYC,Doctoral standing in psychology.,None,"Neurophysiological, neurochemical and neuroanatomical factors in the control of cognitive processes
+motivation and behavior. Emphasis is on the broad coverage of major topics in the field."
+PSYC 71498 ,"SELECTED LITERATURE REVIEW
+",PSYC,Doctoral standing in psychology (PSYC).,None,"(Repeatable for a maximum of 6 credit hours)Comprehensive literature survey and review prepared by
+graduate student in area of interest."
+PSYC 71507 ,"PSYCHOSOCIAL ASPECTS OF HEALTH PSYCHOLOGY
+",PSYC,Doctoral standing in psychology.,None,"Examines concepts of disease and their implications for health. Emphasizes psychosocial stress in disease
+etiology and psychological factors influencing illness recovery."
+PSYC 71513 ,"PSYCHOLOGY OF ALCOHOL ABUSE
+",PSYC,"Doctoralstanding in psychology. 
+",None,Critical review of theories and empirical research on the use and abuse of alcohol.
+PSYC 71548 ,"PSYCHOLOGY OF GENDER AND MINORITIES
+",PSYC,Doctoral standing in psychology.,None,"Neurophysiological, neurochemical and neuroanatomical factors in the control of cognitive processes
+motivation and behavior. Emphasis is on the broad coverage of major topics in the field."
+PSYC 71580 ,"SOCIAL PSYCHOLOGY
+",PSYC,Doctoral standing in psychology.,None,"Introduction to empirical research and theories on the psychological processes related to interpersonal and
+small group behavior."
+PSYC 71651 ,"QUANTITATIVE STATISTICAL ANALYSIS I
+",PSYC,"Doctoral standing in psychology and specialapproval. 
+",None,"Review of univariate statistics and an introduction to using bivariate and multivariate statistics. Part one of a
+two semester sequence on statistical analysis."
+PSYC 71654 ,"QUANTITATIVE STATISTICAL ANALYSIS II
+",PSYC,"PSYC 61651or 71651 and doctoral standing in psychology. 
+",None,"Multivariate statistics for classifying individuals and variables. Additional topics include power/effect size and
+handling missing data. Part two of a two semester sequence on statistical analysis."
+PSYC 71685 ,"CLINICAL RESEARCH METHODS
+",PSYC,"Doctoralstanding in psychology. 
+",None,"Consideration of research methodologies relevant to clinical psychology with emphasis on strengths and
+weaknesses of research designs and issues related to collection and evaluation of data."
+PSYC 71894 ,"COLLEGE TEACHING OF PSYCHOLOGY
+",PSYC,Doctoral standing in psychology.,None,(Repeatable for a maximum of 6 credit hours) Training and experience in college teaching.
+PSYC 71993 ,"VARIABLE TITLE WORKSHOP IN PSYCHOLOGY
+",PSYC,Doctoral standing in psychology.,None,(Repeatable for a maximum of 6 credit hours) Training and experience in college teaching.
+PSYC 72345 ,"ETHNIC MINORITY ISSUES IN CLINICAL PSYCHOLOGY
+",PSYC,Doctoral standing and psychology major.,None,"Students increase their multicultural awareness and develop competencies necessary for clinical work with
+members of ethnic minority groups."
+PSYC 72392 ,"CLINICAL PRACTICUM
+",PSYC,Special approval and doctoral standing.,None,"(Repeatable for credit)Beginning practicum in psychological clinic involving selection, administration and
+evaluation of tests of ability and personality."
+PSYC 72445 ,"MULTIVARIATE STATISTICS
+",PSYC,"PSYC 61651 or PSYC 71651; and PSYC 61654 orPSYC 71654; and doctoral standing. 
+",None,"Intended to cover two major multivariate statistical techniques in psychology: structural equation modeling
+(SEM) and hierarchical linear modeling (HLM)."
+PSYC 72492 ,"ADVANCED PRACTICUM
+",PSYC,"PSYC 6/70192 and PSYC 6/70292 and PSYC 6/70792; and doctoralstanding in psychology. 
+",None,"(Repeatable for credit)Intensified experience in the diagnosis and treatment of specific disorders from the
+scientist-practitioner model."
+PSYC 80391 ,"SEMINAR IN CLINICAL PSYCHOLOGY
+",PSYC,Special approval and doctoral standing.,None,"(Repeatable for credit)Seminar devoted to detailed study of various topics in field of clinical psychology.
+Specific topics will be announced in schedule of classes."
+PSYC 80491 ,"SEMINAR IN COGNITIVE PSYCHOLOGY
+",PSYC,Special approval and doctoral standing.,None,"(Repeatable for credit)Seminar on current research in cognitive psychology. Specific topics will be announced
+in schedule of classes."
+PSYC 80691 ,"SEMINAR IN CHILD AND DEVELOPMENTAL PSYCHOLOGY
+",PSYC,Special approval and doctoral standing.,None,"(Repeatable for credit)Seminar on current research in child and developmental psychology. Specific topics will
+be announced in schedule of classes."
+PSYC 81091 ,"SEMINAR IN LEARNING AND BIOPSYCHOLOGY
+",PSYC,Doctoral standing in psychology.,None,"(Repeatable for credit)Seminar on current research in learning and biopsychology. Specific topics will be
+announced in the schedule of classes."
+PSYC 81199 ,"DISSERTATION I
+",PSYC,Special approval and doctoral standing.,None,"(Repeatable for credit)Doctoral dissertation, for which registration in at least two semesters is required the
+first of which will be semester in which dissertation work is begun and continuing until the completion of 30
+hours."
+PSYC 81299 ,"DISSERTATION II
+",PSYC,"PSYC 81199 anddoctoral standing. 
+",None,"(Repeatable for credit)Continuing registration required of doctoral students who have completed the initial 30
+hours of dissertation and continuing until all degree requirements are met."
+PSYC 81498 ,"RESEARCH
+",PSYC,Special approval and doctoral standing.,None,"(Repeatable for credit)Research or individual investigation for doctoral students. Credits may be applied
+toward degree if department approves."
+PSYC 81591 ,"SEMINAR IN PERSONALITY AND SOCIAL PSYCHOLOGY
+",PSYC,Doctoral standing in psychology..,None,"(Repeatable for credit)Seminar on current research in areas of social psychology. Specific topics will be
+announced in schedule of classes."
+PSYC 81691 ,"SEMINAR IN QUANTITATIVE METHODS
+",PSYC,"Special approval anddoctoral standing. 
+",None,"(Repeatable for credit)Seminar on applications of quantitative methods within various content areas of
+psychology. Specific topics will be announced in schedule of classes."

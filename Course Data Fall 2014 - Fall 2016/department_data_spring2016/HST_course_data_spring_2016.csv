@@ -1,0 +1,28 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+HST 11000 ,"INTRODUCTION TO HUMAN SERVICES
+",HST,None.,None,"A survey of the role of human service technologists, their professional and ethical responsibilities, employment
+ possibilities and avenues for professional advancement."
+HST 11001 ,"GROUP PROCESS IN HUMAN SERVICES
+",HST,None.,None,"The structure and function of groups, focusing on problem solving and communication in human service
+ agencies, including chemical dependency."
+HST 11002 ,"SURVEY OF COMMUNITY RESOURCES
+",HST,none.,None,"A survey of providers at the federal, regional, state and local levels, including services provided and regulations
+ of private and public agencies."
+HST 21000 ,"DYNAMICS OF HELPING RELATIONSHIPS
+",HST,HST 11001.,None,"The dynamics of helping relationship in human services agencies. Skill development in listening and provision of
+ assistance to clients is emphasized."
+HST 21001 ,"ASSESSMENT OF CLIENT NEEDS
+",HST,HED 21050.,HST 21092.,An introduction to the evaluation of client needs and assessment of client condition.
+HST 21002 ,"CLIENT ADVOCACY AND CASE MANAGEMENT IN HUMAN SERVICE ORGANIZATIONS
+",HST,HST 21001. ,HST 21192.,"Assessment of case management strategies with an emphasis on the role of
+the client advocate in the human
+ service setting."
+HST 21092 ,"INTERNSHIP IN HUMAN SERVICES TECHNOLOGY I
+",HST,Advisor special approval. ,HST 21001.,"(Repeatable for credit) Supervised field experience in a human service agency totalling 315 hours. Joint
+ university-agency supervision."
+HST 21095 ,"SPECIAL TOPICS IN HUMAN SERVICES TECHNOLOGY
+",HST,"None.2015 Kent State University Catalog - Spring 2016 Course Descriptions
+",None,(Repeatable for credit) Discussion of a major topic within human services.
+HST 21192 ,"INTERNSHIP IN HUMAN SERVICES TECHNOLOGY II
+",HST,HST 21092 and special approval. ,HST 21002.,"(Repeatable for credit)Continued supervised field experience in a human services agency totaling 315 hours.
+ Joint university-agency supervision."

@@ -1,0 +1,704 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+SPED 23000 ,"INTRODUCTION TO EXCEPTIONALITIES
+",SPED,None.,None,"Introduction to student exceptionalities, service delivery/placement options and multidisciplinary team process.
+ Focus on identification of characteristics definition and identification procedures of students with
+ exceptionalities. 15 clinical hours."
+SPED 40093 ,"WORKSHOP IN SPECIAL EDUCATION
+",SPED,None.,None,"(Repeatable for credit)Topics of special interest to students desiring to intensify their knowledge in particular
+ areas. Presenters include Kent State University faculty and other institutions. Offered irregularly."
+SPED 43010 ,"FAMILY AND PROFESSIONAL COLLABORATION
+",SPED,"SPED 23000 and admissionto advanced study.
+",None,"This course provides knowledge and strategies for working with family members of exceptional individuals and
+ members of related professions which provide services to them. Use of collaborative, interdisciplinary and
+ interagency models in special education. 20 clinical and 10 field hours."
+SPED 43020 ,"ASSESSMENT IN SPECIAL EDUCATION
+",SPED,Prerequisite: CI 47501 and 47504. ,"SPED 43992 or 43392 or44092 or 44192.
+","Use/interpretation normed, criterion-referenced and informal curriculum-based assessments for students with
+ mild/moderate disabilities. Standards-based alternative assessments for student with intensive needs. 10 field
+ and 20 clinical hours."
+SPED 43021 ,"ASSESSMENT FOR INDIVIDUALS WITH MODERATE TO INTENSIVE NEEDS
+",SPED,SPED 23000.,None,"(Cross-listed with SPED 53021) Investigates issues and methods for assessing the academic, behavioral,
+ physiological, mental health, and life skills of individuals with moderate to intensive disabilities. Interpretation
+ of norm- and criterion formal assessments, creation of alternative assessments, modification of informal
+ assessments, ecological and community-based assessments specific to individuals with low incidence and
+ multiple disabilities."
+SPED 43030 ,"APPLIED BEHAVIOR ANALYSIS I: THEORY AND TECHNIQUES
+",SPED,SPED 23000 and admission to advanced study.,None,"Theory and techniques associated with applied behavior analysis. Approaches for establishing, implementing,
+ maintaining and monitoring skill development are emphasized. Procedures for assessing and modifying
+ classroom environments/instructional techniques to enhance learning/behavior of individuals with disabilities,
+ with specific emphasis on preventing, increasing positive and decreasing inappropriate behavior are introduced.
+ 25 field hours."
+SPED 43031 ,"APPLIED BEHAVIOR ANALYSIS II: APPLICATION
+",SPED,"SPED43030 and admission to advanced study.
+",None,"Equips students with the skills necessary to integrate the technology of applied behavior analysis (as learned in
+ SPED 43030, Applied Behavior Analysis I) with the analytical skills necessary to prevent, teach, manage and
+ assess behavior. Specific behavioral interventions are presented. Includes 40 field hours."
+SPED 43040 ,"LANGUAGE AND READING IN SPECIAL EDUCATION
+",SPED,"Admission to advanced study and ECED 40105 and 40126; and CI47504.
+",None,"Instructional approaches to teaching reading/language arts to students with disabilities. Emphasis on adapting
+ instructional techniques, materials, assessments to meet the needs of learners with disabilities. Contains 15
+ clinical and 15 field hours."
+SPED 43050 ,"CHARACTERISTICS OF STUDENTS WITH MILD/MODERATE INTERVENTION NEEDS
+",SPED,SPED 23000.,None,"Definitions, causes and characteristics and social and educational implications of learning developmental and
+ emotional/behavioral disorders of students identified with mild/moderate disabilities. Methods of assessment
+ and interventions current issues. 10 clinical and 10 field hours."
+SPED 43051 ,"CHARACTERISTICS OF STUDENTS WITH MODERATE/INTENSIVE INTERVENTION NEEDS
+",SPED,SPED 23000.,None,"Overview of specific facets and causes of severe disabilities, physical/psychological aspects, family societal
+ responses political trends etiology and medical implications educational and vocational programming
+ assessment and treatment planning assistive technology. 10 clinical 10 field hours."
+SPED 43060 ,"CURRICULUM METHODS IN SPECIAL EDUCATION
+",SPED,admission to advanced study.,None,"Curriculum development, programming, delivery for students with mild, moderate or intensive disabilities.
+ Emphasis on application of state standards to IEP development. Adapting instructional techniques, materials,
+ assessment to meet needs. 33 field/clinical hours."
+SPED 43062 ,"CURRICULUM METHODS MILD/MODERATE INTERVENTION
+",SPED,"SPED 43060 andadmission to advanced study.
+",None,"Delivery and adaptation of evidence-based practices for students with mild/moderate disabilities. Emphasis on
+ achievement in general curriculum. Training to mentor other professionals."
+SPED 43063 ,"CURRICULUM METHODS MODERATE/INTENSIVE INTERVENTION
+",SPED,SPED 43060 and admission to advanced study.,None,"(Cross-listed with SPED 53063) Delivery and adaptation of evidence based practices for students with moderate
+ to intensive educational needs. An emphasis is placed on instruction of functional academic and life skills within
+ naturalistic contexts."
+SPED 43070 ,"PLANNING AND PROGRAMMING FOR TRANSITIONS
+",SPED,SPED 43050 or SPED 43051 and admission to advanced study.,None,"This course addresses lifespan community participation and the planning, support development and services
+ available to accomplish it. Introduction to community agencies and adult services. 10 clinical and 15 field hours."
+SPED 43080 ,"ASSISTIVE TECHNOLOGY FOR STUDENTS WITH DISABILITIES
+",SPED,SPED 43050 or SPED 43051 and admission to advanced study.,None,"Examines application of high and low technology assistive devices for students with intensive intervention
+ needs. Analysis of technology needs; selection/development of technology; training/evaluation of technology
+ use by students. 20 clinical hours."
+SPED 43092 ,"DEAF RESIDENTIAL SCHOOL FIELD EXPERIENCE
+",SPED,ASL 49309 or SPED 43309;and admission to advanced study; and pre/,None,"(Repeatable for credit) Week-long practicum at a residential school for the deaf; 24-hour interaction with deaf
+ students and adults. Students stay on campus. Conduct, interaction, sign language skills, maturity,
+responsibility and performance are evaluated by staff at the school."
+SPED 43100 ,"SURVEY OF THE INTERPRETING PROFESSION
+",SPED,ASL19202. ,SPED 43106. Pre/Corequisite: ASL 29201.,"(Cross-listed with SPED 53100) Introduction to the field of ASL-English interpreting. The following will be
+ discussed: the history of the interpreting profession; the varied roles and responsibilities of interpreters; issues
+ & concerns facing interpreters; legal mandates & constraints governing the provision of interpreters; ethical
+guidelines and their application to educational environments. Since interpreters are expected to be fluent in
+ both English and ASL, this course will strive to enhance students' facility with both languages."
+SPED 43102 ,"INTERPRETING PROCESSES I
+",SPED,ASL 29202; and SPED 43100; and SPED 43107; and admission to advancedstudy. ,ASL 39201; and SPED 43105.,"(Cross-listed with SPED 53102) Beginning level interpreting course that examines the models of interpreting
+ and their application to practice. Consecutive and simultaneous interpreting strategies are used to develop
+ processing skills for both English to ASL and ASL to English interpretations. Samples of narrative genre are the
+ texts used for interpretations as students examine the linguistic and cultural differences between ASL and
+ English narratives."
+SPED 43103 ,"INTERPRETING PROCESSES II
+",SPED,ASL39201; and SPED 43102 and SPED 43105; and SPED 43111; and admission to advancedstudy. ,ASL 39202; and SPED 43110.,"(Cross-listed with SPED 53103) Intermediate level interpreting course that challenges students to interpret the
+ more complex genres including expository, procedural, and argumentative texts. Students will study and apply
+ contextualization strategies. Discourse that is common to both the adult deaf community and educational
+ settings will be interpreted and transliterated. Students will be assigned to a thirty-hour practicum placement."
+SPED 43104 ,"INTERPRETING PROCESS III
+",SPED,ASL 39202; and SPED 43103; and SPED 43110 and admission to advancedstudy. ,ASL 49108.,"(Cross-listed with SPED 53104) Advanced level interpreting course focused on enhancing students’ English to
+ ASL and ASL to English skills in a variety of settings. Complex texts are selected from a variety of disciplines
+ from both community and educational settings. Students build on previously developed self-assessment skills to
+ create detailed and analytical diagnostic charts of their interpreted work. Students will be assigned to a 30-hour
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1773
+practicum placement."
+SPED 43105 ,"TRANSLITERATING
+",SPED,ASL 29202; and SPED43107; and admission to advanced study. ,ASL 39201; and SPED 43102.,"(Cross-listed with SPED 53105) Receptive and expressive use of English-based sign language systems; ASL root
+ words, prefix/ suffix use, simultaneous speaking and signing. Explanation and demonstration of Cued speech;
+ exploration of the research related to individuals who use Cued speech."
+SPED 43106 ,"SCHOOL SETTING INTERPRETING
+",SPED,ASL 19202; and ASL/English Interpretingconcentration (ASEI) within the Special Education (SPED) major. Pre/,None,"(Cross-listed with SPED 53106) Issues, challenges, roles, responsibilities, and ethics of classroom-based
+ educational interpreting are explored. Students are exposed to the variety of classroom designs where
+ interpreters work such us mainstreaming, inclusion, resource room, and self-contained classrooms. K-12
+ settings place additional expectations for interpreter participation including IEP meetings, counseling, school
+ assemblies and performing arts presentations."
+SPED 43107 ,"COMMUNITY SETTING INTERPRETING
+",SPED,ASL 29201; and SPED 43100; and SPED 43106; and enrolled in the ASL/EnglishInterpreting (ASEI) concentration within the Special Education (SPED) major. ,ASL 29202.,"(Cross-listed with SPED 53107) This course explores the various venues that interpreters can work in the
+ community. Emphasis will be given to the development of specialized vocabulary. Students participate in mock
+interpreting situations common to community interpreting in order to identify ethical dilemmas, demands, and
+ controls."
+SPED 43110 ,"DISCOURSE ANALYSIS FOR INTERPRETERS
+",SPED,ASL 39201; and SPED 43100; and SPED 43102; and SPED 43106; and SPED 43107. ,SPED 43103.,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1774
+(Cross-listed with SPED 53110) This course will explore the field of discourse analysis and its relation to the
+ work of an interpreter. Students will complete the course with an understanding of terminology specific to
+ discourse analysis, a better understanding of one’s own discourse style, and a better idea of how English and
+ ASL use various discourse features. These features include the following: Turn-taking, Conversational Repair-
+ false starts, Discourse Markers, Constructing Dialogue & Action, Cohesion, Rhythm, Rhyme, & Repetition."
+SPED 43111 ,"THE PROFESSIONAL INTERPRETER
+",SPED,"ASL 29202; and SPED 43100; and SPED 43107; andadmission to advanced study.
+",None,"(Cross-listed with SPED 53111) Covers current trends in the field regarding situational and ethical issues.
+ Demand-control schema and the RID Code of Professional Conduct are key components of the students'
+investigation and application. Students receive guidance in preparing for the RID NIC and participate in
+ practicing for the RID performance test."
+SPED 43112 ,"INTERACTIVE INTERPRETING
+",SPED,"ASL 29202; and SPED 43100; and SPED 43103; and SPED 43110 with a grade of C (2.000) orbetter.
+",None,"(Cross-listed with SPED 53112) Guides students through a process of examining the complex nature of
+ interpreting interactive discourse. Discussions will focus on managing this multi-layered process when
+participants' roles, assumptions, and goals can be congruent or adversarial. Student will learn to navigate
+ contrasting cultural, linguistic, and discourse expectations. This course will present numerous interactive
+ scenarios for students to interpret typical of a variety of settings with different participant configurations."
+SPED 43113 ,"ASL TO ENGLISH INTERPRETING PROCESSES
+",SPED,ASL 29202 and SPED 43100.,None,"(Cross-listed with SPED 53113) Guides students in developing interpreting skills from their L2 (ASL) to their L1
+ (English). Students will learn strategies for increasing their ASL and English vocabularies for the purposes of
+ understanding equivalents when applying English vocabulary to ASL signs. Students will examine their ability to
+ apply this proficiency to various registers of ASL. Course will also emphasize incorporating Academic English
+ into written scholarly papers to increase students' abilities to apply this to their interpretations."
+SPED 43192 ,"ADVANCED PRACTICUM: ASL ENGLISH INTERPRETING
+",SPED,"ASL 29202; and SPED 43100; and admission to advancedstudy.
+",None,"(Repeatable for maximum of 9 credit hours) Field-based practicum experience provides pre-service educational
+ interpreters with opportunity to participate with currently practicing master educational interpreters. Students
+ placed in education and-or community settings. University supervisor and teacher mentor observe and assess
+ student skill. Students are required to complete Bureau of Criminal Investigation and Identification (BCII) and
+ Federal Bureau of Investigation (FBI) background checks and submit the results to authorized personnel at their
+ assigned school-agency before the first day of the semester in which student teaching internship will take place.
+ Official valid certification of Child Safety Training, approved Basic Life Support and A.L.I.C.E. Training must be
+ presented to the campus office of clinical experience or designated faculty-staff at Regional campuses as
+ prerequisite for student teaching."""
+SPED 43309 ,"INTRODUCTION TO DEAF STUDIES
+",SPED,None.,None,"(Cross-listed with ASL 49309 and SPED 53309) Introductory survey course provides informational base and
+ understanding of experiences of deaf people as a cultural minority. Includes etiology and prevalence data,
+service delivery systems, diagnosis and assessment of issues and communication systems. 20 field hours."
+SPED 43310 ,"LANGUAGE DEVELOPMENT FOR DEAF AND HARD-OF-HEARING STUDENTS
+",SPED,SPED 43309; and ASL 19202; and admission to advanced study.,None,"(Cross-listed with SPED 53310) Reviews research, theories and theorists in the field of language development
+ for hearing and deaf children; develops awareness of language differences commonly demonstrated by deaf and
+ hard-of hearing children; demonstrates ways to assess linguistic differences and facilitate instruction. Six topic
+ areas include theories of language development (review), language and cognition, normal language acquisition
+ in signed and spoken languages, child-caregiver interaction, language learning in a bilingual setting and
+ language assessment. Students gain foundational understanding of language development and awareness of
+ classroom applications for this knowledge. Includes 20 hours of field-lab experience. Deaf Education majors
+ must achieve a minimum grade of B (3.000) in SPED 43309 before registering for this course."
+SPED 43311 ,"INSTRUCTION OF DEAF/HARD-OF-HEARING STUDENTS WITH SPECIAL NEEDS
+",SPED,SPED 43313 with a minimum grade of B (3.000); andadmission to advanced study. ,2 credit hours of SPED 43392.,"IEP and transition planning strategies and program content for deaf/hard-of-hearing students w/ADHD, BD, DD,
+ VI, DB, LD, CMI, TBI, chronically health impaired/medically fragile, gifted.Curriculum and lesson development
+ and adaptation for impacted areas."
+SPED 43313 ,"LITERACY ASSESSMENT AND INTERVENTION FOR DEAF/HARD-OF-HEARING STUDENTS
+",SPED,SPED 43310 with a minimumgrade of B (3.000);and CI 47504 or ECED 40126; and admission to advanced study; and pre/,2 credit hours of SPED 43392. Pre/Corequisite: ASL 29202.,"(Cross-listed with SPED 53313) Theoretical overview of integrated linguistics curriculum and reading theories.
+ Strategies to address DHH difficulties and barriers, instructional planning and materials design, and ongoing
+ assessment strategies. Course includes a practicum placement."
+SPED 43324 ,"CURRICULUM METHODS AND MATERIALS FOR DEAF/HARD-OF-HEARING STUDENTS
+",SPED,SPED 43313 with a minimum grade of B (3.000); CI 47501 and 47502; and admission toadvanced study. ,2 credit hours of SPED 43392.,"Designed to provide students with basic knowledge and skills needed to effectively design and implement
+ instruction for deaf and hard-of-hearing students. Conducted through a combination of lectures, discussions,
+ demonstrations and group activities. Upon successful completion, students posses foundational understanding
+ of how to design and implement lessons and curriculum with students who are deaf and hard of hearing."
+SPED 43392 ,"PRACTICUM:DEAF EDUCATION
+",SPED,none.,None,"(Repeatable for a maximum of 3 credit hours) This classroom and field-based experience is designed to provide
+ students pre-service deaf education teachers with the opportunity to develop professional-level skills in working
+ with deaf and hard-of-hearing (DHH) students. The field component will provide experience in working with
+ DHH students with diverse needs, disabilities and ethnic-cultural backgrounds. The class will address
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1777
+appropriate lesson planning and implementation and meets at least 6 times per semester."
+SPED 43529 ,"NATURE AND NEEDS OF GIFTED CHILDREN
+",SPED,"PSYC 11762 andsophomore standing and admission to advanced study.
+",None,"Personal characteristics, abilities and potentialities of gifted through review of related research. Evaluation of
+ research findings and implications for psycho-educational development."
+SPED 43530 ,"INSTRUCTIONAL PROCESSES FOR GIFTED CHILDREN
+",SPED,"SPED 43529 andadmission to advanced study.
+",None,"Discovery and guidance of mentally superior children. Provision for school attention and accommodations. Case
+ studies of gifted children. Selecting appropriate instructional strategies."
+SPED 43981 ,"STUDENT TEACHING IN SPECIAL EDUCATION
+",SPED,"Admission to advanced study; and Official valid certification of Child Safety Training, approved Basic LifeSupport and A.L.I.C.E. Training must be presented to the campus office of clinical experience or designated
+ faculty/staff at Regional campuses as prerequisite for student teaching. ",SPED 49525.,"Provides opportunity to demonstrate skills in teaching. Students placed in education-based settings; assume
+ total teaching responsibilities of students with exceptionalities for 480 clock hours under the supervision of the
+ school-based mentor teacher and the university supervisor. Students are required to complete Bureau of
+ Criminal Investigation and Identification (BCII) and Federal Bureau of Investigation (FBI) background checks
+ and submit the results to authorized personnel at their assigned school-agency before the first day of the
+ semester in which student teaching internship will take place. Official valid certification of Child Safety Training,
+ approved Basic Life Support and A.L.I.C.E. Training must be presented to the campus office of clinical
+experience or designated faculty-staff at Regional campuses as prerequisite for student teaching."
+SPED 43991 ,"SEMINAR IN SPECIAL EDUCATION
+",SPED,"Admission toadvanced study.
+",None,(Repeatable for credit)Undergraduate seminar in special education; varied topics.
+SPED 43992 ,"FIELD EXPERIENCE IN SPECIAL EDUCATION
+",SPED,Admission to advanced study.,None,"Provides opportunity to observe master teachers and begin working with students. Students are placed in
+ education-based settings and work with a team of professionals to understand techniques for providing services
+to students with exceptionalities. Additional seminar meetings."
+SPED 43996 ,"INDIVIDUAL INVESTIGATION IN SPECIAL EDUCATION
+",SPED,special approval.,None,(Repeatable for credit) (Cross-listed with ASL 49096)
+SPED 44092 ,"FIELD EXPERIENCE FOR MILD/MODERATE INTERVENTION SPECIALIST
+",SPED,SPED 43992 and 43060 and admission to advanced study.,None,"Field assignments in conjunction with mild-moderate coursework. Evaluates students in personal conduct,
+ communication skills, instructional design and methods, and impact on student learning aligned with CEC
+ standards."
+SPED 44192 ,"FIELD EXPERIENCE FOR MODERATE/INTENSIVE INTERVENTION SPECIALIST
+",SPED,SPED 43992 and 43060 and admission to advanced study.,None,"(Repeatable for credit) Field assignments in conjunction with moderate-intensive coursework. Evaluates
+ students in personal conduct, communication skills, instructional design and methods, and impact on student
+ learning aligned with CEC standards."
+SPED 44309 ,"AUTISM SPECTRUM DISORDERS: THEORY AND DIAGNOSIS
+",SPED,none.,None,"(Cross-listed with SPED 64309, SPA 64309 and SPA 74309) Provides an overview of Autism Spectrum Disorders
+ (ASD). Examines the history, characteristics, and prevalence of ASD. Assessment and intervention models are
+ explored as they relate to various theoretical models for understanding ASD."
+SPED 49525 ,"INQUIRY SEMINAR INTO PROFESSIONAL PRACTICE
+",SPED,Admission to advanced study. ,SPED 43981.,"Focus on effective, ethical and responsible implication of professional practice. Provides vehicle to articulate and
+ demonstrate professional competencies, commitment and ethical decision making for providing services to
+ students."
+SPED 49625 ,"INQUIRY SEMINAR FOR ASL-ENGLISH INTERPRETERS
+",SPED,"ASL 49108; and SPED 43104; and SPED 43111; andadmission into advanced study status. Corerequisite: SPED 43192.
+",None,"Final semester course to coincide with the advanced practice. Students present a professional description of
+ their interpreting site analyzing students needs, school and instructor expectations or barriers, application of
+ the Demand – Control Schema, and ethical challenges. Current research in the field of interpreting is examined
+and a diagnostic chart of a work sample is created. Students explore the EIPA exam, its theoretical foundations,
+ and participate in practicing for the EIPA."
+SPED 50093 ,"VARIABLE TITLE WORKSHOP IN SPECIAL EDUCATION
+",SPED,Graduate standing.,None,"(Repeatable for credit)Topics of special interest to students desiring to intensify their knowledge in particular
+ areas. Presenters include Kent State University and other institution faculty. Offered irregularly."
+SPED 53010 ,"FAMILY AND PROFESSIONAL COLLABORATION
+",SPED,"SPED 63200 and graduatestanding.
+",None,"This course provides knowledge and strategies for working with family members of exceptional individuals and
+ members of related professions which provide services to them. Use of collaborative interdisciplinary and
+ interagency models in special education. 20 clinical and 10 field hours."
+SPED 53020 ,"ASSESSMENT IN SPECIAL EDUCATION
+",SPED,graduate standing.,None,"Use/interpretation normed, criterion-referenced and informal curriculum-based assessments for students with
+ mild/moderate disabilities. Standards-based alternative assessments for student with intensive needs. 10 field
+ and 20 clinical hours."
+SPED 53021 ,"ASSESSMENT FOR INDIVIDUALS WITH MODERATE TO INTENSIVE NEEDS
+",SPED,SPED 63000 and graduate standing.,None,"(Cross-listed with SPED 43021) Investigates issues and methods for assessing the academic, behavioral,
+ physiological, mental health, and life skills of individuals with moderate to intensive disabilities. Interpretation
+ of norm- and criterion formal assessments, creation of alternative assessments, modification of informal
+ assessments, ecological and community-based assessments specific to individuals with low incidence and
+ multiple disabilities."
+SPED 53030 ,"APPLIED BEHAVIOR ANALYSIS I: THEORY AND TECHNIQUES
+",SPED,graduate standing.,None,"Theory and techniques associated with applied behavior analysis. Approaches for establishing, implementing,
+ maintaining and monitoring skill development are emphasized. Procedures for assessing and modifying
+ classroom environments/instructional techniques to enhance learning/behavior of individuals with disabilities,
+ with specific emphasis on preventing, increasing positive and decreasing inappropriate behavior are introduced.
+ 25 field hours."
+SPED 53031 ,"APPLIED BEHAVIOR ANALYSIS II: APPLICATION
+",SPED,"SPED53030 and graduate standing.
+",None,"Equips students with the skills necessary to integrate the technology of applied behavior analysis (as learned in
+ SPED 43030, Applied Behavior Analysis I) with the analytical skills necessary to prevent, teach, manage and
+ assess behavior. Specific behavioral interventions are presented. Includes 40 field hours."
+SPED 53040 ,"LANGUAGE AND READING IN SPECIAL EDUCATION
+",SPED,graduate standing.,None,"Instructional approaches to teaching reading/language arts to students with disabilities. Emphasis on adapting
+ instructional techniques, materials, assessments to meet the needs of learners with disabilities. Contains 15
+ clinical and 15 field hours."
+SPED 53050 ,"CHARACTERISTICS OF STUDENTS WITH MILD/MODERATE INTERVENTION NEEDS
+",SPED,graduate standing.,None,"Definitions, causes, characteristics; social, educational implications of learning developmental and emotional
+ behavioral disorders of students identified with mild/moderate disabilities. Methods of assessment and
+interventions; current issues. 10 clinical and 10 field hours."
+SPED 53051 ,"CHARACTERISTICS OF STUDENTS WITH MODERATE/INTENSIVE INTERVENTION NEEDS
+",SPED,"graduatestanding.
+",None,"Overview of specific facets and causes of severe disabilities, physical/psychological aspects family/societal
+ responses, political trends, etiology and medical implications, educational and vocational programming,
+ assessment and treatment planning, assistive technology. 10 clinical 10 field hours."
+SPED 53060 ,"CURRICULUM METHODS IN SPECIAL EDUCATION
+",SPED,graduate standing.,None,"Curriculum development, programming, delivery for students with mild to moderate disabilities. Introduction to
+ transition planning. Emphasis on functional curriculum and adapting instructional techniques, materials,
+assessment to meet needs. 33 field clinical hours."
+SPED 53062 ,"CURRICULUM METHODS MILD/MODERATE INTERVENTION
+",SPED,graduate standing.,None,"Delivery and adaptation of evidence-based practices for students with mild/moderate disabilities. Emphasis on
+ achievement in general curriculum. Training to mentor other professionals."
+SPED 53063 ,"CURRICULUM METHODS MODERATE/INTENSIVE INTERVENTION
+",SPED,SPED 53060 and graduate standing.,None,"(Cross-listed with SPED 43063) Delivery and adaptation of evidence based practices for students with moderate
+ to intensive educational needs. An emphasis is placed on instruction of functional academic and life skills within
+ naturalistic contexts."
+SPED 53070 ,"PLANNING AND PROGRAMMING FOR TRANSITIONS
+",SPED,graduate standing.,None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1783
+This course addresses life-span community participation and the planning, support, development, and services
+ available to accomplish it. Introduction to community agencies and adult services. 10 clinical 15 field hours."
+SPED 53080 ,"ASSISTIVE TECHNOLOGY FOR STUDENTS WITH DISABILITIES
+",SPED,SPED 53050 or SPED53051and graduate standing.,None,"Examines application of high and low technology assistive devices for students with intensive intervention
+ needs. Analysis of technology needs; selection/development of technology; training/evaluation of technology
+ use by students. 20 clinical hours."
+SPED 53092 ,"DEAF RESIDENTIAL SCHOOL FIELD EXPERIENCE
+",SPED,SPED 53309; and graduate standing.Pre/,None,"(Slashed with SPED 43092) Week-long practicum at a residential or post-secondary school for the deaf; 24-
+hour per day interaction with deaf students and adults to learn about and participate in activities, resources, and
+ programs and interact with staff with expertise in deafness."
+SPED 53100 ,"SURVEY OF INTERPRETING PROFESSION
+",SPED,ASL19202; and graduate standing. Pre/,ASL 29201. Corequisite: SPED 53106.,"(Cross-listed with SPED 43100) Introduction to the field of ASL-English interpreting. The following will be
+ discussed: the history of the interpreting profession; the varied roles-responsibilities of interpreters; issues and
+ concerns facing interpreters; legal mandates and constraints governing the provision of interpreters; ethical
+guidelines and their application to educational environments. Since interpreters are expected to be fluent in
+ both English and ASL, this course will strive to enhance students’ facility with both languages."
+SPED 53101 ,"DEAF CULTURE AND COMMUNITY
+",SPED,Graduate standing.,None,"(Cross-listed with ASL 49101)Exploration of historical events and figures from deaf community perspective. Life
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1784
+experiences of ""typical"" deaf individuals as minority culture representatives interacting with majority culture
+ institutions and processes as depicted in narrative storytelling and folklore."
+SPED 53102 ,"INTERPRETING PROCESSES I
+",SPED,ASL 29202; and SPED 53100; and SPED 53107; and graduate standing.,ASL 39201 and SPED 53105.,"(Cross-listed with SPED 43102) Beginning level interpreting course that examines the models of interpreting
+ and their application to practice. Consecutive and simultaneous interpreting strategies are used to develop
+ processing skills for both English to ASL and ASL to English interpretations. Samples of narrative genre are the
+ texts used for interpretations as students examine the linguistic and cultural differences between ASL and
+ English narratives."
+SPED 53103 ,"INTERPRETING PROCESSES II
+",SPED,ASL 39201; and SPED 53102; and SPED 53105; and SPED 53107; and SPED 53111 and graduatestanding. ,ASL 39202 and SPED 53110.,"(Cross-listed with SPED 43103) Intermediate level interpreting course that challenges students to interpret the
+ more complex genres including expository, procedural, and argumentative texts. Students will study and apply
+ contextualization strategies. Discourse that is common to both the adult deaf community and educational
+ settings will be interpreted and transliterated. Students will be assigned to a thirty-hour practicum placement."
+SPED 53104 ,"INTERPRETING PROCESS III
+",SPED,ASL 39202 and SPED 53103; and SPED 53110 and graduate standing.,uisie: ASL 49108.,"(Cross-listed with SPED 43104) Advanced level interpreting course focused on enhancing students’ English to
+ ASL and ASL to English skills in a variety of settings. Complex texts are selected from a variety of disciplines
+ from both community and educational settings. Students build on previously developed self-assessment skills to
+ create detailed and analytical diagnostic charts of their interpreted work. Students will be assigned to a 30-hour
+ practicum placement."
+SPED 53105 ,"TRANSLITERATING
+",SPED,SPED 53100 and ASL 29202 and graduate standing.,ASL 39201 and SPED 53102.,"(Cross-listed with SPED 43105) Students are exposed to the various English-based sign systems that are used
+ in the education of deaf students as well as variations of sign communication in the deaf community. Focus is
+ placed on developing transliterating skills utilizing conceptually accurate signed English. Students examine the
+implications of a diverse sign continuum and the professional expectation of identifying and meeting the
+ language preferences of deaf consumers."
+SPED 53106 ,"SCHOOL SETTING INTERPRETING
+",SPED,ASL 19201; asl english interpreting (ASEI)concentration within the special education (SPED) major and graduate standing. Pre/,None,"(Cross-listed with SPED 43106) Issues, challenges, roles, responsibilities, and ethics of classroom-based
+ educational interpreting are explored. Students are exposed to the variety of classroom designs where
+ interpreters work such us mainstreaming, inclusion, resource room, and self-contained classrooms. K-12
+ settings place additional expectations for interpreter participation including IEP meetings, counseling, school
+ assemblies and performing arts presentations."
+SPED 53107 ,"COMMUNITY SETTING INTERPRETING
+",SPED,ASL 29201; SPED 53100; and SPED 53106; and admission to the asl english interpreting(ASEI) concentration with the special education (SPED) major and graduate standing. ,ASL 29202.,"(Cross-listed with SPED 43107) This course explores the various venues that interpreters can work in the
+ community. Emphasis will be given to the development of specialized vocabulary. Students participate in mock
+interpreting situations common to community interpreting on order to identify ethical dilemmas, demands and
+ controls."
+SPED 53108 ,"AMERICAN SIGN LANGUAGE LINGUISTICS AND USAGE
+",SPED,SPED 4/53100 and SPED 29202 and graduate standing.,None,"(Cross-listed with ASL 49108) Analytical study of American Sign Language syntactic, semantic, morphology and
+ pragmatics; comparison of spoken languages and ASL using the Stokoe system, impact of educational-setting
+ characteristics on linguistic processes."
+SPED 53110 ,"DISCOURSE ANALYSIS FOR INTERPRETERS
+",SPED,ASL 39201; and SPED 53100 and SPED 53102 and SPED 53106 and SPED 53107. ,SPED 53103.,"(Cross-listed with SPED 43110) This course will explore the field of discourse analysis and its relation to the
+ work of an interpreter. Students will complete the course with an understanding of terminology specific to
+ discourse analysis, a better understanding of one's own discourse style, and a better idea of how English and
+ ASL use various discourse features. These features include the following: Turn-taking, Conversational Repair -
+ false starts, Discourse Markers, Constructing Dialogue & Action, Cohesion, Rhythm, Rhyme, and Repetition."
+SPED 53111 ,"THE PROFESSIONAL INTERPRETER
+",SPED,"ASL 29202; and SPED 53100 andSPED 53107; and graduate standing.
+",None,"Covers current trends in the field regarding situational and ethical issues. Demand-Control Schema and the RID
+ Code of Professional Conduct are key components of the students' investigation and application. Students
+ receive guidance in preparing for the RID performance test."
+SPED 53112 ,"INTERACTIVE INTERPRETING
+",SPED,ASL 29202; and SPED 53100; and SPED 53103; and SPED 53110 with a grade of C (2.000) orbetter. ,SPED 53102.,"(Cross-listed with SPED 43112) Guides students through a process of examining the complex nature of
+ interpreting interactive discourse. Discussions will focus on managing this multi-layered process when
+participants' roles, assumptions, and goals can be congruent or adversarial. Student will learn to navigate
+ contrasting cultural, linguistic, and discourse expectations. This course will present numerous interactive
+ scenarios for students to interpret typical of a variety of settings with different participant configurations."
+SPED 53113 ,"ASL TO ENGLISH INTERPRETING PROCESSES
+",SPED,ASL 29202 and SPED 53100; and graduate standing.,None,"(Slashed with SPED 43113) Guides students in developing interpreting skills from their L2 (ASL) to their L1
+ (English). Students will learn strategies for increasing their ASL and English vocabularies for the purposes of
+ understanding equivalents when applying English vocabulary to ASL signs. Students will examine their ability to
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1787
+apply this proficiency to various registers of ASL. Course will also emphasize incorporating Academic English
+ into written scholarly apers to increase students' abilities to apply this to their interpretations."
+SPED 53192 ,"ADVANCED PRACTICUM: ASL ENGLISH INTERPRETING
+",SPED,ASL 29202 and graduate standing.,None,"(Repeatable for a maximum of 9 credit hours) Field-based practicum experience provides pre-service
+ educational interpreters with opportunity to participate with currently practicing master educational
+interpreters. Students placed in education and-or community settings. University supervisor and teacher mentor
+ observe and assess student skill."
+SPED 53309 ,"INTRODUCTION TO DEAF STUDIES
+",SPED,Graduate standing.,None,"Introductory survey course provides informational base and understanding of experiences of deaf people as a
+ cultural minority. Includes etiology and prevalence data, service delivery systems, diagnosis and assessment of
+ issues and communication systems. 20 field hours."
+SPED 53310 ,"LANGUAGE DEVELOPMENT FOR DEAF AND HARD-OF-HEARING STUDENTS
+",SPED,"SPED 53309; and ASL 19202;and graduate standing.
+",None,"Reviews research, theories and theorists in the field of language development for hearing and deaf children;
+ develops awareness of language differences commonly demonstrated by deaf and hard-of hearing children;
+ demonstrates ways to assess linguistic differences and facilitate instruction. Six topic areas include theories of
+ language development (review), language and cognition, normal language acquisition in signed and spoken
+ languages, child-caregiver interaction, language learning in a bilingual setting and language assessment.
+Students gain foundational understanding of language development and awareness of classroom applications
+ for this knowledge. Includes 20 hours of field-lab experience. Deaf Education majors must achieve a minimum
+ grade of B (3.000) in SPED 53309 before registering for this course."
+SPED 53311 ,"INSTRUCTION OF DEAF/HARD-OF-HEARING STUDENTS WITH SPECIAL NEEDS
+",SPED,SPED 53313 with a minimum grade of B (3.000)and graduate standing. ,2 credit hours of SPED 63392.,"IEP and transition planning strategies and program content for deaf/hard-of-hearing students with ADHD, BD,
+ DD,VI,DB, LD, CMI, TBI, chronically health impaired/medically fragile, gifted. Curriculum and lesson
+ development and adaptation for impacted areas."
+SPED 53313 ,"LITERACY ASSESSMENT AND INTERVENTION FOR DEAF/HARD-OF-HEARING STUDENTS
+",SPED,SPED 53310 with a minimum grade of B (3.000); and CI 67310or CI 57504; and graduate standing. Pre/,None,"Theoretical overview of integrated linguistics curriculum and reading theories. Strategies to address DHH
+ difficulties and barriers, instructional planning and materials design, and ongoing assessment strategies.Course
+ includes a practicum placement."
+SPED 53324 ,"CURRICULUM METHODS AND MATERIALS FOR DEAF/HARD OF HEARING STUDENTS
+",SPED,SPED 53313 with a minimumg rade of B (3.000); and CI 57501 and 57502; and graduatestanding. ,2 credit hours of SPED 63392.,"Designed to provide students with basic knowledge and skills needed to effectively design and implement
+ instruction for deaf and hard-of-hearing students. Conducted through a combination of lectures, discussions,
+ demonstrations and group activities. Upon successful completion, students possess foundational understanding
+ of how to design and implement lessons and curriculum with students who are deaf and hard of hearing."
+SPED 53529 ,"NATURE AND NEEDS OF GIFTED CHILDREN
+",SPED,"Graduatestanding.
+",None,"Personal characteristics, abilities and potentialities of gifted children through review of related research.
+ Evaluation of research findings and implications for psychoeducational development."
+SPED 53530 ,"INSTRUCTIONAL PROCESSES FOR GIFTED CHILDREN
+",SPED,"SPED 53529 and graduatestanding.
+",None,"Discovery and guidance of mentally superior children. Provision for school attention and accommodations. Case
+ studies of gifted children. Selecting appropriate instructional strategies."
+SPED 53534 ,"SOCIAL/EMOTIONAL COMPONENTS OF GIFTEDNESS
+",SPED,Graduate standing.,None,"Affective growth of gifted persons is reviewed through research literature and analysis of case studies. Reviews
+ adjustment problems of gifted youth and adults."
+SPED 54161 ,"TRANSITIONAL PROGRAMMING AND SERVICES FOR DISABLED YOUTH
+",SPED,graduate standing.,None,"Transition from school to work and community life; vocational exploration/assessment and
+ preparation/placement methods and techniques for secondary and postsecondary disabled youth."
+SPED 60199 ,"THESIS I
+",SPED,Graduate standing and special approval.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in a single semester distributed over several
+ semesters if desired."
+SPED 60299 ,"THESIS II
+",SPED,SPED 60199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+SPED 62951 ,"EARLY INTERVENTION IN NATURAL ENVIRONMENTS
+",SPED,graduate standing.,None,"This seminar targets early childhood special education and intervention professionals that comprise the field of
+ early intervention from practitioners to future leaders in the field. Recommended practice guidelines of the
+ Division for Early Childhood (DEC) indicate that interventions should be embedded and distributed within and
+ across the routines, activities and places that are part of the child’s daily experience. In keeping with DEC
+ recommendations, this course will explore issues related to the various natural environments of the children in
+ search of the routines, activities, and places that offer the maximum learning and practice opportunities that
+ are family centered, developmentally and individually appropriate, culturally sensitive, and least intrusive."
+SPED 63030 ,"PHARMACOLOGICAL INTERVENTIONS IN SPECIAL EDUCATION
+",SPED,Graduate standing.,None,"Introduce mechanisms by which drugs act; identify benefits/side effects; implications for delivery/ intervention;
+ monitoring in classroom. Classes of drugs examined; issues examined; delineation of responsibilities and
+ prohibitions."
+SPED 63031 ,"PROGRAM DEVELOPMENT AND ETHICAL APPLICATION OF APPLIED BEHAVIOR
+",SPED,SPED 53030 and graduate standing.,None,"ANALYSIS
+Describe and apply methodology and research design in monitoring the effectiveness of behavioral interventions
+ and to use such information to evaluate overall program efficacy. Consideration is given to student
+characteristics (e.g., underlying disability) when developing and evaluating behavior programs based. Use of
+ specific tools for prioritizing behaviors, evaluating progress, and making treatment program decisions are
+ presented. Issues related to ethics, treatment implementation fidelity, and behavioral program development are
+ also emphasized."
+SPED 63032 ,"ADVANCED INTERVENTIONS FOR ADDRESSING SEVERE BEHAVIOR
+",SPED,"SPED 53030, SPED 53031, SPED 63031, SPED 63301 and SPED 63033; and graduatestanding.
+",None,"Use and interpretation of functional behavioral assessment in educational settings to lead to the identification of
+empirically-supported interventions to address the behavioral needs of children. The development,
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1791
+implementation and analysis of functional analysis procedures. Special emphasis given to identifying designing,
+implementing and assessing the effectiveness of advanced behavioral interventions in consultation. 20 field
+ hours."
+SPED 63033 ,"ETHICAL AND PROFESSIONAL CONDUCT IN APPLIED BEHAVIOR ANALYSIS
+",SPED,"SPED53030 and SPED 63031; and graduate standing.
+",None,"This course provides an intensive focus on ethical and professional conduct as it applies to day-to-day
+ implementation of applied behavior analytic strategies by professional behavior analysts. Responsible conduct of
+ a behavior analyst, ethical responsibilities to clients, colleagues, the field of applied behavior analysis, and
+ society are featured. BACB Guidelines for Responsible Conduct for Behavior Analyst and BACB Disciplinary and
+ Ethical Standards are reviewed and studied. This course focuses on meeting the updated standards for ethics
+ set forth by the Behavior Analyst Certification Board in the BACB Fourth Edition Task List."
+SPED 63092 ,"FIELD EXPERIENCE IN SPECIAL EDUCATION
+",SPED,graduate standing.,None,"Provides opportunity to observe master teachers and begin working with students. Students are placed in
+ education-based settings and work with a team of professionals to understand techniques for providing services
+to students with exceptionalities. Additional seminar meetings."
+SPED 63101 ,"ADMINISTRATION AND SUPERVISION IN SPECIAL EDUCATION
+",SPED,Graduate standing.,None,"Administration of educational programs for exceptional children; improvement of teacher competencies;
+ function of special education supervisors; and special education operations at local, state and national levels."
+SPED 63200 ,"INTRODUCTION TO EXCEPTIONALITIES
+",SPED,Graduate standing.,None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1792
+Introduction to exceptionalities of student development. Focus on foundations/theories associated with
+ characteristics and accommodations for human exceptionalities. Collaborative/multidiscipline educational
+service design. Fifteen clinical/field hours."
+SPED 63201 ,"CONTEMPORARY ISSUES IN SPECIAL EDUCATION
+",SPED,graduate standing.,None,"(Slashed with SPED 83201) Surveys current research, literature and policy issues that affect identification,
+ assessment and service provision to students with exceptionalities."
+SPED 63300 ,"RESEARCH APPLICATIONS IN SPECIAL EDUCATION
+",SPED,"graduate standing;and EDPF 65510 or 65511.
+",None,"Culminating experience in which students apply their content, methods and research skills to develop a final
+ project that addresses an area of special education. Focuses on techniques for answering research questions,
+ developing curriculum, and assimilating knowledge through applied projects."
+SPED 63301 ,"SINGLE SUBJECT RESEARCH METHODS
+",SPED,graduate standing.,None,"(Repeatable 2 times for credit) Research designs and techniques associated with behavioral observation and a
+ description of single subject experimental methodology are presented. The study of this methodology includes
+ topics related to applied behavior analysis, assessment, experimental design and data evaluation. In addition,
+ single subject methods are discussed in relations to other research designs. 20 field hours."
+SPED 63392 ,"PRACTICUM IN DEAF EDUCATION
+",SPED,graduate standing.,None,"(Repeatable for a maximum of 3 credit hours) This classroom and field-based experience is designed to provide
+ students pre-service deaf education teachers with the opportunity to develop professional-level skills in working
+ with deaf and hard-of-hearing (DHH) students. The field component will provide experience in working with
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1793
+DHH students with diverse needs, disabilities and ethnic-cultural backgrounds. The class will address
+ appropriate lesson planning and implementation and meets at least 6 times per semester."
+SPED 63531 ,"CURRICULUM DEVELOPMENT FOR GIFTED LEARNERS
+",SPED,Graduate standing.,None,"Focus on design/development of curriculum for gifted learners; adapt/modify existing curricula; design
+ curricular materials through predetermined process assessment of suitability of materials."
+SPED 63532 ,"GIFTED PROGRAM DESIGN AND ADMINISTRATION
+",SPED,"SPED53529 and SPED 53530 and graduate standing.
+",None,"Fundamentals of designing gifted programs are reviewed. Topics include student identification in service
+ advocacy program evaluation compliance with state standards and teacher preparation."
+SPED 63533 ,"GIFTED SUBPOPULATIONS
+",SPED,Graduate standing.,None,"The characteristics and needs of intellectually gifted individuals who often are not high academic achievers are
+ studied with consideration of the implications for school practices."
+SPED 63892 ,"EARLY INTERVENTION INTERNSHIP
+",SPED,"graduate standing and specialapproval.
+",None,"(Repeatable for a maximum of 9 credit hours) The Early Intervention Internship involves supervised observation
+ and participation in an early intervention setting(s) for children ages birth to three with developmental delays
+ and disabilities or supervised observation and participation in research and scholarly activities related to the
+development, delivery, and evaluation of early intervention services to children and their families. Students may
+ be placed at a county board of developmental disabilities, center-, community-, or home-based early
+intervention program, a developmental center, childcare center, a neonatal intensive care unit (NICU) or other
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1794
+approved placement. The Early Intervention internship will provide students practical experience in an Early
+ Intervention professional setting, one that allows students to develop and refine a variety of skills when working
+ with infants and toddlers with disabilities and their families."
+SPED 63949 ,"AUTISM SPECTRUM DISORDER CAPSTONE
+",SPED,graduate standing.,None,"Knowledge and skills gained through participation in the Autism Spectrum Disorders (ASD) program are utilized
+ to develop a project related to the education of individuals with ASD and-or the individuals who support them."
+SPED 63950 ,"CURRICULUM AND INTERVENTION IN EARLY CHILDHOOD SERVICES
+",SPED,Graduate standing.,None,"Overview and comparison of early childhood service approaches including: history and issues in delivering
+ services, developmentally appropriate practice, environmental arrangement and how to modify curriculum."
+SPED 63952 ,"FAMILY AND PROFESSIONAL COLLABORATION IN EARLY CHILDHOOD
+",SPED,Graduate standing.,None,"(Cross-listed with ECED 60159 and SPED 73952) Examines issues facing families and professionals serving
+ young children who are at-risk, disabled and typically developing."
+SPED 63953 ,"PRACTICAL APPLICATIONS:BIRTH TO FIVE
+",SPED,Graduate standing.,None,"Practical application of recommended practices for young children birth-five. Observation of young children in
+ natural environments. Plan and evaluate intervention with families and professionals. Sixty field hours."
+SPED 63954 ,"PRACTICAL APPLICATIONS: TEAMING
+",SPED,Graduate standing.,None,"The purpose of this course is to help students understand and apply the principles of effective collaborative
+ teaming as related to their professional roles and responsibilities in a variety of educational settings serving
+ young children with disabilities. A range of topics will be addressed throughout the course, including giving and
+ receiving feedback, reflective practices, effective meeting, conflict resolution and communication skills,
+ developing and providing quality professional development, supervising, coaching, mentoring, working with
+para-professionals, itinerant teaching, service coordination, and consulting with general educators."
+SPED 63955 ,"TYPICAL AND ATYPICAL DEVELOPMENT IN YOUNG CHILDREN
+",SPED,Graduate standing.,None,"Overview of typical and atypical development pathways from birth to grade 3 including: theories of behavior,
+ implications of atypical development on play, learning, early childhood development within ecological
+ framework."
+SPED 63956 ,"FOUNDATIONS IN EARLY CHILDHOOD SERVICES
+",SPED,Graduate standing.,None,"(Cross-listed with ECED 60156 and SPED 73956) Overview of issues facing young children within context of
+ family/society including: history, early childhood services, theoretical perspectives, implications of childhood
+ disabilities, and recommended assessment intervention and evaluation."
+SPED 63957 ,"ASSESSMENT AND EVALUATION OF EARLY CHILDHOOD SERVICES
+",SPED,Graduate standing.,None,"(Cross-listed with ECED 60157 and SPED 73957) Examines a range of systems for comparing and observing
+ early childhood services, practices, young children and families: types and purposes of assessment procedures
+ and instruments, monitoring progress."
+SPED 63958 ,"EARLY CHILDHOOD INTERVENTION METHODS
+",SPED,Graduate standing.,None,"Specific strategies for working with children birth to eight with intensive needs (e.g.cerebral palsy, spina bifida,
+ autism). 30 clinical hours will provide students with the opportunity to practice newly acquired intervention
+ strategies, knowledge and skills."
+SPED 63959 ,"MEDICAL ASPECTS OF LIFESPAN DISABILITIES
+",SPED,graduate standing.,None,"Description of medical issues facing individuals with lifespan disabilities and their families. Examination of
+ etiology, co-occuring disabilities and disorders, and treatment options in relation to individuals with Autism
+ Spectrum Disorders and other developmental disabilities."
+SPED 63991 ,"SEMINAR IN SPECIAL EDUCATION
+",SPED,Graduate standing.,None,"(Repeatable for credit)Various topics include: behavior modification, research problems in special education,
+ theories in special education, social processes in special education."
+SPED 63992 ,"STUDENT TEACHING IN SPECIAL EDUCATION
+",SPED,"Graduate standing and special approval; and Official validcertification of Child Safety Training, approved Basic Life Support and A.L.I.C.E. Training must be presented to
+ the campus office of clinical experience or designated faculty/staff at Regional campuses as prerequisite for
+ student teaching. ","SPED 69525.2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1797
+","(Repeatable for maximum of 8 credit hours) Provides opportunity to demonstrate skills in teaching. Students
+ placed in education-based settings; assume total teaching responsibilities of students with exceptionalities for
+ 480 clock hours under the supervision of the school-based mentor teacher and the university supervisor.
+ Students are required to complete Bureau of Criminal Investigation and Identification (BCII) and Federal Bureau
+ of Investigation (FBI) background checks and submit the results to authorized personnel at their assigned
+schoolagency before the first day of the semester in which student teaching internship will take place. Official
+ valid certification of Child Safety Training, approved Basic Life Support and A.L.I.C.E. Training must be
+ presented to the campus office of clinical experience or designated faculty-staff at Regional campuses as
+ prerequisite for student teaching."
+SPED 63995 ,"SPECIAL TOPICS IN SPED
+",SPED,Graduate standing.,None,(Repeatable for credit)Specialized offerings in response to emerging or selected program needs.
+SPED 63996 ,"INDIVIDUAL INVESTIGATION IN SPECIAL EDUCATION
+",SPED,graduate standing and special approval.,None,(Repeatable for credit)
+SPED 63998 ,"RESEARCH:SPECIAL EDUCATION
+",SPED,Graduate standing and special approval.,None,(Repeatable for credit)
+SPED 64309 ,"AUTISM SPECTRUM DISORDERS: THEORY AND DIAGNOSIS
+",SPED,graduate standing.,None,"(Cross-listed with SPED 44309, SPA 64309 and SPA 74309) Provides an overview of Autism Spectrum Disorders
+ (ASD). Examines the history, characteristics, and prevalence of ASD. Assessment and intervention models are
+ explored as they relate to various theoretical models for understanding ASD."
+SPED 64310 ,"AUTISM SPECTRUM DISORDERS: LIFESPAN INTERVENTIONS
+",SPED,"graduatestudy.
+",None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1798
+Provides students with a review of the significant aspects related to educational, social, vocational transitions
+ for children, adolescents, and young adults with ASD. Students learn skills necessary to evaluate and develop
+ programs designed to meet the changing and long term needs of individuals with ASD."
+SPED 64892 ,"ADVANCED PRACTICUM
+",SPED,graduate standing and special approval.3.000 OR ,None,"(Repeatable for credit) The purpose of this advanced practicum is to integrate the knowledge and skills acquired
+ through prior curricula to a field-based setting assisting individuals with disabilities. Settings may include, but
+ are not limited to, general education and special education classrooms as well as therapeutic, residential and
+ vocational programs."
+SPED 64951 ,"DEVELOPING IFSPS AND IEPS FOR YOUNG CHILDREN
+",SPED,graduate standing.,None,"This course is designed to increase students understanding regarding federal and state rules for developing IEPs
+ and IFSPs for young children and their families. Students will learn how to write functional and measurable IEP
+ goals, objectives and IFSP outcomes, and to use assessment information directly for identifying, writing, and
+ monitoring IFSP outcomes and IEP goals. This course will also teach how to form partnerships with families
+ around developing, implementing and evaluating the IFSP and IEP."
+SPED 69525 ,"INQUIRY PROFESSIONAL PRACTICE
+",SPED,graduate standing. ,SPED 63992.,"This course is to support students during their student teaching experience in the last semester of the program.
+ Planning for instruction and assessment, instructing and engaging students in various special education
+ settings, and assessing learning outcomes are the focus of this course. The course also includes information
+ specific to the professional responsibilities in their placements."
+SPED 70093 ,"VARIABLE TITLE WORKSHOP IN SPECIAL EDUCATION
+",SPED,Doctoral standing.,None,"(Repeatable for credit)Topics of special interest to students desiring to intensify their knowledge in particular
+ areas. Presenters include Kent State University and other institution faculty. Offered irregularly."
+SPED 70094 ,"COLLEGE TEACHING
+",SPED,Doctoral standing.,None,"(Repeatable for credit) (Cross-listed with EPSY 70094 and SPSY 60094 and SPSY 70094) Discusses major
+ aspects of teaching in higher education, including such topics as students, philosophy of teaching, principles of
+ adult learning, instructional strategies, students assessment and others."
+SPED 73030 ,"PHARMACOLOGICAL INTERVENTIONS IN SPECIAL EDUCATION
+",SPED,Doctoral standing.,None,"Introduce mechanisms by which drugs act; identify benefits/side effects; implications for delivery/intervention;
+ monitoring in classroom. Classes of drugs examined; issues examined; delineation of responsibilities and
+ prohibitions."
+SPED 73533 ,"GIFTED SUBPOPULATIONS
+",SPED,Doctoral standing.,None,"The characteristics and needs of intellectually gifted individuals who often are not high academic achievers are
+ studied with consideration of the implications for school practices."
+SPED 73950 ,"CURRICULUM AND INTERVENTION IN EARLY CHILDHOOD SERVICES
+",SPED,Doctoral standing.,None,"Overview and comparison of early childhood service approaches, including history and issues in delivering
+ services, developmentally appropriate practice, environmental arrangement and how to modify curriculum."
+SPED 73956 ,"FOUNDATIONS IN EARLY CHILDHOOD SERVICES
+",SPED,Doctoral standing.,None,"(Cross-listed with ECED 60156 and SPED 63956) Overview of issues facing young children within context of
+ family/society including: history, early childhood services, theoretical perspectives, implications of childhood
+ disabilities, and recommended assessment intervention and evaluation."
+SPED 73957 ,"ASSESSMENT AND EVALUATION OF EARLY CHILDHOOD SERVICES
+",SPED,Doctoral standing.,None,"(Cross-listed with ECED 60157 and SPED 73957) Examines a range of systems for comparing and observing
+ early childhood services, practices, young children and families: types and purposes of assessment procedures
+ and instruments monitoring progress."
+SPED 73991 ,"SEMINAR IN SPECIAL EDUCATION
+",SPED,Doctoral standing.1.000 OR ,None,"(Repeatable for credit)Various topics include: behavior modification, research problems in special education,
+ theories in special education, social processes in special education."
+SPED 73995 ,"SPECIAL TOPICS IN SPED
+",SPED,Doctoral standing.,None,(Repeatable for credit)Specialized offerings in response to emerging or selected program needs.
+SPED 73996 ,"INDIVIDUAL INVESTIGATION IN SPECIAL EDUCATION
+",SPED,Doctoral standing and special approval.,None,(Repeatable for credit)
+SPED 80001 ,"SPECIAL EDUCATION RESIDENCY
+",SPED,doctoral standing.,None,"This course is designed to provide beginning SPED doctoral students skills and knowledge in the following global
+ areas: information literacy and plagiarism, basic APA style writing and building a writing routine. Additionally,
+ the course will prepare students in the following SPED specific areas: effectively synthesizing intervention based
+ empirical research, establishing a line of inquiry in the disability related fields, and developing a CV for disability
+ related positions in Higher Education. Overall, the course will help students to understand life in academia
+ during the doctoral studies in SPED and life after graduation conducting timely SPED research and teaching
+ SPED content (e.g., institutional differences for SPED higher education jobs, tenure, work and life balance, time
+ management, etc). In-progress (IP) mark permissible."
+SPED 80002 ,"ANALYSIS OF THE LITERATURE IN SPECIAL EDUCATION
+",SPED,SPED 80001; and doctoral standing.,None,"This course is designed to assist doctoral students in the acquisition, organization, and interpretation of
+ information about research in special education. The seminar introduces students to the nature of inquiry and
+ the process of generating questions about a broad array of disability-related research topics. Students will gain
+ knowledge to analyze critically the outcomes of research in special education. In-progress (IP) mark
+ permissible."
+SPED 80003 ,"IMPLEMENTATION SCIENCE IN SPECIAL EDUCATION
+",SPED,doctoral standing.,None,"This course is designed to provide students an overview of implementation science, and seminal leadership and
+ systems change literature. The course will describe current state of the science of implementation, and identify
+ strategies that foster the effective transmission and implementation of innovative programs in intervention
+focused disability studies special education fields. Students analyze and apply the literature at the teacher,
+ family, school building, district, state and federal levels. Students will gain skills and knowledge in
+ implementation drivers that have the potential in reducing the research to practice gap, and increasing the
+ integration of evidence based practices. Strategies for developing and mobilizing stakeholders to support the
+ process of change will be covered."
+SPED 80005 ,"EMPIRICAL INVESTIGATIONS IN SPECIAL EDUCATION
+",SPED,"SPED 80002; anddoctoral standing.
+",None,"The course is intended to help students solidify their knowledge, skills, and dispositions related to research
+ design, research methods, and scholarly writing by applying and expanding them in the context of special
+ education research. Students will review and analyze quality indicators for special education research, critique
+ select special education research literature, and develop a preliminary research proposal.
+ Satisfactory/unsatisfactory (S/U) graded; In-progress (IP) mark permissible."
+SPED 80040 ,"RESEARCH GRANT DEVELOPMENT FOR DISABILITY PROGRAMS
+",SPED,doctoral standing.,None,"Students develop and write research proposals for grant competitions focusing on disability issues.
+ Considerations for types of competitions and funding sources are discussed. Focus of instruction is related to
+how to describe the importance of the research proposed, research methods identified, budget, administration
+ of grant activities and evaluation of implementation."
+SPED 80090 ,"DOCTORAL RESIDENCY SEMINAR
+",SPED,Doctoral standing and special approval.,None,"Provides students with the opportunity to synthesize courses, research and practice by focusing on diverse
+ issues and topics. Ordinarily, SPED 80090 is taken no earlier than the second year of doctoral studies as a
+culminating course in the doctoral sequence."
+SPED 80092 ,"PRACTICUM IN COLLEGE TEACHING
+",SPED,doctoral standing. Pre/,None,"(Repeatable for credit) This course will provide the student supervised experience in design, delivery, and
+ evaluation of a college course in special education. The student will demonstrate skills learned in the pre-
+requisite course (SPED 70094) under the supervision of a designated special education faculty member.
+ Satisfactory/unsatisfactory (S/U) graded."
+SPED 80199 ,"DISSERTATION I
+",SPED,Doctoral standing.,None,"(Repeatable for credit)Doctoral dissertation for which registration in at least two semesters is required,first of
+ which will be semester in which dissertation work is begun and continuing until the completion of 30 hours."
+SPED 80299 ,"DISSERTATION II
+",SPED,"Doctoral standing andSPED 80199.
+",None,"(Repeatable for credit)Continuing registration required of doctoral students who have completed the initial 30
+ hours of dissertation and continuing until all degree requirements are met."
+SPED 83201 ,"CONTEMPORARY ISSUES IN SPECIAL EDUCATION
+",SPED,doctoral standing.,None,"(Slashed with SPED 63201) This course is designed to help doctoral students to develop (a) foundational
+ knowledge for understanding important and controversial issues in special education and related disciplines; (b)
+ skills in critical analysis and synthesis of research; and, (c) skills in effective oral and written communication
+ about historical and contemporary issues in special education."
+SPED 83301 ,"SINGLE SUBJECT RESEARCH METHODS
+",SPED,doctoral standing.,None,"Research designs and techniques associated with behavioral observation and a description of single subject
+ experimental methodology are presented. The study of this methodology includes topics related to applied
+ behavior analysis, assessment, experimental design and data evaluation. In addition, single subject methods
+ are discussed in relations to other research designs. 20 field hours."
+SPED 83952 ,"THE LAW AND SPECIAL EDUCATION
+",SPED,Doctoral standing.,None,"Selected principles of constitutional, statutory, case and common law affecting handicapped and special
+ education students, teachers and administrators are studied."
+SPED 83991 ,"SEMINAR IN SPECIAL EDUCATION
+",SPED,Doctoral standing.,None,(Repeatable for credit)
+SPED 83992 ,"INTERNSHIP IN SPECIAL EDUCATION
+",SPED,"Doctoral standing andspecial approval.
+",None,"(Repeatable for credit) A college-university doctoral-level supervised teaching experience. The candidates
+ participate fully in the course and material development as well as delivery and grading of an undergraduate or
+ masters level course under the direct supervision of a faculty member assigned to teach the class. Candidates
+ are expected to partially participate in the delivery of a third of the course and fully deliver at least a third of
+ the course under the observation and supervision of a faculty member."
+SPED 83998 ,"RESEARCH:SPECIAL EDUCATION
+",SPED,Doctoral standing and special approval.,None,(Repeatable for credit)

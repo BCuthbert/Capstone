@@ -1,0 +1,506 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+AERN 15000 ,"INTRODUCTION TO AERONAUTICS
+",AERN,none.,None,"Introduction to aeronautical and aerospace technology, including historical development, underlying science and
+technical applications. The past, present and future social, economic, technical and political impact of aviation
+are also explored."
+AERN 15250 ,"FAA ORIENTATION
+",AERN,none.,None,"Introduction to the Federal Aviation Administration with particular emphasis on its role and impact on air traffic
+management and the National Airspace System (NAS). Course addresses the unique aspects and requirements
+of federal employment, as well as federal regulations affecting flight operations and the FAA's associated
+supporting agencies."
+AERN 15300 ,"INTRODUCTION TO ENGINEERING ANALYSIS USING MATLAB®
+",AERN,None,None,"Introduction to basic concepts in engineering analysis using the Matlab® computing language, the industry-
+standard “first language” for engineers. Introduction to problem solving, algorithm coding and development,
+debugging, analysis and interpretation. Pre/corequisite: MATH 12002."
+AERN 15500 ,"INTRODUCTION TO AEROSPACE ENGINEERING
+",AERN,MATH 12002.,None,"fundamentals of fluid mechanics, applied aerodynamics, propulsion systems, airplane performance, stability,
+orbital motion, and launch vehicle performance."
+AERN 15740 ,"ELEMENTS OF FLIGHT THEORY
+",AERN,None,AERN 15741.,"Basic instruction in all areas which gives the student aeronautical knowledge required for a private pilot
+certificate."
+AERN 15741 ,"PRIVATE PILOT FLIGHT
+",AERN,minimum 2.500 overall GPA; and must be an Aeronautics (AERN) major. ,AERN 15740.,"Flight course designed to fulfill FAA requirements for private pilot certificate. This course may be repeated only
+twice. Student is required to spend 1.5 hours each day, five days a week, at the airport, until the FAA minimum
+requirement of 30 hours of ground instruction has been attained. When not flying, the student goes through
+personalized ground instruction with the flight instructor. Minimum FAA flight time requirements towards the
+private pilot certificate is 48 hours. Actual flight training may exceed 48 hours. Special course fees may apply.
+Please visit www.kent.edu/caest/flight-technology and click on the Flight Course Fees link for more information."
+AERN 15742 ,"PRIVATE PILOT HELICOPTER FLIGHT
+",AERN,2.500 cumulative GPA; and AERN 15740; and must be an Aeronautics (AERN) major.,AERN 35101.,"Flight course designed to fulfill Federal Aviation Administration (FAA) requirements for the private pilot
+helicopter certificate. This course may only be repeatable twice. Student is required to spend 1.5 hours each
+day, five days a week, at the airport, until the FAA minimum requirements are attained. When not flying, the
+student goes through personalized ground instruction with an assigned flight instructor. Minimum FAA flight time
+requirements towards the Private Pilot Helicopter Flight Certificate is 40 hours. Actual flight training may exceed
+40 hours."
+AERN 15743 ,"PRIVATE PILOT HELICOPTER FLIGHT ADD-ON
+",AERN,2.500cumulative GPA; and AERN 15740 and 15741; and must be an Aeronautics(AERN) major. ,AERN 35101.,"Flight course designed to fulfill Federal Aviation Administration (FAA) requirements for the private pilot
+helicopter certificate. This course may only be repeatable twice. Student is required to spend 1.5 hours each
+day, five days a week, at the airport, until the FAA minimum requirements are attained. When not flying, the
+student goes through personalized ground instruction with an assigned flight instructor. Minimum FAA flight time
+requirements towards the Private Piilot Helicopter Flight Certificate is 40 hours. Actual flight training may exceed
+30 hours."
+AERN 15745 ,"NON-PILOT ELEMENTS OF FLIGHT THEORY
+",AERN,none.,None,"Basic instruction in areas to include: Federal Regulations, navigation, communication, airspace, weather, basic
+aerodynamics, and aero-medical factors which give the student a foundation in aeronautics. This course does
+not satisfy the Federal Aviation Regulation requirement for endorsement to take the Airman Knowledge Exam for
+a the private pilot nor does it satisfy the Aircraft Dispatch minor."
+AERN 20000 ,"PROFESSIONAL DEVELOPMENT IN AERONAUTICS I
+",AERN,aeronautics (AERN) major and sophomore standing.,None,"The course will provide an overview of the current state of the aeronautics industry while preparing students for
+various internship and scholarship opportunities. Students will begin preparation for a career in the aeronautics
+industry by establishing a professional foundation in the areas of career planning and goal setting."
+AERN 25200 ,"STATICS
+",AERN,MATH 12003 and PHY 23101.,None,"Forces and moments; equilibrium in two and three dimensions; multi-force members; equilibrium, centroids and
+friction."
+AERN 25250 ,"ELEMENTS OF AVIATION WEATHER
+",AERN,none.,None,"Aviation weather provides a comprehensive look at the Earth's atmosphere, general patterns and specific
+phenomena, and a focus on weather as related to flight."
+AERN 25251 ,"WEATHER INFORMATION SYSTEMS
+",AERN,AERN 25250 or GEOG 31062.,None,"Introduction to various weather sensing equipment and the systems that deliver weather information to various
+users. An in-depth look at the National Weather Service, NOAA, NASA, FAA and commercially available weather
+information systems."
+AERN 25252 ,"THUNDERSTORMS AND SEVERE WEATHER
+",AERN,GEOG 31062.,None,"Analysis and forecast of thunderstorm and severe convective weather activity development and movement.
+Analysis of atmospheric information and clouds, radar, computer models, and charts. A study of mid-lattitude
+cyclones and some focused study on tropical depressions, hurricanes, tornadoes, dust and sand storms. Study
+includes geograpic effects and cyclone life cycles. Provides an in-depth look at the development of severe
+weather products for aviation such as AIRMET, SIGMET and Convective SIGMET."
+AERN 25350 ,"FUNDAMENTALS OF AIR TRAFFIC CONTROL
+",AERN,None,"AERN25351. 
+","Introduction to the National Airspace System (NAS) and the orders, manuals, and procedures associated with
+the purposes and directives of the air traffic control environment. Introduces and discusses those areas of
+required knowledge of the AT-Basics needed to become an Air Traffic Controller. These topics include the
+principles of flight, the FARs, navigation, aviation weather and other ATC related areas."
+AERN 25351 ,"FUNDAMENTALS OF AIR TRAFFIC CONTROL LABORATORY
+",AERN,aeronautics (AERN) major. ,"AERN25350. 
+","Introductory laboratory course on air traffic management and the National Airspace System, the orders, manuals
+and procedures associated with the puposes and directives of the air traffic control environment. To include
+purposes and responsibilities of the ATC system."
+AERN 25400 ,"DYNAMICS
+",AERN,AERN 25200 and MATH 12003.,None,"Kinematics and kinetics of rigid bodies in planar motion and an introduction to the kinematics and kinetics of
+rigid bodies in three-dimensional motion."
+AERN 25500 ,"AERODYNAMICS FOR ENGINEERS
+",AERN,"AERN15500 and MATH 22005. 
+",None,"Basic fluid dynamics concepts, conservation laws, potential, airfoil and wing analysis. Boundary layers on plates
+and airfoils. Pressure gradients. Introduction to turbulent and vortex-dominated flows."
+AERN 25743 ,"COMMERCIAL PILOT FLIGHT I
+",AERN,AERN 15740 and AERN 15741; and minimum 2.500 overall GPA; and must be an Aeronautics(AERN) major. ,AERN 25250.,"Advanced flight course providing flight instruction for the commercial pilot. Primary emphasis is on cockpit
+resource management, advanced navigational practices and basic instrument instruction. This course may be
+repeated only twice. Student is required to spend two hours daily, three days a week, at the airport until the
+FAA minimum requirement of 20 hours ground instruction has been attained. When not flying, the student goes
+through personalized ground instruction with the flight instructor. Special course fees may apply. Please visit
+www.kent.edu/caest/flight-technology and click on the Flight Course Fees link for more information."
+AERN 25800 ,"INTRODUCTION TO UNMANNED AIRCRAFT SYSTEMS
+",AERN,none.,None,"An overview of unmanned aircraft systems. Course topics include the history, development, and evolution of
+unmanned aircraft; current and forecast trends and issues; capabilities and performance of unmanned aircraft;
+UAS applications; regulations governing unmanned aircraft systems; unmanned aircraft flight operations; and
+opportunities and career paths in unmanned aircraft systems."
+AERN 30000 ,"PROFESSIONAL DEVELOPMENT IN AERONAUTICS II
+",AERN,AERN 20000; and junior standing.,None,"The course will build upon the lessons learned in Professional Development in Aeronautics I by providing direct
+opportunities for interviewing and networking with professionals working in the aeronautics industry. Students
+will continue preparation for a career in the aeronautics industry by revising and implementing their career plan
+and goals."
+AERN 35001 ,"AIRCRAFT FABRICATION
+",AERN,none.,None,"The study and laboratory practice of government approved procedures used in the fabrication, repair and testing
+of certificated aircraft."
+AERN 35020 ,"AIRCRAFT PROPULSION SYSTEMS
+",AERN,none.,None,"A study of basic reciprocating and gas turbine engine theory. Course investigates powerplant construction,
+component function, including propeller and fuel systems, ancillary systems that support aircraft propulsive
+systems and performance characteristics."
+AERN 35021 ,"RADAR SATELLITE WEATHER INFORMATION
+",AERN,AERN 25250 or GEOG 31062.,None,"A study of satellite and radar imagery. A focus on both passive and active remote sensing systems. Student
+develops an understanding of the properties of meteorological radar sensing, signal propagation and estimating
+precipitation. Provides an in-depth look at radar and satellite products and their application to aircrew
+operations. Emphasis is placed on real-time identification of weather phenomena affecting a flight in progress."
+AERN 35022 ,"WEATHER STRATEGY FOR AIRCREWS
+",AERN,AERN 25250 or GEOG 31062.,None,"Flying strategies for various weather conditions to include low ceilings and visibility, turbulence, cold weather,
+thunderstorms, and wind shear. An exploration of basic and advanced weather theory and how to get the best
+use of FAA and commercially available forecast products and briefing services. Course takes a condition-by-
+condition look at various hazardous weather phenomena."
+AERN 35030 ,"INTRODUCTION TO CORPORATE AVIATION
+",AERN,none.,None,"Introduces students to the business and corporate sectors of commercial aviation. Examines business and
+corporate aviation from the joint perspectives of operations and maintenance management as well as flight
+operations."
+AERN 35031 ,"AVIATION INDUSTRY REGULATIONS
+",AERN,none.,None,"This course will examine the functions of the regulatory agencies in the aviation industry. The evolution of
+Administrative Regulation, Federal Aviation Regulation and the rule making process."
+AERN 35040 ,"AIRCRAFT SYSTEMS I
+",AERN,PHY 13012.,None,"In-depth study of various aircraft systems including electrical systems, environmental control systems, and fuel
+systems as applied to aircraft."
+AERN 35095 ,"SPECIAL TOPICS IN AERONAUTICS
+",AERN,"Aeronautics (AERN) major andsophomore standing. 
+",None,"(Repeatable for credit)Specialized offerings of interest in response to emerging or needed curricular needs in
+aeronautics. Topics will be announced in the schedule of classes."
+AERN 35101 ,"HELICOPTER FLIGHT THEORY
+",AERN,aeronautics (AERN) major.,None,"Study of helicopter flight and operations that includes rotor system dynamics, control functions, major
+components, operation and performance."
+AERN 35150 ,"AIRCRAFT STRUCTURES
+",AERN,"PHY13001. 
+",None,Aircraft structural design investigations dealing with theory and applications in aviation.
+AERN 35200 ,"THERMAL FLUID ENGINEERING
+",AERN,MATH 22005 and PHY 23101. ,AERN 35201.,"First and Second Law of Thermodynamics for closed and open systems. Fundamentals of fluid mechanics and
+heat transfer."
+AERN 35201 ,"THERMAL-FLUID ENGINEERING LABORATORY
+",AERN,none. ,AERN 35200.,Laboratory demonstrations and experiments for various heat transfer and fluid dynamics concepts.
+AERN 35300 ,"AEROSPACE VEHICLE PERFORMANCE
+",AERN,"AERN 25500 and MATH32044. 
+",None,"Performance analysis of fixed-wing aircraft, rotorcraft, and spacecraft. Equations of motion, evaluation of forces,
+and performance calculations. Steady and accelerated flight performance."
+AERN 35339 ,"FIXED BASE OPERATOR OPERATIONS
+",AERN,none.,None,"A study of general aviation operations and the role of Fixed Base Operators in the National Aviation System;
+management functions; marketing; profit; cash flow; financing; human resources; organization; administration;
+management information systems; operations; maintenance; safety; liability; physical facilities; and the future
+of general aviation."
+AERN 35340 ,"AIRPORT MANAGEMENT
+",AERN,AERN 15740 or 15745; and 25250.,None,"Introduction to the many functions that are involved in the operation and management of an airport. Includes an
+analysis of the development of the airport- airway system, airport legislation, airport planning and airport
+operations."
+AERN 35341 ,"AIR TRANSPORTATION SYSTEMS
+",AERN,none.,None,"Descriptive course in airline operations as seen from the air carrier's business perspective. Emphasis is on
+business practices and techniques unique to aviation."
+AERN 35342 ,"TERMINAL OPERATIONS I
+",AERN,"AERN 15250, AERN 25350 and AERN 25351; and AERN 15740 or AERN15745; and aeronautics (AERN) major. 
+",None,"Intermediate level terminal operations course. Emphasis on tower operations at the clearance delivery, ground
+control, and local control positions. Topics covered will include, but not be limited to phraseology, procedures,
+LOAs, and weather."
+AERN 35343 ,"EN ROUTE I
+",AERN,AERN 25250 and 35342.,None,"Introduction to en route operations of air traffic control. Focus on the non-RADAR foundations of en route
+operations. Topics covered include, but are not limited to phraseology, maps, LOAs, rules and procedures in a
+non-RADAR environment."
+AERN 35345 ,"TERMINAL OPERATIONS I LABORATORY
+",AERN,aeronautics (AERN) major. ,AERN 35342.,Application of terminal air traffic control operating principles explored in AERN 35342 Terminal Operations I.
+AERN 35400 ,"SYSTEM DYNAMICS AND CONTROL
+",AERN,AERN 25500 and MATH 32044.,None,"Dynamic modeling and response of systems with mechanical, hydraulic, electrical, andor thermal elements.
+Classical methods of feedback control system design and analysis."
+AERN 35500 ,"SIGNALS AND CIRCUITS
+",AERN,AERN 35400 and PHY 23102. ,"AERN35501. 
+","An introduction to electric circuit elements and electronic devices and a study of circuits containing such devices.
+Both analog and digital systems are considered."
+AERN 35501 ,"SIGNALS AND CIRCUITS LABORATORY
+",AERN,None,AERN 35500.,"Laboratory demonstrations and experiments for electrical circuits, data acquisition, and signal
+measurements."
+AERN 35600 ,"HIGH-SPEED AERODYNAMICS
+",AERN,"AERN 25500, AERN 35200 and MATH 32044.",None,"Compressibility effects on airfoil and wing aerodynamics; supersonic potential flow; method of characteristics;
+boundary layer effects on aircraft performance."
+AERN 35644 ,"INSTRUMENT FLIGHT THEORY
+",AERN,AERN 15740 and AERN 25250; and aeronautics (AERN) major. ,AERN 35645.,"Course instruction on Instrument Flight to include, navigation facilities (both ground and aircraft), weather
+theory and weather specific to instrument meteorological conditions, weather charts and sources, cross-country
+flight planing for IFR, FAA regulations specific to IFR flight, Charts for Instrument Flight, Aircraft Performance,
+Decision Making, Aircraft Systems and Instruments related to IFR Flight, and Instrument Flight techniques and
+procedures. This course meets the requirements for endorsement to take the FAA Airman Knowledge Exam for
+an Instrument Rating and satisfies the requirements of the Training Course Outline approved by the FAA."
+AERN 35645 ,"INSTRUMENT PILOT FLIGHT
+",AERN,AERN 25743; and minimum 2.500 overall GPA; and must be an Aeronautics(AERN) major. ,AERN 35644.,"Comprehensive flight course for the professional pilot candidate to meet the requirements of the FAA instrument
+rating. This course may be repeated only twice. Student is required to spend two hours each day, three days a
+week, at the airport until the FAA minimum requirement of 25 hours ground instruction has been attained. When
+not flying, the student goes through personalized ground instruction with the flight instructor. Special course
+fees may apply. Please visit www.kent.edu/caest/flight-technology and click on the Flight Course Fees link for
+more information."
+AERN 35646 ,"INSTRUMENT HELICOPTER FLIGHT
+",AERN,AERN 15742or 15743; and minimum cumulative 2.500 GPA; and aeronautics (AERN) major. ,AERN 35644.,Flight course designed to fulfill FAA requirements for the Instrument Helicopter Rating.
+AERN 35647 ,"COMMERCIAL PILOT FLIGHT II
+",AERN,"AERN 35644 and AERN 35645; andminimum 2.500 overall GPA; must be an Aeronautics (AERN) major. 
+",None,"Comprehensive flight course for the professional pilot candidate with emphasis on commercial flight maneuvers
+and instrument flight review. This course may be repeated only twice. Student is required to spend two hours
+each day, three days a week, at the airport until the FAA minimum requirement of 20 hours of ground
+instruction has been attained. Special course fees may apply. Please visit www.kent.edu/caest/flight-technology
+and click on the Flight Course Fees link for more information."
+AERN 35648 ,"INSTRUMENT HELICOPTER FLIGHT ADD-ON
+",AERN,AERN 35645; and cumulative 2.500 GPA; and must be an Aeronautics (AERN) major. ,AERN 35101.,"Flight course designed to fulfill FAA requirements for the Instrument Helicopter Rating. This course may only be
+repeatable twice. Student is required to spend 1.5 hours each day, five days a week, at the airport, until the FAA
+minimum requirements are attained. When not flying, the student goes through personalized ground instruction
+with an assigned flight instructor. Minimum FAA flight time requirements towards the Instrument Helicopter
+Flight Rating is 15 hours of actual or simulated instrument time. Actual flight training may exceed 15 hours."
+AERN 35650 ,"NON-PILOT INSTRUMENT FLIGHT THEORY
+",AERN,"AERN 15740 or AERN 15745; and AERN25250. 
+",None,"Course instruction for instrument flight to include: navigation facilities and equipment (both ground and
+aircraft), general weather theory and weather related to instrument meteorological conditions, weather charts
+and sources, FAA regulations pertinent to the conduct of instrument flight, aeronautical charts for instrument
+flight and techniques and procedures unique to the conduct of instrument flight. This course does not satisfy the
+Federal Aviation Regulation requirement for endorsement to take the Airman Knowledge Exam for an Instrument
+Rating nor does it satisfy the Aircraft Dispatch minor."
+AERN 35746 ,"COMMERCIAL PILOT THEORY
+",AERN,AERN 35644.,None,Comprehensive instruction covering all areas necessary to exercise the privileges of a commercial pilot.
+AERN 35747 ,"COMMERCIAL PILOT FLIGHT III
+",AERN,AERN 35644 and AERN 35645; and minimum 2.500 overall GPA;and aeronautics (AERN) major. Pre/,AERN 35746.,"Comprehensive flight course for the professional pilot candidate to meet the requirements of the FAA commercial
+pilot certificate. This course may be repeated only twice. Student is required to spend two hours daily, three
+days a week, at the airport until the FAA minimum requirement of 25 hours ground instruction has been
+attained. When not flying, the student goes through personalized ground instruction with the flight instructor.
+Special course fees may apply. Please visit www.kent.edu/caest/flight-technology and click on the Flight Course
+Fees link for more information."
+AERN 35748 ,"COMMERCIAL PILOT HELICOPTER FLIGHT ADD-ON
+",AERN,AERN 35747; and AERN 15742 or AERN 15743; and cumulative 2.500 GPA;and aeronautics (AERN) major. ,AERN 35101.,"Flight course designed to fulfill Federal Aviation Administration (FAA) requirements for the commercial pilot
+helicopter certificate. This course may only be repeatable twice. Student is required to spend 1.5 hours each
+day, five days a week, at the airport, until the FAA minimum requirements are attained. When not flying, the
+student goes through personalized ground instruction with an assigned flight instructor. Minimum FAA flight time
+requirements towards the Commercial Pilot Helicopter Add-On Flight Certificate is 35 hours. Actual flight training
+may exceed 35 hours."
+AERN 35749 ,"COMMERCIAL PILOT HELICOPTER FLIGHT
+",AERN,AERN15742 or 15743; and minimum cumulative 2.500 GPA; and aeronautics (AERN) major. ,"AERN35746. 
+","Flight course designed to fulfill FAA requirements for the Commercial Pilot Helicopter certificate. This course may
+only be repeatabe twice. Student is required to spend 1.5 hours each day, five days a week, at the airport, until
+the FAA minimum requirements are attained. When not flying, the student goes through personalized ground
+instruction with an assigned flight instructor. Minimum FAA flight time requirements towards the Commercial
+Pilot Helicopter Flight Certificate is 150 hours. Actual flight training may exceed 150 hours."
+AERN 35810 ,"UNMANNED AIRCRAFT SYSTEMS
+",AERN,AERN 25800.,None,"Provides an understanding of the theory of operation, architecture, and performance characteristics of various
+airborne-onboard systems and subsystems utilized in unmanned aerial vehicles. Also includes examination of
+aircraft materials, structural components, and configuration."
+AERN 35830 ,"UNMANNED AIRCRAFT SYSTEMS SENSING AND SENSOR SYSTEMS
+",AERN,AERN 25800.,None,"An in-depth study of sensors and remote sensing systems used to support Unmanned Aircraft operations.
+Course emphasizes the theory, technical characteristics, capabilities, and operational use of various sensors and
+sensing systems. Course also investigates sensor data generation and sensing system image interpretation and
+analysis."
+AERN 35840 ,"UNMANNED AIRCRAFT SYSTEMS COMMAND, CONTROL AND COMMUNICATIONS
+",AERN,AERN 35644 or AERN 35650; and AERN 35810.,None,"Explores the technological and operational aspects of ground-based and airborne command, control, and
+communications systems used in unmanned aircraft systems. Topics include UAV sense-and-avoid systems, data
+link systems, voice communications systems, telemetry systems, navigation systems, and manual and
+automatic flight control systems."
+AERN 45010 ,"AIRCRAFT DISPATCH I
+",AERN,AERN 35644 or AERN 35650.,None,"First of two courses designated for the practical application of knowledge necessary to perform aircraft
+dispatcher functions. Topics include decision making, human error and teamwork. This course is required for
+endorsement to take the FAA aircraft dispatcher knowledge exam. Special course fees may apply. Please visit
+www.kent.edu/caest/flight-technology and click on the Flight Course Fees link for more information."
+AERN 45020 ,"AIRCRAFT DISPATCH II
+",AERN,AERN 45010.,None,"Second of two courses designated for the practical application of previously acquired knowledge necessary to
+perform aircraft dispatcher functions. Topics as applied to dispatch functions include briefing techniques,
+preflight, weather analysis and flight planning. Required for an endorsement to take the FAA aircraft dispatcher
+practical test. Special course fees may apply. Please visit www.kent.edu/caest/flight-technology and click on the
+Flight Course Fees link for more information."
+AERN 45025 ,"DISPATCH LABORATORY
+",AERN,AERN 45010. ,AERN 45020.,"Practical Aircraft Dispatch application and preparation for the ADX written, oral and practical exam"
+AERN 45030 ,"AIRCRAFT SYSTEMS II
+",AERN,AERN 35040.,None,"Continuation of AERN 35040. An in-depth study of various aircraft systems including auxiliary systems,
+undercarriage, hydraulics, flight controls, instruments, and integrated systems as applied to aircraft."
+AERN 45040 ,"LABOR RELATIONS IN THE AVIATION INDUSTRY
+",AERN,none.,None,"Legislation governing labor relations in the private sector of the United States Economy consist of two separate
+and distinct pieces of legislation: the Railway Labor Act and the National Labor Relations Act. This course focuses
+on the examination of air transport labor relations in the context of these key laws. As the student of aviation
+management comes in contact with both Acts though this course, the student will learn similarities and
+differences of each and their resultant impact. The student will actively apply this knowledge in a mock labor
+relations negotiation."
+AERN 45092 ,"AERONAUTICAL INTERNSHIP/COOPERATIVE EDUCATION
+",AERN,special approval.,None,"(Repeatable for a total of 6 hours) Work experience in aerospace/aviation industry or related activity, laboratory
+or student professional organization."
+AERN 45096 ,"INDIVIDUAL INVESTIGATION IN AERONAUTICS
+",AERN,Sophomore standing and special approval.,None,"(Repeatable for a maximum of 6 credit hours)Work study of an individual nature on a topic relating to
+professional aviation."
+AERN 45099 ,"AERONAUTICAL STUDIES CAPSTONE
+",AERN,senior standing.,None,"(Repeatable for credit) An in-depth study of the student’s area of focus within aeronautical studies, culminating
+to a senior level project. At the discretion of the aeronautics faculty, students may substitute another capstone
+course for this course. Students must pass this capstone with a grade of C (2.000) or better in order to
+graduate."
+AERN 45100 ,"OPERATIONAL PLANNING IN AVIATION
+",AERN,AERN 35340 and AERN 35341.,None,"Focus on both airport and airline operations through planning, design and management. Students function as
+project managers and work with simulation to run their own airport design and airline operations with respect to
+financial and economic variables."
+AERN 45121 ,"AEROSPACE PROPULSION FOR ENGINEERING AND ENGINEERING TECHNOLOGY
+",AERN,none.,None,"An in-depth study of gas turbine engines, rockets, and hypersonic propulsion systems used in aerospace
+applications. Includes propulsion system design and operation, and the analysis of performance characteristics."
+AERN 45130 ,"PHYSIOLOGY AND HUMAN FACTORS OF FLIGHT
+",AERN,none.,None,A study of the interaction of the human body with flight and those human factors that affect flight operations.
+AERN 45135 ,"AVIATION SAFETY THEORY
+",AERN,none.,None,"(Slashed with AERN 55135) Provides an in-depth study into aviation human safety theories and the basics of risk
+and safety management."
+AERN 45150 ,"APPLIED FLIGHT DYNAMICS I
+",AERN,PHY 13011.,None,"Cross-listed with AERN 55150) An applied aircraft flight dynamics course that demonstrates aircraft, engine and
+propeller performance with the overall flight performance and stability of the typical subsonic airplane. Emphasis
+is placed on the aerodynamics of flight."
+AERN 45151 ,"APPLIED FLIGHT DYNAMICS II
+",AERN,AERN 45150.,None,"Aerodynamics, flight dynamics, and flight performance of high performance aircraft. Course includes supersonic
+aerodynamics, flight stability and handling, and an in-depth investigation and analysis of flight performance
+parameters including lift, drag, load factor, climb performance, and turn performance."
+AERN 45200 ,"STRATEGIC AVIATION MANAGEMENT
+",AERN,AERN 45100; and senior standing.,None,"Serves as the capstone course for the aviation management area of concentration in aeronautics. As such, it is
+designed to address evolving issues and challenges in aviation management with a particular emphasis on
+airlines and airports through an application of previously mastered aviation management courses. Students must
+pass the course with a minimum grade of ""C"" (2.000)."
+AERN 45250 ,"AVIATION LAW
+",AERN,none.,None,"Involves a study of the origins of Western jurisprudence, common law and aviation law as an integral part of law
+in the U.S. Also introduces international aviation law by lateral agreement as well as U.S. Constitutional law and
+its amendments as they relate to the structure and process of aviation law. Criminal and civil law as they relate
+to civil aviation are also addressed. Case studies are included."
+AERN 45291 ,"AEROSPACE SENIOR SEMINAR
+",AERN,Aeronautics (AERN) major and senior standing.,None,"(Repeatable for credit)Seminar on selected topics relating to problems, issues and conditions of employment
+within aviation."
+AERN 45300 ,"AIR TRAFFIC CONTROL CAPSTONE
+",AERN,AERN 45343 and AERN 45344; and aeronautics (AERN) major.,None,"The culminating experience for the Air Traffic Control program of study. Students will work in groups to research
+and present a possible solution to a current event in the world of aviation and air traffic control. The Experiential
+Learning Requirements (ELR) are met and satisfied in realistic simulations where students take the roles within
+all three areas (Tower, TRACON, En Route). These scenarios often involve all three domains simultaneously
+where the students must work together to successfully finish the scenario, simulating a normal controller’s day."
+AERN 45320 ,"TERMINAL OPERATIONS II
+",AERN,AERN 35342. ,AERN 45321.,"Advanced terminal course that focuses on the TRACON environment. Emphasis in vectoring and sequencing for
+approach at the primary airport. Topics covered will include, but not be limited to phraseology, maps, LOAs, and
+airspace."
+AERN 45321 ,"TERMINAL OPERATIONS II LABORATORY
+",AERN,AERN 35342; and aeronautics (AERN) major. ,AERN 45320.,Application of terminal air traffic control operating principles explored in AERN 45320 Terminal Operations II.
+AERN 45340 ,"AIRCRAFT MAINTENANCE
+",AERN,Aeronautics (AERN) major and senior standing and special approval.,None,Fundamentals of aircraft maintenance and resolving maintenance problems on the flight line.
+AERN 45343 ,"EN ROUTE II
+",AERN,AERN 45320. ,AERN 45344.,"Advanced en route course that focuses on low altitude, en route operations. Some time is spent on high altitude
+and special operations as well. Topics covered include, but not limited to phraseology, procedures, LOAs and
+maps."
+AERN 45344 ,"EN ROUTE II LABORATORY
+",AERN,aeronautics (AERN) major. ,AERN 45343.,Application of en route air traffic control operating principles explored in AERN 45343 En Route II.
+AERN 45349 ,"SYSTEMS MAINTENANCE AND RELIABILITY
+",AERN,AERN 45340.,None,"Combines theories of systems and operations with practical experience to meet FAA standards for an airframe
+and powerplant license (300 hours shop experience)."
+AERN 45350 ,"AVIONICS
+",AERN,PHY 13001 and PHY 13002.,None,"(Cross-listed with AERN 55350) A study of aviation electronic systems in flight vehicles that pertain to
+communication, navigation and air traffic control systems."
+AERN 45600 ,"AIRCRAFT STABILITY AND CONTROL
+",AERN,"AERN 25500 and AERN 35400.Corerequisite: AERN 45601. 
+",None,"Three-dimensional rigid body dynamics, aircraft equations of motion, principles of static stability and control,
+dynamic stability of uncontrolled motion, gyroscopic instruments."
+AERN 45601 ,"AIRCRAFT STABILITY AND CONTROL LABORATORY
+",AERN,none. ,AERN 45600.,Laboratory demonstrations and experiments for various aspects of aircraft stability and control.
+AERN 45648 ,"THEORY OF FLIGHT INSTRUCTION
+",AERN,"AERN 35040, 35746, 35747 and 45150. ",AERN 45649.,"Detailed fundamentals of teaching flight and ground instruction and the analysis of flight techniques, in order to
+meet requirements of FAR's part 61.185(a)."
+AERN 45649 ,"FLIGHT INSTRUCTOR/AIRPLANES
+",AERN,AERN 35746 and AERN 35747; and must be an Aeronautics (AERN) major. ,"AERN45648. 
+","Flight course with emphasis on instructing techniques in aircraft from right seat. Includes student evaluation
+techniques to meet Federal Aviation Regulation for certified flight instructor. This course may be repeated only
+twice. Student is required to spend two hours daily, three days a week, at the airport until the FAA minimum
+requirement of 30 hours ground instruction has been attained. When not flying, the student goes through
+personalized ground instruction with the flight instructor. Special course fees may apply. Please visit
+www.kent.edu/caest/flight-technology and click on the Flight Course Fees link for more information."
+AERN 45650 ,"CERTIFIED FLIGHT INSTRUCTOR HELICOPTER FLIGHT
+",AERN,AERN 35746 and 35749; and 2.500 cumulative GPA; and must be an Aeronautics (AERN) major. ,AERN 45648.,Flight course designed to fulfill FAA requirements for the Flight Instructor Helicoptor certificate.
+AERN 45651 ,"FLIGHT INSTRUCTOR-INSTRUMENTS
+",AERN,"AERN 45648 and AERN 45649; and minimum 2.500 overall GPA; and Aeronautics(AERN) major. 
+",None,"Flight course with emphasis on flight instructing techniques involved with instrument flight and air traffic control
+procedures. This course may be repeated only twice. Special course fees may apply. Please visit
+www.kent.edu/caest/flight-technology and click on the Flight Course Fees link for more
+information."
+AERN 45652 ,"CERTIFIED FLIGHT INSTRUCTOR INSTRUMENT HELICOPTER FLIGHT
+",AERN,"AERN 35646 or 35648; and AERN 45650 or 45659;and 2.500 cumulative GPA; and aeronautics (AERN) major. 
+",None,"Flight course designed to fulfill FAA requirements for the Flight Instructor Instrument Helicopter certificate. This
+course may only be repeated twice. Student is required to spend 1.5 hours each day, five days a week, at the
+airport, until the course requirements are attained. When not flying, the student goes through personalized
+ground instruction with an assigned flight instructor. Certified Flight Instructor Helicopter Certificate is 15 hours.
+Actual flight training may exceed 15 hours."
+AERN 45653 ,"MULTI-ENGINE PILOT FLIGHT
+",AERN,"AERN 35747; and minimum 2.500 overall GPA; and must beAeronautics (AERN) major. 
+",None,"Course provides the required ground and flight instruction necessary to qualify students for the multi-engine
+rating from the FAA. This course may be repeated only twice. Student is required to spend two hours daily, three
+days a week, at the airport until the FAA minimum requirement of 20 hours ground instruction has been
+attained. When not flying, the student goes through personalized ground instruction with the flight instructor.
+Special course fees may apply. Please visit www.kent.edu/caest/flight-technology and click on the Flight Course
+Fees link for more information."
+AERN 45654 ,"CERTIFIED FLIGHT INSTRUCTOR HELICOPTER FLIGHT ADD-ON
+",AERN,AERN 45649; and 2.500 cumulative GPA; and aeronautics (AERN) major.,None,Flight course designed to fulfill FAA requirements for the Flight Instructor Helicopter Add-on certificate.
+AERN 45655 ,"ADVANCED MULTI-ENGINE PILOT FLIGHT
+",AERN,"AERN 45653; and minimum 2.500 overall GPA; and aeronuatics (AERN)major. 
+",None,"Ground flight instruction for proficiency and required hours in preparation for multi-engine instruction. Special
+course fees may apply. Please visit www.kent.edu/caest/flight-technology and click on the Flight Course Fees
+link for more information."
+AERN 45656 ,"CERTIFIED FLIGHT INSTRUCTOR INSTRUMENT HELICOPTER FLIGHT ADD ON
+",AERN,AERN 45651; and cumulative 2.500 GPA; and aeronautics (AERN) major.,None,"Flight course designed to fulfill FAA requirements for the Flight Instructor Instrument Helicopter Add-on
+certificate."
+AERN 45657 ,"MULTI-ENGINE FLIGHT INSTRUCTOR
+",AERN,"AERN 45649 and AERN45655; and minmum 2.500 overall GPA; and must be an Aeronautics (AERN) major. 
+",None,"Course provides the necessary ground and flight instruction to professionally qualify students for the multi-
+engine instructor rating by the FAA. This course may be repeated only twice. Student is required to spend two
+hours daily, three days a week, at the airport. When not flying, the student goes through personalized ground
+instruction with the flight instructor. Special course fees may apply. Please visit www.kent.edu/caest/flight-
+technology and click on the Flight Course Fees link for more information."
+AERN 45659 ,"UPSET RECOVERY TRAINING
+",AERN,"AERN 15741; and minimum 2.500 overall GPA; and must be anAeronautics (AERN) major. 
+",None,"Consisting of both ground school and hands-on flight components, this upset training course prepares pilots for
+emergency situations they may encounter that cannot properly be replicated in a typical GA aircraft. Extensive
+piston driven and swept wing jet aerodynamic characteristics, accident analysis and recovery profile. Special
+course fees may apply. Please visit www.kent.edu/caest/flight-technology and click on the Flight Course Fees
+link for more information."
+AERN 45700 ,"AIRCRAFT DESIGN
+",AERN,"(AERN 45030 and AERN 45150and AERN 45121) or (AERN 35300 and AERN 35500 and AERN 45121). 
+",None,"(Cross-listed with AERN 55700) First of a two-course series of aerospace design. Preliminary design or case
+study of an aerospace vehicle, including but not limited to aircraft, rotorcraft, and spacecraft. Primary focus on
+introduction to design, decision-making in design, and preliminary sizing of an aerospace vehicle to meet
+customer requirements. Final technical report and presentation."
+AERN 45710 ,"TURBINE ENGINE THEORY AND OPERATION
+",AERN,AERN 35020.,None,"An in-depth study of the theory, operation and performance of turbine turboprop engines and associated
+systems."
+AERN 45711 ,"TURBINE ENGINE THEORY AND OPERATION LABORATORY
+",AERN,AERN 35020; and aeronautics (AERN) major. Pre/,None,"Laboratory using a turboprop flight simulator to provide instruction and demonstration of the operating
+characteristics and procedures associated with turbine/turboprop engines. Special course fees may apply. Please
+visit www.kent.edu/caest/flight-technology and click on the Flight Course Fees link for more information."
+AERN 45720 ,"CREW RESOURCE MANAGEMENT
+",AERN,AERN 45130.,None,"An in-depth study of the common principles of aviation crew resource management (CRM) and human factors as
+utilized by air transport flight crews."
+AERN 45721 ,"CREW RESOURCE MANAGEMENT LABORATORY
+",AERN,AERN 45130. Pre/,None,"Flight simulator-based laboratory that includes flight simulator experiences that integrate crew resource
+management (CRM) and line-orinted flight training (LOFT) in a multicrew environment. Special course fees may
+apply. Please visit www.kent.edu/caest/flight-technology and click on the Flight Course Fees link for more
+information."
+AERN 45730 ,"APPLIED TRANSPORT CATEGORY AIRCRAFT SYSTEMS
+",AERN,"AERN 35020and AERN 45030. 
+",None,"Course examines various systems in use on air transport aircraft. The course emphasis is on the principles,
+operation and limitations of complex, integrated systems found in modern aircraft."
+AERN 45740 ,"FLIGHT MANAGEMENT SYSTEMS
+",AERN,AERN 45030 and 45350.,None,"Course examines various advanced avionics systems used on air transport type aircraft. The course emphasis is
+on the principles, operation and limitations of integrated avionics related to the ""glass cockpit"" found on modern
+aircraft."
+AERN 45791 ,"AVIATION SECURITY AND POLICY SEMINAR
+",AERN,AERN 45250.,None,"(Cross-listed with AERN 55791) Examines policies, practices, procedures and regulatory provisions developed to
+create and enhance security in civil aviation with a special emphasis on airlines, airports, airspace and agencies
+responsible for civil aviation security."
+AERN 45800 ,"UNMANNED AIRCRAFT SYSTEMS FLIGHT OPERATIONS THEORY
+",AERN,"AERN 25350; and AERN 25351; andAERN 35644 or AERN 35650; and AERN 35830; and AERN 35840; and AERN 45150. 
+",None,"Classroom instruction to provide the general information and knowledge necessary to prepare students to pilot
+and operate unmanned aircraft. Emphasis is placed on the acquisition of knowledge required to engage in UAS
+flight operations, specifically focused on piloting UAVs and managing UAV sensors. This course provides students
+with the background knowledge required to begin flight training and to perform real-time mission management
+operations for high performance unmanned aircraft systems."
+AERN 45850 ,"AIRCRAFT DESIGN II
+",AERN,AERN 45600 and AERN 45700.,AERN 45900.,"Second of a two-course series of aerospace design. Preliminary design or case study of an aerospace vehicle,
+including but not limited to aircraft, rotorcraft, and spacecraft. Primary focus on sub-system design (i.e.,
+propulsion, structure, controls, etc.), and overall vehicle integration of these subsystems. Cost analysis and
+safety analysis. Final technical report andor model prototype."
+AERN 45900 ,"AEROELASTICITY
+",AERN,AERN 35150 and TECH 33111.,None,"Review of beam analysis. Structural dynamics of one-dimensional systems. Analysis of static aeroelastic
+phenomena, unsteady aerodynamics and flutter. Equations of motion for complete aeroelastic systems; solution
+techniques."
+AERN 55135 ,"AVIATION SAFETY THEORY
+",AERN,graduate standing.,None,"(Slashed with AERN 45135) An in-depth study of aviation human safety theories and the basics of risk and
+safety management."
+AERN 55150 ,"APPLIED FLIGHT DYNAMICS I
+",AERN,"MATH 11012 or MATH 12002, PHY 13001 and13002 or PHY 23101 and 23102,and AERN 15000; and graduate standing. 
+",None,"(Cross-listed with AERN 45150) A course relating aircraft,engine and propeller performance to the overall flight
+performance of the typical light airplane. Includes flight test project participation. Special course fee $10 cr./Hr.
+Subject to change."
+AERN 55235 ,"HUMAN ERROR ANALYSIS IN AVIATION
+",AERN,graduate standing.,None,"Provides an in-depth look at human error and its implications in the realm of safety using examples from the
+aviation industry. Includes a basic overview of human error, discussion on the models available to examine
+error, provides knowledge on how to classify and provide recommendations of intervention strategies. A focus
+will be on the SHELL Model, the Human Factors Analysis and Classification System, and the 5M model. This
+course will use real examples of accidents and incidents for students to apply these strategies."
+AERN 55350 ,"AVIONICS
+",AERN,"PHY13001 and 13002 or PHY 23101 and 23102; AERN 15000; and TECH 21021; and graduate standing. 
+",None,"(Cross-listed with AERN 45350) A descriptive course that covers electronic systems in aviation,particularly from
+the standpoint of aircraft equipment its operational theory and practical use by the pilot."
+AERN 55700 ,"AIRCRAFT DESIGN
+",AERN,graduate standing.,None,"(Cross-listed with AERN 45700) First of a two-course series of aerospace design. Preliminary design or case
+study of an aerospace vehicle, including but not limited to aircraft, rotorcraft, and spacecraft. Primary focus on
+introduction to design, decision-making in design, and preliminary sizing of an aerospace vehicle to meet
+customer requirements. Final technical report and presentation."
+AERN 55791 ,"AVIATION SECURITY AND POLICY SEMINAR
+",AERN,graduate standing.,None,"(Repeatable for credit) (Cross-listed with AERN 45791) Analytical review of policies,practices procedures and
+regulatory provisions designed to create and enhance security in civil aviation with a special emphasis on the
+impact of emerging technologies on aviation security."
+AERN 61091 ,"AEROSPACE SEMINAR
+",AERN,Graduate standing.,None,"(Repeatable for a maximum of three semesters)Discussions of selected technical topics related to aerospace
+technology."
+AERN 65095 ,"SPECIAL TOPICS IN AERONAUTICS
+",AERN,graduate standing.,None,"(Repeatable for a maximum of 15 credit hours) Study of special topics that focus on subjects and issues in
+aeronautics."
+AERN 65240 ,"AVIATION SAFETY MANAGEMENT SYSTEMS
+",AERN,"uisie:graduate standing. 
+",None,"An in-depth study of the concepts and principles of aviation safety management and aviation Safety
+Management Systems (SMS). Provides a fundamental knowledge of SMS safety policy, safety risk management,
+safety assurance, and safety promotion. Also includes a thorough analysis of the design, implementation, and
+management of Safety Management Systems and its incorporation into various aviation sectors."
+AERN 65300 ,"AIRLINE TRANSPORTATION OPERATIONS
+",AERN,Special approval and graduate standing.,None,The study of scheduled and charter airline transport operations under Federal Air Regulations (FAR) Part 135.
+AERN 65496 ,"INDIVIDUAL INVESTIGATION IN AERONAUTICS
+",AERN,Special approval and graduate standing.,None,(Repeatable for a maximum of 9 credit hours) Individual investigation of various aeronautics-related topics.

@@ -1,0 +1,44 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+VIN 10500 ,"MOLECULAR PRINCIPLES IN GRAPE AND WINE
+",VIN,none.,None,"Covers the basic chemistry involved in the wine and winemaking process. Includes basic understanding of the
+chemistry involved in the fermentation process, flavor, aroma and color of wine."
+VIN 11100 ,"INTRODUCTION TO VITICULTURE AND VINEYARD ESTABLISHMENT
+",VIN,None.,None,"Introduces students to current practices for establishing a commercial vineyard and maintaining its health and
+productivity once established. Topics covered include varietal selection, site preparation, equipment, site
+selection, first season establishment, vine growth development and training, trellis systems, vine propagation,
+weed control and vine disease control. Field work sessions consisting of 16 hours of hands-on experience is
+scheduled in area vineyards."
+VIN 11200 ,"BOTANICAL VITICULTURE
+",VIN,None.,None,"Provides students with an overview of the plant kingdom and an examination of grapevine form and function
+from a botanical perspective."
+VIN 11392 ,"WINTER VITICULTURE FIELDWORK
+",VIN,VIN 11100.,None,"(Repeatable for credit) Provides students initiated in the field of viticulture practical experience in winter
+vineyard operations. Students are required to partner with an approved vineyard to participate in the required
+fieldwork portion of the course, which serves as experience for those seeking employment in commercial
+viticulture."
+VIN 11492 ,"SPRING VITICULTURE FIELDWORK
+",VIN,VIN 11100.,None,"(Repeatable for credit) Designed to provide students initiated in the field of viticulture practical experience in
+spring vineyard operations. Students are required to partner with an approved vineyard to participate in the
+required fieldwork experience portion of the course, which serves as experience for those seeking employment in
+commercial viticulture."
+VIN 11592 ,"SUMMER/FALL VITICULTURE FIELDWORK
+",VIN,"VIN11100. 
+",None,"(Repeatable for credit) Provides viticulture students practical experience in summer and fall vineyard operations.
+Students are required to partner with an approved vineyard to participate in the required fieldwork portion of the
+course, which serves as experience for those seeking employment in commercial viticulture."
+VIN 20095 ,"SPECIAL TOPICS IN VITICULTURE AND ENOLOGY
+",VIN,none.,None,"(Repeatable for a maximum of 9 credit hours) Various special topics to be announced in the Schedule of Classes,
+offering current topics in viticulture and enology."
+VIN 21100 ,"INTEGRATED PEST MANAGEMENT
+",VIN,none.,None,"Effective grape production depends on the grower developing a system of grape management that is appropriate
+for each vineyard. Decisions need to be made for how to manage all of the normal cultural practices such as
+planting, fertility, harvesting and pruning, as well as managing the insect, disease and weed problems that occur
+either regularly or sporadically. Course addresses management issues related to common, expected pest
+problems, as well as the occasional appearance of minor pest problems."
+VIN 21300 ,"REGIONAL VINEYARD MANAGEMENT
+",VIN,VIN 11100.,None,"A general study of vineyard management in the general wine growing regions in the Continental United States.
+Covers management of the mature vineyard from region to region and builds on the topics covered in
+prerequisite course."
+VIN 29300 ,"SOILS FOR VITICULTURE
+",VIN,none.,None,"Explores soil properties and behavior and their influence on wines. Focuses not only on growth and production,
+but on the long-term effects of viticulture on soil quality and the wider environment."

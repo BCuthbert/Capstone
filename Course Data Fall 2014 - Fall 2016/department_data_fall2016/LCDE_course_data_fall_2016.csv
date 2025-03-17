@@ -1,0 +1,25 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+LCDE 37410 ,"INTRODUCTION TO DISPLAYS AND LIQUID CRYSTAL ELECTRO-OPTICAL DEVICE
+",LCDE,"PHY 23101 and PHY 23102, CHEM 10061 and CHEM 10063, MATH 12002 and MATH12003 
+",None,"TECHNOLOGY
+How displays and other electro-optical devices work. The science behind these devices. The principles of electro-
+optical devices, and the challenges to be met by next generation devices. Hands on labs focus on relevant
+applications (common LCDs, Bistable Cholesteric displays, Guest Host Devices, Tunable Optical Filters, 3D
+displays)."
+LCDE 47410 ,"INTRODUCTION TO DISPLAY MATERIALS
+",LCDE,"PHY23101, and PHY 23102, CHEM 10061 and CHEM 10063, and MATH 12002 and MATH 12003 
+",None,"Materials used in optical displays and devices. It includes an introduction to liquid crystal phases, structure-
+physical property relationships (dielectric anisotropy, optical birefringence, viscoelastic, switching voltage, etc.)
+among liquid crystals, polymers, alignment materials, optical films and photolithography."
+LCDE 47450 ,"CLEANROOM TECHNIQUES AND LIQUID CRYSTAL DEVICE FABRICATION
+",LCDE,"MATH 12002 and MATH 12003; CHEM 10060 and CHEM 10063;PHY 23101 and PHY 23102. 
+",None,"Processes and production methods used for liquid crystal devices. Merges the motivation for a process (what it
+needs to do) with the available techniques (particular processes) to allow students to be able to select the best
+production method and processes for a particular device. The course makes extensive use of the production
+equipment available at the LCI."
+LCDE 47560 ,"FLAT PANEL DISPLAYS: MANUFACTURING, SCIENCE AND TECHNOLOGY
+",LCDE,"PHY 23101 and PHY 23102; CHEM 10061 and CHEM 10063, and MATH 12002and MATH 12003; and special approval. 
+",None,"The fundamental of sciences behind each display manufacturing technology: LCDs, OLEDs and FEDs. A
+comparative analysis of the different displays and manufacturing technologies in which detailed overviews of
+each technology are linked together so as to provide a comprehensive reference for students and display
+engineers, alike."

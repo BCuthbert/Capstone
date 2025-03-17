@@ -1,0 +1,712 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+MATH 00020 ,"PRE-ALGEBRA
+",MATH,ALEKS math single assessment score of 0-9.,None,"Properties of whole numbers, fractions, decimals, percents, signed numbers and order of operations. Mental
+math and elementary algebraic thinking skills are emphasized and use of calculators is not allowed. Course does
+not count toward graduation."
+MATH 00021 ,"BASIC ALGEBRA I
+",MATH,None,None,"Includes operations on integers, fractions, decimals and percents, properties of real numbers. Introduction to
+variables, first degree equations and problem-solving with formulas. Equations and inequalities in one variable,
+linear equations, rate of change and slope, graphing in the cartesian plane. Course does not count toward
+graduation. Pre/corequisite: minimum C (2.000) in MATH 00020;or ALEKS math assessment minimum score of
+10."
+MATH 00022 ,"BASIC ALGEBRA II
+",MATH,"minimum C (2.000) grade in MATH 00021; or ALEKS math assessmentminimum score of 25. 
+",None,"Introduction to functions, systems of linear equations, exponents, polynomial operations, scientific notation.
+Factoring polynomials, solving quadratics by factoring, radicals and rational exponents. Course does not count
+toward graduation."
+MATH 00023 ,"BASIC ALGEBRA III
+",MATH,"minimum C grade in MATH 00006 orMATH 00022; or minimum 35 ALEKS math assessment score. 
+",None,"Zeros of functions, rational expressions and equations, problem-solving with rational expressions, intermediate
+factoring techniques. Quadratics: functions, graphs, equations, inequalities, ""quadratic type"" equations and
+problem-solving. Course does not count toward graduation."
+MATH 00024 ,"BASIC ALGEBRA IV
+",MATH,"minimum C (2.000) grade in MATH 00023; or ALEKS math assessment minimum scoreof 45. 
+",None,"Advanced factoring techniques, rational functions, radical equations, absolute value equations and inequalities.
+Exponential and logarithmic functions: introduction, graphing, problem-solving. Course does not count toward
+graduation."
+MATH 10041 ,"INTRODUCTORY STATISTICS
+",MATH,"Minimum 22 math ACT score; or minimum 520math SAT score; or minimum 35 ALEKS math assessment score; or minimum C grade in MATH 00022; or any
+higher-level MATH course. 
+",None,"An introduction to statistical thinking and statistical methods. Emphasis is on statistical literacy, conceptual
+understanding and active learning in the classroom."
+MATH 10771 ,"BASIC MATHEMATICAL CONCEPTS I PLUS
+",MATH,"Minimum 22 ACT mathematics sub score; or minimum 520 SAT mathematics sub score; orminimum ALEKS math placement assessment score of 35; or MATH 00022 with a minimum grade of C (2.000). 
+",None,"Development of the real number system and its sub-systems, open sentences, numeration systems, modular
+arithmetic and some number theory concepts. Additional concepts covered: place value, logic, sets, algebra
+concepts, and problem solving. Students cannot earn credit toward a degree for both this course and MATH
+14001."
+MATH 10772 ,"MODELING ALGEBRA PLUS
+",MATH,"Minimum 22 ACT mathematics subscore; or minimum 520 SAT mathematics sub score; or minimum ALEKS math placement assessment score of
+35; or a minimum grade of C (2.000) in MATH 00022. 
+",None,"Study of algebra arising in the context of real-world applications, including linear, polynomial, exponential and
+logarithmic models. Includes a review of factoring and functions. Intended for students not planning to take
+calculus. No credit earned for this course if student already earned credit for MATH 11010. Students cannot earn
+credit toward a degree for both this course and MATH 11009."
+MATH 10773 ,"ALGEBRA FOR CALCULUS STRETCH I
+",MATH,"Minimum 22 ACT mathematics sub score; or minimum 520 SAT mathematics subscore; or minimum ALEKS math placement assessment score of 35; or MATH 00022 with a minimum grade of C
+(2.000). 
+",None,"Study of functions in general, factoring, negative and rational exponents; polynomial functions, including
+quadratic functions; and sequences and series. No credit earned for this course if a student already earned
+credit for MATH 12001. Students cannot earn credit toward a degree for both this course and either MATH 11010
+or MATH 10775."
+MATH 10774 ,"ALGEBRA FOR CALCULUS STRETCH II
+",MATH,MATH 10773 with a minimum grade of C (2.000).,None,"Continuation of Math 10773. Study of rational expressions and functions, exponential and logarithmic functions,
+and conic sections. No credit earned for this course if student already earned credit for MATH 11011 or MATH
+12001. Students cannot earn credit toward a degree for both this course and either MATH 11010 or MATH
+10775."
+MATH 10775 ,"ALGEBRA FOR CALCULUS PLUS
+",MATH,"Math 00023 with a minimum grade of C (2.000); or minimum ALEKS mathplacement assessment score of 45. 
+",None,"Study of elementary functions and graphs, including polynomial, exponential and logarithmic functions, complex
+numbers; conic sections; arithmetic and geometric sequences. In addition, factoring, negative and rational
+exponents, and quadratic functions are covered. No credit earned for this course if student has already earned
+credit for MATH 12001. Students cannot earn credit toward a degree for both this class and either MATH 11010
+or MATH 10774"
+MATH 11008 ,"EXPLORATIONS IN MODERN MATHEMATICS
+",MATH,"Math ACT minimum score of 22; or ALEKS mathsingle assessment minimum score of 35; or minimum C (2.000) grade in MATH 00022; or any higher math
+course (MATH 00023, 00024, 1XXXXX excluding MATH 10004 and MATH 10020 and MATH 10021 and MATH
+10031 and MATH 10032). 
+",None,"Topics from various branches of mathematics will be chosen to introduce the student to the wide varieties of
+ways in which mathematics affects everyday life."
+MATH 11009 ,"MODELING ALGEBRA
+",MATH,"minimum C (2.000) grade in MATH 00007 orMATH 00023; or ALEKS math assessment minimum score of 45. 
+",None,"Study of algebra arising in the context of real-world applications, including linear, polynomial, exponential and
+logarithmic models. Intended for students not planning to take calculus. No graduation credit for this course for
+students who have already passed MATH 11010."
+MATH 11010 ,"ALGEBRA FOR CALCULUS
+",MATH,"MATH 00024 or MATH 10772 or MATH 11009 with a minimum C grade; or minimum55 ALEKS math placement assessment score. 
+",None,"Study of elementary functions and graphs, including polynomial, exponential and logarithmic functions, complex
+numbers; conic sections; arithmetic and geometric sequences. No credit earned for this course if student earned
+credit for MATH 12001. Students cannot earn credit for this course and any of MATH 10773, MATH 10774, or
+MATH 10775."
+MATH 11012 ,"INTUITIVE CALCULUS
+",MATH,"MATH 10774 or MATH 10775 or MATH 11010 with a minimum C grade; or minimum 67 ALEKSmath assessment score. 
+",None,"Designed to give an overview of differential and integral calculus to business and life-science majors. Does not
+include trigonometric functions. No credit earned for this course if student earned credit for MATH 12002."
+MATH 11022 ,"TRIGONOMETRY
+",MATH,"MATH 10774 or MATH 10775 or MATH11010 with a minimum C grade; or minimum 67 ALEKS math placement assessment score. 
+",None,"Solution of triangles, trigonometric equations and identities."
+MATH 12001 ,"ALGEBRA AND TRIGONOMETRY
+",MATH,"MATH 00024 with a minimum grade of B (3.000); or minimum ALEKS mathplacement assessment score of 67. 
+",None,"Introduction to algebra and trigonometry including functions and graphs; polynomial and rational functions;
+exponential and logarithmic functions; angles and the trigonometric functions; graphs of trigonometric
+functions; trigonometric identities; inverse circular functions and trigonometric equations; and applications of
+trigonometry. No credit earned for this course if student earned credit for MATH 10774 or MATH 10775 or MATH
+11010 or MATH 11022."
+MATH 12002 ,"ANALYTIC GEOMETRY AND CALCULUS I
+",MATH,"minimum C (2.000) grade in MATH 11022 orMATH 12001; or ALEKS math upper-level minimum score 70; or ALEKS math single assessment minimum score
+of 78. 
+",None,"Concepts of limit, continuity and derivative, and the indefinite and definite integral for functions of one real
+variable. Maximization, related rates, fundamental theorem of calculus. No credit earned for this course if
+student earned credit for MATH 12011 and 12012."
+MATH 12003 ,"ANALYTIC GEOMETRY AND CALCULUS II
+",MATH,"MATH 12002 orMATH 12012 with a minimum grade of C (2.000). 
+",None,"Continued study of techniques and applications of integration; trigonometric, logarithmic and exponential
+functions; polar coordinates; vectors; parametric equations; sequences and series."
+MATH 12011 ,"CALCULUS WITH PRECALCULUS I
+",MATH,"ALEKS math upper-level score 50-69; or ALEKS mathsingle assessment score of 67-77. 
+",None,"Introduction to differential calculus with a review of algebra and trigonometry. Includes exponents, factoring,
+functions, graphs, tangent lines, limits, continuity, derivatives and related rates. No credit earned for this course
+is student earned credit for MATH 12002."
+MATH 12012 ,"CALCULUS WITH PRECALCULUS II
+",MATH,"MATH 12011 with aminimum grade of C (2.000). 
+",None,"Development of integral calculus and continued study of differential calculus. Includes curve sketching
+optimization fundamental theorem of calculus areas between curves, exponential and logarithmic functions. No
+credit earned for this course if student earned credit for MATH 12002."
+MATH 12021 ,"CALCULUS FOR LIFE SCIENCES
+",MATH,"MATH 11022 orMATH 12011 with a minimum grade of C (2.000); or ALEKS Placement score of 78 or higher. 
+",None,Differential and integral calculus using examples and problems in life sciences.
+MATH 12022 ,"PROBABILITY AND STATISTICS FOR LIFE SCIENCES
+",MATH,"MATH 12002 or MATH12012 or MATH 12021 with a minimum grade of C (2.000). 
+",None,Probability and statistics with applications in medical and biological sciences.
+MATH 14001 ,"BASIC MATHEMATICAL CONCEPTS I
+",MATH,"minimum C (2.000) in MATH 00007 or any mathcourse 00023 and higher; or ALEKS math assessment minimum score of 45. 
+",None,"Development of the real number system and its sub-systems, open sentences, numeration systems, modular
+arithmetic and some number theory concepts."
+MATH 14002 ,"BASIC MATHEMATICAL CONCEPTS II
+",MATH,"MATH 14001 or MATH 10771 with aminimum grade of C (2.000). 
+",None,"Basic concepts of probability, statistics and geometry."
+MATH 19002 ,"TECHNICAL MATHEMATICS II
+",MATH,None.,None,"Continuation of MATH 19001. Emphasizes advanced topics in algebra and trigonometry, analytic geometry,
+derivatives and integrals."
+MATH 19099 ,"FIELD EXPERIENCE IN MATHEMATICS INSTRUCTION
+",MATH,Special approval.,None,"(Repeatable for credit)Learning through tutoring. A supervised lab experience in providing explanations of
+mathematical concepts."
+MATH 20095 ,"SPECIAL TOPICS IN MATHEMATICS
+",MATH,Permission.,None,"(Repeatable for credit)Various special courses will be announced in the schedule of classes under this course
+number with different section numbers."
+MATH 21001 ,"LINEAR ALGEBRA WITH APPLICATIONS
+",MATH,MATH 11012 or MATH 12002 with a minimum grade of C (2.000).,None,"Systems of linear equations and the associated matrix operations, linear transformations, vector spaces, bases,
+eigenvectors."
+MATH 21092 ,"COMPUTER PRACTICUM
+",MATH,None.,None,(Repeatable for credit) Supervised work experience in a computer installation.
+MATH 22005 ,"ANALYTIC GEOMETRY AND CALCULUS III
+",MATH,"MATH12003 with a minimum grade of C (2.000). 
+",None,"Study of functions of several variables, including partial derivatives and multiple integrals."
+MATH 23022 ,"DISCRETE STRUCTURES FOR COMPUTER SCIENCE
+",MATH,"CS 10051 and a grade of C (2.0) orbetter in MATH 11010; or a Compass Algebra score of 55 or better and either SAT Math score of 540 or better or
+ACT Math score 23 or better. 
+",None,"(Cross-listed with CS 23022) Discrete structures for computer scientists with a focus on: mathematical
+reasoning, combinatorial analysis, discrete structures, algorithmic thinking, applications and modeling. Specific
+topics include logic, sets, functions, relations, algorithms, proof techniques, counting, graphs, trees, Boolean
+algebra, grammars and languages. No credit for MATH 31011."
+MATH 30011 ,"BASIC PROBABILITY AND STATISTICS
+",MATH,MATH 11010 or MATH,None,"Analysis and representation of data. Controlled experiments and observations. Measurement errors. Correlation
+and regression. Sampling. Probability models and tests of models. Inference."
+MATH 30055 ,"MATHEMATICAL THEORY OF INTEREST
+",MATH,MATH 12003 with a minimum grade of C (2.000).,None,"A calculus-based introduction to the mathematics of finance. Limited to deterministic analysis of interest rates
+annuities bonds and immunization. Emphasizes the mathematical theory of the subject matter."
+MATH 31011 ,"DISCRETE MATHEMATICS
+",MATH,MATH 12002 with a minimum grade of C (2.000). Pre/,None,"Discrete mathematical structures including sets, functions, relations, Boolean algebras, elementary
+combinatorics, discrete probability, and logic. Applications to algorithm complexity analysis and program
+correctness proof."
+MATH 32044 ,"INTRODUCTION TO ORDINARY DIFFERENTIAL EQUATIONS
+",MATH,"MATH 21001 and MATH 22005 with minimum grades of C(2.000). 
+",None,"An introduction to ordinary differential equations and applications. Topics include solution methods, series
+solutions and singular points. Laplace transforms and linear systems. Applications include population dynamics,
+forced oscillations and resonance."
+MATH 32051 ,"MATHEMATICAL METHODS IN THE PHYSICAL SCIENCES I
+",MATH,MATH 12003 with a minimum grade of C (2.000).,None,"Mathematics background beyond Calculus I and II for upper-division courses in the physical sciences. Topics
+include complex numbers and arithmetic, linear algebra, partial differentiation and multiple integrals."
+MATH 32052 ,"MATHEMATICAL METHODS IN THE PHYSICAL SCIENCES II
+",MATH,"MATH 22005 with a minimum grade of C (2.000); and MATH 21001 or MATH 32051 with aminimum grade of C (2.000). 
+",None,"Additional mathematics background for upper-division courses in the physical sciences. Topics include vector
+analysis, Fourier series and transforms ordinary differential equations and partial differential equations."
+MATH 34001 ,"FUNDAMENTAL CONCEPTS OF ALGEBRA
+",MATH,"MATH 12002 with a minimum gradeof C (2.000). 
+",None,"Professionalized course in algebra for prospective secondary teachers. Postulational development of number
+system of algebra; other systems, related topics, applications."
+MATH 34002 ,"FUNDAMENTAL CONCEPTS OF GEOMETRY
+",MATH,"MATH 12002with a minimum grade of C (2.000). 
+",None,"Professionalized course in geometry for secondary school teachers. Origin and development of the geometry of
+Euclid with modern refinements, topics, approaches. Other geometries, applications."
+MATH 40011 ,"INTRODUCTION TO PROBABILITY THEORY AND APPLICATIONS
+",MATH,MATH 12003 with a minimum grade of C (2.000).,None,"Permutations and combinations, discrete and continuous distributions, random variables, conditional
+probabilities, Baye's formula, mathematical expectation, law of large numbers, normal approximations, basic
+limit theorems."
+MATH 40012 ,"INTRODUCTION TO STATISTICAL CONCEPTS
+",MATH,"MATH40011 with a minimum grade of C (2.000). 
+",None,"Sample spaces, continuous distributions, sampling distributions, point and interval estimation, hypothesis
+testing, types of error, level and power of tests, sequential and nonparametric methods."
+MATH 40051 ,"TOPICS IN PROBABILITY THEORY AND STOCHASTIC PROCESSES
+",MATH,MATH 40011 with a minimum grade of C (2.000).,None,"Topics from conditional expectations, Markov chains, Markov processes, Brownian motion and Martingales and
+their applications to stochastic calculus."
+MATH 40055 ,"ACTUARIAL MATHEMATICS I
+",MATH,MATH 30055 and MATH 40011 with minimum grades of C (2.000).,None,"(Slashed with MATH 50055) Topics from survival models, stochastic analysis of annuities and life insurance and
+casualty models."
+MATH 40056 ,"ACTUARIAL MATHEMATICS II
+",MATH,MATH 40055 with a minimum grade of C (2.000).,None,"Benefit premiums, benefit reserves and their analysis, decrement models, joint survivorship, risk models."
+MATH 40059 ,"STOCHASTIC ACTUARIAL MODELS
+",MATH,MATH 40011 with a grade of C (2.000) or higher.,None,"(Slashed with MATH 50059) Designed to prepare students for the Society of Actuaries examination on actuarial
+mathematics."
+MATH 40093 ,"VARIABLE TITLE WORKSHOP IN MATHEMATICS
+",MATH,Permission.,None,"(Repeatable for credit)Studies special topics in mathematics. Not acceptable for credit toward a major or minor
+in math without approval of student's adviser. S u/graded."
+MATH 41001 ,"INTRODUCTION TO MODERN ALGEBRA I
+",MATH,"MATH 21001 and MATH 22005 with minimum grades of C (2.000); and MATH31011 or MATH 41021 or MATH 47011 with a minimum grade of C (2.000). 
+",None,"Basic properties of groups, subgroups, factor groups. Basic properties of rings, integral domains, and
+homomorphisms."
+MATH 41002 ,"INTRODUCTION TO MODERN ALGEBRA II
+",MATH,"MATH 41001 with a grade of C(2.000) or better. 
+",None,"A continuation of MATH 41001, emphasizing properties of rings, their ideals, polynomial ring extensions, fields,
+finite degree extensions, roots of polynomials, constructability."
+MATH 41021 ,"THEORY OF MATRICES
+",MATH,"MATH 21001 and MATH 22005 with grades ofC (2.000) or better. 
+",None,"A rigorous study of the topics introduced in matrix algebra. Topics included are vector space preliminaries,
+canonical forms of matrices, diagonalizability criteria."
+MATH 41038 ,"INTERMEDIATE LOGIC
+",MATH,None.,None,"(Slashed with MATH 51038; Cross-listed with CS 41038 and PHIL 41038 and PHIL 51038) A detailed, systematic
+study of symbolic logic for philosophy majors, mathematics majors, computer science majors, and anyone else
+interested in advanced study in logic. The aim of the course is twofold: first, to develop a facility in
+understanding and using symbolic logic for various purposes, and second, to understand and appreciate
+symbolic logic as an area of study in itself. Topics include the distinction between syntactic, object-level proofs
+and semantic, meta-level proofs, the distinction between axiomatic systems and natural deduction systems of
+object-level proofs, various systems of modal logic, and some non-classical logics."
+MATH 41045 ,"METALOGIC
+",MATH,PHIL 41038.,None,"(Slashed with MATH 51045; Cross-listed with CS 41045 and CS 51045 and PHIL 41045 and PHIL 51045) A
+detailed, systematic study of metalogic for philosophy majors, mathematics majors, computer science majors,
+and anyone else interested in advanced study in logic. Topics include the soundness and completeness of the
+propositional and predicate calculi, the decidablility of propositional calculus, the undecidability of predicate
+calculus, Gödel’s incompleteness proof for languages capable of expressing arithmetic, the co-extensionality of
+the set of general recursive functions, abacus computable functions, and Turing computable functions, and the
+philosophical motivations for the ChurchTuring Thesis that all computable functions are Turing computable."
+MATH 42001 ,"INTRODUCTION TO ANALYSIS I
+",MATH,"MATH 21001 and MATH 22005 withminimum grades of C (2.000). 
+",None,"Topics include basic structure of the real numbers, Cauchy sequences, convergence, completeness of the real
+numbers, continuity, differentiation and Riemann integration."
+MATH 42002 ,"INTRODUCTION TO ANALYSIS II
+",MATH,MATH 42001 with a minimum grade of C (2.000).,None,"Topics include further development of integration theory, infinite series, uniform convergence, several variable
+calculus and metric spaces."
+MATH 42011 ,"MATHEMATICAL OPTIMIZATION
+",MATH,"MATH 21001 and MATH 22005 withminimum grades of C (2.000). 
+",None,"Analytic and numerical techniques for location of extreme points of functions and calculus of variations. Both
+constrained and unconstrained problems are considered."
+MATH 42021 ,"GRAPH THEORY AND COMBINATORICS
+",MATH,"MATH 21001 and MATH 12003 withminimum grades of C (2.000). 
+",None,"Fundamentals and applications of combinatorial mathematics. Topics include traversability, colorability,
+networks, inclusion and exclusion, matching and designs."
+MATH 42024 ,"NUMBERS AND GAMES
+",MATH,MATH 21001 with a minimum grade of C (2.000).,None,The study of partisan and impartial combinatorial games; games as numbers; Grundy-Sprague theory.
+MATH 42031 ,"MATHEMATICAL MODELS AND DYNAMICAL SYSTEMS
+",MATH,MATH 32044 or 32052 with minimum grades of C (2.000).,None,"Formulation and analysis of mathematical models for a variety of phenomena. Mathematical methods from
+optimization dynamical systems and probability are developed and applied. Modern software tools are utilized."
+MATH 42039 ,"MODELING PROJECTS
+",MATH,"MATH 42031 witha minimum grade of C (2.000). 
+",None,"(Slashed with MATH 52039) Individual and small-group projects concerned with the formulation and analysis of
+mathematical models in a variety of areas. Written and oral reports are required."
+MATH 42041 ,"ADVANCED CALCULUS
+",MATH,"MATH 21001 andMATH 22005 with minimum grades of C (2.000). 
+",None,"The calculus and applications of scalar and vector functions of several variables. Vector differential and integral
+calculus. Applications to field theories, electricity and magnetism, and fluid flow."
+MATH 42045 ,"INTRODUCTION TO PARTIAL DIFFERENTIAL EQUATIONS
+",MATH,MATH 32044 with a minimum grade of C (2.000).,None,"An introduction to Fourier series, Fourier transforms and partial differential equations. Wave, heat and potential
+equations of mathematical physics. Additional topics include Green's functions and the Method of Characteristics
+for wave equations."
+MATH 42048 ,"INTRODUCTION TO COMPLEX VARIABLES
+",MATH,MATH 22005 with a minimum grade of C (2.000).,None,"Algebra of complex numbers, analytic functions, mappings, Cauchy integral theory, residue theory and
+applications."
+MATH 42201 ,"INTRODUCTION TO NUMERICAL COMPUTING I
+",MATH,"MATH 12003 with aminimum grade of C (2.000); MATH 21001 or MATH 32051 with a minimum grade of C (2.000); and CS 10061
+or CS 13001 or both CS 13011 and CS 13012 with a minimum grade of C (2.000). 
+",None,"(Slashed with MATH 52201; Cross-listed with CS 42201 and CS 52201). An introduction to numerical methods
+and software for solving many common scientific computing problems. Linear systems, least-squares data
+fitting, nonlinear equations and systems, and optimization problems."
+MATH 42202 ,"INTRODUCTION TO NUMERICAL COMPUTING II
+",MATH,"MATH 42201 with a minimum grade of C (2.000); and MATH 32044 or 32052 with a minimumgrade of C (2.000). 
+",None,"(Cross-listed with CS 42202 and CS 52202 and MATH 52202) A continuation of MATH 42201. Topics include
+interpolation, numerical differentiation and integration, and numerical solution of ordinary differential equations."
+MATH 45011 ,"DIFFERENTIAL GEOMETRY
+",MATH,"MATH 22005 with a minimumgrade of C (2.000). 
+",None,Analytic and metric differential geometry of curves and surfaces.
+MATH 45021 ,"EUCLIDEAN GEOMETRY
+",MATH,"MATH 21001 with a minimum grade of C(2.000); or special approval of instructor. 
+",None,"Geometry of Euclid extended to advanced topics of the triangle, quadrilaterals and circles: cross-ratio, groups,
+constructions, geometric generalizations; inversion."
+MATH 45022 ,"LINEAR GEOMETRY
+",MATH,MATH 21001 with a minimum grade of C (2.000).,None,"Using transformations as a tool to study geometry and to differentiate between different kinds of geometry.
+Linear algebra methods applied to geometry."
+MATH 46001 ,"ELEMENTARY TOPOLOGY
+",MATH,"MATH 22005 with a minimumgrade of C (2.000). 
+",None,"Metric spaces, introduction to topological spaces, separation axioms."
+MATH 47011 ,"THEORY OF NUMBERS
+",MATH,"MATH 12003 witha grade of C (2.000) or better. 
+",None,"Divisibility properties of the integers, prime numbers, congruences, quadratic reciprocity, Diophantine equations,
+number theoretic functions, simple continued fractions, rational approximations."
+MATH 47021 ,"HISTORY OF MATHEMATICS
+",MATH,"3 hours of mathematics beyond MATH22005 with a minimum grade of C (2.000). 
+",None,"Survey from Babylonian and Egyptian mathematics to 20th century mathematics with emphasis on the
+development of algebra, geometry, calculus, number theory."
+MATH 49995 ,"SELECTED TOPICS IN MATHEMATICS AND ITS APPLICATIONS
+",MATH,Permission.,None,"(repeated registration permitted) various special courses will be announced in the schedule of classes under this
+course number with different section numbers."
+MATH 49996 ,"INDIVIDUAL STUDY
+",MATH,special approval.,None,(Repeatable for credit)
+MATH 49998 ,"RESEARCH
+",MATH,special approval.,None,(Repeatable for credit)
+MATH 50011 ,"INTRODUCTION TO PROBABILITY THEORY AND APPLICATIONS
+",MATH,MATH 12003 and graduate standing.,None,"Permutations and combinations, discrete and continuous distributions, random variables, conditional
+probabilities, Baye's formula, mathematical expectation, law of large numbers, normal approximations, basic
+limit theorems."
+MATH 50012 ,"INTRODUCTION TO STATISTICAL CONCEPTS
+",MATH,"MATH4/50011 and graduate standing. 
+",None,"Sample spaces, continuous distributions, sampling distributions, point and interval estimation, hypothesis
+testing, types of error, level and power of tests, sequential and nonparametric methods."
+MATH 50051 ,"TOPICS IN PROBABILITY THEORY AND STOCHASTIC PROCESSES
+",MATH,MATH 50011 and graduate standing.,None,"Topics from conditional expectations, Markov chains, Markov processes, Brownian Motion and Martingales and
+their applications to stochastic calculus."
+MATH 50055 ,"ACTUARIAL MATHEMATICS I
+",MATH,MATH 30055 and 50011; graduate standing.,None,"(Slashed with MATH 40055) Topics from survival models, stochastic analysis of annuities and life insurance and
+casualty models."
+MATH 50056 ,"ACTUARIAL MATHEMATICS II
+",MATH,MATH 50055; graduate standing.,None,"Benefit premiums, benefit reserves and their analysis; decrement models, joint survivorship, risk models."
+MATH 50059 ,"STOCHASTIC ACTUARIAL MODELS
+",MATH,MATH 50011 with a minimum grade of C (2.000); and graduate standing.,None,Designed to prepare students for the Society of Actuaries examination on actuarial mathematics.
+MATH 51001 ,"INTRODUCTION TO MODERN ALGEBRA I
+",MATH,MATH 21001 and 22005. Graduate standing.,None,"Basic properties of groups, subgroups, factor groups. Basic properties of rings, integral domains and
+homomorphisms."
+MATH 51002 ,"INTRODUCTION TO MODERN ALGEBRA II
+",MATH,MATH 4/51001. Graduate standing.,None,"A continuation of MATH 51001, emphasizing properties of rings, their ideals, polynomial ring extensions, fields,
+finite degree extensions, roots of polynomials, constructibility."
+MATH 51021 ,"THEORY OF MATRICES
+",MATH,MATH 21001 and 22005. Graduate standing.,None,"A rigorous study of the topics introduced in matrix algebra. Topics included are: canonical forms of matrices,
+diagonalizability criteria."
+MATH 51038 ,"INTERMEDIATE LOGIC
+",MATH,"Graduatestanding. 
+",None,"(Slashed with MATH 41038; Cross-listed with CS 41038 and PHIL 41038 and PHIL 51038) A detailed, systematic
+study of symbolic logic for philosophy majors, mathematics majors, computer science majors, and anyone else
+interested in advanced study in logic. The aim of the course is twofold: first, to develop a facility in
+understanding and using symbolic logic for various purposes, and second, to understand and appreciate
+symbolic logic as an area of study in itself. Topics include the distinction between syntactic, object-level proofs
+and semantic, meta-level proofs, the distinction between axiomatic systems and natural deduction systems of
+object-level proofs, various systems of modal logic, and some non-classical logics."
+MATH 51045 ,"METALOGIC
+",MATH,Graduate standing.,None,"(Slashed with MATH 41045; Cross-listed with CS 41045 and CS 51045 and PHIL 41045 and PHIL 51045) A
+detailed, systematic study of metalogic for philosophy majors, mathematics majors, computer science majors,
+and anyone else interested in advanced study in logic. Topics include the soundness and completeness of the
+propositional and predicate calculi, the decidablility of propositional calculus, the undecidability of predicate
+calculus, Gödel’s incompleteness proof for languages capable of expressing arithmetic, the co-extensionality of
+the set of general recursive functions, abacus computable functions, and Turing computable functions, and the
+philosophical motivations for the ChurchTuring Thesis that all computable functions are Turing computable"
+MATH 52001 ,"INTRODUCTION TO ANALYSIS I
+",MATH,"MATH 21001 and 22005. Graduatestanding. 
+",None,"Topics include basic structure of the real numbers, Cauchy sequences, convergence, completeness of the real
+numbers ,continuity, differentiation and Riemann integration."
+MATH 52002 ,"INTRODUCTION TO ANALYSIS II
+",MATH,MATH 4/ 52001 and graduate standing.,None,"Topics include further development of integration theory infinite series, uniform convergence, several variable
+calculus and metric spaces."
+MATH 52011 ,"MATHEMATICAL OPTIMIZATION
+",MATH,"MATH 21001 and 22005. Graduatestanding. 
+",None,"Analytical and numerical techniques for location of extreme points of functions and calculus of variations. Both
+constrained and unconstrained problems are considered."
+MATH 52021 ,"GRAPH THEORY AND COMBINATORICS
+",MATH,"MATH 12003 and 21001 and graduatestanding. 
+",None,"Fundamentals and applications of combinatorial mathematics. Topics include transversability, colorability,
+networks, inclusion and exclusion, matching and designs."
+MATH 52024 ,"NUMBERS AND GAMES
+",MATH,Special approval of instructor and graduate standing.,None,The study of partisan and impartial combinatorial games; games as numbers; Grundy-Sprague theory.
+MATH 52031 ,"MATHEMATICAL MODELS AND DYNAMICAL SYSTEMS
+",MATH,MATH 32044 and graduate standing.,None,"Formulation and analysis of mathematical models for a variety of phenomena. Mathematical methods from
+optimization, dynamical systems and probability are developed and applied. Modern software tools are utilized."
+MATH 52039 ,"MODELING PROJECTS
+",MATH,MATH 52031; and graduate standing.,None,"(Slashed with MATH 42039) (Repeatable for credit) Individual and small-group projects concerned with the
+formulation and analysis of mathematical models in a variety of areas. Written and oral reports required."
+MATH 52041 ,"ADVANCED CALCULUS
+",MATH,"MATH 21001 and22205. 
+",None,"The calculus and applications of scalar and vector functions of several variables. Vector differential and integral
+calculus. Applications to field theories, electricity and magnetism, and fluid flow."
+MATH 52045 ,"INTRODUCTION TO PARTIAL DIFFERENTIAL EQUATIONS
+",MATH,MATH 32044 and graduate standing.,None,"Introduction to Fourier series, Fourier transforms and partial differential equations. Wave, heat and potential
+equations of mathematical physics. Additional topics include Green's functions and the Method of Characteristics
+for wave equations."
+MATH 52048 ,"INTRODUCTION TO COMPLEX VARIABLES
+",MATH,MATH 22005 and graduate standing.,None,"Algebra of complex numbers, analytic functions, mappings, Cauchy integral theory, residue theory and
+applications."
+MATH 52201 ,"INTRODUCTION TO NUMERICAL COMPUTING I
+",MATH,"MATH 12003, 21001 and CS 23021. Graduatestanding. 
+",None,"(Cross-listed with CS 42201 and CS 52201 and MATH 42201)An introduction to numerical methods and software
+for solving many common scientific computing problems. Linear systems, least-square data fitting, nonlinear
+equations and systems and optimization problems."
+MATH 52202 ,"INTRODUCTION TO NUMERICAL COMPUTING II
+",MATH,MATH 32044 and 52201. Graduate standing.,None,"(Cross-listed with CS 42202 and CS 52202 and MATH 42202) A continuation of MATH 52201. Topics include
+interpolation, numerical differentiation and integration, and numerical solution of ordinary differential equations."
+MATH 55011 ,"DIFFERENTIAL GEOMETRY
+",MATH,"MATH 22005 and graduatestanding. 
+",None,Analytic and metric differential geometry of curves and surfaces.
+MATH 55021 ,"EUCLIDEAN GEOMETRY
+",MATH,MATH 21001. Graduate standing.,None,"Geometry of Euclid extended to advanced topics of the triangle, quadrilaterals and circles: crossratio, groups,
+constructions, geometric generalizations; inversion."
+MATH 55022 ,"LINEAR GEOMETRY
+",MATH,MATH 21001 and graduate standing.,None,"Use of transformations as a tool to study geometry and to differentiate between different kinds of geometry.
+Linear algebra methods applied to geometry."
+MATH 56001 ,"ELEMENTARY TOPOLOGY
+",MATH,"MATH 22005 and graduatestanding. 
+",None,"Metric spaces, introduction to topological spaces, separation axioms."
+MATH 57011 ,"THEORY OF NUMBERS
+",MATH,"MATH 12003.Graduate standing. 
+",None,"Divisibility properties of the integers, prime numbers, congruences, quadratic reciprocity, Diophantine equations,
+number theoretic functions, simple continued fractions, rational approximations."
+MATH 57021 ,"HISTORY OF MATHEMATICS
+",MATH,"3 credit hours of mathematics beyondMATH 22005 and graduate standing. 
+",None,"Survey from Babylonian and Egyptian mathematics to 20th-century mathematics with emphasis on the
+development of algebra, geometry, calculus, number theory."
+MATH 57091 ,"SELECTED TOPICS IN MATHEMATICS AND ITS APPLICATIONS
+",MATH,Special approval of instructor and graduate standing.,None,"(Repeatable for credit)Various special courses will be announced in the schedule of classes under this course
+number with different section numbers."
+MATH 59893 ,"VARIABLE TITLE WORKSHOP IN MATHEMATICS
+",MATH,"Special approvaland graduate standing. 
+",None,(Repeatable for credit)Studies in special topics in pure and applied mathematics.
+MATH 60051 ,"PROBABILITY I
+",MATH,MATH 4/50011 or 4/52002. Graduate standing.,None,"Distribution functions, measure theory, random variables, expectation, independence, convergence, concepts,
+law of large numbers."
+MATH 60052 ,"PROBABILITY II
+",MATH,MATH 6/70051 and graduate standing.,None,"Characteristic functions, the central limit problem, conditional expectations, Martingale theory, Brownian motion."
+MATH 60061 ,"MATHEMATICAL STATISTICS I
+",MATH,"MATH 4/52002.Graduate standing. 
+",None,"Statistics, distributions of statistics. Sampling distributions. Decision spaces and loss functions. Sufficiency and
+completeness. Estimation theory. Rao Blackwell and the Cramer Rao theorems."
+MATH 60062 ,"MATHEMATICAL STATISTICS II
+",MATH,MATH 6/70061. Graduate standing.,None,"Tests of statistical hypothesis. Neyman Pearson Lemma. Exponential families and invariance. Sequential tests.
+Non-parametric procedures."
+MATH 60070 ,"FINANCIAL MATHEMATICS
+",MATH,MATH 50051 and graduate standing.,None,"Topics from replication of trading strategies, arbitrage, completeness, Martingale representation theorem,
+fundamental theorem of finance, stochastic differential equations, Black and Scholes formula of option pricing."
+MATH 60091 ,"SEMINAR IN STATISTICS & PROBABILITY
+",MATH,"Special approvaland graduate standing. 
+",None,(Repeatable for credit)Seminar on current research in statistics and probability.
+MATH 60093 ,"VARIABLE TITLE WORKSHOP IN MATHEMATICS
+",MATH,"Special approval and graduatestanding. 
+",None,"(Repeatable for credit)Studies of special topics in mathematics. Not acceptable for credit toward a graduate
+degree in mathematics without approval of the student's adviser."
+MATH 60094 ,"COLLEGE TEACHING OF MATHEMATICS
+",MATH,Graduate standing.,None,"(Repeatable for credit)Techniques and problems in the teaching of college-level mathematics. Student
+presentations of mathematical papers and colloquia will be included."
+MATH 61051 ,"ABSTRACT ALGEBRA I
+",MATH,Special approval and graduate standing.,None,"Advanced topics in group theory including Sylow Theorems, finite Abelian groups, divisible groups and related
+concepts. Includes one hour problem session each week."
+MATH 61052 ,"ABSTRACT ALGEBRA II
+",MATH,MATH 6/71051 and graduate standing.,None,"Advanced topics, commutative ring theory, and field theory including polynomial rings, unique factorization
+domains, matrix rings, Galois theory."
+MATH 61091 ,"SEMINAR IN ALGEBRA
+",MATH,"Special approval and graduatestanding. 
+",None,(Repeatable for credit)Seminar on current research in algebra.
+MATH 62041 ,"METHODS OF APPLIED MATHEMATICS I
+",MATH,"MATH 51021 and MATH 52041and MATH 52045 and MATH 52048 and graduate standing. 
+",None,"Analysis and applications of ordinary and partial differential equations and related topics. Dimensional analysis
+(Buckingham Pi Theorem). Perturbation methods (singular perturbations, matched asymptotic expansions, WKB
+approximation). Variational methods (Euler-Lagrange equations)."
+MATH 62042 ,"METHODS OF APPLIED MATHEMATICS II
+",MATH,"MATH 6/72041 and graduatestanding. 
+",None,"Continuation of MATH 6/72041. Integral equations and Green's functions (Fredholm alternative, compact
+operators, distributions, weak solutions). Wave phenomena (dispersion, KdV equation). Stability and bifurcation
+(linearized stability analysis, turning points, Hopf bifurcation)."
+MATH 62051 ,"FUNCTIONS OF A REAL VARIABLE I
+",MATH,MATH 4/52002 and graduate standing.,None,"Introduction to modern concepts of real analysis including metric spaces, measure and integration theory."
+MATH 62052 ,"FUNCTIONS OF A REAL VARIABLE II
+",MATH,MATH 6/72051 and graduate standing.,None,A continuation of MATH 62051/72051. Included are basic topics in functional analysis and Hilbert space theory.
+MATH 62091 ,"SEMINAR IN REAL ANALYSIS
+",MATH,"Special approval and graduatestanding. 
+",None,(Repeatable for credit)Seminar on current research in real analysis.
+MATH 62151 ,"FUNCTIONS OF A COMPLEX VARIABLE I
+",MATH,MATH 52002 and graduate standing.,None,"Topological properties of the complex plane; analytic, entire, meromorphic functions; analytic continuation;
+conformal mappings; Picard's Theorem; Riemann surfaces."
+MATH 62152 ,"FUNCTIONS OF A COMPLEX VARIABLE II
+",MATH,MATH 62151 and graduate standing.,None,"Topological properties of the complex plane; analytic, entire, meromorphic functions; analytic continuation;
+conformal mappings; Picard's Theorem; Riemann surfaces."
+MATH 62191 ,"SEMINAR IN COMPLEX ANALYSIS
+",MATH,"Special approval andgraduate standing. 
+",None,(Repeatable for credit)Seminar on current research in complex analysis.
+MATH 62203 ,"COMPUTATIONAL FINANCE
+",MATH,"MATH 22005 and MATH 21001 and MATH 32044 and CS 10061 andgraduate standing. 
+",None,"Basic numerical methods, (numerical linear algebra, nonlinear equations, curve fitting, ODEs, integration,
+Monte-Carlo methods), numerical solution of PDEs (stability, convergence, Black-Scholes, American options,
+SDEs) probabilistic methods."
+MATH 62251 ,"NUMERICAL ANALYSIS I
+",MATH,MATH 4/52002 and graduate standing.,None,"(Cross-listed with CS 62251 and CS 72251 and MATH 72251) Floating point computation, rounding error
+analysis, conditioning, interpolation (polynomial, trigonometric, spline). Numerical quadrature (Newton-Cotes,
+Gauss),extrapolation, Romberg integration."
+MATH 62252 ,"NUMERICAL ANALYSIS II
+",MATH,MATH 4/51021 and 6/72251 and graduate standing.,None,"(Cross-listed with CS 62252 and CS 72252 and MATH 72252) Numerical solution of linear systems of equations
+(LU factorization, error analysis). Least squares, orthogonalization methods. Algebraic eigenvalue problems, QR
+algorithm, singular value decomposition."
+MATH 62261 ,"NUMERICAL SOLUTION OF ORDINARY DIFFERENTIAL EQUATIONS
+",MATH,MATH 32044 and MATH 4/52202 and graduate standing.,None,"(Cross-listed with CS 62261 and CS 72261 and MATH 72261) Discretization methods for ordinary differential
+equations and systems. Initial value and boundary value problems. Numerical implementation software and
+analysis."
+MATH 62262 ,"NUMERICAL SOLUTION OF PARTIAL DIFFERENTIAL EQUATIONS
+",MATH,MATH 42045 or 52045; and MATH 42202 or 52202; and graduate standing.,None,"(Cross-listed with CS 62262 and CS 72262 and MATH 72262) Derivation and analysis of discrete methods (finite
+differences, finite elements) for the numerical solution of elliptic, hyperbolic and parabolic partial differential
+equations."
+MATH 62263 ,"NUMERICAL SOLUTION OF LARGE SPARSE LINEAR SYSTEMS
+",MATH,"MATH 4/51021 and MATH 4/52202 and graduatestanding. 
+",None,"(Cross-listed with CS 62263 and CS 72263 and MATH 72263) Construction and analysis of iterative methods for
+large systems of linear algebraic equations. Jacobi, Gauss-Seidel, SOR. Polynomial acceleration methods,
+conjugate gradients. Multi-grid methods."
+MATH 62264 ,"NUMERICAL SOLUTION OF NONLINEAR SYSTEMS
+",MATH,MATH 42041 or MATH 52041; and MATH 42202 or MATH 52202; and graduate standing.,None,"(Cross-listed with CS 62264 and CS 72264 and MATH 72264) Construction and analysis of numerical methods
+for systems of nonlinear algebraic equations and optimization problems. Numerical implementation and
+software."
+MATH 62291 ,"SEMINAR IN NUMERICAL ANALYSIS
+",MATH,"Special approval andgraduate standing. 
+",None,(Repeatable for credit)Seminar on current research in numerical analysis.
+MATH 62391 ,"SEMINAR IN MEASURE THEORY
+",MATH,"Special approval andgraduate standing. 
+",None,(Repeatable for credit)Seminar on current research in measure theory.
+MATH 62491 ,"SEMINAR IN NONLINEAR ANALYSIS
+",MATH,"Special approval andgraduate standing. 
+",None,(Repeatable for credit)Seminar on current research in nonlinear analysis.
+MATH 62591 ,"SEMINAR IN OPERATOR THEORY
+",MATH,"Special approval andgraduate standing. 
+",None,(Repeatable for credit)Seminar on current research in operator theory.
+MATH 62691 ,"SEMINAR IN HARMONIC ANALYSIS
+",MATH,"Special approval andgraduate standing. 
+",None,(Repeatable for credit)Seminar on current research in harmonic analysis.
+MATH 63291 ,"SEMINAR IN APPLIED MATHEMATICS
+",MATH,"Special approval andgraduate standing. 
+",None,(Repeatable for credit)Seminar on current research in applied mathematics.
+MATH 64091 ,"SEMINAR IN MATHEMATICS EDUCATION
+",MATH,MATH 34001 and graduate standing.,None,"(Repeatable for credit)Studies in geometry, algebra, mathematics for junior and senior high school. Mathematics
+content professionalized for teachers."
+MATH 66051 ,"INTRODUCTION TO TOPOLOGY I
+",MATH,Special approval and graduate standing.,None,"Set theory, topological spaces, continuity, product spaces, quotient spaces,separation axioms, compactness and
+metrizability."
+MATH 66052 ,"INTRODUCTION TO TOPOLOGY II
+",MATH,MATH 6/76051 and graduate standing.,None,"Geometric topology, including connectedness, continua, homotopy, the plane and 2 manifolds."
+MATH 66091 ,"SEMINAR IN TOPOLOGY
+",MATH,"Special approval and graduatestanding. 
+",None,(Repeatable for credit)Seminar on current research in topology.
+MATH 67091 ,"SEMINAR IN NUMBER THEORY
+",MATH,Graduate standing and special approval.,None,(Repeatable for credit) (Slashed with MATH 77091) Seminar on current research in number theory.
+MATH 67098 ,"RESEARCH
+",MATH,Graduate standing.,None,"(Repeatable for credit)Research or individual investigation. Credits are applied toward degree requirements with
+approval if letter grade of ""S"" is given."
+MATH 67199 ,"THESIS I
+",MATH,Graduate standing.,None,"Thesis student must register for a total of 6 hours, 2 to 6 hours in a single semester distributed over several
+semesters if desired."
+MATH 67299 ,"THESIS II
+",MATH,MATH 67199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+MATH 70051 ,"PROBABILITY I
+",MATH,MATH 4/50011 or 4/52002; and doctoral standing.,None,"Distribution functions, measure theory, random variables, expectation, independence, convergence, concepts,
+law of large numbers."
+MATH 70052 ,"PROBABILITY II
+",MATH,MATH 6/70051 and doctoral standing.,None,"Characteristic functions, the central limit problem, conditional expectations, Martingale theory, Brownian motion."
+MATH 70061 ,"MATHEMATICAL STATISTICS I
+",MATH,MATH 4/52002.,None,"Statistics, distributions of statistics. Sampling distributions. Decision spaces and loss functions. Sufficiency and
+completeness. Estimation theory. Rao Bblackwell and the Cramer Rao theorems."
+MATH 70062 ,"MATHEMATICAL STATISTICS II
+",MATH,MATH 6/70061 and doctoral standing.,None,"Tests of statistical hypothesis. Neyman Pearson Lemma. Exponential families and invariance. Sequential tests.
+Non parametric procedures."
+MATH 70070 ,"FINANCIAL MATHEMATICS
+",MATH,MATH 50051 and doctoral standing.,None,"Topics from replication of trading strategies, arbitrage completeness, Martingale epresentation theorem,
+fundamental theorem of finance, stochastic differential equations, Black and Scholes formula of option pricing."
+MATH 70091 ,"SEMINAR IN STATISTICS & PROBABILITY
+",MATH,"Special approvaland doctoral standing. 
+",None,(Repeatable for credit)Seminar on current research in statistics and probability.
+MATH 70094 ,"COLLEGE TEACHING OF MATHEMATICS
+",MATH,Doctoral standing.,None,"(Repeatable for credit)Techniques and problems in the teaching of college-level mathematics. Student
+presentations of mathematical papers and colloquia will be included."
+MATH 70095 ,"SELECTED TOPICS IN STATISTICS AND PROBABILITY
+",MATH,Doctoral standing and special approval.,None,"(Repeatable for credit)Contents will vary with each offering and will complement topics covered in MATH
+6/70051, 6/70052 and MATH 6/70061, 6/70062."
+MATH 71001 ,"STRUCTURE OF RINGS AND ALGEBRAS I
+",MATH,Special approval and doctoral standing.,None,"Advanced topics in ring theory, including Artinian rings, Noetherian rings, advanced commutative ring theory."
+MATH 71002 ,"STRUCTURE OF RINGS AND ALGEBRAS II
+",MATH,MATH 71001 and doctoral standing.,None,"Advanced topics in ring theory including an introduction to homological algebra. Includes Dedekind domains,
+regular rings, torsion theory."
+MATH 71011 ,"ADVANCED GROUP THEORY
+",MATH,MATH 6/71051 and MATH 6/71052 and doctoral standing.,None,"Advanced topics in group theory. Topics include permutation arguments, coprime actions, transfer theorems,
+nonsimplicity criteria. Properties of families of groups: solvable, p solvable, nilpotent, p groups."
+MATH 71012 ,"CHARACTERS OF FINITE GROUPS
+",MATH,MATH 6/71051 and MATH 6/71052 and doctoral standing.,None,"Development of characters of finite groups, their properties, orthogonality relations, integrality conditions.
+Applications include Burnside's paqb theorem and existence of Frobenius kernels in Frobenius groups."
+MATH 71051 ,"ABSTRACT ALGEBRA I
+",MATH,Special approval and doctoral standing.,None,"Advanced topics in group theory including Sylow theorems, finite Abelian groups, divisible groups and related
+concepts. Includes one-hour problem session each week."
+MATH 71052 ,"ABSTRACT ALGEBRA II
+",MATH,MATH 6/71051 and doctoral standing.,None,"Advanced topics, commutative ring theory, and field theory including polynomial rings, unique factorization,
+domains, matrix rings, Galois theory."
+MATH 71091 ,"SEMINAR IN ALGEBRA
+",MATH,Permission and doctoral standing.,None,(Repeatable for credit)Seminar on current research in algebra.
+MATH 71095 ,"SELECTED TOPICS IN ALGEBRA
+",MATH,Permission and doctoral standing.,None,"(Repeatable for credit)Contents will vary with each offering and will complement topics covered in MATH
+6/71051,6 71052 71001 and 71002."
+MATH 72002 ,"FUNCTIONAL ANALYSIS II
+",MATH,MATH 72001 and doctoral standing.,None,A study of principles of linear analysis in the setting of normed linear spaces and topological vector spaces.
+MATH 72041 ,"METHODS OF APPLIED MATHEMATICS I
+",MATH,"MATH 51021 and MATH 52041and MATH 52045 and MATH 52048 and doctoral standing. 
+",None,"Analysis and applications of ordinary and partial differential equations and related topics. Dimensional analysis
+(Buckingham Pi Theorem). Perturbation methods (singular perturbations, matched asymptotic expansions, WKB
+approximation). Variational methods (Euler-Lagrange equations)."
+MATH 72042 ,"METHODS OF APPLIED MATHEMATICS II
+",MATH,"MATH 6/72041 and doctoralstanding. 
+",None,"Continuation of MATH 6/72041. Integral equations and Green's functions (Fredholm alternative, compact
+operators, distributions, weak solutions). Wave phenomena (dispersion, KdV equation). Stability and bifurcation
+(linearized stability analysis, turning points, Hopf bifurcation)."
+MATH 72051 ,"FUNCTIONS OF A REAL VARIABLE I
+",MATH,MATH 4/52002 and doctoral standing.,None,"Introduction to modern concepts of real analysis including metric spaces, measure and integration theory."
+MATH 72052 ,"FUNCTIONS OF A REAL VARIABLE II
+",MATH,MATH 6/72051 and doctoral standing.,None,A continuation of MATH 62051/72051. Included are basic topics in functional analysis and Hilbert space theory.
+MATH 72091 ,"SEMINAR IN REAL ANALYSIS
+",MATH,"Special approval and doctoralstanding. 
+",None,(Repeatable for credit)Seminar on current research in real analysis.
+MATH 72095 ,"SELECTED TOPICS IN REAL ANALYSIS
+",MATH,Special approval and doctoral standing.,None,"(Repeatable for credit)Contents will vary with each offering and will implement topics covered in MATH 6/72051,
+6/72052 and 6/72002."
+MATH 72151 ,"FUNCTIONS OF A COMPLEX VARIABLE I
+",MATH,"MATH52002; and doctoral standing. 
+",None,"(Slashed with MATH 62151) Topological properties of the complex plane; analytic, entire, meromorphic
+functions; analytic continuation; conformal mappings; Picard's Theorem; Riemann surfaces."
+MATH 72152 ,"FUNCTIONS OF A COMPLEX VARIABLE II
+",MATH,"MATH72151; and doctoral standing. 
+",None,"(Slashed with MATH 62152) Topological properties of the complex plane; analytic, entire, meromorphic
+functions; analytic continuation; conformal mappings; Picard's theorem; Riemann surfaces."
+MATH 72191 ,"SEMINAR IN COMPLEX ANALYSIS
+",MATH,"Special approval anddoctoral standing. 
+",None,(Repeatable for credit)Seminar on current research in complex analysis.
+MATH 72195 ,"SELECTED TOPICS IN COMPLEX ANALYSIS
+",MATH,Special approval and doctoral standing.,None,"(Repeatable for credit)Contents will vary with each offering and will complement topics covered in MATH
+6/72151, 6/72152 and 72021."
+MATH 72203 ,"COMPUTATIONAL FINANCE
+",MATH,"MATH 22005 and MATH 21001 and MATH 32044 and CS 10061 anddoctoral standing. 
+",None,"Basic numerical methods, (numerical linear algebra, nonlinear equations, curve fitting, ODEs, integration,
+Monte-Carlo methods) numerical solution of PDEs (stability, convergence, Black-Scholes, American options,
+SDEs) probabilistic methods."
+MATH 72251 ,"NUMERICAL ANALYSIS I
+",MATH,MATH 4/52002 and doctoral standing.,None,"(Cross-listed with CS 62251 and CS 72251 and MATH 62251) Floating point computation, rounding error
+analysis, conditioning, interpolation (polynomial, trigonometric spline). Numerical quadrature (Newton-Cotes,
+Gauss),extrapolation, Romberg integration."
+MATH 72252 ,"NUMERICAL ANALYSIS II
+",MATH,MATH 4/51021 and MATH 6/72251 and doctoral standing.,None,"(Cross-listed with CS 62252 and CS 72252 and MATH 62252) Numerical solution of linear systems of equations
+(LU factorization, error analysis). Least squares, orthogonalization methods. Algebraic eigenvalue problems, QR
+algorithm, singular value decomposition."
+MATH 72261 ,"NUMERICAL SOLUTION OF ORDINARY DIFFERENTIAL EQUATIONS
+",MATH,MATH 32044 and MATH 4/52202 and doctoral standing.,None,"(Cross-listed with CS 62261 and CS 72261 and MATH 62261) Discretization methods for ordinary differential
+equations and systems. Initial value and boundary value problems. Numerical implementation software and
+analysis."
+MATH 72262 ,"NUMERICAL SOLUTION OF PARTIAL DIFFERENTIAL EQUATIONS
+",MATH,MATH 42045 or 52045; and MATH 42202 or 52202; and doctoral standing.,None,"(Cross-listed with CS 62262 and CS 72262 and MATH 62262) Derivation and analysis of discrete methods (finite
+differences, finite elements) for the numerical solution of elliptic, hyperbolic and parabolic partial differential
+equations."
+MATH 72263 ,"NUMERICAL SOLUTION OF LARGE SPARSE LINEAR SYSTEMS
+",MATH,MATH 4/51021 and MATH 4/52202 and doctoral standing.,None,"(Cross-listed with CS 62263 and CS 72263 and MATH 62263) Construction and analysis of iterative methods for
+large systems of linear algebraic equations. Jacobi, Gauss-Seidel, SOR. Polynomial acceleration methods,
+conjugate gradients. Multi-grid methods."
+MATH 72264 ,"NUMERICAL SOLUTION OF NONLINEAR SYSTEMS
+",MATH,MATH 4/52041 and MATH 4/52202 and doctoral standing.,None,"(Cross-listed with CS 62264 and CS 72264 and MATH 72264) Construction and analysis of numerical methods
+for systems of nonlinear algebraic equations and optimization problems. Numerical implementation and
+software."
+MATH 72291 ,"SEMINAR IN NUMERICAL ANALYSIS
+",MATH,"Special approval anddoctoral standing. 
+",None,(Repeatable for credit)Seminar on current research in numerical analysis.
+MATH 72295 ,"SELECTED TOPICS IN NUMERICAL ANALYSIS
+",MATH,Special approval and doctoral standing.,None,"(Repeatable for credit)Contents will vary with each offering and will complement topics covered in MATH
+6/72251-6/72252 and MATH 72201."
+MATH 72391 ,"SEMINAR IN MEASURE THEORY
+",MATH,"Special approval anddoctoral standing. 
+",None,(Repeatable for credit)Seminar on current research in measure theory.
+MATH 72491 ,"SEMINAR IN NONLINEAR ANALYSIS
+",MATH,"Special approval anddoctoral standing. 
+",None,(Repeatable for credit)Seminar on current research in nonlinear analysis.
+MATH 72591 ,"SEMINAR IN OPERATOR THEORY
+",MATH,"Special approval anddoctoral standing. 
+",None,(Repeatable for credit)Seminar on current research in operator theory.
+MATH 72691 ,"SEMINAR IN HARMONIC ANALYSIS
+",MATH,"Special approval anddoctoral standing. 
+",None,(Repeatable for credit)Seminar on current research in harmonic analysis.
+MATH 73291 ,"SEMINAR IN APPLIED MATHEMATICS
+",MATH,"Special approval anddoctoral standing. 
+",None,(Repeatable for credit)Seminar on current research in applied mathematics.
+MATH 76051 ,"INTRODUCTION TO TOPOLOGY I
+",MATH,Special approval and doctoral standing.,None,"Set theory, topological spaces, continuity, product spaces, quotient spaces separation axioms, compactness and
+metrizability."
+MATH 76052 ,"INTRODUCTION TO TOPOLOGY II
+",MATH,MATH 6/76051 and doctoral standing.,None,"Geometric topology, including connectedness, continua, homotopy, the plane and 2 manifolds."
+MATH 76091 ,"SEMINAR IN TOPOLOGY
+",MATH,Permission and doctoral standing.,None,(Repeatable for credit)Seminar on current research in topology.
+MATH 76095 ,"SELECTED TOPICS IN TOPOLOGY
+",MATH,Permission and doctoral standing.,None,"(Repeatable for credit)Contents will vary with each offering and will complement topics covered in MATH
+6/76051,6 76052 76001 and 76002."
+MATH 77011 ,"ALGEBRAIC NUMBER THEORY
+",MATH,MATH 57011 and MATH 6/71052 and doctoral standing.,None,"Number fields and Dedekind domains; conjugates, norm and trace, discriminant,integral bases; arithmetic or
+quadraic and cyclotomic number fields; theory of ideals and class group; Dirichlet's thoerem on units."
+MATH 77012 ,"ANALYTIC NUMBER THEORY
+",MATH,MATH 57011 and MATH 6/72151.,None,"Multiplicative functions and summatory functions, Riemann's Zeta function and the prime number theorem, L-
+functions and Dirichlet's theorem on primes in artithmetic progressions, asymptotic formula for partitions."
+MATH 77091 ,"SEMINAR IN NUMBER THEORY
+",MATH,Doctoral standing and special approval.,None,(Repeatable for credit) (Slashed with MATH 67091) Seminar on current research in number theory.
+MATH 77095 ,"SELECTED TOPICS IN MATHEMATICS
+",MATH,Permission.,None,(Repeatable for credit)Contents will vary with each offering.
+MATH 77098 ,"RESEARCH
+",MATH,Doctoral standing.,None,"(Repeatable for credit)Research or individual investigation. Credits are applied toward degree requirements with
+approval if letter grade of ""S"" is given."
+MATH 77195 ,"SELECTED TOPICS IN NUMBER THEORY
+",MATH,Doctoral standing and special approval.,None,"(Repeatable for credit)Content varies with each offering and complements topics covered in MATH 77011 and
+MATH 77012."
+MATH 87098 ,"RESEARCH
+",MATH,Doctoral standing.,None,"(Repeatable for credit)Research or individual investigation for doctoral students who have not yet passed their
+candidacy examinations. Credits earned may be applied toward degree if department approves."
+MATH 87199 ,"DISSERTATION I
+",MATH,Admission to doctoral candidacy and doctoral standing.,None,"(Repeatable for credit)Doctoral dissertation, for which registration in at least two semesters is required first of
+which will be semester in which dissertation work is begun and continuing until the completion of 30 hours."
+MATH 87299 ,"DISSERTATION II
+",MATH,"MATH 87199 anddoctoral standing. 
+",None,"(Repeatable for credit)Continuing registration required of doctoral students who have completed the initial 30
+hours of dissertation and continuing until all degree requirements are met."

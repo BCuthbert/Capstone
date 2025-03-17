@@ -1,0 +1,32 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+CDAG 34000 ,"COMPUTER ANIMATION II
+",CDAG,CADT 22004.,None,"Continuation of the study and technology applications of computer animation with emphasis on camera usage
+and the production of a comprehensive animation project involving the animation thought process (ATP)."
+CDAG 34001 ,"COMPUTER ANIMATION III
+",CDAG,CDAG 34000.,None,"Continued study of practical technology applications of computer animation with emphasis on scripting code
+writing, systems line variables and fluent realism factors within the ATP."
+CDAG 34003 ,"ANIMATION THEORY
+",CDAG,None.,None,"A comprehensive course on the history and current status and future of animation featuring the masters of
+animation, their landmark achievements and the processes they unveiled. Claymation, Stop Motion, Anime,
+Commercial and Forensic animations will be covered."
+CDAG 34004 ,"TECHNOLOGY OF LIGHT, COLOR, DESIGN AND LAYOUT
+",CDAG,CADT 22004.,None,"A course dealing with the study of the technical principles and applications of light,color, design and layout to
+the production of computer animation for engineering materials and products."
+CDAG 43000 ,"ADVANCED ANIMATION AND GAME DESIGN
+",CDAG,CDAG 43003.,None,"Covers the process of game conceptualization and development. Learning how to model low-polygon
+characters and environments for the real-time 3D games. Customizing game properties, characters,
+animations, and terrains for purposes of visualization and game development."
+CDAG 43001 ,"TECHNOLOGY OF MEDIA AND FILM PRODUCTION
+",CDAG,"CDAG 34001 and CDAG34004. 
+",None,"A course dealing with the technical and business aspects of pre- and post production planning for multimedia
+video or film projects. Covers a systematic approach to content organization and development, scripting,
+visualization proposal development contracts, budgets and legal issues."
+CDAG 43002 ,"GRAPHICS DESIGN TECHNOLOGY
+",CDAG,CADT 22004.,None,"A course of study in the technology of creating knowledge and effects using computer-graphics concepts to
+create photo-realistic composite images and to restore and enhance a wide array of images."
+CDAG 43003 ,"VIRTUAL REALITY AND GAME DESIGN
+",CDAG,CDAG 34000.,None,"Covers the creation of interactive online multimedia presentations/portfolios and serves as an introduction to
+advanced 3D gaming environments for off-line distribution and presentation."
+CDAG 43004 ,"UNIX SCRIPTING WITH APPLICATIONS
+",CDAG,"COMT 21095and CDAG 43001. 
+",None,A course in the use of UNIX scripting for animation and multimedia development.

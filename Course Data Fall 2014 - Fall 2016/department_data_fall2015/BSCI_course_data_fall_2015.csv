@@ -1,0 +1,784 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+BSCI 10001 ,"HUMAN BIOLOGY
+",BSCI,None.,None,"Study of the scientific method and life's properties, emphasizing human biology. Topics include energy,
+ genetics, reproduction, development disease, nutrition and physical fitness in humans."
+BSCI 10002 ,"LIFE ON PLANET EARTH
+",BSCI,none.,None,"Explores the fascinating breadth of life on Earth including the unique ecology and survival strategies of animals,
+ plants and microbes in their
+natural habitats."
+BSCI 10003 ,"LABORATORY EXPERIENCE IN BIOLOGY
+",BSCI,None,None,"Introductory college-level laboratory in biology for non-majors. Two hours of laboratory per week.
+Pre/corequisite: BSCI 10001 or 10002."
+BSCI 10100 ,"ANATOMY FOR VETERINARY TECHNICIANS
+",BSCI,None.,None,"Compare/identify anatomy and basic physiological functions of domestic animals: skeletal, muscles,
+ integumentary, special sense organs, respiratory, digestive, urinary, reproductive, mammary glands, endocrine,
+ nerves, circulatory, immune. Lecture 4 hours, laboratory 3 hours weekly."
+BSCI 10110 ,"BIOLOGICAL DIVERSITY
+",BSCI,None.,None,"Considered first course in biology majors' sequence. Examines the biodiversity of life from its origins to present-
+day prokaryotes and eukaryotes; their behavior, ecology and reproduction. Three hours lecture and two hours
+ lab weekly. Field trips."
+BSCI 10120 ,"BIOLOGICAL FOUNDATIONS
+",BSCI,None.,None,"Considered second course in biology majors sequence. Examines organization of life from subcellular
+ biochemistry and molecular biology
+to genetics, bioenergetics and system homeostasis. Three-hour lecture and
+ three-hour lab weekly. Field trips."
+BSCI 10195 ,"SPECIAL TOPICS IN BIOLOGY
+",BSCI,special approval.,None,(Repeatable for credit)Selected subjects and/or themes in biology.
+BSCI 11001 ,"ANATOMY FOR PHYSICAL AND OCCUPATIONAL THERAPY
+",BSCI,None.,None,"This course covers the organization of the human body with emphasis on the structure and function of the
+ neuro-musculo-skeletal systems."
+BSCI 11010 ,"FOUNDATIONAL ANATOMY AND PHYSIOLOGY I
+",BSCI,Special approval.,None,"Anatomy and physiology to include organization of the human body, cells,
+tissues, organs and systems,
+ integumentary, skeletal, muscular and respiratory systems and overviews of the nervous and circulatory
+ system.
+This course is taught on Kent State University's regional campuses for Associate degree programs."
+BSCI 11020 ,"FOUNDATIONAL ANATOMY AND PHYSIOLOGY II
+",BSCI,BSCI 11010; and special approval.,None,"Anatomy and physiology of the circulatory, digestive, urinary, nervous, endocrine and reproductive systems.
+ This course is taught on Kent State University's regional campuses for Associate degree programs."
+BSCI 16001 ,"HORTICULTURAL BOTANY
+",BSCI,None.,None,"To provide students with an understanding of the basic anatomy and physiology and growth characteristics of
+ plants. Lecture two hours weekly, lab three hours weekly. Offered only at the Geauga and Salem campuses."
+BSCI 20020 ,"BIOLOGICAL STRUCTURE AND FUNCTION
+",BSCI,None.,None,"Basic design of human systems emphasizing the physiochemical and cellular bases of organ-system structure,
+ function and development. Lecture four hours, laboratory three hours weekly."
+BSCI 20021 ,"BASIC MICROBIOLOGY
+",BSCI,"BSCI 20020; or BSCI 10100 and 10110; or BSCI 11010 and 11020; or ATTR 25057 and 25058; or EXSC 25057and 25058; and CHEM 10050 or 10052 or 10054 or 10060.
+",None,Principles of microorganisms having a direct relationship on the health and well-being of humans.
+BSCI 20022 ,"BASIC MICROBIOLOGY LABORATORY
+",BSCI,None,BSCI 20021.,"Laboratory experience in microbiology. Three hours of laboratory per week. Cannot be used to satisfy degree
+ requirements for biology majors."
+BSCI 20195 ,"SPECIAL TOPICS IN BIOLOGY
+",BSCI,special approval.,None,(Repeatable for credit)Selected subjects and/or themes in Biology.
+BSCI 20196 ,"INTRODUCTION TO INDIVIDUAL INVESTIGATION
+",BSCI,"8 hours of BSCI courses with a minimum grade of C (2.000) in those courses.Departmental and faculty mentor approvals required.
+",None,"(Repeatable for credit)Introduction to research in the biological sciences under the direction of a BSCI faculty
+ mentor."
+BSCI 21010 ,"ANATOMY AND PHYSIOLOGY I
+",BSCI,None.,None,"Anatomy, physiological chemistry, cytology, tissues, and homeostatic mechanisms of the integumentary,
+ skeletal, nervous, muscular, and sensory systems."
+BSCI 21020 ,"ANATOMY AND PHYSIOLOGY II
+",BSCI,BSCI 21010.,None,"Anatomy and physiological processes as related to the following organ systems: endocrine, circulatory,
+ respiratory, digestive, urinary and reproductive."
+BSCI 26002 ,"ECOLOGICAL PRINCIPLES OF PEST MANAGEMENT
+",BSCI,BSCI 16001.,None,"Basic principles of integrated pest management, pesticide application, pest identification and environmental
+ effects. Lecture three hours weekly; offered only at the Salem Campus."
+BSCI 26003 ,"PLANT IDENTIFICATION AND SELECTION I
+",BSCI,"HORT16001 and BSCI 16001.
+",None,"Identification and selection of horticulturally important plant species.
+Emphasis on woody species, shrubs and
+ trees. Lecture two hours weekly, lab three hours weekly. Offered only at the Salem Campus."
+BSCI 26004 ,"PLANT IDENTIFICATION AND SELECTION II
+",BSCI,BSCI 16001 and HORT 16001.,None,"Identification and selection of horticulturally important plant species.
+Emphasis on herbaceous species, ground
+ covers and vines. Lecture two hours weekly, lab three hours weekly. Offered only at the Salem Campus."
+BSCI 30005 ,"CAREER PATHWAYS IN BIOLOGY
+",BSCI,"BSCI 10110 and10120.
+",None,Orients students toward various career pathways in the biological sciences.
+BSCI 30030 ,"HUMAN PHYSIOLOGY
+",BSCI,BSCI 20020; or 10110 and 10120; and 9 hours chemistry.,None,"Integrating mechanisms, pharmacological and pathological considerations for selected organ systems."
+BSCI 30050 ,"HUMAN GENETICS
+",BSCI,8 hours of biology 5 hours of chemistry.,None,"Modern concepts of genetics applicable to the human including examination of genetically related diseases and
+ their societal implications. Lecture three hours weekly."
+BSCI 30140 ,"CELL BIOLOGY
+",BSCI,"BSCI 10120 and CHEM10060 and 10062.
+",None,"Investigation of the cell as the fundamental unit of life with an emphasis on the relationship between cellular
+ structure and function. Three-hour lecture and three-hour lab weekly."
+BSCI 30156 ,"ELEMENTS OF GENETICS
+",BSCI,"BSCI 10110 and 10120; and MATH11009
+or MATH 11010 or MATH 12001 or MATH 12002 or MATH 12012.
+",None,"Principles of organic mechanisms for expression and transmission of traits as studied in molecules,cells,
+ organisms and populations. Lecture
+three hours weekly."
+BSCI 30171 ,"GENERAL MICROBIOLOGY
+",BSCI,"BSCI 10110 and BSCI 30140; CHEM 10060, 10061, 10062 and 10063.",None,"Fundamental principles of microbiology and of organisms including their structure, physiology, genetics,
+ pathogenicity, classification, mechanisms of cultivation and control. Lecture three hours, lab three hours
+ weekly."
+BSCI 30270 ,"GENERAL PLANT BIOLOGY
+",BSCI,BSCI 10110 and BSCI 10120.,None,"Covers all topics in modern plant biology, including molecular and cellular biology, physiology, anatomy,
+ development, ecology, evolution and diversity."
+BSCI 30271 ,"GENERAL PLANT BIOLOGY LABORATORY
+",BSCI,BSCI 10110 and BSCI 10120.,BSCI 30270,Laboratory and greenhouse exercises in general plant biology.
+BSCI 30274 ,"FORESTRY
+",BSCI,BSCI 10110 and 10120.,None,"Management of the forest resource within appropriate environmental constraints for sustained use relative to
+ watershed protection, lumber production, recreation and wildlife."
+BSCI 30275 ,"LOCAL FLORA
+",BSCI,BSCI 10110 and 10120.,None,"Identification and field study of local plants: native, naturalized and cultivated. Two-hour lecture and six-hour
+ lab weekly."
+BSCI 30277 ,"ECONOMIC BOTANY
+",BSCI,BSCI 10110 and 10120.,None,Biology of plants important to man and their relation to climate and geography. Lecture two hours weekly.
+BSCI 30360 ,"GENERAL ECOLOGY
+",BSCI,BSCI 10110 and 10120.,None,"Principles of ecology based on field studies of local plant and animal communities. Lecture three hours, lab
+ three hours weekly."
+BSCI 30361 ,"BIOGEOGRAPHY
+",BSCI,BSCI 10110 and 10120.,None,"Geographical distribution of biotic communities with special reference to North America and to their
+ environmental control. Lecture three hours
+weekly."
+BSCI 30362 ,"INTRODUCTION TO BIOLOGY OF THE TROPICS
+",BSCI,"BSCI majors and junior or seniorstanding.
+",None,Biology and conservation of tropical ecosystems and organisms.
+BSCI 30518 ,"VERTEBRATE ANATOMY
+",BSCI,BSCI 10110 or 10120.,None,"Concepts and methods of functional morphology. Comparative study of vertebrate organs and systems:
+ skeletal, muscular, digestive, respiratory, circulatory, urogenital, nervous and endocrine. Lecture three hours,
+ lab three hours weekly."
+BSCI 30519 ,"VERTEBRATE EMBRYOLOGY AND DEVELOPMENTAL ANATOMY
+",BSCI,"BSCI 20001 or30518 and 30140.
+",None,"Gametogenesis, fertilization, embryogenesis, organogenesis, normal/abnormal embryological development;
+ emphasizing mammal; amphibian, bird illustrating general principles and concepts. Laboratory
+studies of frog,
+ chick, pig developmental anatomy. Three one hour lectures and one three hour lab."
+BSCI 30520 ,"INTRODUCTION TO NEUROSCIENCE
+",BSCI,BSCI 30140.,None,"Basic principles in neuroscience from the cellular to systems level. Covers how the nervous system is organized,
+ how it detects sensory stimuli to create a mental representation of their environment and output pathways by
+ which the nervous system can control movement, hormone levels and physiological processes."
+BSCI 30560 ,"INVERTEBRATE ZOOLOGY
+",BSCI,BSCI 10110 and 10120.,None,"Survey of the animal kingdom emphasizing evolutionary developments. Three-hour lecture and three-hour lab
+ weekly."
+BSCI 30580 ,"ENTOMOLOGY
+",BSCI,"BSCI 10110, 10120 and 10 hours of biology (BSCI) courses.",None,"Classification, biology and ecology of the principal groups of insects. Lecture three hours, lab three hours
+ weekly."
+BSCI 30582 ,"ORNITHOLOGY
+",BSCI,"BSCI10110 and 10120.
+",None,"Field study of natural history of local birds. Lecture three hours, lab three hours weekly."
+BSCI 40020 ,"BIOLOGY OF AGING
+",BSCI,"BSCI 20020; or BSCI 21010 and BSCI 21020; or BSCI 11010 and BSCI 11020; or ATTR25057 and ATTR 25058; or EXSC 25057 and EXSC 25058. 
+",None,"(Slashed with BSCI 50020) Current theories of aging; changes at the cellular level associated with aging in
+ humans; course covers the normal
+aging process, dysfunction, and diseases of the elderly categorized by body
+ systems."
+BSCI 40099 ,"SENIOR HONORS THESIS
+",BSCI,Departmental faculty mentor and honors college approval.,None,"(Repeatable for credit) Honors thesis research project completed during the senior year with BSCI faculty
+ mentor and research committee. Maximum
+of 4 credit hours to count toward BSCI degrees as upper division
+elective hours."
+BSCI 40104 ,"INTRODUCTION TO BEEKEEPING
+",BSCI,BSCI 10110 and 10120; and junior or senior standing.,None,"(Cross-listed with BSCI 50104) Covers basic beekeeping practices and provides students with an in-depth
+ understanding of the honey bee colony
+through participation in hands-on activities, observation and
+experimentation."
+BSCI 40142 ,"BIOENERGETICS
+",BSCI,BSCI 30140 and CHEM 20481 or 30481.,None,"(Cross-listed with BSCI 50142 and BSCI 70142) Lecture and discussion of respiration and photosynthesis, their
+ origin, development and control in
+living systems. Concepts are introduced from fundamental principles. Lecture
+ three hours weekly."
+BSCI 40143 ,"EUKARYOTIC CELL BIOLOGY
+",BSCI,BSCI 30140 and CHEM 20481 or 30481.,None,"Current survey of the structure and function of eukaryotic cells, including recent advances in research
+ technology. Lecture three hours weekly."
+BSCI 40146 ,"DEVELOPMENTAL BIOLOGY
+",BSCI,"senior standing, B or better in BSCI 30156 and BSCI30140.
+",None,"(Cross-listed with BSCI 50146 and BSCI 70146) Fundamental concepts and paradigms of development as
+ exemplified by major model organisms. Examines our modern understanding of the molecular, cellular and
+ genetic
+basis of developmental biology."
+BSCI 40150 ,"MOLECULAR MECHANISMS OF DISEASE: CANCER
+",BSCI,"junior or senior standing, BSCI30156 and BSCI 30140.
+",None,"(Cross-listed with BSCI 50150 and BSCI 70150) Explores the current understanding of molecular and cellular
+ mechanisms of disease processes,
+including new technologies and modern strategies in the forefront of future
+ biomedical research. Emphasis on a review of primary literature."
+BSCI 40151 ,"MECHANISMS OF DISEASE: OBESITY AND RELATED METABOLIC DISEASES
+",BSCI,"BSCI10120; and BSCI 30030 or 40430.
+",None,"(Cross-listed with BSCI 50151 + BSCI 70171) Addresses obesity from multiple angles, including health and
+disease process, underlying physiology and cell and molecular biology, and the role of behavior. Emphasis on a
+ review of primary literature to discuss obesity causes, consequences, and treatments."
+BSCI 40158 ,"MOLECULAR BIOLOGY
+",BSCI,"BSCI 30140and 30156.
+",None,"Molecular genetics, DNS and RNA structure, chromosomes, DNA replication,
+recombination, genetic
+ transcription and translation, gene expression, current concepts and technologies."
+BSCI 40159 ,"MOLECULAR BIOLOGY LAB
+",BSCI,BSCI 30140 and 30156.,None,Experience in research methods for studying cellular and molecular processes in plant and animal systems.
+BSCI 40160 ,"MARINE BIOLOGY
+",BSCI,BSCI 10110 and BSCI 10120.,None,"(Cross-listed with BSCI 50160 and BSCI 70160) Natural history and ecology of marine organisms, with
+ emphasis on life in coastal habitats. Lecture three hours."
+BSCI 40162 ,"SOIL BIOLOGY
+",BSCI,"junior or seniorstanding, BSCI 10110 and BSCI 10120.
+",None,"(Cross-listed with BSCI 50162 and BSCI 70162) The ecology and physiology
+of organisms that live in soil,
+ including microbes, plants and animals.
+The physical and chemical aspects of soil are introduced to understand
+how organisms in soils impact nutrient cycles and ecosystem development."
+BSCI 40163 ,"EVOLUTION
+",BSCI,"BSCI30156 and
+ 4 hours of biology (BSCI) courses.
+",None,"(Cross-listed with BSCI 50163 and BSCI 70163) History of evolutionary theory, the evidences of evolution, the
+ evolutionary forces and the products of these forces. Lecture three hours weekly."
+BSCI 40170 ,"STREAM BIOLOGY
+",BSCI,BSCI 10110 and 10120.,None,"(Cross-listed with BSCI 50170 and BSCI 70170) Identification, biology and ecology of stream-inhabiting
+ organisms. Lecture two hours, lab three
+hours weekly."
+BSCI 40174 ,"IMMUNOLOGY
+",BSCI,"BSCI 30171 and CHEM 10060, 10061, 10062 and 10063.",None,"(Cross-listed with BSCI 50174 and BSCI 70174) Survey of the mammalian host responses to self and non-self
+ with emphasis on the cellular and molecular mechanisms by which innate and acquired immunity result.
+Experimental design and data analyses are related to current methodologies used to study immunology.
+ Lectures 3 hours weekly."
+BSCI 40191 ,"SENIOR SEMINAR
+",BSCI,biology (BSCI) major and senior standing.,None,"(Repeatable for credit)A capstone seminar course to examine biological topics and scientific contributions across
+ subdisciplines. Discussion of
+current problems in the biological sciences related to societal needs and concerns."
+BSCI 40192 ,"INTERNSHIP IN BIOLOGICAL SCIENCES
+",BSCI,"18 hours of biology and 2.750minimum GPA in biology (BSCI) coursework and special approval.
+",None,"(Repeatable for credit) Work experience and training in the biological sciences under the supervision of
+ appropriate personnel in a government agency, nonprofit organization or business. Maximum of 4 credit hours
+ to
+count toward BSCI degrees as upper division elective hours."
+BSCI 40193 ,"VARIABLE TITLE WORKSHOP IN BIOLOGICAL SCIENCES
+",BSCI,Permission.,None,(Repeatable for credit)Topics to be offered will meet specific needs in the biological sciences. S u graded.
+BSCI 40195 ,"SPECIAL TOPICS IN BIOLOGY
+",BSCI,18 hours of biology (BSCI) coursework and special approval of instructor.,None,(Repeatable for credit) (Cross-listed with BSCI 50195 and BSCI 70195) Special topics in biology.
+BSCI 40196 ,"INDIVIDUAL INVESTIGATION
+",BSCI,"Aminimum BSCI grade average of 2.750 and at least 18 credit hours of BSCI coursework. Departmental and
+ faculty mentor approvals required.
+",None,"(Repeatable for credit) Research study under the direction of a BSCI faculty mentor. May be repeated; however,
+ a maximum of 6 credit hours count toward BSCI degrees as upper-division elective hours."
+BSCI 40220 ,"BIOINFORMATICS
+",BSCI,BSCI 30140 and 30156 and 40158.,None,"Analysis of biological databases, including nucleic acid and protein sequence searching, multiple sequence
+ alignment, protein classification,
+phylogenetic analysis, comparative genomics, proteomics, protein structure
+ analysis."
+BSCI 40272 ,"PLANT ANATOMY
+",BSCI,BSCI 10110 and 10120.,None,"(Cross-listed with BSCI 50272 and BSCI 70272) Development and structure of cells, tissues and tissue systems
+ of seed plants. Both vegetative and
+reproductive structures of angiosperms will be emphasized. Lecture two
+hours, lab six hours weekly."
+BSCI 40275 ,"SYSTEMATIC BOTANY
+",BSCI,BSCI 10110 and 10120.,None,"(Cross-listed with BSCI 50275 and BSCI 70275) Biosystematics, angiosperm, phylogeny, survey of some major
+ families of dicotyledons. Lecture three hours, lab three hours weekly."
+BSCI 40341 ,"STEM CELL BIOLOGY: PRINCIPLES AND APPLICATIONS
+",BSCI,BSCI 30140.,None,"(Slashed with BSCI 50341 and BSCI 70341) Examination of stem cells from various tissues, molecular
+ mechanism of stem cell differentiation, and use of stem cells in clinical applications."
+BSCI 40360 ,"ICHTHYOLOGY
+",BSCI,"junior standing, grade of C (2.000) or better in both BSCI 10110 and BSCI 10120.",None,"Basic biology, natural history, behavior and ecology of the fishes. Three hour lecture and three hour lab weekly."
+BSCI 40363 ,"MICROBIAL ECOLOGY
+",BSCI,None,None,"(Cross-listed with BSCI 50363 and BSCI 70363) Microbial interactions with their biotic and abiotic environment;
+ control of distribution and physiological activities; biochemical cycles; current techniques; emphasis on bacteria
+ in aquatic systems."
+BSCI 40364 ,"LIMNOLOGY
+",BSCI,BSCI 30360.,None,"(Cross-listed with BSCI 50364 and BSCI 70364) The study of the principles of aquatic ecology with emphasis on
+ lakes and reservoirs."
+BSCI 40367 ,"LIMNOLOGICAL TECHNIQUES
+",BSCI,"BSCI40364.
+",None,"(Cross-listed with BSCI 50367 and BSCI 70367) Analysis and significance of ecologically important variables
+ and constituents of lakes and reservoirs. There is an additional field trip fee for this course."
+BSCI 40368 ,"WETLAND ECOLOGY AND MANAGEMENT
+",BSCI,"BSCI 10110 and10120 and 10 hours of biology
+(BSCI) coursework.
+",None,"(Cross-listed with BSCI 50368 and BSCI 70368) Lecture, laboratory and field study of the principles of wetland
+ ecology including adaptations of the biota to environmental conditions, comparison among different wetland
+ habitat types and habitat management. Lecture 3 hours, lab 3 hours weekly."
+BSCI 40374 ,"CONSERVATION BIOLOGY
+",BSCI,BSCI 30360.,None,"(Cross-listed with BSCI 50374 and BSCI 70374) Provides a critical analysis of the factors that threaten
+ biological diversity in the biosphere and the consequences on biological processes and quality of life."
+BSCI 40375 ,"ENVIRONMENTAL BIOLOGY AND MANAGEMENT
+",BSCI,"BSCI 10110 and BSCI 10120 andBSCI 30360. 
+",None,"(Cross-listed with BSCI 50375 and BSCI 70375) Introduction to current concepts in applied ecology and
+ ecosystem management. Students will learn aspects of ecosystem management and restoration including: 1)
+ how environmental factors affect organism survival and ecosystem structure, 2) how human impacts such as
+ pollution, habitat fragmentation, introduction of invasive species affect ecosystems, and 3) the use of ecological
+ principles and methods to restore and manage ecosystems."
+BSCI 40376 ,"TROPICAL FIELD BIOLOGY AND CONSERVATION
+",BSCI,"junior or senior standing, BSCI 10110 and BSCI 10120.",None,"(Cross-listed with BSCI 50376 and BSCI 70376) Introduction to major issues in tropical ecology and
+ conservation including the threats to the
+biological diversity of tropical ecosystems resulting from human
+activities. Students learn how to apply modern field-observation techniques to generate and test problem-
+solving hypotheses."
+BSCI 40430 ,"ANIMAL PHYSIOLOGY
+",BSCI,"BSCI 30140; CHEM 10060, 10061, 10062 and 10063.",None,Physiologic principles and concepts.
+BSCI 40432 ,"ENDOCRINOLOGY
+",BSCI,BSCI 40430.,None,"(Cross-listed with BSCI 50432 and BSCI 70432) Principles of endocrine regulation of physiological and
+ metabolic processes. Morphological and functional interrelationships between systems. Lecture three hours."
+BSCI 40433 ,"MAMMALIAN PHYSIOLOGY I
+",BSCI,"BSCI 30140 and CHEM 10060and CHEM 10061 and CHEM 10062 and CHEM 10063; and CHEM 20481 or 30481.
+",None,"Physiology of the endocrine, nervous, and reproductive systems."
+BSCI 40434 ,"MAMMALIAN PHYSIOLOGY II
+",BSCI,"BSCI30140 and CHEM 10060 and CHEM 10061 and CHEM 10062 and CHEM 10063; and CHEM 20481 or 30481.
+",None,"Physiology of cardiovascular, renal, respiratory and digestive systems. Lecture three hours."
+BSCI 40450 ,"BIOLOGICAL CLOCKS
+",BSCI,"BSCI 30156; and BSCI 30520 or 40430 or 40433 or PSYC41363.
+",None,"(Cross-listed with BSCI 50450 and BSCI 70450) Topics covered include the
+characteristics of biological clocks,
+ their ecology, molecular biology,
+and neurobiology, the function and organization of sleep, and the medical
+ implications of biological rhythmicity."
+BSCI 40515 ,"ANIMAL BEHAVIOR
+",BSCI,"BSCI 10110 and10120 and junior standing.
+",None,"Explores the evolution of various animal behaviors, the functions they might serve, and the interplay among the
+ social, ecological and physiological mechanisms that regulate their occurrence."
+BSCI 40517 ,"MEDICAL HISTOLOGY
+",BSCI,"BSCI 10110 and10120 and 30140.
+",None,"(Cross-listed with BSCI 50517 and BSCI 70517) Study of the microscopic and submicroscopic structure of the
+ human body in relation to function. Lecture two hours, lab three hours weekly."
+BSCI 40519 ,"HORMONES AND BEHAVIOR
+",BSCI,BSCI 10110 and 10120; and junior standing.,None,"(Cross-listed with BSCI 50519 and BSCI 70519) Current concepts of hormone and behavior interactions across
+ species."
+BSCI 40520 ,"BEHAVIORAL EVOLUTION
+",BSCI,BSCI 40163.,None,"(Cross-listed with BSCI 50520 and BSCI 70520) Examination of how behavior contributes to survival and
+ reproduction in an ecological context. We consider how behavior may have evolved in a wide range of animals."
+BSCI 40525 ,"WILDLIFE RESOURCES
+",BSCI,"BSCI 10110 and 10120 plus 4 hours of biology (BSCI)coursework.
+",None,"(Cross-listed with BSCI 50525 and BSCI 70525) Ecological parameters are discussed relative to the
+ preservation and management of wild animal populations. Aesthetic, economic and environmental values are
+ discussed.
+Lecture three hours weekly."
+BSCI 40556 ,"VERTEBRATE ZOOLOGY
+",BSCI,"BSCI 10110 and10120 plus 4 hours of biology (BSCI) coursework.
+",None,"(Cross-listed with BSCI 50556 and BSCI 70556) Field approach to identification and natural history of all Ohio
+ vertebrates except birds.
+Lecture three hours, lab and field three hours weekly."
+BSCI 40581 ,"ANIMAL PARASITOLOGY
+",BSCI,"BSCI 10110, 10120 plus 4 hours of biology (BSCI) coursework.",None,"Morphology, physiology, life-histories, systematics and economic importance of parasites. Lecture two hours
+ lab, six hours weekly."
+BSCI 40600 ,"WRITING IN THE BIOLOGICAL SCIENCES
+",BSCI,biology (BSCI) major and junior standing.,None,"Writing-intensive course taken with a 3- or 4-credit-hour upper-division
+biology course. This course may be
+ used to satisfy the writing-intensive course requirement with approval of major department."
+BSCI 41010 ,"BIOPHOTONICS
+",BSCI,speical approval.,None,"(Cross-listed with BSCI 51010 and CHEM 41010 and CHEM 51010 and PHY 41010 and PHY 51010)
+ Interdisciplinary overview of the basics of biophotonics; application of biophotonic techniques to probe biological
+ samples. Introduction to the foundations of optics and photonics and how
+the molecular structure of organic
+ molecules translates into unique photonic properties and targeting in biological cells or tissue. Preparation of
+ fluorescent materials, advanced spectroscopy and cell visualization using regular and confocal fluorescence
+ microcopy."
+BSCI 50020 ,"BIOLOGY OF AGING
+",BSCI,graduate standing.,None,"(Cross-listed with BSCI 40020) Current theories of aging; changes at the cellular level associated with aging in
+ humans; course covers the normal aging process, dysfunction, and diseases of the elderly by body systems."
+BSCI 50104 ,"INTRODUCTION TO BEEKEEPING
+",BSCI,graduate standing.,None,"Covers basic beekeeping practices and provides students with an in-depth
+understanding of the honey bee
+ colony through participation in hands-on
+activities, observation and experimentation. This course may not be
+used to fulfill degree requirements in the MS or MA Biology programs."
+BSCI 50142 ,"BIOENERGETICS
+",BSCI,BSCI 40430. Graduate standing.,None,"(Cross-listed with BSCI 40142 and BSCI 70142) Lecture and discussion of respiration and photosynthesis,their
+ origin development and control in living systems. Concepts are introduced from fundamental principles. Lecture
+ three hours weekly."
+BSCI 50143 ,"EUKARYOTIC CELL BIOLOGY
+",BSCI,"BSCI 40430.Graduate standing.
+",None,"(Cross-listed with BSCI 40143 and BSCI 70143) Current survey of the structure and function of eukaryotic cells,
+ including recent advances in
+research technology. Lecture three hours weekly."
+BSCI 50146 ,"DEVELOPMENTAL BIOLOGY
+",BSCI,graduate standing.,None,"(Cross-listed with BSCI 40146 and BSCI 70146) Fundamental concepts and paradigms of development as
+ exemplified by major model organisms. This course will examine our modern understanding of the molecular,
+ cellular and genetic basis of developmental biology."
+BSCI 50150 ,"MOLECULAR MECHANISMS OF DISEASE: CANCER
+",BSCI,graduate standing.,None,"(Cross-listed with BSCI 40150 and BSCI 70150) Explores the current understanding of molecular and cellular
+ mechanisms of disease processes,
+including new technologies and modern strategies in the forefront of future
+ biomedical research. Emphasis on a review of primary literature."
+BSCI 50151 ,"MECHANISMS OF DISEASE: OBESITY AND RELATED METABOLIC DISEASES
+",BSCI,"graduatestanding.
+",None,"(Cross-listed with BSCI 40151 + BSCI 70171) Addresses obesity from multiple angles, including health and
+disease process, underlying physiology and cell and molecular biology, and the role of behavior. Emphasis on a
+ review of primary literature to discuss obesity causes, consequences and treatments."
+BSCI 50158 ,"MOLECULAR BIOLOGY
+",BSCI,BSCI 30156 and graduate standing.,None,"(Cross-listed with BSCI 40158 and BSCI 70158) Molecular genetics, DNA and RNA structure, chromosomes DNA
+ replication, recombination, genetic transcription and translation, gene expression, current concepts and
+technologies."
+BSCI 50159 ,"MOLECULAR BIOLOGY LABORATORY
+",BSCI,"graduate standing and special approval frominstructor.
+",None,"(Cross-listed with BSCI 40159 and BSCI 70159) Experience in research methods for studying cellular and
+ molecular processes in plant and animal systems."
+BSCI 50160 ,"MARINE BIOLOGY
+",BSCI,Graduate standing.,None,"(Cross-listed with BSCI 40160 and BSCI 70160) Natural history and ecology of marine organisms, with
+ emphasis on life in coastal habitats. Lecture three hours weekly."
+BSCI 50162 ,"SOIL BIOLOGY
+",BSCI,graduate standing.,None,"(Cross-listed with BSCI 40162 and BSCI 70162) The ecology and physiology
+of organisms that live in soil,
+ including microbes, plants and animals.
+The physical and chemical aspects of soil are introduced to understand
+how organisms in soils impact nutrient cycles and ecosystem development."
+BSCI 50163 ,"EVOLUTION
+",BSCI,graduate standing.,None,"Discussion of the history of evolutionary theory,the evidence of evolution the evolutionary forces and the
+ products of those forces."
+BSCI 50170 ,"STREAM BIOLOGY
+",BSCI,"BSCI 10181 and 10182 . Graduatestanding.
+",None,"(Cross-listed with BSCI 40170 and BSCI 70170) Identification, biology and ecology of stream-inhabiting
+ organisms. Lecture two hours, laboratory three hours weekly."
+BSCI 50174 ,"IMMUNOLOGY
+",BSCI,"BSCI 30171 and CHEM 10060, 10061 and 10062. Graduate standing.",None,"(Cross-listed with BSCI 40174 and BSCI 70174) Survey of the mammalian host responses to self and non-self
+ with emphasis on the cellular and molecular mechanisms by which innate and acquired immunity result.
+Experimental design and data analyses are related to current methodologies used to study immunology. Lecture
+ three hours weekly."
+BSCI 50193 ,"VARIABLE TITLE WORKSHOP IN BIOLOGICAL SCIENCES
+",BSCI,Permission and graduate standing.,None,(Repeatable for credit)Topics to be offered will meet specific needs in the biological sciences.
+BSCI 50195 ,"SPECIAL TOPICS IN BIOLOGY
+",BSCI,Special approval of instructor and graduate standing.,None,(Repeatable for credit) (Cross-listed with BSCI 40195 and BSCI 70195) Special topics in biology.
+BSCI 50196 ,"INDIVIDUAL INVESTIGATION
+",BSCI,Special approval of instructor and graduate standing.,None,(Repeatable for credit) (Cross-listed with BSCI 40196 and BSCI 70196) Individual investigation in biology.
+BSCI 50272 ,"PLANT ANATOMY
+",BSCI,Graduate standing.,None,"(Cross-listed with BSCI 40272 and BSCI 70272) Development and structure of cells, tissues and tissue systems
+ of seed plants. Both vegetative and reproductive structures of angiosperms will be emphasized. Lecture two
+ hours, laboratory six hours weekly."
+BSCI 50341 ,"STEM CELL BIOLOGY: PRINCIPLES AND APPLICATIONS
+",BSCI,"Graduatestanding.
+",None,"(Slashed with BSCI 40341 and BSCI 70341) Examination of stem cells from various tissues, molecular
+ mechanism of stem cell differentiation, and use of stem cells in clinical applications."
+BSCI 50360 ,"ICHTHYOLOGY
+",BSCI,graduate standing.,None,"(Cross-listed with BSCI 40360 and 70360) Basic biology, natural history,
+behavior and ecology of the fishes.
+ Three hour lecture and three hour lab weekly."
+BSCI 50363 ,"MICROBIAL ECOLOGY
+",BSCI,"BSCI30171, 30360. Graduate standing.
+",None,"(Cross-listed with BSCI 40363 and BSCI 70363) Microbial interactions with their biotic and abiotic environment;
+ control of distribution and physiological activities; emphasis on bacteria in aquatic systems."
+BSCI 50364 ,"LIMNOLOGY
+",BSCI,graduate standing.,None,"(Cross-listed with BSCI 40364 and BSCI 70364) The study of the principles of aquatic ecology with emphasis on
+ lakes and reservoirs."
+BSCI 50367 ,"LIMNOLOGICAL TECHNIQUES
+",BSCI,"graduatestanding.
+",None,"(Cross-listed with BSCI 40367 and BSCI 70367) Analysis and significance of ecologically important variables
+ and constituents of surface waters. Lecture one hour, laboratory four hours per week."
+BSCI 50368 ,"WETLAND ECOLOGY AND MANAGEMENT
+",BSCI,Graduate standing.,None,"(Cross-listed with BSCI 40368 and BSCI 70368) Lecture, laboratory and field study of the principles of wetland
+ ecology including adaptations of the biota to environmental conditions, comparison among different wetland
+ habitat types and habitat management. Lecture 3 hours lab 3 hours weekly."
+BSCI 50370 ,"ECOLOGICAL AND EVOLUTIONARY GENETICS
+",BSCI,graduate standing.,None,"(Cross-listed with BSCI 70370) Genetic and genomic approaches to studying ecology and evolution in
+ populations and communities."
+BSCI 50371 ,"EVOLUTIONARY BIOLOGY
+",BSCI,graduate standing.,None,"(Cross-listed with BSCI 70371) Theoretical and experimental approaches to studying evolution from genes to
+ populations and communities."
+BSCI 50372 ,"COMMUNITIES AND ECOSYSTEMS
+",BSCI,graduate standing.,None,"(Cross-listed with BSCI 70372) Theory and experimental approaches to studying community and ecosystem
+ ecology."
+BSCI 50373 ,"POPULATION AND COMMUNITY ECOLOGY
+",BSCI,graduate standing.,None,"(Cross-listed with BSCI 70373) Theory and experimental approaches to studying population and community
+ ecology."
+BSCI 50374 ,"CONSERVATION BIOLOGY
+",BSCI,BSCI 30360 and graduate standing.,None,"(Cross-listed with BSCI 40374 and BSCI 70374) Provides a critical analysis of the factors that threaten
+ biological diversity in the biosphere and the consequences on biological processes and quality of life."
+BSCI 50375 ,"ENVIRONMENTAL BIOLOGY AND MANAGEMENT
+",BSCI,graduate standing.,None,"(Cross-listed with BSCI 40375 and BSCI 70375) Introduction to current concepts in applied ecology and
+ ecosystem management. Students will learn aspects of ecosystem management and restoration including: 1)
+ how environmental factors affect organism survival and ecosystem structure, 2) how human impacts such as
+ pollution, habitat fragmentation, introduction of invasive species affect ecosystems, and 3) the use of ecological
+ principles and methods to restore and manage ecosystems."
+BSCI 50376 ,"TROPICAL FIELD BIOLOGY AND CONSERVATION
+",BSCI,graduate standing.,None,"(Cross-listed with BSCI 40376 and BSCI 70376) Introduction to major issues in tropical ecology and
+ conservation including the threats to the
+biological diversity of tropical ecosystems resulting from human
+activities. Students learn how to apply modern field-observation techniques to generate and test problem-
+solving hypotheses."
+BSCI 50432 ,"ENDOCRINOLOGY
+",BSCI,BSCI 40430 and graduate standing.,None,"(Cross-listed with BSCI 40432 and BSCI 70432) Principles of endocrine regulation of physiological and
+ metabolic processes. Morphological and functional interrelationships between systems. Lecture three hours
+weekly."
+BSCI 50433 ,"MAMMALIAN PHYSIOLOGY I
+",BSCI,graduate standing.,None,"Physiology of the endocrine, nervous, and reproductive systems."
+BSCI 50434 ,"MAMMALIAN PHYSIOLOGY II
+",BSCI,graduate standing.,None,"Physiology of cardiovascular, renal, respiratory and digestive systems. Lecture three hours."
+BSCI 50450 ,"BIOLOGICAL CLOCKS
+",BSCI,graduate standing. ,BSCI 50451.,"(Cross-listed with BSCI 40450 and BSCI 70450) Topics covered include the
+characteristics of biological clocks,
+ their ecology, molecular biology,
+and neurobiology, the function and organization of sleep, and the medical
+ implications of biological rhythmicity. Students enrolling at the graduate level should have some background in
+ neurobiology and genetics."
+BSCI 50451 ,"CURRENT TOPICS IN BIOLOGICAL CLOCKS RESEARCH
+",BSCI,graduate standing. ,BSCI 50450.,"(Cross-listed with BSCI 70451) Discussion of current research literature
+in the area of research on biological
+ clocks."
+BSCI 50515 ,"ANIMAL BEHAVIOR
+",BSCI,graduate standing.,None,"Explores the evolution of various animal behaviors, the functions they might serve, and the interplay among the
+ social, ecological and physiological mechanisms that regulate their occurrence."
+BSCI 50517 ,"MEDICAL HISTOLOGY
+",BSCI,"graduatestanding.
+",None,"(Cross-listed with BSCI 40517 and BSCI 70517) Study of the microscopic and submicroscopic structure of the
+ human body in relation to function. Lecture two hours, laboratory three hours weekly."
+BSCI 50519 ,"HORMONES AND BEHAVIOR
+",BSCI,"graduatestanding.
+",None,"(Cross-listed with BSCI 40519 and BSCI 70519) Current concepts of hormone and behavior interactions across
+ species."
+BSCI 50520 ,"BEHAVIORAL EVOLUTION
+",BSCI,graduate standing and special approval. ,BSCI 50522.,"(Cross-listed with BSCI 40520 and BSCI 70520) Examination of how behavior contributes to survival and
+ reproduction in an ecological context. We consider how behavior may have evolved in a wide range of animals.
+ Students enrolled at the graduate level in the course are expected to have had a course in evolution."
+BSCI 50522 ,"READINGS IN BEHAVIORAL EVOLUTION
+",BSCI,graduate standing and special approval. ,"BSCI50520.
+","(Cross-listed with BSCI 70522) Graduate reading course designed to give experience leading discussions and
+ writing proposals. Students enrolled at the graduate level are expected to have had a course in evolution."
+BSCI 50525 ,"WILDLIFE RESOURCES
+",BSCI,Graduate standing.,None,"(Cross-listed with BSCI 40525 and BSCI 70525) Ecological parameters are discussed relative to the
+ preservation and management of wild animal populations. Aesthetic economic and environmental values are
+discussed. Lecture three hours weekly."
+BSCI 50556 ,"VERTEBRATE ZOOLOGY
+",BSCI,"4 hours ofbiology. Graduate standing.
+",None,"(Cross-listed with BSCI 40556 and BSCI 70556) Field approach to identification and natural history of all Ohio
+ vertebrates except birds.
+Lecture three hours, laboratory and field three hours weekly."
+BSCI 51010 ,"BIOPHOTONICS
+",BSCI,graduate standing and special approval.,None,"(Cross-listed with BSCI 41010 and CHEM 41010 and CHEM 51010 and PHY 41010 and PHY 51010)
+ Interdisciplinary overview of the basics of biophotonics; application of biophotonic techniques to probe biological
+ samples. Introduction to the foundations of optics and photonics and how
+the molecular structure of organic
+ molecules translates into unique photonic properties and targeting in biological cells or tissue. Preparation of
+ fluorescent materials, advanced spectroscopy and cell visualization using regular and confocal fluorescence
+ microscopy."
+BSCI 60080 ,"EXPERIMENTAL METHODS IN BIOLOGY
+",BSCI,"Special approvaland graduate standing.
+",None,"The development of hypotheses, principles of experimental design and methods of gathering and evaluating
+ data."
+BSCI 60103 ,"BIOLOGICAL STATISTICS
+",BSCI,graduate standing.,None,"(Cross-listed with BSCI 70103) Principles of experimental design and statistical analysis, and how to choose and
+ interpret statistical tests using biological data sets."
+BSCI 60144 ,"SELECTED READINGS IN EUKARYOTIC CELL BIOLOGY
+",BSCI,Graduate standing. ,"BSCI50143
+","(Cross-listed with BSCI 70144) Directed readings in cell and molecular biology from the primary and review
+ literature will be presented and discussed by the students."
+BSCI 60145 ,"MEDICAL GENOMICS
+",BSCI,graduate standing and special approval.,None,"(Cross-listed with BSCI 80145) Explores the relationship and contribution of genetics and genomics to
+ healthcare issues, including disease susceptibility and therapeutic efficacy. Up-to-date genomics concepts and
+ their applications to health care and the challenges of personalized medicine including genetic analyses (e.g.,
+ linkage and estimating population risks), ethical issues in genetic testing and therapy, genetic basis of disease
+ processes (e.g., neurological, cardiovascular and neoplastic diseases) and epigenetic processes (that may link
+ the environment to the risk of chronic diseases) are covered. This course requires an understanding of genetics
+ and physiology; students should contact the Department of Biological Sciences to determine if they have the
+ requisite prior training."
+BSCI 60191 ,"SEMINAR IN BIOLOGY
+",BSCI,Graduate standing.,None,(Repeatable for credit)Departmental seminar required of all graduate students.
+BSCI 60194 ,"COLLEGE TEACHING IN BIOLOGY
+",BSCI,"Special approvalof instructor and graduate standing.
+",None,"(Repeatable for credit) (Cross-listed with BSCI 70194) Training and experience in college teaching of biology.
+ Maximum of 2 hours applicable
+toward degree. Required in all degree programs."
+BSCI 60198 ,"RESEARCH
+",BSCI,"Special approval andgraduate standing.
+",None,"(Repeatable for credit)Research or individual investigation for master's
+level graduate students. Credits earned
+ may be applied toward degree requirements if department approves."
+BSCI 60199 ,"THESIS I
+",BSCI,Special approval and graduate standing.,None,"Thesis students must register for a minimum of 6 hours, 2 to 6 hours in a
+single semester distributed over
+ several semesters if desired."
+BSCI 60299 ,"THESIS II
+",BSCI,BSCI 60199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+BSCI 60391 ,"SEMINAR IN ECOLOGY
+",BSCI,"Special approval of instructor andgraduate standing.
+",None,"(Repeatable for credit) (Cross-listed with BSCI 70391) Seminar on topics
+in animal and plant ecology. Credits
+ earned may be applied to degree if
+department approves."
+BSCI 60431 ,"NEUROENDOCRINOLOGY
+",BSCI,graduate standing.,None,"Role of the central nervous system in the regulation of hormonal and vegetative functions; structure function
+ relationships between brain and
+pituitary with modern views of neuroendocrine regulation. Methods for study of
+ neuroendocrine relationships is discussed."
+BSCI 60462 ,"NEUROBIOLOGY: SYSTEMS AND BEHAVIOR
+",BSCI,BMS 60729 or BMS 70729; and graduate standing.,None,"(Slashed with BSCI 80462; Cross-listed with BMS 60462 and BMS 70462) Provides broad coverage of the parts
+ of the central nervous systems and how they integrate sensory information, drive motor function and regulate
+ behavior."
+BSCI 60491 ,"SEMINAR IN PHYSIOLOGY
+",BSCI,Special approval of instructor and graduate standing.,None,"(Repeatable for credit) (Cross-listed with BSCI 70491) Credits may be applied toward degree if department
+ approves."
+BSCI 70103 ,"BIOLOGICAL STATISTICS
+",BSCI,doctoral standing.,None,"(Cross-listed with BSCI 50103) Principles of experimental design and statistical analysis, and how to choose and
+ interpret statistical tests using biological data sets."
+BSCI 70142 ,"BIOENERGETICS
+",BSCI,BSCI 40430. Doctoral standing.,None,"(Cross-listed with BSCI 40142 and BSCI 50142) Lecture and discussion of respiration and photosynthesis, their
+ origin development and control in living systems. Concepts are introduced from fundamental principles. Lecture
+ three hours weekly."
+BSCI 70143 ,"EUKARYOTIC CELL BIOLOGY
+",BSCI,"BSCI 40430.Doctoral standing.
+",None,"(Cross-listed with BSCI 40143 and BSCI 70143) Current survey of the structure and function of eukaryotic cells,
+ including recent advances in
+research technology. Lecture three hours weekly."
+BSCI 70144 ,"SELECTED READINGS IN EUKARYOTIC CELL BIOLOGY
+",BSCI,Doctoral standing. ,"BSCI70143.
+","(Cross-listed with BSCI 60144) Directed readings in cell and molecular biology from the primary and review
+ literature will be presented and discussed by the students."
+BSCI 70146 ,"DEVELOPMENTAL BIOLOGY
+",BSCI,doctoral standing.,None,"(Cross-listed with BSCI 40146 and BSCI 50146) Fundamental concepts and paradigms of development as
+ exemplified by major model organisms. This course will examine our modern understanding of the molecular,
+ cellular and genetic basis of developmental biology."
+BSCI 70150 ,"MOLECULAR MECHANISMS OF DISEASE: CANCER
+",BSCI,doctoral standing.,None,"(Cross-listed with BSCI 40150 and BSCI 50150) Explores the current understanding of molecular and cellular
+ mechanisms of disease processes,
+including new technologies and modern strategies in the forefront of future
+ biomedical research. Emphasis on a review of primary literature."
+BSCI 70151 ,"MECHANISMS OF DISEASE: OBESITY AND RELATED METABOLIC DISEASES
+",BSCI,"doctoralstanding.
+",None,"(Cross-listed with BSCI 40151 + BSCI 50171) Addresses obesity from multiple angles, including health and
+ disease process, underlying physiology and cell and molecular biology, and the role of behavior. Emphasis on a
+ review of primary literature to discuss obesity causes, consequences and treatments."
+BSCI 70158 ,"MOLECULAR BIOLOGY
+",BSCI,BSCI 30156 and doctoral standing.,None,"(Cross-listed with BSCI 40158 and BSCI 50158) Molecular genetics, DNA and RNA structure, chromosomes,
+ DNA replication, recombination, genetic transcription and translation, gene expression, current concepts and
+technologies."
+BSCI 70160 ,"MARINE BIOLOGY
+",BSCI,Doctoral standing.,None,"(Cross-listed with BSCI 40160 and BSCI 50160) Natural history and ecology of marine organisms, with
+ emphasis on life in coastal habitats. Lecture three hours weekly."
+BSCI 70162 ,"SOIL BIOLOGY
+",BSCI,doctoral standing.,None,"(Cross-listed with BSCI 40162 and BSCI 50162) The ecology and physiology
+of organisms that live in soil,
+ including microbes, plants and animals.
+The physical and chemical aspects of soil are introduced to understand
+how organisms in soils impact nutrient cycles and ecosystem development."
+BSCI 70163 ,"EVOLUTION
+",BSCI,"BSCI 30156 plus 4hours of
+biology. Doctoral standing.
+",None,"(Cross-listed with BSCI 40163 and BSCI 50163) Discussion of the history of evolutionary theory, the evidence
+ of evolution, the evolutionary forces and the products of those forces."
+BSCI 70170 ,"STREAM BIOLOGY
+",BSCI,"BSCI 10181 and 10182. Doctoralstanding.
+",None,"(Cross-listed with BSCI 40170 and BSCI 50170) Identification, biology and ecology of stream-inhabiting
+ organisms. Lecture two , laboratory three hours weekly."
+BSCI 70174 ,"IMMUNOLOGY
+",BSCI,"BSCI 30171 and CHEM 10060, 10061 and 10062. Doctoral standing.",None,"(Cross-listed with BSCI 40174 and BSCI 50174) Survey of the mammalian host responses to self and non-self
+ with emphasis on the cellular and molecular mechanisms by which innate and acquired immunity result.
+Experimental design and data analyses are related to current methodologies used to study immunology. Lecture
+ three hours weekly."
+BSCI 70191 ,"SEMINAR IN BIOLOGY
+",BSCI,Doctoral standing.,None,(Repeatable for credit)Departmental seminar required of all graduate students.
+BSCI 70193 ,"VARIABLE TITLE WORKSHOP IN BIOLOGICAL SCIENCES
+",BSCI,Special approval and doctoral standing.,None,(Repeatable for credit)Topics to be offered will meet specific needs in the biological sciences.
+BSCI 70194 ,"COLLEGE TEACHING IN BIOLOGY
+",BSCI,"Special approvalof instructor and doctoral standing.
+",None,"(Repeatable for credit) (Cross-listed with BSCI 60194) Training and experience in college teaching of biology.
+ Maximum of 2 hours applicable
+toward degree. Required in all degree programs."
+BSCI 70195 ,"SPECIAL TOPICS IN BIOLOGY
+",BSCI,"Special approval ofinstructor and doctoral standing.
+",None,(Repeatable for credit) (Cross-listed with BSCI 40195 and BSCI 50195)
+BSCI 70196 ,"INDIVIDUAL INVESTIGATION
+",BSCI,"Special approval ofinstructor and doctoral standing.
+",None,(Repeatable for credit) (Cross-listed with BSCI 40196 and BSCI 50196)
+BSCI 70272 ,"PLANT ANATOMY
+",BSCI,Doctoral standing.,None,"(Cross-listed with BSCI 40272 and BSCI 50272) Development and structure of cells, tissues and tissue systems
+ of seed plants. Both vegetative and
+reproductive structures of angiosperms will be emphasized. Lecture two
+hours, laboratory six hours weekly."
+BSCI 70341 ,"STEM CELL BIOLOGY: PRINCIPLES AND APPLICATIONS
+",BSCI,"Doctoralstanding.
+",None,"(Slashed with BSCI 40341 and BSCI 50341) Examination of stem cells from various tissues, molecular
+ mechanism of stem cell differentiation, and use of stem cells in clinical applications."
+BSCI 70360 ,"ICHTHYOLOGY
+",BSCI,doctoral standing.,None,"(Cross-listed with BSCI 40360 and BSCI 50360) Basic biology, natural history, behavior and ecology of the
+ fishes. Three hour lecture and three hour lab weekly."
+BSCI 70363 ,"MICROBIAL ECOLOGY
+",BSCI,"BSCI30171, 30360. Doctoral standing.
+",None,"(Cross-listed with BSCI 40363 and BSCI 50363) Microbial interactions with their biotic and abiotic environment;
+ control of distribution and physiological activities; emphasis on bacteria in aquatic systems."
+BSCI 70364 ,"LIMNOLOGY
+",BSCI,doctoral standing.,None,"(Cross-listed with BSCI 40364 and BSCI 50364) The study of the principles of aquatic ecology with emphasis on
+ lakes and reservoirs."
+BSCI 70367 ,"LIMNOLOGICAL TECHNIQUES
+",BSCI,doctoral standing.,None,"(Cross-listed with BSCI 40367 and BSCI 50367) Analysis and significance of ecologically important variables
+ and constituents of surface waters. Laboratory four hours per week. There is an additional field trip fee for this
+ course."
+BSCI 70368 ,"WETLAND ECOLOGY AND MANAGEMENT
+",BSCI,Doctoral standing.,None,"(Cross-listed with BSCI 40368 and BSCI 50368) Lecture, laboratory and field study of the principles of wetland
+ ecology including adaptations of the biota to environmental conditions, comparison among different wetland
+ habitat types and habitat management. Lecture 3 hours, lab 3 hours weekly."
+BSCI 70370 ,"ECOLOGICAL AND EVOLUTIONARY GENETICS
+",BSCI,doctoral standing.,None,"(Cross-listed with BSCI 50370) Genetic and genomic approaches to studying ecology and evolution in
+ populations and communities."
+BSCI 70371 ,"EVOLUTIONARY BIOLOGY
+",BSCI,doctoral standing.,None,"(Cross-listed with BSCI 50371) Theoretical and experimental approaches to studying evolution from genes to
+ populations and communities."
+BSCI 70372 ,"COMMUNITIES AND ECOSYSTEMS
+",BSCI,doctoral standing.,None,"(Cross-listed with BSCI 50372) Theory and experimental approaches to studying community and ecosystem
+ ecology."
+BSCI 70373 ,"POPULATION AND COMMUNITY ECOLOGY
+",BSCI,doctoral standing.,None,"(Cross-listed with BSCI 50373) Theory and experimental approaches to studying population and community
+ ecology."
+BSCI 70374 ,"CONSERVATION BIOLOGY
+",BSCI,BSCI 30360 and doctoral standing.,None,"(Cross-listed with BSCI 40374 and BSCI 50374) Provides a critical analysis of the factors that threaten
+ biological diversity in the biosphere and the consequences on biological processes and quality of life."
+BSCI 70375 ,"ENVIRONMENTAL BIOLOGY AND MANAGEMENT
+",BSCI,doctoral standing.,None,"(Cross-listed with BSCI 40375 and BSCI 50375) Introduction to current concepts in applied ecology and
+ ecosystem management. Students will learn aspects of ecosystem management and restoration including: 1)
+ how environmental factors affect organism survival and ecosystem structure, 2) how human impacts such as
+ pollution, habitat fragmentation, introduction of invasive species affect ecosystems, and 3) the use of ecological
+ principles and methods to restore and manage ecosystems."
+BSCI 70376 ,"TROPICAL FIELD BIOLOGY AND CONSERVATION
+",BSCI,doctoral standing.,None,"(Cross-listed with BSCI 40376 and BSCI 50376) Introduction to major issues in tropical ecology and
+ conservation including the threats to the
+biological diversity of tropical ecosystems resulting from human
+activities. Students learn how to apply modern field-observation techniques to generate and test problem-
+solving hypotheses."
+BSCI 70391 ,"SEMINAR IN ECOLOGY
+",BSCI,"Special approval of instructor anddoctoral standing.
+",None,"(Repeatable for credit) (Cross-listed with BSCI 60391) Seminar on topics
+in animal and plant ecology. Credits
+earned may be applied to degree if
+department approves."
+BSCI 70431 ,"NEUROENDOCRINOLOGY
+",BSCI,doctoral standing.,None,"Role of the central nervous system in the regulation of hormonal and vegetative functions; structure function
+ relationships between brain and
+pituitary with modern views of neuroendocrine regulation. Methods for study of
+ neuroendocrine relationships is discussed."
+BSCI 70432 ,"ENDOCRINOLOGY
+",BSCI,BSCI 40430 and doctoral standing.,None,"(Cross-listed with BSCI 40432 and BSCI 40432) Principles of endocrine regulation of physiological and
+ metabolic processes. Morphological and functional interrelationships between systems. Lecture three hours
+weekly."
+BSCI 70433 ,"MAMMALIAN PHYSIOLOGY I
+",BSCI,doctoral standing.,None,"Physiology of the endocrine, nervous, and reproductive systems."
+BSCI 70434 ,"MAMMALIAN PHYSIOLOGY II
+",BSCI,doctoral standing.,None,"Physiology of cardiovascular, renal, respiratory and digestive systems. Lecture three hours."
+BSCI 70450 ,"BIOLOGICAL CLOCKS
+",BSCI,doctoral standing. ,BSCI 70451.,"(Cross-listed with BSCI 40450 and BSCI 50450) Topics covered include the
+characteristics of biological clocks,
+ their ecology, molecular biology,
+and neurobiology, the function and organization of sleep, and the medical
+ implications of biological rhythmicity. Students enrolling at the graduate level should have some background in
+ neurobiology and genetics."
+BSCI 70451 ,"CURRENT TOPICS IN BIOLOGICAL CLOCKS RESEARCH
+",BSCI,doctoral standing. ,BSCI 70450.,"(Cross-listed with BSCI 50451) Discussion of current research literature
+in the area of research on biological
+ clocks."
+BSCI 70491 ,"SEMINAR IN PHYSIOLOGY
+",BSCI,Special approval of instructor and doctoral standing.,None,"(Repeatable for credit) (Cross-listed with BSCI 60491) Credits may be applied toward degree if department
+ approves."
+BSCI 70515 ,"ANIMAL BEHAVIOR
+",BSCI,doctoral standing.,None,"Explores the evolution of various animal behaviors, the functions they might serve, and the interplay among the
+ social, ecological and physiological mechanisms that regulate their occurrence."
+BSCI 70517 ,"MEDICAL HISTOLOGY
+",BSCI,"4 hoursof biology. Doctoral standing.
+",None,"(Cross-listed with BSCI 40517 and BSCI 50517) Study of the microscopic and submicroscopic structure of the
+ mammalian body in relation to function. Lecture two hours laboratory three hours weekly."
+BSCI 70519 ,"HORMONES AND BEHAVIOR
+",BSCI,doctoral standing.,None,"(Cross-listed with BSCI 40519 and BSCI 70519) Current concepts of hormone and behavior interactions across
+ species."
+BSCI 70520 ,"BEHAVIORAL EVOLUTION
+",BSCI,doctoral standing and special approval. ,BSCI 70522.,"(Cross-listed with BSCI 40520 and BSCI 50520) Examination of how behavior contributes to survival and
+ reproduction in an ecological context. We consider how behavior may have evolved in a wide range of animals.
+ Students enrolled at the graduate level will be expected to have had a course in evolution."
+BSCI 70522 ,"READINGS IN BEHAVIORAL EVOLUTION
+",BSCI,doctoral standing and special approval. ,BSCI 70520.,"(Cross-listed with BSCI 50522) Graduate reading course designed to give experience leading discussions and
+ writing proposals. Students enrolled at the graduate level will be expected to have had a course in evolution."
+BSCI 70525 ,"WILDLIFE RESOURCES
+",BSCI,4 hours of biology. Doctoral standing.,None,"(Cross-listed with BSCI 40525 and BSCI 50525)Ecological parameters are discussed relative to the preservation
+ and management of wild animal populations. Aesthetic economic and environmental values are discussed.
+Lecture three hours weekly."
+BSCI 70556 ,"VERTEBRATE ZOOLOGY
+",BSCI,"plus 4 hoursof biology. Doctoral standing.
+",None,"(Cross-listed with BSCI 40556 and BSCI 50556) Field approach to identification and natural history of all Ohio
+ vertebrates except birds.
+Lecture three hours laboratory and field three hours weekly."
+BSCI 80145 ,"MEDICAL GENOMICS
+",BSCI,doctoral standing and special approval.,None,"(Cross-listed with BSCI 60145) Explores the relationship and contribution of genetics and genomics to
+ healthcare issues, including disease susceptibility and therapeutic efficacy. Up-to-date genomics concepts and
+ their applications to health care and the challenges of personalized medicine including genetic analyses (e.g.,
+ linkage and estimating population risks), ethical issues in genetic testing and therapy, genetic basis of disease
+ processes (e.g., neurological, cardiovascular and neoplastic diseases) and epigenetic processes (that may link
+ the environment to the risk of chronic diseases) are covered. This course requires an understanding of genetics
+ and physiology; students should contact the Department of Biological Sciences to determine if they have the
+ requisite prior training."
+BSCI 80198 ,"RESEARCH
+",BSCI,Doctoral standing.,None,"(Repeatable for credit)Research or individual investigation for doctoral
+students who have not yet passed
+ candidacy examination."
+BSCI 80199 ,"DISSERTATION I
+",BSCI,Special approval and doctoral standing.,None,"(Repeatable for credit)Doctoral dissertation, for which registration in at least two semesters is required first of
+ which will be semester in which dissertation work is begun and continuing until the completion of 30 hours."
+BSCI 80299 ,"DISSERTATION II
+",BSCI,"BSCI 80199 and doctoralstanding.
+",None,"(Repeatable for credit)Continuing registration of doctoral students who have completed the initial 30 hours of
+ dissertation and continuing until
+all degree requirements are met."
+BSCI 80462 ,"NEUROBIOLOGY: SYSTEMS AND BEHAVIOR
+",BSCI,BMS 60729 or BMS 70729; and doctoral standing.,None,"(Slashed with BSCI 60462; Cross-listed with BMS 60462 and BMS 70462) Provides broad coverage of the parts
+ of the central nervous systems and how they integrate sensory information, drive motor function and regulate
+ behavior."

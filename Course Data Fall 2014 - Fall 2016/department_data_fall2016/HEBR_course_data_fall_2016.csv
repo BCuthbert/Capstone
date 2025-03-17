@@ -1,0 +1,9 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+HEBR 12101 ,"ELEMENTARY HEBREW I
+",HEBR,None.,None,An introduction to the modern Hebrew language in the context of Israeli culture.
+HEBR 12102 ,"ELEMENTARY HEBREW II
+",HEBR,HEBR 12101.,None,A continuation of the introduction to the modern Hebrew language in the context of Israeli culture.
+HEBR 22104 ,"INTERMEDIATE HEBREW I
+",HEBR,HEBR 12102.,None,"Continued development of speaking, listening, reading and writing skills using a variety of cultural materials."
+HEBR 22105 ,"INTERMEDIATE HEBREW II
+",HEBR,HEBR 22104.,None,Continuation of HEBR 22104.

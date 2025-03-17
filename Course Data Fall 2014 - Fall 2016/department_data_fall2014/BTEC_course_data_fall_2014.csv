@@ -1,0 +1,24 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+BTEC 10210 ,"INTRODUCTION TO BIOTECHNOLOGY
+",BTEC,BSCI 10120.,None,"Basic principles and applications of modern biotechnology, including recombinant DNA technology, microbial
+technology, fermentation, genetic engineering, plant and animal tissue culture and medical biotechnology.
+Lecture three hours weekly."
+BTEC 40191 ,"SEMINAR:RECENT DEVELOPMENTS IN BIOTECHNOLOGY
+",BTEC,"BTEC 10210; BSCI 30140, 30171, 30156; CHEM30284. 
+",None,"Recent developments in biotechnology explored through the presentation and discussion of research articles
+and reviews in the biotechnology literature."
+BTEC 40192 ,"INTERNSHIP IN BIOTECHNOLOGY
+",BTEC,Biotechnology (BTEC) major.,None,"(Repeatable for credit)Work experience in a biotechnology laboratory. Registration requires approval of
+program director and is dependent on availability of internship sites. Written report of activities required."
+BTEC 40196 ,"INDIVIDUAL INVESTIGATION IN BIOTECHNOLOGY
+",BTEC,Biotechnology (BTEC) major.,None,"(Repeatable for credit)Research experience in biotechnology. Registration requires approval of program
+director and research director. Written report required."
+BTEC 40210 ,"CASE STUDIES IN BIOTECHNOLOGY
+",BTEC,"BTEC 10210; BSCI 30140, 30171, 30156, 40158; CHEM 30284,40248. 
+",None,"Case studies used to explore biotechnology practice and the application of various technologies in industry and
+medicine. Emphasis placed on developing problem solving, information gathering, inductive reasoning and
+technical communication skills."
+BTEC 40220 ,"BIOINFORMATICS
+",BTEC,BSCI 30140 and BSCI 30156 and BSCI 40158.,None,"Analysis of biological databases, including nucleic acid and protein sequence searching, multiple sequence
+alignment, protein classification, phylogenetic analysis, comparative genomics, proteomics, protein structure
+analysis."

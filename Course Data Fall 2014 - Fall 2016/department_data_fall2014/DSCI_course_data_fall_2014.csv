@@ -1,0 +1,173 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+DSCI 10010 ,"SOCIETY, CULTURE AND THE DIGITAL SCIENCES
+",DSCI,none.,None,"A survey course intended to give a broad understanding of society, culture and the digital sciences. Students
+understand not only the impact of digital sciences on culture and society, but also the impact of culture and
+society on the development and adoption of digital sciences. Topics include relationship and identify formation
+and maintenance, the relationship between digital science and race, gender, culture and globalization."
+DSCI 10310 ,"MY STORY ON THE WEB
+",DSCI,none.,None,"A first course in understanding the web's impact on our private and public lives. Introductory course that
+enables students to establish a web presence and persona by the end of the semester. Through the
+storytelling initiative and creating these sites, students investigate web site design, storytelling, multimedia,
+intellectual property, ethical considerations and social media."
+DSCI 10410 ,"INFORMATION ETHICS AND SOCIAL RESPONSIBILITY
+",DSCI,none.,None,"Investigates ethical and social responsibility issues related to information technology including the application
+of ethical theories to information technology; potential tensions between ethical and legal norms as well as
+those between competing ethical values; professional codes of ethics; access and control of intellectual
+property; issues of privacy including those raised by the US Patriot Act; network security and user protections
+(e.g. viruses, protecting minors, cyberbullying); and the digital divide, outsourcing and green computing."
+DSCI 13210 ,"DESIGN PROCESSES AND PRINCIPLES
+",DSCI,none.,None,"Introduction to the discipline of design, including general design models and procedures, rational and creative
+models of design, and design as problem solving. Specific design contexts are introduced including information
+design, graphics and visual design, architectural design and educational design."
+DSCI 15310 ,"COMPUTATIONAL THINKING AND PROGRAMMING
+",DSCI,none.,None,"Introductory, broad, and hands-on coverage of basic aspects of computational thinking with emphasis on
+problem solving using the Python programming language."
+DSCI 19995 ,"SPECIAL TOPICS IN DIGITAL SCIENCES
+",DSCI,none.,None,"(Repeatable for credit)Analysis of significant and current issues in digital sciences not covered in regular
+courses. Offered when opportunities and resources permit; the topic is announced when the course is
+scheduled."
+DSCI 23410 ,"COGNITION IN TECHNOLOGY
+",DSCI,none.,None,"Introduction to the basics in human cognition as they affect technology and as technology affects human
+cognition. Addresses designing technologies to fit and enhance cognition, augmenting cognition with
+technology, and cognitive tools, as well as the impact of technology on various cognitive processes. Leverages
+both traditional and online course delivery."
+DSCI 26010 ,"TELECOMMUNICATION INFRASTRUCTURE
+",DSCI,none.,None,"Provides an overview of communications infrastructure for public switched telephone networks, wireless
+networks, and local area networks. Other topics covered include network routing, LAN concepts and
+technologies, VoIP, and PBX."
+DSCI 29995 ,"SPECIAL TOPICS IN DIGITAL SCIENCES
+",DSCI,none.,None,"(Repeatable for credit)Analysis of significant and current issues in digital sciences not covered in regular
+courses. Offered when opportunities and resources permit; the topic is announced when the course is
+scheduled."
+DSCI 31010 ,"ENTERPRISE ARCHITECTURE
+",DSCI,sophomore standing.,None,"Enterprise architecture facilitates the alignment of IT and IS investment decisions with business goals.
+Enterprise architecture is increasingly used in the industry as a result of the continued emergence of new
+technologies and ongoing pressures to reengineer business processes to achieve improved efficiency and
+greater customer focus. Enterprise architecture identifies the main components of an organization and the
+ways in which these components work together. The components include performance and strategy, people,
+business capabilities, applications, technology, knowledge and information, as well as financial and other
+resources."
+DSCI 33310 ,"HUMAN-COMPUTER INTERACTION
+",DSCI,sophomore standing.,None,"A survey course intended to provide a broad foundation of HCI principles, concepts, and techniques relevant
+to multiple digital science concentrations. Focuses on understanding HCI through fundamental design concepts
+and applying these to a range of interface design problems. Covers the spectrum of a user-centered design
+process (research, sketching, prototyping, evaluation, etc). Balances a broad conceptual understanding of HCI
+with detailed interface design issues."
+DSCI 34410 ,"DIGITAL INFORMATION MANAGEMENT AND PROCESSING
+",DSCI,sophomore standing.,None,"Introduces students to the discipline of information management and processing methods and tools that are
+available to support effective management of information within organizations. Aims to provide a pragmatic
+foundation of principles, practices and technologies that can be applied within commercial and government
+organizations to help improve information management."
+DSCI 39995 ,"SPECIAL TOPICS IN DIGITAL SCIENCES
+",DSCI,none.,None,"(Repeatable for credit)Analysis of significant and current issues in digital sciences not covered in regular
+courses. Offered when opportunities and resources permit; the topic is announced when the course is
+scheduled."
+DSCI 40910 ,"CAPSTONE IN DIGITAL SCIENCES
+",DSCI,"DSCI 41510 and TECH 46411; and MIS 44043 or CS 33007; andsenior standing. 
+",None,"Provides an integrative experience, bringing together components of the required coursework in the major.
+Students work in project teams with students from upper-division project courses in programs affiliated with
+the School of Digital Sciences."
+DSCI 41510 ,"PROJECT MANAGEMENT AND TEAM DYNAMICS
+",DSCI,DSCI 15310 or CS 13001 or MIS 24065; and junior standing.,None,"Introduces students to the basic elements of project management as it relates to software development and
+the corporate environment. Although not formally endorsed by The Project Management Institute
+(www.PMI.org), the course aligns with the project management lifecycle approach endorsed in The Project
+Management Book of Knowledge."
+DSCI 41610 ,"DIGITAL SYSTEMS SECURITY
+",DSCI,DSCI 34410; and DSCI 15310 or CS 13001.,None,"Provides students with an understanding of the techniques, approaches, strategies, and computer security
+tactics that are used to ensure computer-related assets are protected from potential cyber compromise and
+are integrated with the business function. This course does not focus on the technical aspects of security
+(e.g., details of the operating system, data structures, or networks) but instead focuses more on computer
+security in a business context."
+DSCI 49910 ,"EMERGING TECHNOLOGIES IN DIGITAL SCIENCES
+",DSCI,junior standing.,None,"(Cross-listed with DSCI 59910) Explores new and emerging technologies in the digital sciences, examining
+each technology from multiple viewpoints representative of the interdisciplinary nature of the digital sciences."
+DSCI 49992 ,"INTERNSHIP IN DIGITAL SCIENCES
+",DSCI,junior standing and special approval.,None,"(Repeatable for a maximum of 6 credit hours) A credit-bearing work experience with educational outcomes,
+utilizing and enhancing a student's academic learning in practical occupational situations. The student is
+expected to complete pre-determined assignments, which may include a weekly journal, final paper, or
+experience report."
+DSCI 49995 ,"SPECIAL TOPICS IN DIGITAL SCIENCES
+",DSCI,none.,None,"(Repeatable for credit)Analysis of significant and current issues in digital sciences not covered in regular
+courses. Offered when opportunities and resources permit; the topic is announced when the course is
+scheduled."
+DSCI 49996 ,"INDIVIDUAL INVESTIGATION IN DIGITAL SCIENCES
+",DSCI,junior standing and special approval.,None,"(Repeatable for a maximum of 6 credit hours) Independent study carried out by a student under the
+supervision of a faculty member. Subject content, objectives, assignments and evaluation methods may vary."
+DSCI 51510 ,"PROJECT MANAGEMENT AND TEAM DYNAMICS
+",DSCI,graduate standing.,None,"This course introduces students to the basic elements of project management as it relates to software
+development and the corporate environment. Although not formally endorsed by The Project Management
+Institute (www.PMI.org), the course will align with the project management lifecycle approach endorsed in The
+Project Management Book of Knowledge."
+DSCI 59910 ,"EMERGING TECHNOLOGIES IN DIGITAL SCIENCES
+",DSCI,graduate standing.,None,"(Cross-listed with DSCI 49910) Explores new and emerging technologies in the digital sciences, examining
+each technology from multiple viewpoints representative of the interdisciplinary nature of the digital sciences."
+DSCI 59995 ,"SPECIAL TOPICS IN DIGITAL SCIENCES
+",DSCI,graduate standing.,None,"(Repeatable for credit)Analysis of significant and current issues in digital sciences not covered in regular
+courses. Offered when opportunities and resources permit; the topic is announced when the course is
+scheduled."
+DSCI 60998 ,"CAPSTONE PROJECT IN DIGITAL SCIENCES
+",DSCI,"graduatestanding and special approval by Digital Science Graduate Coordinator. 
+",None,"Provides an integrative experience, bringing together components of the required coursework in the major and
+concentration. Students perform individual work on a project, research paper, or practicum under the
+supervision of faculty from programs affiliated with the School of Digital Sciences."
+DSCI 61010 ,"ENTERPRISE ARCHITECTURE
+",DSCI,graduate standing.,None,"Facilitates the alignment of IT and IS investment decisions with business goals. Enterprise architecture is
+increasingly used in industry as a result of the continued emergence of new technologies and ongoing
+pressures to reengineer business processes to achieve improved efficiency and greater customer focus.
+Enterprise architecture identifies the main components of an organization and the ways in which these
+components work together. The components include performance and strategy, people, business capabilities,
+applications, technology, knowledge and information, as well as financial and other resources."
+DSCI 61310 ,"ENTERPRISE ARCHITECTURE: ENTERPRISE ARCHITECTURE CENTER FOR EXCELLENCE
+",DSCI,graduate standing. ,DSCI 61010.,"METHODOLOGY
+Provides an introduction to the Enterprise Architecture Center of Excellence (EACOE) methodology for
+enterprise architecture and practical experience using that methodology. Students learn to model a business'
+current or desired future state using architectural models of goals, processes, materials, roles, locations and
+events. Implementation models are then developed to show relationships between architectural models, and
+the models are analyzed to identify move-ahead initiatives that include projects, gaps, overlaps and
+opportunities. These initiatives are prioritized to move the business to a desired future state. At the conclusion
+of the course, students have the option of submitting their course enterprise architecture artifacts to EACOE
+for certification."
+DSCI 62010 ,"BUSINESS ARCHITECTURE
+",DSCI,DSCI 61010 and graduate standing.,None,"Introduction to the concept of business architecture as the critical component of enterprise architecture.
+Students learn how to develop an enterprise business architecture, to apply business architecture principles,
+methods, and artifacts to organizational initiatives to ensure they are aligned with organizational business
+goals and performance standards. Students learn how different enterprise architecture frameworks approach
+the business layer."
+DSCI 64010 ,"DATA ARCHITECTURE
+",DSCI,DSCI 61010 and graduate standing.,None,"Introduction to the concept of data and information architecture as a component of enterprise architecture.
+Students learn how to distinguish types of data, develop conceptual and logical data models, trace and map
+the use of data types across business capabilities, roles and applications, and prepare an enterprise level data
+dictionary. Students learn how to work with enterprise data architecture artifacts as they develop an
+enterprise information architecture blueprint."
+DSCI 64210 ,"DATA SCIENCE
+",DSCI,"graduatestanding. 
+",None,"Introduction to the concept of big data and data analytics, including the business challenges of working with
+big data. Students are introduced to the concepts of both structured and unstructured data. Fundamental
+concepts include data design and management, database design and management, data driven programming
+and discovery, and data presentation and use. Data analytics in industry verticals are discussed, including
+science, intelligence and law enforcement, health, retail and financial services."
+DSCI 65010 ,"APPLICATION AND TECHNOLOGY ARCHITECTURE
+",DSCI,DSCI 61010 and graduate standing.,None,"Introduction to the concept of application and technology architectures in the context of enterprise
+architecture. Students learn how to define application and technology architecture principles and standards to
+support business performance, and to evaluate existing architectures in relation to performance goals.
+Students learn to work with application and technology artifacts and matrices, prepare a technology dictionary
+and develop an application architecture blueprint."
+DSCI 69199 ,"THESIS I
+",DSCI,"graduate standingand special approval by the Digital Sciences Graduate Coordinator. 
+",None,"(Repeatable for a maximum of 6 credits hours) Thesis students must register for a total of 6 hours and may
+take 2 to 6 hours per semester distributed over several semesters if desired."
+DSCI 69299 ,"THESIS II
+",DSCI,DSCI 69199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+DSCI 69992 ,"INTERNSHIP IN DIGITAL SCIENCES
+",DSCI,graduate standing and special approval.,None,"(Repeatable for a maximum of 6 credit hours) A credit-bearing work experience with educational outcomes,
+utilizing and enhancing a student's academic learning in practical occupational situations. The student is
+expected to complete pre-determined assignments, which may include a weekly journal, final paper or
+experience report."
+DSCI 69995 ,"SPECIAL TOPICS IN DIGITAL SCIENCES
+",DSCI,graduate standing.,None,"(Repeatable for credit)Analysis of significant and current issues in digital sciences not covered in regular
+courses. Offered when opportunities and resources permit; the topic is announced when the course is
+scheduled."
+DSCI 69996 ,"INDIVIDUAL INVESTIGATION IN DIGITAL SCIENCES
+",DSCI,"graduate standing and specialapproval. 
+",None,"Independent study carried out by a student under the supervision of a faculty member. Subject content,
+objectives, assignments, and evaluation methods may vary."

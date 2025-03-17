@@ -1,0 +1,484 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+FDM 10010 ,"FASHION FUNDAMENTALS
+",FDM,"fashiondesign (FD), fashion merchandising (FM) or pre-fashion design and merchandising (PFDM) major.
+",None,"Introduction to the global fashion industry. Analysis of the business of
+fashion how it is conceived marketed and
+ sold. Overview of important resources, companies and personnel who impact the industry."
+FDM 10020 ,"FASHION VISUALS
+",FDM,fashion design (FD) or fashionmerchandising (FM) major. ,FDM 10023.,"The study of fashion information, research sources, color theory, two-and three-dimensional design and visual
+ presentation formats as they
+apply to the fashion industry."
+FDM 10023 ,"FASHION VISUALS
+",FDM,fashion design (FD) or fashionmerchandising (FM) major. ,FDM 10024.,"The study of fashion information, research sources, color theory, two-and three-dimensional design and visual
+ presentation formats as they
+apply to the fashion industry."
+FDM 10024 ,"FASHION VISUALS LABORATORY
+",FDM,fashiondesign (FD) or fashion merchandising (FM) major. ,FDM 10023.,"Laboratory applications in the study of fashion information, research sources, color theory, two-and three-
+dimensional design and visual presentation formats as they apply to the fashion industry."
+FDM 10030 ,"FASHION FABRICS
+",FDM,fashion design (FD) or fashionmerchandising (FM) major. ,FDM 10033.,"Study of fabrics, focusing on differentiating between fibers, fabric construction, and fabric names. The student
+ will study fabric properties
+and how they relate to fabric end usage."
+FDM 10033 ,"FASHION FABRICS
+",FDM,fashion design (FD) or fashionmerchandising (FM) major. ,FDM 10034.,"Study of fabrics, focusing on differentiating between fibers, fabric construction, and fabric names. The student
+ will study fabric properties
+and how they relate to fabric end usage."
+FDM 10034 ,"FASHION FABRICS LABORATORY
+",FDM,fashion design (FD) or fashion merchandising (FM) major. ,FDM 10033.,"Laboratory applications in the study of fabrics, focusing on differentiating between fibers, fabric construction,
+ and fabric names. The student will study fabric properties and how they relate to fabric end usage."
+FDM 10050 ,"INTRODUCTION TO FASHION TECHNOLOGY
+",FDM,fashion design (FD) or fashion merchandising(FM) major. ,uisite: FDM 10053,"Introduces students to the fundamental concepts, procedures, and techniques used in digital imaging software
+ and information database software. A survey of current and emerging technologies used in fashion design,
+ merchandising and production contexts is presented."
+FDM 10053 ,"INTRODUCTION TO FASHION TECHNOLOGY
+",FDM,fashion design (FD) or fashion merchandising(FM) major. ,uisite: FDM 10054,"Introduces students to the fundamental concepts, procedures, and techniques used in digital imaging software
+ and information database software. A survey of current and emerging technologies used in fashion design,
+ merchandising and production contexts is presented."
+FDM 10054 ,"INTRODUCTION TO FASHION TECHNOLOGY LABORATORY
+",FDM,fashion design (FD) or fashionmerchandising (FM) major. ,FDM 10053.,"Laboratory applications of fundamental concepts, procedures, and techniques used in digital imaging software
+ and information database software. A survey of current and emerging technologies used in fashion design,
+ merchandising, and production contexts is presented and applied."
+FDM 10140 ,"FOUNDATIONS OF FASHION DRAWING
+",FDM,Fashion design major.,None,"Introduction to fashion drawing. Concentration on communicating through drawing the fashion figures and
+ technical flats, accurate garment proportion and construction."
+FDM 15043 ,"WORKROOM TECHNIQUES I
+",FDM,fashion design (FD) major.,None,"Introduction to basic construction skills using apparel workroom methods
+and industrial sewing equipment."
+FDM 15044 ,"WORKROOM TECHNIQUES II
+",FDM,FDM 15043.,None,"Continued study of basic construction skills using apparel workroom methods and industrial sewing equipment.
+ Introduction to garment fit and
+alterations."
+FDM 15055 ,"BASICS OF APPAREL CONSTRUCTION
+",FDM,fashion design (FD) major.,None,"Introduction to sewing techniques and application processes using industrial sewing machines and other related
+ equipment in basic garment construction. Development of fundamental patternmaking skills."
+FDM 20013 ,"HISTORY OF COSTUME
+",FDM,"HIST11050 or HIST 11051 or ARTH 22006 or ARTH 22007.
+",None,"Chronological study and research of historic costume from the origin of clothing through the French
+ revolutionary era, 19th and 20th century designers, and the influence on contemporary fashion."
+FDM 20020 ,"FASHION MERCHANDISING PRESENTATIONS
+",FDM,FDM 10010 and fashion merchandising major.,None,"Study of fashion information, research sources and visual presentation formats used in the fashion industry."
+FDM 20030 ,"FASHION APPAREL ANALYSIS
+",FDM,"FDM 10030 and fashionmerchandising (FM) major.
+",None,"Analysis and evaluation of fashion apparel; quality standards of ready-to-wear apparel and factors that
+ influence the aesthetic and functional performance of the end product."
+FDM 20040 ,"FASHION FABRICS II
+",FDM,"FDM10030 and fashion design (FD) major.
+",None,"Continued study of fabrics, focusing on analyzing fabrics in detail. Also included will be the study of laces, trims,
+ high performance fabrics and current events in the textile industry, including legislation."
+FDM 20050 ,"FASHION TECHNOLOGY APPLICATIONS
+",FDM,FDM 10050.,None,"A continuation of content related to technology within the fashion industry. Pattern manipulation, basic technical
+ packages, garment measuring specs, print design and computerized fashion illustration is addressed with the
+ use of industry-specific and off-the-shelf software packages."
+FDM 20121 ,"FASHION DRAWING I
+",FDM,FDM 10020 and FDM 10140. ,FDM 20141.,"Advanced study of design illustration techniques as applied to the fashion figure through the use of live model
+ drawing. Concentration on fabric rendering and drape as illustrated on the fashion figure. Introduction to
+ technical flats used for illustrating garment construction."
+FDM 20122 ,"FASHION DRAWING II
+",FDM,FDM 20121. ,FDM 20142.,"Continued study of fashion illustration techniques through the use of Croquis books and figure layouts.
+ Introduction to different design markets and research and how illustration reflects different markets. Instruction
+ on stylizing according to market."
+FDM 20131 ,"TECHNICAL FASHION DRAWING I
+",FDM,FDM 10140 and FDM 10020. ,FDM 20141.,"Advanced study of design illustration techniques used to communicate design ideas as applied to technical
+ fashion drawings. Concentration on fabric rendering and drape through the development and use of Croquis to
+ show loose flats."
+FDM 20132 ,"TECHNICAL FASHION DRAWING II
+",FDM,FDM 20131. ,FDM 20142.,"Continued study of technical fashion illustration techniques through the
+use of Adobe Illustrator, line plans and
+ Croquis books for research. Introduction to design markets, research and presentations to buyers. Use of
+ drawing software for technical flats and construction details."
+FDM 20153 ,"FLAT PATTERN
+",FDM,"FDM 10030 and FDM15055.
+",None,"Development of basic muslins and slopers. Patternmaking principles of dart manipulation and added fullness.
+ Construction techniques for bodice, skirt, sleeve, collar, and pant variations."
+FDM 20154 ,"DRAPING
+",FDM,FDM 10030 and FDM 15055.,None,"Development of basic garment shapes using draping techniques. Emphasis placed on torso development,
+ contouring principles and design development on the form. Construction techniques for boned bodice garments
+ and using knit and bias cut fabrics."
+FDM 20155 ,"MACHINE KNITTING-SINGLE BED
+",FDM,fashion design (FD) major.,None,"Basic machine knitting techniques for fashion applications on flat-bed knitting machines. Development and
+ analysis of fully fashioned knit garments."
+FDM 20263 ,"FASHION RETAIL INDUSTRY
+",FDM,"FDM 10010; and fashion design (FD) orfashion merchandising (FM) major.
+",None,"Study of retail organizations and structures within the fashion industry. Analysis of supervision organization and
+ operations management
+of fashion retail institutions."
+FDM 25011 ,"FASHION BRANDING
+",FDM,"FDM 10010; and fashion merchandisingmajor.
+",None,"An overview of branding in the fashion industry. Analysis of strategies for creating (brand awareness),
+ maintaining (brand management) and enhancing the strength (brand asset management) of fashion brands.
+ Class
+members work individual an as part of a group."
+FDM 30013 ,"FASHION AND POP CULTURE
+",FDM,ARTH 220006 or ARTH 22007 or HIST 11050 or HIST 11051.,None,"An examination of the relationship between different types of design and
+popular culture in America and Europe
+ in the 20th and 21st centuries."
+FDM 30050 ,"FASHION TECHNOLOGY: COMPUTER INTEGRATED TEXTILE DESIGN
+",FDM,FDM 10050.,None,"The use of Computer Integrated Design tools to produce textile prints, wovens and knits for professional
+ presentation scenarios."
+FDM 30083 ,"PROFESSIONAL SEMINAR
+",FDM,"FDM 20030 and fashion merchandising (FM) major and junior or seniorstanding.
+",None,"Professional development strategies for fashion and related careers. Emphasis is on verbal and written
+ communication skills."
+FDM 30121 ,"FASHION DESIGN I
+",FDM,FDM20122. ,FDM 30141.,"Study of the fashion industry, seasons and markets. Research and theoretical development of a fashion
+ line/collection. Continued development of drawing, rendering and technical drawing skills."
+FDM 30122 ,"FASHION DESIGN II
+",FDM,FDM 30121. ,FDM 30142.,"Research and theoretical development of fashion lines for specialized markets. Continued development of
+ drawing and rendering skills."
+FDM 30123 ,"CAD FOR FASHION APPLICATIONS
+",FDM,Fashion design and merchandising (FDM) major and junior standing.,None,"The use of CAD to produce technical drawings, sketches, color stories and textile prints for design and
+ merchandising presentations."
+FDM 30124 ,"APPAREL MANUFACTURING PROCESSES
+",FDM,FDM 20040 and 20132 and 20142.,None,"Students learn seam/stitch classifications, costing, sourcing and lab testing quality assurance. Assembly-line
+ and modular manufacturing are discussed."
+FDM 30131 ,"TECHNICAL FASHION DESIGN I
+",FDM,"FDM20132 and 20142.
+",None,"Introduction to computerized product data management systems. Creating technical packets with detailed
+ drawings and assembly instructions. Measuring garment prototypes for quality assessment."
+FDM 30132 ,"APPAREL CONSTRUCTION FOR SPECIALTY MARKETS
+",FDM,FDM 20142.,None,"Construction details specific to a market are researched, discussed and duplicated. Only one specialty market
+ covered each class. Markets vary by class."
+FDM 30141 ,"FASHION STUDIO I
+",FDM,FDM 20142. ,FDM 30121.,"Advanced patternmaking and construction techniques are used to create complex garments as well as gain
+experience using fabrics and techniques
+new to students. Instruction on appropriate seams and finishes for:
+wools, knits, sheer and silky fabrics. Introduction to technical flats used for illustrating garment construction."
+FDM 30142 ,"FASHION STUDIO II
+",FDM,FDM30141. ,FDM 30122.,"Advanced draping, patternmaking and construction techniques are used to create original garments designed in
+ Fashion Design II."
+FDM 30151 ,"ADVANCED PATTERNMAKING
+",FDM,"FDM 20153 and FDM20154.
+",None,"Flat pattern assignments for advanced, complex garments. Suits, outerwear, cutsew knits will all be covered.
+ Students will make patterns
+by traditional methods as well as by computer."
+FDM 30152 ,"APPAREL PROTOTYPE PRODUCTION AND ANALYSIS
+",FDM,FDM 20142.,None,"Production of sample garments for a variety of apparel markets focusing on analysis of fit. Menswear,
+ childrenswear, missy, petites and plus size markets are covered. Woven and knit classifications are produced."
+FDM 30153 ,"MACHINE KNITTING
+",FDM,"FDM 10030and fashion design (FD) major.
+",None,"Learn basic machine knitting techniques and create a sample book. Learn how knits are constructed in the
+ industry. Create two garments based on research and using a theme as inspiration."
+FDM 30154 ,"MACHINE KNITTING-DOUBLE BED
+",FDM,fashion design (FD) major.,None,"Knitting techniques on a double-bed knitting machine, full-fashioned knit and construction techniques, and
+ creation of a knit sample book. Students create two garments based on research and knowledge gained from
+ the sample book."
+FDM 30155 ,"KNITWEAR DESIGN
+",FDM,fashion design (FD) major.,None,"Focus is on the design development of knitwear, learning about how to recognize and communicate knit design
+ through graphs and stitch notation
+as well as what yarns, fibers and machines are appropriate. The students in
+ this class also design knitwear collections."
+FDM 30161 ,"FASHION DESIGN STUDIO I
+",FDM,"FDM 20122 and FDM 20153 and FDM20154; and special approval.
+",None,"Open fashion studio concept to support the creative process of croquis sketching and construction in the
+ production of design work. Students explore markets, selling seasons, and specific construction techniques; and
+ they further develop fashion design process approaches."
+FDM 30162 ,"FASHION DESIGN STUDIO II
+",FDM,"FDM 30161 or FDM 30171 or FDM 30181; and specialapproval.
+",None,"A continuation of the open fashion studio concept to support the entire creative process to produce design work.
+ Students explore fashion markets, selling seasons, and specific construction techniques; and they
+further
+ develop fashion design process approaches."
+FDM 30171 ,"FLORENCE FASHION DESIGN STUDIO I
+",FDM,FDM 20122 and FDM 20153 and FDM 20154; and special approval.,None,"Open fashion studio concept to support the creative process of croquis sketching and construction in the
+ production of design work. Students explore markets, selling seasons, and specific construction techniques; and
+ they further develop fashion design process approaches. European markets and travel are incorporated."
+FDM 30172 ,"FLORENCE FASHION DESIGN STUDIO II
+",FDM,FDM 30161 or FDM 30171 or FDM 30181; and special approval.,None,"Continuation of the open fashion studio concept to support the entire creative process to produce design work.
+ Students will explore fashion markets, selling seasons, and specific construction techniques; and they
+will
+ further develop fashion design process approaches. Content specific to the European design experience."
+FDM 30181 ,"NEW YORK CITY FASHION DESIGN STUDIO I
+",FDM,FDM 20122 and FDM 20153 and FDM 20154; and special approval.,None,"Open fashion studio concept to support the creative process of croquis sketching and construction in the
+ production of design work. Students explore markets, selling seasons, and specific construction techniques; and
+ they further develop fashion design process approaches. New York City markets and design-specific experiences
+ are incorporated."
+FDM 30182 ,"NEW YORK CITY DESIGN STUDIO II
+",FDM,FDM 30161 or 30171 or 30181; and special approval.,None,"Continuation of the open fashion studio concept to support the entire creative process to produce design work.
+ Students explore fashion markets, selling seasons, and specific construction techniques; and they
+further
+ develop fashion design process approaches. Content specific to the New York City fashion design experience."
+FDM 30213 ,"FASHION MARKETING
+",FDM,FDM 20020; and MKTG 25010.,None,"Examination of fashion producers/retailers' roles in marketing communications. Analysis of consumer motivation
+ to develop sales strategies in relationship to marketing strategies."
+FDM 30260 ,"PRODUCT DEVELOPMENT IN THE FASHION INDUSTRY
+",FDM,FDM 20030 and fashion merchandising (FM) major.,None,"Researching, planning, developing and presenting a fashion product line for a identified target market with
+ regard to prices, styling and timing."
+FDM 30262 ,"FASHION MERCHANDISE PLANNING AND BUYING
+",FDM,"FDM 20263; and MATH 11009 or MATH 11010 orMATH 11012.
+",None,"Study of market sources, fashion buying techniques, assortment planning and allocation and quantitative
+ calculations needed in the fashion industry."
+FDM 35010 ,"CONTEMPORARY FASHION DESIGNERS
+",FDM,FDM 20013.,None,"Examine and analyze international fashion design and designers of the 20th and 21st centuries. Focuses on the
+ history, development and present
+context of fashion. Students assemble a portfolio of fashion designers studied
+ to include their biographies, clippings of their work and design
+inspirations."
+FDM 35011 ,"FASHION FORECASTING
+",FDM,FDM 25011.,None,"Identifying trends to develop fashion forecasts. Interrelationships of forecasting promotion, public relations, and
+ the fashion media will be explored."
+FDM 35012 ,"SUSTAINABILITY IN FASHION
+",FDM,none.,None,"Analysis and development of design process thinking through the lens of sustainability and socially responsibility
+ in fashion. Readings, documentaries and lectures are discussed in class. Interdisciplinary teams create a
+ product that supports sustainable fashion futures."
+FDM 35013 ,"FASHION ACCESSORIES
+",FDM,none.,None,"The merchandising, promotion and sales of accessories. Materials production and resources are examined by
+ category."
+FDM 35063 ,"VISUAL MERCHANDISING AND DISPLAY
+",FDM,"fashionmerchandising (FM) major.
+",None,Theory and practice of merchandise presentation for the purpose of promotion and sales.
+FDM 35070 ,"THE LUXURY MARKET
+",FDM,none.,None,"Purpose is to learn, understand, and perceive the luxury market and its parameters. Students gain an
+ understanding of the marketing power of luxury brands and the organization of a luxury products company."
+FDM 35080 ,"FASHION IN THE MEDIA
+",FDM,none.,None,"Analysis of key fashion magazines and in-depth examination of how they are created. Students learn the
+ fundamentals of different forms of communication and the contributions editors, writers, stylists and
+ photographers make toward the finished product. Exploration of how various media interrelate and contribute to
+ the fashion industry is included. Different forms of writing, editing and interviewing as well as the roles of
+ photography, design and styling are examined. Online outlets, television commentary, fashion advertising and
+ Public Relations
+are discussed."
+FDM 35121 ,"FASHION MODEL DRAWING
+",FDM,FDM 20122; and special approval.,None,"In-depth study of fashion model drawing and the illustration techniques associated with realistic and stylized
+ depictions of the fashion form. A
+live fashion model will be part of each class in timed poses with instructor
+ demonstrations and in-class drawing assignments."
+FDM 35122 ,"ADVANCED FASHION ILLUSTRATION TECHNIQUES
+",FDM,"FDM 20122; andspecial approval.
+",None,"Focused approach to advanced fashion illustration techniques beyond the required Drawing I and II. Covers a
+ wide variety of illustration mediums
+and tools, such as gouache, marker, ink and pastels, deepening skill sets
+ and visual literacy through demonstrations and practice-based assignments."
+FDM 35260 ,"MERCHANDISING FOR HOME FURNISHINGS
+",FDM,None.,None,"Introduction to the various retail classifications of home furnishing merchandise to include furniture,floor
+ coverings, window treatments, household linens, table tops, housewares and decorative accessories."
+FDM 35270 ,"COMPUTER APPLICATIONS IN RETAILING
+",FDM,FDM 20263; and MATH 11009 or MATH 11010 or MATH 11012.,None,"The application and use of the microcomputer to solve problems in assortment planning, merchandise
+ management, trading area and site analysis, store planning, planogramming and media planning."
+FDM 35280 ,"FASHION ENTREPRENEURSHIP
+",FDM,junior or senior standing.,None,"In-depth study of entrepreneurship concepts as applied to manufacturers and retailers of apparel including
+ product development,accounting and control merchandising and buying operation and management advertising
+and promotion."
+FDM 35900 ,"FLORENCE FASHION STUDY ORIENTATION
+",FDM,2.5 cumulative GPA. ,FDM 20030 or FDM 20142.,"Overview of Florence fashion program, the city of Florence, living and traveling in Europe as a study abroad
+ student. Includes assistance for obtaining required documents. Students must enroll in Florence fashion
+program to receive credit."
+FDM 35901 ,"ITALIAN FASHION AND CULTURE
+",FDM,FDM 35900.,None,"Evolution of the fashion industry in post World War II Italy. Study of the creators, design and production
+ processes creating one of the most successful unions of commercial product and cultural expression world-wide."
+FDM 35902 ,"EUROPEAN FASHION MARKETING
+",FDM,None,FDM 35903.,"Building on the information acquired in the European Fashion Marketing Seminar lectures and visits, student
+ complete a series of assignments designed to simulate the type of work that a merchandising professional may
+ be asked to complete."
+FDM 35903 ,"EUROPEAN FASHION MARKETING SEMINAR
+",FDM,None,FDM 35902.,"Taken concurrently with European Fashion Marketing and uses a European city as an extended classroom,
+ combining various field trips to directional shopping districts, fashion houses and fashion magazines. Only
+ taught in European settings."
+FDM 35904 ,"EUROPEAN FASHION DESIGN
+",FDM,None,FDM 35905.,"Taken concurrently with European Fashion Design Seminar and is designed to introduce couture techniques and
+ enhance techniques of those who possess a basic to advance knowledge of sewing. Only taught in European
+settings."
+FDM 35905 ,"EUROPEAN FASHION DESIGN SEMINAR
+",FDM,None,FDM 35904.,"Taken concurrently with European Fashion Design and uses a European city
+as an extended classroom,
+ combining various field trips to directional shopping districts, fashion houses and fashion magazines."
+FDM 40050 ,"FASHION TECHNOLOGY:TECHSTYLELAB
+",FDM,FDM 10050.,None,"Explores the historical and contemporary links between fashion and technology. Garments, artists, designers,
+ institutions and projects relevant to technological explorations within the fashion context is discussed. Research
+ and experiments conducted with the Fashion School's TechStyleLAB. Students acquire fundamental research
+ skills for fashion technology and develop their own web presence."
+FDM 40099 ,"SENIOR FASHION DESIGN THESIS I
+",FDM,"BFA fashion design (FD) majors; andFDM 30162 or FDM 30172 or FDM 30182.
+",None,"Senior fashion design thesis collection is created focused on the specialties of each student. This collection is
+ finalized, analyzed and presented in Senior Thesis II. Students engage in a formalized critical development and
+ review process with established external fashion designers."
+FDM 40121 ,"FASHION PORTFOLIO I
+",FDM,FDM 30122. ,FDM 40141.,"Develop a professional design portfolio which will emphasize in-depth individual investigation of specific apparel
+ markets, target customers and seasons, displaying various illustrative techniques. Croquis books, technical
+ packets and line plans will be used."
+FDM 40122 ,"FASHION PORTFOLIO II
+",FDM,FDM 40121.,FDM 40142.,"Continued development of design portfolio which emphasizes students strengths in design and presentation.
+ Continued progress in croquis books and development of seasonal line plans."
+FDM 40131 ,"TECHNICAL FASHION DESIGN II
+",FDM,FDM 30131. ,FDM 40151.,"Continued study of the fashion industry markets and garment construction
+and finishes appropriate to market
+ through technical packets. Continued
+study of industry software used for technical design, tracking samples and
+ logging information. Development of a 'class collection' simulating the fashion industry through the production,
+ communication and creation of all design information inclusive of costing, samples of all technical
+packets."
+FDM 40132 ,"TECHNICAL FASHION DESIGN III
+",FDM,FDM 40131. ,FDM 40152.,"Develop a portfolio which emphasizes investigation of specific apparel markets through finishes and
+ fabrications. Portfolios will reflect concentrated classifications and will include technical packs and computerized
+ flat drawings."
+FDM 40141 ,"FASHION STUDIO III
+",FDM,FDM 30142. ,FDM 40121.,"Development of pattern work, specification sheets and muslins for original line. Faculty and external
+ professional critiques."
+FDM 40142 ,"FASHION STUDIO IV
+",FDM,FDM 40121 and 40141. ,FDM 40122.,Construction and completion of garments for original line. Faculty and external professional critiques.
+FDM 40151 ,"TECHNICAL DESIGN STUDIO I
+",FDM,FDM30131 and FDM 30132 and FDM 30124 and FDM 30151 and FDM 30152 . ,FDM 40131.,"Class collaborates on one collection by dividing into student teams based on classification (woven bottoms, knit
+ tops, etc.). Patterns and muslins are created. Faculty and external professional critiques."
+FDM 40152 ,"TECHNICAL DESIGN STUDIO II
+",FDM,FDM 40151. ,"FDM40132.
+","Continued work on collaborative collections. Student teams work on different classifications. The prototypes are
+ produced in final fabrics.
+Faculty and external professional critiques."
+FDM 40199 ,"SENIOR FASHION DESIGN THESIS II
+",FDM,FDM 40099.,None,"Continuation of Senior Fashion Design Thesis I. Finalize senior thesis project; critical review and reflection on
+ outcome in a short analysis. The final thesis submission will be displayed through a juried venue."
+FDM 40270 ,"FASHION MARKETING
+",FDM,MATH 10041 and MKTG 25010.,None,"Examination of fashion producers' and retailers' roles in fashion marketing research. Analysis of consumer
+ motivation through research to
+develop sales strategies in relationship to marketing strategies."
+FDM 40291 ,"SEMINAR IN FASHION MERCHANDISING
+",FDM,FDM 30260 and FDM 30262 and FDM 35011 and FDM 35270.,None,"(Repeatable for credit) Captsone course in Fashion Merchandising. Builds
+and expands on all merchandising-
+related coursework with the goal of integrating content and applying it to real-life scenarios through critical
+ thinking and analysis. A coherent portfolio demonstrating student efficacy with overall program content is
+ completed."
+FDM 45011 ,"FASHION FORECASTING
+",FDM,FDM 30213.,None,"Identifying trends to develop fashion forecasts. Interrelationships of forecasting promotion public relations and
+ the media."
+FDM 45012 ,"TEXTILES AND APPAREL IN THE GLOBAL ECONOMY
+",FDM,FDM 30262 and 35270.,None,"Global perspective on the production and marketing of textiles and apparel;historical geographic and economic
+ factors that influence the world trade in soft goods."
+FDM 45035 ,"HISTORIC TEXTILES
+",FDM,fashion design (FD) or fashion merchandising (FM) major.,None,Identification and analysis of textile fabrics as the reflection of culture from ancient times to present.
+FDM 45045 ,"COLLABORATIVE FASHION PRODUCTS
+",FDM,"Fashion Design(FD) or Fashion Merchandising (FM) major and special approval.
+",None,"Exploration of product production process from concept to a marketable product. Utilizes introductory pattern
+ making, sewing skills, and project management to create fashion apparel products."
+FDM 45092 ,"INTERNSHIP IN FASHION DESIGN AND MERCHANDISING
+",FDM,"FDM 30083 andjunior standing and special approval.
+",None,"(Repeatable for credit) Supervised practical experience in the fashion industry. Eligibility requirements available
+ from the school of fashion design and merchandising field studies coordinator."
+FDM 45093 ,"VARIABLE TITLE WORKSHOP-FASHION DESIGN AND MARKETING
+",FDM,special approval.,None,(Repeatable for a total of 6 hours) Special fee actual cost basis.
+FDM 45095 ,"SPECIAL TOPICS
+",FDM,Permission.,None,(Repeatable for credit)Variable content relevant to the field of fashion.
+FDM 45096 ,"INDIVIDUAL INVESTIGATION
+",FDM,Permission.,None,"(Repeatable for credit)Individual investigation of topic above the level
+available through coursework. Requires
+ submission of and approval of project proposal prior to registration."
+FDM 45192 ,"INTERNSHIP IN FASHION MERCHANDISING
+",FDM,"FDM 30083 and 30262; fashionmerchandising (FM) major; and special approval for internship site.
+",None,"Supervised practical experience in the fashion industry. Eligibility requirements available from the School of
+ Fashion Design and Merchandising field studies coordinator."
+FDM 45212 ,"FASHION SHOW PRODUCTIONS
+",FDM,None.,None,"Analyses of fashion show formats are considered for promotion purposes. Production planning, organization and
+ physical requirements are studied.
+Class produces a fashion show."
+FDM 45292 ,"INTERNSHIP IN FASHION DESIGN
+",FDM,"FDM 30083 and 30121; fashiondesign (FD) major; and special approval for internship site.
+",None,"Supervised practical experience in the fashion industry. Eligibility requirements available from the School of
+ Fashion Design and Merchandising field studies coordinator."
+FDM 45392 ,"FIELD EXPERIENCE: FASHION STUDY TOUR
+",FDM,"special approvaland fashion design (FD) or fashion merchandising (FM) major.
+",None,"(Repeatable for credit)Visit to domestic or foreign fashion markets, including design and fabric houses or
+ showrooms, retail stores, buying offices and other areas of the fashion industry."
+FDM 45492 ,"FIELD EXPERIENCE STUDY TOUR FOR NYC STUDIO STUDENTS
+",FDM,"Special approval andfashion
+ design or fashion merchandising major.
+",None,"(Repeatable for credit)Visit to the New York fashion market including design and fabric houses or showrooms,
+retail stores, buying offices and
+other areas of the fashion industry."
+FDM 45592 ,"FIELD EXPERIENCE EUROPEAN FASHION STUDY TOUR FOR FLORENCE STUDENTS
+",FDM,"Special approval andfashion
+ design or fashion merchandising major.
+",None,"(Repeatable for credit)Visit to European fashion markets including design and fabric houses or showrooms,
+ retail stores, buying offices and
+other areas of the fashion industry."
+FDM 50050 ,"TECHSTYLELAB: DIGITAL DESIGN AND NEW MEDIA IN FASHION
+",FDM,graduate standing or by permission of department.,None,"Exploration of the intersection of New Media and Fashion. Includes research into analog design methods and
+ digital systems of production and the supply chain management. Topics include various research and design
+ topics such as mass-customization, co-creation, material ecology,
+digital craft and future craft practices."
+FDM 50092 ,"FASHION INDUSTRY PRACTICUM
+",FDM,"FDM 60030; and graduate standing; andspecial approval from graduate supervisory committee.
+",None,"(Course is repeatable for a maximum of 6 credit hours) Practicum is an off-campus progressive process
+ involving a number of specific guided experiences with a fashion agency or company. This course is intended to
+ bridge the gap between the theoretical and abstract learning gained in the classroom with real-world concrete
+ applications. Students will be required to produce a substantial report on an innovation. One credit hour is
+ awarded for a minimum of seven clock hours per week."
+FDM 50093 ,"WORKSHOPS IN FASHION
+",FDM,graduate standing.,None,"(Course is repeatable) MFASH students will be encouraged to take advantage of courses that focus on
+ professional renewal or mastery and application of knowledge and skills that address a range of problems or
+issues related to fashion practice. The workshops will be offered at our
+NYC, Florence, and Kent campuses."
+FDM 50161 ,"ADVANCED FASHION DESIGN STUDIO
+",FDM,"FDM 60030; and graduate standing and specialapproval from graduate supervisory committee.
+",None,"(Course is repeatable for a maximum of 6 credit hours) Studio investigation of complex formal and spatial
+ constructs in apparel design, resulting in a body of work examined by exhibition. Examinable material includes
+ written and visual documentation, which is then retained as the archival record of the research. Students will
+ research and explore new techniques in the development of design concepts. These designs will go through
+ stages of review from testing to final project."
+FDM 50300 ,"ADVANCED FASHION INDUSTRY PRACTICE
+",FDM,"graduate standing and specialapproval by
+ department.
+",None,"This course is centered in empirical research as both a practice and a process. Students will engage in research
+ methodologies employed in case
+studies and reflect on how findings are produced and interpreted. Informed by
+ this analysis, students will pursue their own fashion case-studies in which they research and interpret fashion
+ practices. Students will engage in research such as observation, interviews, and onsite visits, and position their
+ own findings in relation to suitable scholarly discourse. The aim of the course is to challenge students to
+advance their research and analytical skills, to cross disciplinary boundaries, and to develop new and original
+ perspectives from which to form their own thesis topic."
+FDM 53010 ,"FASHION EXHIBITION DESIGN AND CURATORIAL PERSPECTIVES
+",FDM,graduate standing; and special approval of department.,None,"Practical introduction to the study and exhibition of textile and fashion artifacts. Survey of material culture
+ studies, significant theoretical models, different approaches to exhibition practice, influential exhibitions and the
+ viewer experience particular to fashion design and textiles. Students will select objects and apply knowledge of
+ research methods and interpretations. They will design their own fashion or textiles focused exhibition by
+ creating label copy, a catalogue, and a floor plan. Final projects will include consideration to budgets,
+conservation requirements, loan procedures, and public programming. Interdisciplinary approaches are
+ encouraged."
+FDM 55010 ,"CONCEPTS OF SUSTAINABLE FASHION
+",FDM,graduate standing.,None,"This course will discuss and examine the most current approaches to sustainability in fashion. The different
+ facets, benefits or shortcomings of each approach will be analyzed with an eye to researching viable solutions to
+ future practices in manufacturing, material selection, design and business. Course embeds practice-based
+approaches to sustainable development."
+FDM 55035 ,"HISTORIC TEXTILES
+",FDM,graduate standing. Prerequsite: graduate standing.,None,Identification and analysis of textile fabrics as the reflection of culture from ancient times to present.
+FDM 55095 ,"SPECIAL TOPICS
+",FDM,graduate standing and special approval.,None,(Repeatable for a maximum of 6 credit hours) Variable content relevant to the field of fashion.
+FDM 55096 ,"INDIVIDUAL INVESTIGATION
+",FDM,graduate standing.,None,"(Repeatable for a maximum of 3 credit hours) Individual investigation of
+topic above the level available through
+ coursework. Requires submission
+of and approval of project proposal prior to registration."
+FDM 60010 ,"THEORIES IN FASHION
+",FDM,"graduatestanding.
+",None,"Focuses on the meaning, context and intent of fashion design to contemporary society. Examination of seminal
+ theories and constructs that inform our understanding of the phenomenon of fashion."
+FDM 60020 ,"FASHION DESIGN MANAGEMENT
+",FDM,graduate standing.,None,"In-depth study of the relationship between creativity and efficiency in fashion design. Provides insight into how
+ project managers can nurture innovation in an organizational context."
+FDM 60030 ,"FORMS OF INQUIRY IN FASHION
+",FDM,"graduate standing and special approval by FashionDesing
+ and Merchandising graduate committee.
+",None,"Research proposals, their development and importance. Functions and purposes of research proposals;
+ components of proposals and their relevance; ethical implications of human subjects and research
+implementation and dissemination; implementation of quality writing and selected styles and formats; planning
+ and documenting the research process."
+FDM 60040 ,"FASHION: A UNIFYING LENS
+",FDM,"FDM 60010; and graduatestanding.
+",None,"Capstone graduate seminar designed to make connections, synthesize, and develop mastery of field. Students
+ will gain insight and overall understanding of fashion to include: “a unifying lens focused on creating, and
+ investigating the individual and collective phenomena of products and services that are related to the
+ appearance, style, identity and behavior of consumers within a visual culture.” Students will participate in
+ informed critical discussion, written, and visual work, guided by interaction with multiple faculty and concluded
+with a final paper and presentation that expands knowledge in the field."
+FDM 60098 ,"RESEARCH PROJECT IN FASHION DESIGN AND MERCHANDISING
+",FDM,"FDM 60010 and FDM 60030; and graduatestanding.
+ ",None,"Research experience with an individual faculty member designed to strengthen student's ability to synthesize
+ different phases and methods of research. Students work closely with faculty to determine the specific nature,
+ scope and design of the research experience."
+FDM 60199 ,"MASTER OF FASHION THESIS I
+",FDM,"graduate standing and special approval from graduate supervisorycommittee.
+",None,"Thesis students must register for a maximum of 6 credits, 2 to 6 credits
+in a single semester, distributed over
+ several semesters if desired."
+FDM 60299 ,"MASTER OF FASHION THESIS II
+",FDM,"FDM 60199; graduatestanding and special approval.
+",None,"(Course is repeatable) Continuing registration required of master's students who have completed the initial 6
+ hours of thesis and continuing
+until all degree requirements are met."

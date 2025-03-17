@@ -1,0 +1,194 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+COMT 11000 ,"INTRODUCTION TO COMPUTER SYSTEMS
+",COMT,none.,None,"(Equivalent to MIS 24053) Covers the basic concepts and use of computer systems, including hardware,
+personal productivity software, Internet usage and file management."
+COMT 11002 ,"VISUAL BASIC PROGRAMMING
+",COMT,none.,None,"Visual Basic.NET language introducing concepts of object-oriented, event-driven program design and
+implementation."
+COMT 11004 ,"SURVEY OF INFORMATION TECHNOLOGY
+",COMT,None.,None,"This overview course will provide an introduction to information technologies, career paths and professional
+certifications available."
+COMT 11005 ,"INTRODUCTION TO OPERATING SYSTEMS AND NETWORKING TECHNOLOGY
+",COMT,none.,None,"Survey of desktop and network OS essentials, including file and disk management, system tools utilization,
+resource sharing and introductory network concepts."
+COMT 11006 ,"INTRODUCTION TO WEB SITE TECHNOLOGY
+",COMT,none.,None,"Focuses on web site technologies including HTML. Students learn the history of the Internet and effective search
+techniques."
+COMT 11009 ,"COMPUTER ASSEMBLY AND CONFIGURATION
+",COMT,"COMT 11005 orCS 33211 or DSCI 26010 or TECH 10001. 
+",None,"Covers disk operating system functions and features; hardware/software installation procedures; file and
+directories management; system configuration/optimization; backup procedures."
+COMT 12000 ,"PERSONAL PRODUCTIVITY SOFTWARE
+",COMT,none.,None,"Covers intermediate concepts and integration of computer applications. Emphasis on software suites, specifically
+word processing, electronic spreadsheets, database and presentation applications."
+COMT 20001 ,"C++ PROGRAMMING
+",COMT,none.,None,"Course using C++ introducing concepts of software development, object-oriented event-driven programming,
+testing and debugging, simple and complex data types language syntax and semantics."
+COMT 20011 ,"JAVA PROGRAMMING
+",COMT,none.,None,"Course using Java introducing concepts of software development, object-oriented event-driven programming,
+testing and debugging, simple and complex data types, language syntax and semantics."
+COMT 20021 ,"C SHARP PROGRAMMING
+",COMT,None.,None,"Introductory concepts of C Sharp: Development environment, variables, decisions, looping, arrays, strings,
+methods, exception, and event handling."
+COMT 21002 ,"NETWORK SETUP AND CONFIGURATION
+",COMT,None,None,"Introduces networking in LAN and WAN environments. Topics include network protocol, configuration, operation,
+setup, installation, administration, management and security. Pre/corequisite: COMT 11009."
+COMT 21005 ,"VISUAL BASIC DATABASE PROGRAMMING
+",COMT,"COMT11002 or CS 13001 or DSCI 15310 or MIS 24065. 
+",None,Advanced course in the visual basic language focusing on database systems development.
+COMT 21007 ,"INTERNET ETHICS AND POLICIES
+",COMT,None.,None,"Covers the ethics, issues and policies regarding the Internet. It includes discussion/research on intellectual
+property/freedom, hacking, pornography, privacy, etc."
+COMT 21008 ,"COMPUTER METHODS IN SCIENCE AND ENGINEERING
+",COMT,None.,None,"Use of computers in problems related to science and engineering. Course will include introduction to elements of
+a high level scientific language."
+COMT 21009 ,"SEMINAR IN COMPUTER TECHNOLOGY
+",COMT,COMT 11002 and 11005 and 11006 and 11009 and 21002 and 21010.,None,"Capstone course for COMT students encompassing critical reading, writing and discussion applying the current
+theories of computer technologies to on-the-job experiences. Students will develop a portfolio to confirm their
+level of knowledge."
+COMT 21010 ,"WORKGROUP PRODUCTIVITY SOFTWARE
+",COMT,"COMT 12000; orITAP 16639 and 26611. 
+",None,"Research project-oriented course emphasizing workgroup methodologies for group project management,
+problem definition, data retrieval and analysis, conclusions and recommendations."
+COMT 21011 ,"TECHNIQUES OF MULTIMEDIA WEB DESIGN
+",COMT,COMT 11006 or COMT faculty special approval.,None,Focuses on developing and managing effective web sites using multimedia elements including sound and video.
+COMT 21036 ,"WEB SCRIPTING I
+",COMT,"COMT 11002 and COMT 11006; orCS 13001 and CS 27101; or TECH 26301; or MIS 24065. 
+",None,"This course will focus on client-side scripting needed to create interactive and dynamic Web sites. The use of
+scripting in context with various technologies will be explored."
+COMT 21092 ,"COMPUTER PRACTICUM
+",COMT,sophomore standing.,None,"(Repeatable for credit) Supervised work experience in information technology environment; 45 hours supervised
+work experience per credit hour."
+COMT 21095 ,"SPECIAL TOPICS IN COMPUTER TECHNOLOGY
+",COMT,Permission.,None,(Repeatable for credit)Topics announced when scheduled.
+COMT 21096 ,"INDIVIDUAL INVESTIGATION IN COMPUTER TECHNOLOGY
+",COMT,Permission.,None,(Repeatable for credit)Individual study in computer field. Open to computer technology majors.
+COMT 21100 ,"LOCAL AREA NETWORK TROUBLESHOOTING
+",COMT,"COMT21002 or CS 33211 or DSCI 26010; or TECH 23010 and TECH 26301. 
+",None,"Covers local area network troubleshooting techniques. Topics include identifying the scope of the problem,
+systematic troubleshooting approaches, problem resolution and ongoing maintenance."
+COMT 21110 ,"INTERNETWORKING
+",COMT,"COMT 21002 or CS 33211 or DSCI 26010; orTECH 23010 and 26301. 
+",None,"Introduces internetworking concepts. Topics include networking standards, cabling, TCPIP, router configuration,
+LAN and WAN segments and other related topics."
+COMT 21200 ,"ETHICAL HACKING
+",COMT,COMT 21002 or CS 33211 or DSCI 26010; or TECH 23010 and TECH 26301.,None,"Tools and techniques ethical hackers and security testers use to discover vulnerabilities and solutions to protect
+computer networks."
+COMT 36095 ,"SPECIAL TOPICS IN COMPUTER TECHNOLOGY
+",COMT,none.,None,"(Repeatable for credit)Various special courses will be announced in the schedule of classes under this course
+number with different section numbers."
+COMT 36301 ,"ADVANCED C++ PROGRAMMING
+",COMT,"COMT20001. 
+",None,"Course using C++: classes and data abstraction, stream IO, inheritance, standard template library, Microsoft
+Foundation Classes, system programming concepts using Unified Modeling Language.."
+COMT 36302 ,"ADVANCED C SHARP PROGRAMMING
+",COMT,None,None,"Advanced concepts of C Sharp including classes and objects, inheritance, polymorphism, arrays, exception
+handling, files and streams and XAML. Preprequisite: COMT 20021."
+COMT 36303 ,"DIGITAL IMAGE MANIPULATION
+",COMT,"COMT11006. 
+",None,Course covers various concepts involved in the creation and manipulation of digital images.
+COMT 36308 ,"ERGONOMICS IN COMPUTER SYSTEMS
+",COMT,junior standing.,None,"Introduction to ergonomics, usability design, and assessment methods for the development of computer
+hardware, software, and systems."
+COMT 36309 ,"PROGRAMMING MOBILE APPLICATIONS
+",COMT,COMT 11002 or COMT 20001 or COMT 20021 or CS 13001 or DSCI 15310 or MIS 24065.,None,"Introduces the unique program design considerations required by mobile device platforms such as PDAs and
+Smartphones. Practical programming examples will utilize Visual Basic and the .NET Compact Framework."
+COMT 36310 ,"MULTIMEDIA DEVELOPMENT TOOLS
+",COMT,COMT 21011.,None,"Course focuses on advanced technologies for Web development, including DHTML, plug-ins, etc. Students will
+learn to create more interactive and dynamic web sites."
+COMT 36311 ,"ADVANCED JAVA PROGRAMMING
+",COMT,COMT 20011.,None,"Course using Java abstract data types and objects, object-oriented, event-driven design, file organization and
+access, and systems programming concepts."
+COMT 36314 ,"SEMINAR IN EMERGING COMPUTER AND INFORMATION TECHNOLOGIES
+",COMT,"Juniorstanding. 
+",None,Survey of new and emerging technologies in computer and information technology.
+COMT 36315 ,"CERTIFICATION PREPARATION IN COMPUTER TECHNOLOGY
+",COMT,special approval.,None,"(Repeatable for a maximum of 6 credit hours) Certification preparation course to help students prepare for
+professional certification attempts in Computer Technology. Certification is not guaranteed. Certification fees
+may apply."
+COMT 36318 ,"SURVEY OF INFORMATION SECURITY, INTERNET FRAUD AND COMPUTER FORENSICS
+",COMT,ENG 21011 or HONR 10297; and junior standing.,None,"This lecture-based, survey course provides a non-technical introduction to contemporary issues in information
+security, Internet fraud and computer forensics."
+COMT 36320 ,"COMPUTER FORENSICS
+",COMT,"COMT21002 or CS 33211 or DSCI 26010 ;or TECH 23010 and TECH 26301 
+",None,"Hands-on skills in incident response, forensic preparation, and data recovery, and analysis."
+COMT 36321 ,"NETWORK FORENSICS
+",COMT,"COMT21002 or CS 33211 or DSCI 26010; or TECH 23010 and TECH 26301. 
+",None,"Emphasizing hands-on skills in live incident response, the proper use of network forensic tools, network
+monitoring, live data capture, evidence analysis, data integrity and other related topics."
+COMT 36330 ,"LOCAL AREA NETWORK SECURITY FUNDAMENTALS
+",COMT,COMT 21002 or CS 33211 or DSCI 26010; or TECH 23010 and TECH 26301.,None,"Examines the primary issues involved in securing resources in a LAN, including threat assessment,
+countermeasures, best practices, security protocols, cryptography and management-related issues."
+COMT 36331 ,"INTERNETWORKING II
+",COMT,COMT 21110.,None,"Reinforcing Internetworking concepts. Topics include network standards, LAN switching, VLANs, network
+designs, routing protocols and configuration, LAN and WAN segments, and other related topics."
+COMT 36336 ,"WEB SCRIPTING II
+",COMT,"COMT 21036or special approval of COMT faculty. 
+",None,Focuses on server-side scripting needed to create interactive and dynamic web sites.
+COMT 36340 ,"HELP DESK SUPPORT
+",COMT,COMT 11009 or TECH 23010.,None,"Examination of help desks that exist, importance within organizations, the roles and skills required, and methods
+and technologies commonly employed."
+COMT 36350 ,"PROGRAMMING OFFICE PRODUCTIVITY APPLICATIONS
+",COMT,"COMT 11002 and COMT21010. 
+",None,"Introduces the use of Visual Basic for Applications (VBA) as a tool to create customized programs that automate
+repetitive and/or complex tasks performed using office suite applications."
+COMT 36355 ,"COMMAND LINE UTILITIES
+",COMT,COMT 21002 or CS 33211 or DSCI 26010; or TECH 23010 and TECH 26301.,None,"Preparing students to perform effectively in Windows, Linux, and various server command line environments.
+Command syntax, batch files, script files, internal & external commands, and other related topics will be
+covered."
+COMT 36392 ,"INTERNSHIP FOR COMPUTER TECHNOLOGY STUDENTS
+",COMT,junior standing.,None,"(Repeatable for a maximum of 6 credit hours) An arranged work experience for students in the IT field. Students
+complete 45 hours of internship per credit."
+COMT 40000 ,"CYBERSECURITY
+",COMT,"COMT 21002; or DSCI 26010; or CS 33211; or TECH 23010 and TECH26301. 
+",None,"Builds on a background in networking and focuses on cybersecurity best practices, standard models, and
+regulatory requirements."
+COMT 41002 ,"CLOUD TECHNOLOGY
+",COMT,"COMT21002; or DSCI 26010; or CS 33211; or TECH 23010 and TECH 26301. 
+",None,"Concepts of cloud computing, including storage; services; technology; and management."
+COMT 42000 ,"SOCIAL MEDIA SECURITY
+",COMT,Junior standing.,None,"Personal and corporate social media presence, security risks, intellectual property and ethical issues."
+COMT 46300 ,"ADVANCED COMPUTER ASSEMBLY AND CONFIGURATION
+",COMT,COMT 11009 and junior standing.,None,"Focus is on advanced system components, streamlined operating system installation procedures, and current
+technology in LAN connectivity."
+COMT 46303 ,"DIGITAL VIDEO EDITING
+",COMT,COMT 36303.,None,"Utilizes digital imaging technologies to produce videos. Includes timelines; filming, importing/exporting video;
+audio; effects, transitions, and captions."
+COMT 46308 ,"ADVANCED VISUAL BASIC PROGRAMMING
+",COMT,COMT 11002 or CS 13001 or DSCI 15310 or MIS 24065..,None,"advanced concepts of Visual Basic: Classes and Objects, Inheritance, Polymorphism, Arrays, Exception Handling,
+Files and Streams, DLLs."
+COMT 46309 ,"VISUAL BASIC WEB PROGRAMMING
+",COMT,COMT 11002 or CS 13001 or DSCI 15310 or MIS 24065.,None,"Using Visual Basic to develop secure, data-aware web applications. Topics covered include HTML and CSS,
+testing and debugging, master pages, state management, security and authentication, SQL and object data
+sources, AJAX, and WCF services."
+COMT 46310 ,"TECHNOLOGY OF OPERATING SYSTEMS
+",COMT,"COMT 21002 or CS 33211 or DSCI26010; or TECH 23010 and TECH 26301. 
+",None,"Course covering installation, configuration, tuning, and communication among state of the art desktop operating
+systems, using available system tools, utilities and files."
+COMT 46311 ,"TECHNOLOGY OF NETWORKING
+",COMT,COMT 21002 or CS 33211 or DSCI 26010; or TECH 23010 and TECH 26301.,None,"Advanced topics of enterprise network management, including DNS, WINS, IP addressing, routing basics, subnet
+masking, firewalls, storage redundancy techniques, and general tuning, optimizing, troubleshooting, recovery
+strategies."
+COMT 46312 ,"SCRIPTING FOR NETWORK ADMINISTRATORS
+",COMT,COMT 21002 and COMT 21036.,None,Covers scripting technologies to configure and manage resources and services of LAN servers and workstations.
+COMT 46313 ,"VIRTUAL MACHINE CONFIGURATION AND ADMINISTRATION
+",COMT,"COMT 21002 or CS 33211 orDSCI 26010; or TECH 23010 and TECH 26301. 
+",None,Focus on configuring and administering virtual machine software.
+COMT 46314 ,"ADVANCED SERVER CONFIGURATION
+",COMT,COMT 21002 or CS 32111 or DSCI 26010; or TECH 23010 and TECH 26301.,None,"Focus is on the core service roles provided by application services including configuration, maintenance and
+security."
+COMT 46315 ,"SQL WITH ORACLE
+",COMT,"COMT 21005 or CS 13001 or DSCI 15310 orMIS 24065. 
+",None,Focus is on SQL and relational databases using Oracle.
+COMT 46320 ,"CLOUD FORENSICS
+",COMT,COMT 21002; or DSCI 26010; or CS 33211; or TECH 23010 and TECH 26301.,None,"Concepts of cloud forensics, including legal consideration and software tools involved with discovery in the cloud."
+COMT 46321 ,"WEB DATABASE INTEGRATION
+",COMT,COMT 21036.,None,"Focus is on integrating data sources into web sites. Current topics include advanced concepts in server-side
+processing principles, web forms, database programming objects and Structured Query Language."
+COMT 46331 ,"LOCAL AREA NETWORK SECURITY AND FIREWALLS
+",COMT,"COMT36330. 
+",None,"Examines the primary issues involved in defining and configuring a local area network defense perimeter
+including LAN security analysis, implementing firewalls, and intrusion detection systems."
+COMT 46340 ,"DATA DESIGN AND IMPLEMENTATION
+",COMT,COMT 21005 and COMT 21010.,None,"Explores the role and design of databases in organizations, with emphasis on the technologies used in their
+implementation. Emphasis on SQL."

@@ -1,0 +1,134 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+EPSY 29525 ,"EDUCATIONAL PSYCHOLOGY
+",EPSY,CULT 29535.,None,"Examines major theories of human development and learning, motivation, instructional strategies, assessment;
+ similarities and differences in learners. The role of factors in the students' learning and development is
+ considered. Participation in the Educational Psychology research participant pool or an alternative research
+ assignment is required."
+EPSY 49525 ,"RELATIONAL LEARNING IN EDUCATION
+",EPSY,"specialapproval.
+",None,"Seminar focuses on national and international relational learning approaches to education. Current literature on
+ relational learning is critiques. Professional identity is supported through engages learning opportunities in per
+ mentoring experiences and faculty-let research. Course may be repeated for maximum 9 credit hours."
+EPSY 50093 ,"VARIABLE TITLE WORKSHOP IN EDUCATIONAL PSYCHOLOGY
+",EPSY,Graduate standing and special approval.,None,"(Repeatable for a maximum of 6 credit hours) (Cross-listed with EPSY 70093) Offered on request of school
+ system. Enrollment limited to teachers, administrators or supervisors who are employed in sponsoring system
+ and who are accepted to the university."
+EPSY 60199 ,"THESIS I
+",EPSY,Graduate standing and special approval.,None,"Thesis student must register for total of 6 hours, 2 to 6 hours in a single semester distributed over several
+ semesters if desired."
+EPSY 60299 ,"THESIS II
+",EPSY,EPSY 60199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+EPSY 65520 ,"CHILD AND ADOLESCENT DEVELOPMENT
+",EPSY,Graduate standing.,None,"(Cross-listed with EPSY 75520) Dimensions of human development and learning, causal factors and research
+ findings which carry implications for educators in various settings; focusing on birth through adolescence."
+EPSY 65521 ,"ADULT DEVELOPMENT
+",EPSY,Graduate standing.,None,"(Cross-listed with EPSY 75521) Essential dimensions of human development
+and learning, the causal factors
+ and the research findings which carry implications for educators in various settings; focusing on early through
+ late adulthood."
+EPSY 65523 ,"LIFE SPAN DEVELOPMENT
+",EPSY,Graduate standing.,None,"(Cross-listed with EPSY 75523) Orientation to human development across life span from conception to death;
+ emphasis on pluralistic determinants
+of individual growth within changing environmental contexts. Implications
+ for educational and human service practices are emphasized."
+EPSY 65524 ,"LEARNING THEORIES
+",EPSY,Graduate standing.,None,"(Cross-listed with EPSY 75524) Theories of learning with special emphasis on application to professional
+ practice. A critical examination
+of research on human learning processes."
+EPSY 65529 ,"EDUCATIONAL MOTIVATION
+",EPSY,graduate standing.,None,"Provides students with the opportunity to explore, analyze and evaluate literature related to theories of
+motivation. Content is grounded in theories but each of the theories has clear classroom application."
+EPSY 68901 ,"PSYCHOLOGICAL FOUNDATIONS OF EDUCATION
+",EPSY,"Admissionto the M.A.T. program and graduate standing.
+",None,"(Cross-listed with EPSY 78901) Overview of human development, particularly adolescence, and implications for
+ educational policy and programming, generally and specifically for secondary schools."
+EPSY 68905 ,"EDUCATIONAL PSYCHOLOGY
+",EPSY,graduate standing.,None,"(Cross-listed with EPSY 78905) Analysis and critique of major learning theories, state-of-the-art development in
+ theory, research and application to educational practice in selected disciplines."
+EPSY 69091 ,"SEMINAR IN LEARNING AND DEVELOPMENT
+",EPSY,Graduate standing.,None,"(Repeatable for credit)Variable topic seminar for advanced study of specialized topics and areas; in learning and
+ development; emphasis on theory and research findings as related to educational practice."
+EPSY 69092 ,"ADVANCED PRACTICUM AND INTERNSHIP
+",EPSY,"Graduate standingand special approval.
+",None,"Supervised program in field setting involving application of theories, principles, and methodology in learning
+ and development; planned with and supervised by graduate faculty member."
+EPSY 69095 ,"SPECIAL TOPICS IN LEARNING AND DEVELOPMENT
+",EPSY,Graduate standing.,None,"(Repeatable for credit)Specific topic course offering in response to emerging student or program needs in
+ learning and development."
+EPSY 69096 ,"INDIVIDUAL INVESTIGATION IN LEARNING AND DEVELOPMENT
+",EPSY,Graduate standing and special approval.,None,"(Repeatable for credit)Students pursue an individual project on a specific topic in learning and development
+ with approval and under direction of instructor."
+EPSY 69098 ,"RESEARCH IN LEARNING AND DEVELOPMENT
+",EPSY,"Graduate standing and specialapproval.
+",None,"(Repeatable for credit)Students pursue an individual research project on
+a specific topic in learning and
+ development with approval and under direction of instructor."
+EPSY 70093 ,"VARIABLE TOPIC WORKSHOP IN EDUCATIONAL PSYCHOLOGY
+",EPSY,doctoral standing and special approval.,None,"(Repeatable once for a maximum of 6 credit hours) (Cross-listed with EPSY 50093) Offered on request of school
+ system. Enrollment limited to teachers, administrators or supervisors who are employed in sponsoring system
+ and who are accepted to the university."
+EPSY 70094 ,"COLLEGE TEACHING
+",EPSY,Doctoral standing.,None,"(Repeatable for credit) (Cross-listed with SPED 70094 and SPSY 70094) Discusses major aspects of teaching in
+ higher education, including such topics as students' philosophy of teaching, principles of adult learning,
+ instructional strategies, students' assessment and others."
+EPSY 75520 ,"CHILD AND ADOLESCENT DEVELOPMENT
+",EPSY,doctoral standing.,None,"(Cross-listed with EPSY 65520) Dimensions of human development and learning, causal factors and research
+ findings which carry implications for educators in various settings; focusing on birth through adolescence."
+EPSY 75521 ,"ADULT DEVELOPMENT
+",EPSY,doctoral standing.,None,"(Cross-listed with EPSY 65521) Essential dimensions of human development
+and learning, the causal factors
+ and the research findings which carry implications for educators in various settings; focusing on early through
+ late adulthood."
+EPSY 75523 ,"LIFE SPAN DEVELOPMENT
+",EPSY,doctoral standing.,None,"(Cross-listed with EPSY 65523) Orientation to human development across life span from conception to death;
+ emphasis on pluralistic determinants
+of individual growth within changing environmental contexts. Implications
+ for educational and human service practices are emphasized."
+EPSY 75524 ,"LEARNING THEORIES
+",EPSY,graduate standing.,None,"(Cross-listed with EPSY 65524) Theories of learning with special emphasis on application to professional
+ practice. A critical examination
+of research on human learning processes."
+EPSY 75529 ,"EDUCATIONAL MOTIVATION
+",EPSY,doctoral standing.,None,"Provides students with the opportunity to explore, analyze and evaluate literature related to theories of
+ motivation. Content is grounded in theories but each of the theories has clear classroom application."
+EPSY 78901 ,"PSYCHOLOGICAL FOUNDATIONS OF EDUCATION
+",EPSY,doctoral standing.,None,"(Cross-listed with EPSY 68901) Overview of human development and its implications for educational policy and
+ programming for schools."
+EPSY 78905 ,"EDUCATIONAL PSYCHOLOGY
+",EPSY,Doctoral standing.,None,"(Cross-listed with EPSY 68905) Analysis and critique of major learning theories, state-of-the-art development in
+ theory, research and application to educational practice in selected disciplines."
+EPSY 80090 ,"DOCTORAL RESIDENCY SEMINAR
+",EPSY,Doctoral standing.,None,"Advanced doctoral residency seminar for students in all areas of educational foundations. Focus on current and
+ emergent issues research and trends in education in multiple settings."
+EPSY 80199 ,"DISSERTATION I
+",EPSY,Doctoral standing and special approval.,None,"(Repeatable for credit)Doctoral dissertation for which registration in at least two semesters is required,first of
+ which will be semester in which dissertation work is begun and continuing until the completion of 30 hours."
+EPSY 80299 ,"DISSERTATION II
+",EPSY,"Doctoralstanding;
+ EPSY 80199.
+",None,"(Repeatable for credit)Continuing registration required of doctoral students who have completed the initial 30
+ hours of dissertation and continuing until all degree requirements are met."
+EPSY 87450 ,"PSYCHOLOGICAL PRINCIPLES OF EDUCATION
+",EPSY,doctoral standing. ,ITEC 87450.,"Provides an exploration of educational psychology as the study of learning and teaching, in particular the
+ mental representations and processes involved in the acquisition, storage, retrieval and use of knowledge in
+ educational settings. Discusses how research and theory in educational psychology can be applied to real world
+ classroom problems. Students are also required to develop a research project, which utilizes
+technology to test
+ psychological theories about learning and instruction."
+EPSY 89091 ,"SEMINAR IN LEARNING AND DEVELOPMENT
+",EPSY,doctoral standing.,None,"(Repeatable for credit)Variable topic seminar for advanced study of specialized topics and areas; in learning and
+ development; emphasis on theory and research findings as related to educational practice."
+EPSY 89092 ,"ADVANCED PRACTICUM AND INTERNSHIP
+",EPSY,doctoral standing.,None,"Supervised program in field setting involving application of theories, principles, and methodology in learning
+ and development; planned with and supervised by graduate faculty member."
+EPSY 89095 ,"SPECIAL TOPICS IN LEARNING AND DEVELOPMENT
+",EPSY,doctoral standing.,None,"(Repeatable for credit)Specific topic course offering in response to emerging student or program needs in
+ learning and development."
+EPSY 89096 ,"INDIVIDUAL INVESTIGATION IN LEARNING AND DEVELOPMENT
+",EPSY,doctoral standing and special approval.,None,"(Repeatable for credit)Students pursue an individual project on a specific topic in learning and development
+ with approval and under direction of instructor."
+EPSY 89098 ,"RESEARCH IN LEARNING AND DEVELOPMENT
+",EPSY,"doctoral standing and specialapproval.
+",None,"(Repeatable for credit)Students pursue an individual research project on
+a specific topic in learning and
+ development with approval and under direction of instructor."

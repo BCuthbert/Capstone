@@ -1,0 +1,588 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+MIS 24053 ,"INTRODUCTION TO COMPUTER APPLICATIONS
+",MIS,None.,None,"(Equivalent to COMT 11000) Develop competency in the operation of contemporary software and hardware
+ applications. To develop an appreciation for the contribution of computers, software and the Internet to society."
+MIS 24056 ,"FUNDAMENTALS OF BUSINESS STATISTICS
+",MIS,"MATH 11010or MATH 11012 or MATH 12002.
+",None,"(Equivalent to BMRT 21004) Introduction to concepts in statistical methods and their applications to real world
+ problems. Examines both the
+theoretical and practical side of the different methods."
+MIS 24065 ,"WEB PROGRAMMING
+",MIS,MIS 24053.,None,"Principles of visual design as applied to Web site interface development. The course exposes students to the
+ basics of programming and relational database and how to develop a Web-based database driven interactive
+ information system."
+MIS 24093 ,"VARIABLE TITLE WORKSHOP IN MANAGEMENT AND INFORMATION SYSTEMS
+",MIS,Permission.,None,"(Repeatable for credit)Special workshop in management and information systems. Credits depend on scope of
+ project."
+MIS 24163 ,"PRINCIPLES OF MANAGEMENT
+",MIS,minimum sophomore standing.,None,"(Equivalent to BMRT 11009) Introductory course in management and organizational design. The leading
+ contributions in the area are reviewed and practical implications are developed. The course covers the
+principles
+ that most management professors have come to expect in an introductory course: planning, organizing,
+ leading, and controlling. In addition, the students need to be aware of critical issues managers must
+be aware
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+of to succeed: diversity, globalization, ethics, technology, among them. The course serves as an introduction to
+ many upper level business courses."
+MIS 34032 ,"DATA AND FILE TECHNOLOGY
+",MIS,MIS 24060.,None,"An introduction to file architecture and data base management systems. The application of these technologies is
+ detailed."
+MIS 34036 ,"ENTERPRISE SYSTEMS
+",MIS,"minimum cumulative 2.500 GPA; and MIS 24053 with aminimum C (2.000) grade; and MIS 24065.
+",None,"Introduction to the structure and use of Enterprise Computer Systems. Course topics include Networking,
+ Telephony and VoIP, Mainframe and ClientServer, Virtualization, Database, Security, Collaboration and Social
+ Networking and Datacenter Operations."
+MIS 34045 ,"SMALL SYSTEMS TECHNOLOGY
+",MIS,MIS 24060.,None,"An examination of the role of small computer systems within an organization's information systems
+ environment."
+MIS 34053 ,"DATA INTEGRATION
+",MIS,"MIS 24060; not open to computer information systems(CIS) majors.
+",None,"This course mixes concepts of data and information with hands-on applications with popular business software
+ and the migration of the information to the Internet as well as Intranets. This course is only open to CIS
+ minors. CIS majors will not receive credit."
+MIS 34054 ,"USING INFORMATION SYSTEMS FOR SOLVING BUSINESS PROBLEMS
+",MIS,"Cumulative 2.500 GPA; and MIS 24053 or COMT 11000. Course not open tocomputer information systems (CIS) majors.
+",None,"Examine key concepts about information systems that are relevant for business managers. The focus will be on
+ promoting an understanding of the use of IS in solving business problems. There will also be hands-on
+assignments."
+MIS 34055 ,"COMPUTER DECISION MODELING
+",MIS,"Cumulative 2.500 GPA; and MIS 24053 or COMT 11000;and MIS 24056 or MATH 10041 or BMRT 21004. Course not open to computer information systems (CIS)
+ majors.
+",None,"Introduces students to the scientific decision-making tools of operations research and management science, and
+ also to the use of spreadsheet modeling for problem formulation and solution without the need for
+ mathematics. The concepts of modeling and better decision making are stressed along with illustrations from
+ the various functional
+areas of business."
+MIS 34059 ,"SERVICE OPERATIONS MANAGEMENT
+",MIS,Cumulative 2.500 GPA and MIS 34060.,None,"Provide students with the concepts and tools necessary to effectively manage service operations and to prepare
+ students for management opportunities in service firms that represent the fastest-growing sector
+of the
+ economy. The service management will be presented from an integrated viewpoint with a focus on customer
+ satisfaction. The course materials are organized around four modules (1) understanding services (2) designing
+ the service enterprise, (3) managing service operations and (4) toward world class-service."
+MIS 34060 ,"OPERATIONS MANAGEMENT
+",MIS,"MIS 24053 orCOMT 11000;
+ and MIS 24056 or MATH 10041 or BMRT 21004.
+",None,"A survey course in operations management that covers the managerial concepts and the quantitative tools used
+ in the design, planning operation and control of operations systems."
+MIS 34064 ,"MANUFACTURING RESOURCE PLANNING
+",MIS,Cumulative 2.500 GPA; and MIS 34060.,None,"Introduce students to the basic tools operations managers use to inform their decisions on a daily basis. The
+ course involves hands-on coverage of manufacturing resource planning tools, including forecasting and master
+ production schedules, bill of materials structuring, order entry and purchasing, capacity requirements planning,
+ routing, costing, customer service, shipping, invoicing and using an enterprise resource planning (ERP)
+ software."
+MIS 34065 ,"QUALITY ASSURANCE
+",MIS,Cumulative 2.500 GPA; and MIS 34060.,None,"Introduction to importance of quality assurance and tools used to accomplish better quality in goods and
+ services. Topics TQM, Six Sigma, quality philosophies, sampling plans and statistical process control, ISO,
+ quality competition and awards."
+MIS 34068 ,"SYSTEMS ANALYSIS AND DESIGN
+",MIS,"minimumcumulative 2.500 GPA; and MIS 24053 or COMT 11000 with a minimum grade of C (2.000); and minimum C
+ (2.000) grade in MIS 24065, ENG 21011, COMM 15000 and MATH 11010.
+",None,"This is an introductory course in Systems Analysis and Design. Students will be presented with the concepts,
+ techniques, and methodologies that are required for the successful development of information systems.
+Application of methods and concepts to real-world problems will be emphasized."
+MIS 34070 ,"PROGRAMMING THEORY AND APPLICATIONS
+",MIS,"minimum cumulative 2.500 GPA; and MIS 24053 with a minimum C (2.000) grade; and MIS 24065 with aminimum C (2.000) grade.
+",None,"Programming in a strongly-typed language environment with an emphasis on
+problem-solving."
+MIS 34080 ,"COMPUTER PROGRAMMING FOR BUSINESS I
+",MIS,MIS 34070.,None,"Introduces a programming language currently used in business and industry for data processing, decision
+ making and other information systems applications."
+MIS 34092 ,"PRACTICUM IN CAREER DEVELOPMENT
+",MIS,"minimum 2.500 cumulativeGPA; and junior standing.
+",None,"In-depth training and development course designed to prepare students for resume presentation, job search,
+ interviewing, participation in the internship and career launching."
+MIS 34157 ,"INTRODUCTION TO HEALTHCARE SYSTEMS MANAGEMENT
+",MIS,none.,None,"Provides an overview of the management, economic and policy issues facing the healthcare, pharmaceutical,
+ biotechnology and medical device industries. The course perspective is global, with emphasis on the U.S. as the
+ largest and most profitable market."
+MIS 34158 ,"MANAGERIAL AND TECHNOLOGICAL ASPECTS OF HEALTHCARE SYSTEMS MANAGEMENT
+",MIS,"MIS34157.
+",None,"Introduce the main components of health care information technology, with emphasis on the components that
+ distinguish the health care delivery system from other business enterprises. Pepares students as clinical
+ managers and consultants who must rely upon or manage information technology to accomplish their
+ objectives."
+MIS 34159 ,"MANAGING HEALTHCARE SYSTEMS OPERATIONS
+",MIS,MIS 34157.,None,"Operational process management, cost-control and productivity is critical to cost-effective healthcare. Covers
+ topics in improving operations such as patient flow, quality (concepts and mechanics) and process
+ improvement. Students become familiar with methods and resources
+for implementing change in a health care
+ setting, such as a hospital or
+outpatient clinic. Provides skills to assess current hospital operations and to
+ identify the appropriate tools to address various functional areas, useful for managers, consultants, clinical
+ providers and others. Process improvement methods such as lean thinking, six sigma, statistical tools,
+ flowcharting, queuing models and other tools are covered. Health care settings beyond the hospital, such as
+outpatient clinics, are included."
+MIS 34165 ,"DYNAMICS OF LEADERSHIP
+",MIS,MIS 24163 or BMRT 11009.,None,"This course discusses management and leadership concepts and does so by blending theory and practice. Cases
+ studies, practical application approaches, personal assessment and opportunities to develop individual and
+ group leadership skills are possible. In addition, many organizational behavior concepts are blended throughout
+ the course. Students that have already passed MIS 34175 will not receive graduation credit for MIS 34165."
+MIS 34175 ,"LEARNING TO LEAD
+",MIS,special approval.,None,"This is a hands-on learning and leadership course. Classroom time occurs
+over 4 days at a residential camp
+ before the semester begins. Students learn about leadership from professora, experts in the field, and each
+other through interactive discussions and activities. During the semester students continue their leadership
+ development working with a personal mentor, and practice their skills through community service projects.
+ Students that have already passed MIS 34165 will not receive graduation credit for MIS 34175."
+MIS 34180 ,"HUMAN RESOURCE MANAGEMENT
+",MIS,"Cumulative 2.500 GPA;and MIS 24163 or BMRT 11009.
+",None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+Focuses on the importance of the management of human resources for any organization, its employees,
+ customers, shareholders, and the community where it is located. The topic helps students understand the
+ important issues that derive from managing people at work and the changing environment organizations face.
+ Students will learn the integral role human resources management plays to the success or failure of an
+organization. Both practical and theoretical perspectives are presented."
+MIS 34185 ,"INDIVIDUAL AND GROUP BEHAVIOR IN ORGANIZATIONS
+",MIS,MIS 24163 or BMRT 11009.,None,"Determinants of individual and group behavior within work organizations.
+Topics covered include, motivation,
+ job design, learning, decision making, leadership and group behavior as they relate to performance and other
+ outcomes in work organizations."
+MIS 34280 ,"SOCIAL RESPONSIBILITY IN THE WORKPLACE
+",MIS,Cumulative 2.500 GPA; and MIS 24163 or BMRT 11009.,None,"Using a case-based approach to learning, this course provides information on what constitutes appropriate
+ business behavior by examining the major business and nonbusiness factors that influence business policies and
+ practices."
+MIS 44007 ,"PROJECT MANAGEMENT AND TEAM DYNAMICS
+",MIS,"minimum cumulative 2.500 GPA; and MIS 24053 with a minimum C (2.000) grade; and MIS24065.
+",None,"Overview of the principles, tools, and techniques of project management in organizations, with emphasis on
+ practical aspects of initiating, planning, executing, and costing information systems related projects. Practical
+ examples of computer information systems projects will be used
+to illustrate these principles and techniques."
+MIS 44009 ,"THE BUSINESS CASE FOR SUSTAINABILITY
+",MIS,minimum cumulative 2.500 GPA; and junior standing.,None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+Lays the foundation for sustainable development and the balance issues between economic, social and
+ environmental interests. It frames the business enterprise within the natural and social environments, and
+surveys a variety of intersection points and the challenges they pose. Systems thinking and long term
+ perspective are used to understand the potential consequences of organizational choices regarding goals and
+strategies, given consideration of how the natural environment increasingly drives the business environment."
+MIS 44033 ,"ADVANCED COMPUTER PROGRAMMING FOR BUSINESS
+",MIS,"minimum cumulative 2.500 GPA; and MIS 24053 with a minimumgrade of C (2.000); and MIS 24065 and MIS 34070.
+",None,"Covers Java programming language, including applications and applets, with emphasis on object-oriented
+ programming. The course also emphasizes
+problem solving, developing systems, structured programming and
+programming style conventions."
+MIS 44042 ,"NETWORK THEORY AND APPLICATIONS
+",MIS,"minimum cumulative2.500 GPA; and MIS 24053 with minimum C (2.000) grade; and MIS 24065.
+",None,"Presentation of current and emerging network technologies and services, including business applications and
+ performance issues. Topics include transmission media, modulation and signaling schemes, switching and
+multiplexing techniques, local and wide area network protocols and standards, and internetworking devices."
+MIS 44043 ,"DATABASE MANAGEMENT SYSTEMS
+",MIS,minimum cumulative 2.500 GPA; and 24053 with a minimum C (2.000) grade; and MIS 24065.,None,"Development of skills and knowledge associated with the utilization, design, implementation, and administration
+ of database management systems in organizations. Emphasis is on enterprise-level database systems."
+MIS 44044 ,"SYSTEMS ANALYSIS II
+",MIS,MIS 24060.,None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+Physical system implementation: mapping logical data models and process models to physical data bases and
+ system design; system coding, testing,
+installation, conversion, training and automated tools."
+MIS 44045 ,"INFORMATION SYSTEMS MANAGEMENT
+",MIS,"senior standing; and minimum cumulative 2.500 GPA; and MIS 24053 with a minimum C (2.000)grade; and MIS 24065.
+",None,"Management of information systems resources in organizations of all types and sizes; IT best practices; the
+ effective and efficient use of IS in support of the organization’s mission and to achieve competitive advantage in
+ today’s global economy; the impact of IT on enterprises, users, customers, society, and the environment."
+MIS 44048 ,"SOFTWARE INTEGRATION
+",MIS,"Cumulative 2.500 GPA; minimum grade of C (2.000) in MIS 24053; and MIS24065; and senior standing.
+",None,"The design and implementation of information systems. Traditional and alternative development strategies are
+ investigated from a theoretical and applied perspective. Group project to implement information system with
+ software packages."
+MIS 44049 ,"NETWORK MANAGEMENT AND SYSTEMS ADMINISTRATION
+",MIS,"minimum cumulative 2.500 GPA;and MIS 24053 with a minimum grade of C (2.000); and MIS 24065 and MIS 44042.
+",None,"Explore the technologies and business issues related to computer networking and systems administration within
+ an organization. An emphasis will be placed on the design and management of network topologies using various
+ media, Ethernet switches and IP routers. Emphasis is placed on understanding the protocols used in modern
+business networking, especially Ethernet and TCPIP. Microsoft Windows and LinuxUnix will be used to illustrate
+ concepts of network operating systems, directory services and server management. System security issues,
+ such as viruses, encryption, intrusion detection, and firewalls,
+will be covered. Students will get hands on
+ experience through laboratory exercises and virtual machines.."
+MIS 44061 ,"OPERATIONS MANAGEMENT AND CONTROL
+",MIS,Cumulative 2.500 GPA; and MIS 34061.,None,"Introduces the student to the key functions of an operations planning and control system. Operations planning
+ and control systems provide information for the efficient flow of materials, the effective utilization of people and
+ equipment and the proper coordination of internal activities with suppliers and customers."
+MIS 44062 ,"SUPPLY CHAIN MANAGEMENT
+",MIS,minimum 2.500 GPA and junior standing.,None,"Students learn the basic analytical tools needed to coordinate business operations across the value chain.
+ Course involves hands-on coverage of supply chain management with emphasis on supplier partnering and
+development, customer relations management, strategic sourcing and pricing, e-business, measuring supply
+ chain performance, mass customization, planning supply and demand coordination in the supply chain."
+MIS 44065 ,"STRATEGIES IN PRODUCTION AND OPERATIONS MANAGEMENT
+",MIS,Cumulative 2.500 GPA; and MIS 44064.,None,"Senior project in industrial management. Applies concepts from all prior
+coursework to the solution of real and
+ simulated operating problems."
+MIS 44091 ,"SEMINAR IN HUMAN RESOURCE MANAGEMENT
+",MIS,"minimum 2.500 cumulative GPA; and MIS 24053 or COMT 11000; andMIS 34180 or BMRT 21006.
+",None,"(Repeatable for credit) In-depth readings, discussion projects and presentations in a specialized area of human
+ resource management."
+MIS 44093 ,"VARIABLE TITLE WORKSHOP IN MANAGEMENT AND INFORMATION SYSTEMS
+",MIS,Cumulative 2.500 GPA.,None,(Repeatable for credit) Variable title workshop courses offered under management and information sciences.
+MIS 44095 ,"SPECIAL TOPICS IN MIS
+",MIS,Cumulative 2.500 GPA; and junior standing.,None,"(Repeatable for credit) Offered on a semester basis with different topics and differnt faculty involved each time
+ the course if offered."
+MIS 44096 ,"INDIVIDUAL INVESTIGATION IN MANAGEMENT
+",MIS,Special approval.,None,"(Repeatable for credit)Presents opportunity to undertake research. Approval of topic and agreement to work
+ with student must be secured from faculty member and the chairperson of the department prior to registration."
+MIS 44152 ,"COLLABORATIVE PROJECT MANAGEMENT
+",MIS,Minimum cumulative 2.500 GPA and junior standing.,None,"Overview of the concepts, procedures and fundamental processes related to managing international projects.
+ Introduction to the principles, tools and techniques of integrated project management. Emphasizes project
+ management as primary means for implementing strategic initiatives and prepares students for certification as
+ a Project Management Professional (PMP)."
+MIS 44163 ,"GLOBAL BUSINESS MANAGEMENT
+",MIS,"senior standing andminimum 2.50 cumulative GPA; and minimum C (2.00) in ENG 21011, COMM
+15000 and MATH 11010.
+",None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+Provides an overview of contemporary issues and theoretical frameworks in the field of international strategic
+ management using traditional lecture and practical application cases."
+MIS 44183 ,"DEVELOPING AND TRAINING HUMAN RESOURCES IN ORGANIZATIONS
+",MIS,"Cumulative 2.500GPA; and MIS 34180 or BMRT 21006l.
+",None,"Course focus is quality training design, based upon theory and empirical research. Implications for practice and
+ current challenges in employee training and development are also highlighted."
+MIS 44191 ,"SENIOR RESEARCH SEMINAR IN MANAGEMENT
+",MIS,Special approval.,None,"(Repeatable for credit)Combination of individual or group research and class discussion for superior students.
+ Investigations in administration
+and organization conducted in accordance with scholarly interests of
+participants."
+MIS 44192 ,"INTERNSHIP IN MANAGEMENT
+",MIS,Special approval.,None,"(Repeatable for credit)A supervised field experience requiring a minimum
+of 120 hours of work at a cooperating
+ organization. Requires regular contact with instructor and preparation of an internship report connecting
+ academic coursework to on the job experiences."
+MIS 44195 ,"ADVANCED TOPICS IN HUMAN RESOURCE MANAGEMENT
+",MIS,"minimum2.500 cumulative GPA; and MIS 34180 or BMRT 21006.
+",None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+(Repeatable for a total of 6 credit hours) Advanced topics course that are offered on a yearly basis. Topics can
+ span the full range of HR functions. This course can also have a practicum format."
+MIS 44285 ,"INTEGRATED BUSINESS POLICY AND STRATEGY
+",MIS,"ACCT 23020 and ACCT 23021; and ECON 22060 and ECON 22061; andMKTG 25010; and MIS 24053, MIS
+24163, MIS 24056 and MIS 34060; and FIN 26074 and FIN 36053; and
+ minimum cumulative GPA of 2.500; and major within the College of Business Administration; and senior
+ standing.
+",None,"Integration of the functional areas of business in the formulation and implementation of policy. Projects and
+ case analyses of business situations provide students with the opportunity to apply analytical and
+creative
+ problem solving skills."
+MIS 44292 ,"BUSINESS EXPERIENCE AND INTERNSHIP
+",MIS,"minimum 2.500 cumulative GPA; and MIS 24053with a
+ minimum grade of C (2.000); and MIS 24065.
+",None,"(Repeatable for credit) Learning by experience by performing activities related to the information systems
+ profession in a cooperating organization."
+MIS 44293 ,"WORKSHOP IN PROFESSIONAL IS CERTIFICATION
+",MIS,"minimumcumulative 2.500 GPA; and MIS 24053 with a minimum C (2.000) grade; MIS 24065.
+",None,"Supervised workshop in which students are coached with the objective of passing a commercial certification
+ exam to obtain Microsoft, Cisco, or other vendor's Information Technology credential."
+MIS 44295 ,"SPECIAL TOPICS IN INFORMATION SYSTEMS
+",MIS,"minimumcumulative 2.500 GPA; and MIS 24053 with a minimum grade of C (2.000); and MIS 24065.
+",None,"(Repeatable for credit) Learn about the newest advances in Information Systems technology and how they
+ support business activity. The content of the course changes with each presentation."
+MIS 44392 ,"BUSINESS CONSULTING AND PRACTICUM
+",MIS,minimum 2.500 cumulative GPA; and junior standing.,None,"Provides decision-making tools for solving real-world problems by building synergies in prior knowledge to
+ create a synthesis of real life
+solutions delivery mechanisms underpinning them to pressing problems of
+the
+ local and international community. The practicum component includes
+consulting experience with both for profit
+ and not-for-profit business clients."
+MIS 64005 ,"STATISTICS FOR MANAGEMENT
+",MIS,admission to M.B.A. program and graduate standing.,None,"This course uses computer capabilities to use and understand a variety of statistical techniques and applies
+ these techniques to business problems."
+MIS 64011 ,"SYSTEMS SIMULATION
+",MIS,"graduatestanding and special approval of instructor.
+",None,"Techniques and applications of computer simulation of existing or proposed real-world systems. Use of
+ simulation language, simulations studies, analysis of interpretation and of results."
+MIS 64013 ,"NONPARAMETRIC AND ROBUST STATISTICS
+",MIS,MIS 64005 or 74005; and graduate standing.,None,"(Cross-listed with MIS 74013) A presentation of statistically sound techniques for those who need to be able to
+ use nonparametric or robust methods to deal with non-normal distributions or outliers (common problems) in
+ their data."
+MIS 64017 ,"MULTIVARIATE STATISTICS
+",MIS,MIS 64023 or 74023; and graduate standing.,None,"This course is devoted to a study of multivariate statistical methods. Topics include multivariate analysis of
+ variance, canonical correlation,
+principal component analysis, discriminant analysis cluster analysis and factor
+ analysis."
+MIS 64018 ,"MATHEMATICAL PROGRAMMING
+",MIS,"graduatestanding.
+",None,"Advanced techniques including interior-point methods in linear programming; branch-and-bound and cutting-
+plane methods; traveling salesman and knapsack models in integer programming."
+MIS 64019 ,"RESEARCH SEMINAR IN SUPPLY CHAIN MANAGEMENT
+",MIS,"MIS64015 or 74015; and graduate standing.
+",None,"Research seminar designed primarily for students who seek an in-depth understading of the current research
+ literature in supply chain management and who are interested in doing research in supply chain management.
+ Students study the academic literature with emphasis on the development and use of analytical tools and
+ models to solve supply chain
+management problesm. Specifically, the course will address quantitative
+modeling
+ to support operational, tactical and strategic decision-making
+in supply chain management."
+MIS 64020 ,"ADVANCED STATISTICAL MODELS
+",MIS,MIS 64023 or 74023; and graduate standing.,None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+This is a special focus course for which the topics will vary. It will generally include sampling techniques,
+ experimental designs, similar statistical methods, internal and external validity and reliability issues."
+MIS 64023 ,"LINEAR STATISTICAL MODELS AND APPLICATIONS
+",MIS,"MIS 64005 or 74005; and graduatestanding.
+",None,"Models and applications of simple and multiple regression, correlation and analysis of variance."
+MIS 64026 ,"GLOBAL SUPPLY CHAIN MANAGEMENT AND SUSTAINABLE STRATEGIES
+",MIS,MIS 64041; and enrolled in the MBA program; and graduate standing.,None,"Introduces the knowledge base needed to coordinate business operations across global supply chains.
+ Addresses how to integrate traditional business operations so as to align them in support of inter-firm
+collaboration required to compete globally. Investigates specific topics
+relevant to supply chain management
+ and offers a managerial orientation
+towards supporting global supply chain operations. Immerses students into
+ responsible supply chain practices around the globe with strong emphasis and orientation towards sustainable
+ (green) supply chains."
+MIS 64028 ,"GLOBAL SUPPLY CHAIN BUSINESS MODELS
+",MIS,"MIS64026 and 64041; and graduate standing.
+",None,"Focus on modeling techniques for supporting decision making in supply chain management. Introduces students
+ to the problems facing a global supply chain manager and the implementation of spreadsheet-based models for
+ solving problems that arise in the operation of a supply chain. Emphasis is placed on model formulation and
+ interpretation in support of
+decisions to coordinate and improve supply chain operations."
+MIS 64029 ,"SUPPLY CHAIN AND VENDOR MANAGEMENT STRATEGIES
+",MIS,"MIS 64041; must be enrolled in the MBA program; andgraduate standing.
+",None,"Building global ""relationships"" are central pillars to effective supply chain management. There are strategic
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+relationships, tactical relationships, transactional relationships, internal relationships, and of course,
+ relationships with the government. As supply chains become global, managers have to consider cultural,
+ regulatory, and communication differences to create and operate within the global village. Students learn how
+ to deal with a rapidly changing landscape and understand how to deal with distributed resources, vendors, and
+people across cultures and convictions."
+MIS 64041 ,"OPERATIONS AND SUPPLY CHAIN MANAGEMENT
+",MIS,"MIS64005; and graduate standing.
+",None,"Develops a framework for analysis of operating problems. Uses computer, quantitative and behavioral models
+ to develop operating plans consistent
+with organizations' competitive (or service) strategy."
+MIS 64042 ,"GLOBALIZATION AND TECHNOLOGY STRATEGY
+",MIS,graduate standing.,None,"(Cross-listed with MIS 74042) Focus is on the strategic issues around how a firm should manage its technology
+ in a global market. Strategic issues include understanding the technological and competitive landscape,
+ innovations, competitive advantages in the high-tech marketplace, outsourcing and information ethics. The core
+ emphasis in on
+integrated decision-making in the age of globalization."
+MIS 64047 ,"MANUFACTURING TECHNOLOGY AND STRATEGY
+",MIS,graduate standing and special approval of instructor.,None,"This course provides the student with an introduction to modern techniques in manufacturing and the necessary
+ strategic concepts to implement them. A similar discussion of service industries is also included."
+MIS 64080 ,"EMERGING HARDWARE AND SOFTWARE TECHNOLOGIES
+",MIS,graduate standing and special approval of instructor.,None,"Investigation of selected emerging hardware and software technologies such as parallel processing systems,
+2015 Kent State University Catalog - Spring 2016 Course Descriptions
+computer languages and operation systems, artificial intelligence, neural networks and chaos theory."
+MIS 64081 ,"DATA COMMUNICATIONS AND NETWORKING IN BUSINESS
+",MIS,graduate standing and special approval of instructor.,None,"An introduction to telecommunications and computer networks. Topics include telecommunications technologies
+ and services communication standards and protocols local area networks and network management."
+MIS 64082 ,"DATABASE MANAGEMENT SYSTEMS
+",MIS,graduate standing and special approval.,None,"In-depth investigation of intelligent database management systems in support of business decision making. An
+ understanding of relational databases is assumed. Object-oriented and semantic database will be explored."
+MIS 64083 ,"INFORMATION SECURITY: A MANAGERIAL PERSPECTIVE
+",MIS,"Admission to MBA program oradmission to MS IAKM
+program; and graduate standing.
+",None,"Introduction to the information security areas that managers must understand in order to deal with today's
+ security threat-laden environment. The emphasis is on the important principals and concepts that managers
+ utilize to develop effective security risk management programs."
+MIS 64108 ,"APPLIED TOPICS IN HUMAN RESOURCE MANAGEMENT
+",MIS,graduate standing.,None,"Course provides students an opportunity to learn about human resource management through an application of
+ the material to real-world problems. Topics covered may include but not be limited to job analysis,
+selection
+ methods, employee training, and performance evaluation."
+MIS 64158 ,"LEADERSHIP AND MANAGERIAL ASSESSMENT
+",MIS,graduate standing.,None,"Develop understanding and skills in self management and team leadership using assessment instruments, role
+ playing and organizational incidents."
+MIS 64160 ,"LEADERSHIP AND ORGANIZATIONAL CHANGE
+",MIS,graduate standing.,None,"Course provides students in-depth knowledge of leading organization change. Covers analysis of existing
+ conditions, drivers of change and readiness for change along with methods of change and change
+implementation."
+MIS 64185 ,"BUSINESS STRATEGY
+",MIS,"Completion of 24 credit hours of graduate courses from the College ofBusiness Administration and graduate standing.
+",None,"Integrative approach to the study of policy formulation and implementation. Formalized planning systems
+ reviewed; case analysis of actual business situations helps student further develop analytical and
+communication skills."
+MIS 64263 ,"EMPLOYEE SELECTION AND APPRAISAL
+",MIS,"Graduate standing and MIS64271.
+",None,"This course will focus primarily on issues associated with the person/job matching process in modern
+ organizations related to the selection and appraisal of employees."
+MIS 64270 ,"ORGANZATIONAL ANALYSIS AND DESIGN
+",MIS,graduate standing.,None,Course provides students an in-depth examination of all of the factors influencing human behavior at work.
+MIS 64271 ,"HUMAN RESOURCE MANAGEMENT
+",MIS,Admission to M.B.A. program and graduate standing.,None,"Explores the management of a firm's human resources from practical and theoretical perspectives of managing
+ people at work."
+MIS 64275 ,"STRATEGIC GLOBAL MANAGEMENT
+",MIS,"Completion of 24 credit hours of graduatecourses from the College of Business
+ Administration and graduate standing.
+",None,"Strategic global management explores micro-level concepts and strategic managerial alternatives within the
+ context of current global business operations in the political, economic and cultural environment facing today's
+ manager."
+MIS 74005 ,"STATISTICS FOR MANAGEMENT I
+",MIS,admission to MBA program; and doctoral standing.,None,"This course uses computer capabilities to use and understand a variety of statistical techniques and applies
+ these techniques to business problems."
+MIS 74013 ,"NONPARAMETRIC AND ROBUST STATISTICS
+",MIS,MIS 64005 or 74005; and doctoral standing.,None,"(Cross-listed with MIS 64013) A presentation of statistically sound techniques for those who need to be able to
+ use nonparametric or robust methods to deal with non-normal distributions or outliers (common problems) in
+ their data."
+MIS 74017 ,"MULTIVARIATE STATISTICS
+",MIS,MIS 64023 or 74023; and doctoral standing.,None,"This course is devoted to a study of multivariate statistical methods. Topics include multivariate analysis of
+ variance, canonical correlation,
+principal component analysis, discriminant analysis, cluster analysis and factor
+ analysis."
+MIS 74018 ,"MATHEMATICAL PROGRAMMING
+",MIS,"doctoralstanding.
+",None,"Advanced techniques including interior-point methods in linear programming;branch-and-bound and cutting-
+plane methods; traveling salesman and knapsack models in integer programming."
+MIS 74019 ,"RESEARCH SEMINAR IN SUPPLY CHAIN MANAGEMENT
+",MIS,"MIS64015 or 74015; and doctoral standing.
+",None,"Research seminar designed primarily for students who seek an in-depth understading of the current research
+ literature in supply chain management and who are interested in doing research in supply chain management.
+ Students study the academic literature with emphasis on the development and use of analytical tools and
+ models to solve supply chain
+management problesm. Specifically, the course will address quantitative
+modeling
+ to support operational, tactical and strategic decision-making
+in supply chain management."
+MIS 74020 ,"ADVANCED STATISTICAL MODELS
+",MIS,MIS 64023 or 74023; and doctoral standing.,None,"This is a special focus course for which the topics will vary. It will generally include sampling techniques
+ ,experimental designs, similar statistical methods, internal and external validity, andreliability issues."
+MIS 74023 ,"LINEAR STATISTICAL MODELS AND APPLICATIONS
+",MIS,"MIS 64005 or 74005; and doctoralstanding.
+",None,"Models and applications of simple and multiple regression, correlation and analysis of variance."
+MIS 74041 ,"OPERATIONS MANAGEMENT
+",MIS,"MIS64005 or 74005; and doctoral standing.
+",None,"Develops a framework for analysis of operating problems. Uses computer quantitative and behavioral models to
+ develop operating plans consistent
+with organizations' competitive (or service) strategy."
+MIS 74042 ,"GLOBALIZATION AND TECHNOLOGY STRATEGY
+",MIS,doctoral standing.,None,"(Cross-listed with MIS 64042) Focus is on the strategic issues around how a firm should manage its technology
+ in a global market. Strategic issues include understanding the technological and competitive landscape,
+ innovations, competitive advantages in the high-tech marketplace, outsourcing and information ethics. The core
+ emphasis in on
+integrated decision-making in the age of globalization."
+MIS 74047 ,"MANUFACTURING TECHNOLOGY AND STRATEGY
+",MIS,doctoral standing and special approval of instructor.,None,"This course provides the student with an introduction to modern techniques in manufacturing and the necessary
+ strategic concepts to implement them. A similar discussion of service industries is also included."
+MIS 74080 ,"EMERGING HARDWARE AND SOFTWARE TECHNOLOGIES
+",MIS,doctoral standing and special approval of instructor.,None,"Investigation of selected emerging hardware and software technologies such as parallel processing systems,
+ computer languages and operation systems, artificial intelligence, neural networks and chaos theory."
+MIS 74081 ,"DATA COMMUNICATIONS AND NETWORKING IN BUSINESS
+",MIS,doctoral standing and special approval of instructor.,None,"An introduction to telecommunications and computer networks. Topics include telecommunications technologies
+ and services, communication standards and protocols, local area networks and network management."
+MIS 74082 ,"DATABASE MANAGEMENT SYSTEMS
+",MIS,doctoral standing and special approval.,None,"In-depth investigation of intelligent database management systems in support of business decision making. An
+ understanding of relational databases is assumed. Object oriented and semantic database will be explored."
+MIS 74160 ,"LEADERSHIP AND ORGANIZATIONAL CHANGE
+",MIS,doctoral standing.,None,"Develop understanding of the theories and techniques needed for the successful management of significant
+ organizational change with emphasis
+on discussion, exercises and case studies."
+MIS 74185 ,"BUSINESS STRATEGY
+",MIS,"special approval and doctoral standing.2015 Kent State University Catalog - Spring 2016 Course Descriptions
+",None,"Integrative approach to the study of policy formulation and implementation. Formalized planning systems
+ reviewed case analysis of actual business situations helps student further develop analytical and communication
+ skills."
+MIS 74263 ,"EMPLOYEE SELECTION AND APPRAISAL
+",MIS,doctoral standing.,None,"This course will focus primarily on issues associated with the person/job matching process in modern
+ organizations related to the selection and appraisal of employees."
+MIS 74270 ,"ORGANIZATIONAL ANALYSIS
+",MIS,special approval and doctoral standing.,None,"Theoretical basis and research findings are discussed, permitting the student to analyze and understand
+ complex work organizations. Data provided prepares the student to analyze, design and solve organizational
+ problems within the work environment."
+MIS 74275 ,"STRATEGIC GLOBAL MANAGEMENT
+",MIS,special approval and doctoral standing.,None,"Strategic global management explores micro-level concepts and strategic managerial alternatives within the
+ context of current global business operations in the political, economic and cultural environment facing today's
+ manager."
+MIS 84007 ,"PHILOSOPHY OF SCIENCE AND BUSINESS MODELS
+",MIS,"doctoral standing.2015 Kent State University Catalog - Spring 2016 Course Descriptions
+",None,"Introductory seminar for understanding the forms and the process of business research. Its major objective is
+ to help seminar participants understand the various philosophies that drive business research in an academic
+ community, and introductory methods of social science research.
+Additionally, the seminar seeks to develop
+ participant motivation to become a contributor to the organizational sciences communities by examining: 1. The
+ research process, methodologies and strategies. 2. Research Paradigms, Modes and Contexts of Inquiry. 3. The
+ nature of organizational sciences research. 4. The major streams of business research. 5. Understanding
+ ontological choice of constructs and defining
+epistemic relationships between constructs. 6. Building hypotheses
+ and socio-technical models. 7. Research design, data requirements and collection techniques, ethics and
+ philosophies."
+MIS 84011 ,"SYSTEMS SIMULATION
+",MIS,"special approvaland doctoral standing.
+",None,"Techniques and applications of computer simulation of existing or proposed real-world systems. Use of
+ simulation language, simulation studies, analysis of interpretation and of results."
+MIS 84012 ,"SCHEDULING AND PLANNING
+",MIS,doctoral standing in the College of Business Administration.,None,"Course is a doctoral seminar on scheduling and planning models that are used in operations and production
+ management. The goal is to expose students to a portfolio of scheduling and planning models to stimulate
+research ideas in scheduling and planning models that will lead to the development of a research program for
+ your doctoral research."
+MIS 84015 ,"STOCHASTIC MODELS
+",MIS,doctoral standing.,None,"Mathematical modeling of systems involving one or more random variables,
+and stochastic processes: basic
+ probability theory; Poisson process, Markov chain and Markov process with applications to production,
+inventory, reliability and queueing systems."
+MIS 84045 ,"SOCIAL ISSUES IN INFORMATION SYSTEMS
+",MIS,"doctoralstanding.
+",None,"Social issues in information systems arise at the interface between information systems and individuals, groups
+ and society. The course will
+begin with a broad exposure to current social issues, moving to an examination of
+ specific issues in detail with issues chosen by student interest and instructor consent."
+MIS 84047 ,"VALUE AND SUPPLY CHAIN MANAGEMENT
+",MIS,doctoral standing.,None,"This course is a doctoral seminar for students who seek an in-depth understanding of the current research
+ literature in supply chain management. The seminar is designed into three modules. The first module
+covers the
+ conceptual foundation for understanding value and supply chains from an interdisciplinary perspective. The
+ second module focuses on the basis of supply chain modeling using optimization and simulation.
+The third
+ module serves to integrate the previous modules with the objective of the student producing a research paper
+ for journal submission."
+MIS 84080 ,"INNOVATION, ADOPTION, DIFFUSION
+",MIS,doctoral standing.,None,"Provides students with theoretical foundations of adoption and diffusion
+of technological innovations in
+ organizations and society. Topics include: determinants of organizational innovation by acquisition; individual-
+ and organizational-level technology adoption; diffusion of technologies through social systems; and the infusion
+ and assimilation of technologies in organizations."
+MIS 84081 ,"INFORMATION SYSTEMS STRATEGY AND INNOVATION
+",MIS,doctoral standing.,None,"This course explores the basis of strategy, deployment and competition in high- technology industries. It
+ introduces conceptual frameworks based on cutting-edge research in economics and strategy. The frameworks
+ may seem abstract at first, but we will focus on mastering them will gain an in-depth understanding of how
+ high-technology industries work and how to develop strategies for managing firms in such industries. Students
+ will learn how to develop and apply such frameworks in their research."
+MIS 84082 ,"DATABASE MANAGEMENT SYSTEMS
+",MIS,doctoral standing.,None,"In-depth investigation of intelligent database management systems in support of business decision- making. An
+ understanding of relational databases is assumed. Object-orientation and other advanced database concepts
+ will be explored."
+MIS 84108 ,"HUMAN CAPITAL SYSTEMS AND SHARED VALUE CREATION
+",MIS,doctoral standing.,None,"Course provides a foundation for understanding human capital issues as seen through the lens of sustainability.
+ Students will learn how to articulate the paradigm of sustainability and apply it to a wide range of organizational
+ capacities including embedding sustainability within an organization and enabling an organization to pursue
+ value that is shared across economic, social and environmental domains."
+MIS 84112 ,"RESEARCH METHODOLOGY
+",MIS,doctoral standing.,None,"The objectives of this course are: to formulate a research problem and develop testable research hypotheses;
+ develop research skills by learning the different research methods and techniques; explain information
+ contained in research statistical outputs such as SAS and SPSS enable students to conduct meaningful and high
+ quality research in their specific field of interest."
+MIS 84261 ,"STRATEGIC DECISION-MAKING AND HUMAN RESOURCE MANAGEMENT
+",MIS,doctoral standing and special approval.,None,"Provides a first graduate-level introduction to the fundamental concepts
+of HRM/OB and strategic decision-
+making."
+MIS 84262 ,"BUSINESS AND ORGANIZATIONAL STRATEGY
+",MIS,doctoral standing.,None,"Course focuses on developing a deep understanding of modern strategic theory in relation to other allied fields.
+ Students will review fundamental concepts of strategic thinking and theory development and then move to
+ contemporary theoretical issues including transaction-cost economics, the resource-based view, the emerging
+ theories of real options and of dynamic capabilities, strategic optimization and constraint theory, and dealing
+ with uncertainty through scenario-driven planning."
+MIS 84263 ,"HUMAN RESOURCE MANAGEMENT
+",MIS,doctoral standing.,None,"Course focuses on research theories, methods and issues in human resource management. Designed to develop
+ in students an appreciation for
+the existing state of research in human resource management and to begin to
+ articulate major issues and challenges in this field."
+MIS 84266 ,"DIRECTED RESEARCH
+",MIS,doctoral standing.,None,"Survey of the leading writers and research studies in the area of management systems. The course addresses
+ methodologies, major theoretical developments and practical applications."
+MIS 84275 ,"CORPORATE AND GLOBAL STRATEGY
+",MIS,doctoral standing.,None,"Focuses on review and integration of the several streams of literature dealing with strategy for, and
+ management of, the product-diversified and/or internationally-diversified firm. Also, in order to complement the
+ emphasis of other doctoral offerings on strategy formulation topics,
+this seminar places a special emphasis on
+ strategy process, organizational structure, and administrative mechanisms. In particular, it explores the
+ foundations as well as current research on corporate governance, broadly define. This includes (I) the set of
+ mechanisms available to align the interest of top managers to those of shareowners,
+as well as (II) the
+ mechanisms available to motivate and control middle
+managers so that their decisions and behaviors are
+ aligned with intended corporate and/or international strategy and goals."
+MIS 84277 ,"ORGANIZATIONAL BEHAVIOR AND THEORY
+",MIS,doctoral standing.,None,"An examination of theory and research on individual and group behavior in organizations. Special attention is
+ given to theories of motivation, job satisfaction, goal setting, task design, feedback systems, group dynamics,
+ power and teams."
+MIS 84285 ,"TECHNOLOGY MANAGEMENT AND ENTREPRENEURSHIP
+",MIS,doctoral standing.,None,"Covers topics pertaining to innovation management at micro-level (entrepreneurship, corporate
+ entrepreneurship), meso-level (networks), and macro-level (cross-country and within-country comparisons)."
+MIS 84291 ,"SEMINAR IN MANAGEMENT SYSTEMS
+",MIS,doctoral standing and special approval of instructor.,None,"(Repeatable for credit)Intensive investigation of selected topics in organization and strategic management.
+ Student will be expected to undertake research on a topic determined in joint consultation with the instructor."

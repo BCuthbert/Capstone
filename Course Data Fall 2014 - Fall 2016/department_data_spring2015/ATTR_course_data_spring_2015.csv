@@ -1,0 +1,199 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+ATTR 15001 ,"INTRODUCTION TO CLINICAL ATHLETIC TRAINING I
+",ATTR,Athletic training (ATTR) major.,None,"An overview of the profession of athletic training; including employment opportunities, academic and clinical
+ preparation; and introduction to basic knowledge and skills utilized in the profession. Emphasis on leadership,
+ mentoring, ethics and research from an introductory perspective."
+ATTR 15011 ,"INTRODUCTION TO CLINICAL ATHLETIC TRAINING II
+",ATTR,Athletic training (ATTR) major.,None,"Basic concepts and skills related to the professional domains of the athletic training profession including basic
+ modalities and rehabilitation, research, ethics, palpations, and blood borne pathogens. Moderate to advanced
+ Skills training in padding, splinting, wound care, equipment, bracing, tapings, wrappings, spine immobilization,
+ and basic assessment techniques."
+ATTR 15092 ,"PRACTICUM IN ATHLETIC TRAINING I
+",ATTR,"ATTR 15011 andspecial approval.
+",None,"The study and clinical application of the competencies in athletic training educational domains. Specific
+ emphasis on the introductory cognitive and psychomotor, as well as foundational behaviors of professional
+ practice. Clinical hours and completion of specific competencies are required."
+ATTR 25036 ,"PRINCIPLES OF ATHLETIC TRAINING
+",ATTR,None.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 165
+Principles of the profession, including injury prevention, basic sports trauma, injury management and specific
+ sports conditions. Practical competency in emergency care and first aid; American Red Cross Professional
+ Rescuer Certification for CPR and AED."
+ATTR 25037 ,"PHYSICAL ASSESSMENT TECHNIQUES FOR THE LOWER EXTREMITY AND SPINE
+",ATTR,ATTR 25036; and ATTR 25057 or EXSC 25057 or BSCI 11010.,None,"Anatomical and clinical assessment techniques for injuries and illnesses common to the physically active.
+ Emphasis on orthopedic assessment strategies of the upper and lower quarters and spine for proper referral and
+ care."
+ATTR 25038 ,"PHYSICAL ASSESSMENT TECHNIQUES FOR THE UPPER EXTREMITY, HEAD AND NECK
+",ATTR,"ATTR 25036 and ATTR 25037; and ATTR 25057 or EXSC25057 or BSCI 11010. 
+",None,"Anatomical and clinical assessment techniques for injuries and illnesses with specific emphasis on orthopedic
+ and neurological assessment strategies for the upper extremity, head and neck. Proper referral and care
+ procedures are also be addressed."
+ATTR 25057 ,"HUMAN ANATOMY AND PHYSIOLOGY I
+",ATTR,none.,None,"(Cross-listed with EXSC 25057) Comprehensive examination of anatomy and physiology related to the
+ organization of the body and basic cell and tissue types. Specific structure and function of the muscular,
+ skeletal, cardiovascular, nervous and respiratory systems are addressed."
+ATTR 25058 ,"HUMAN ANATOMY AND PHYSIOLOGY II
+",ATTR,ATTR 25057 or EXSC 25057 or BSCI 11010.,None,"(Cross-listed with EXSC 25058) Comprehensive examination of anatomy and physiology related to the human
+ body under rest and exercise conditions. Specific structure and function of the metabolic, endocrine, lymphatic,
+ digestive, urinary and reproductive systems are addressed. Advanced coverage of neurological, cardiovascular
+ and respiratory systems are also addressed."
+ATTR 25092 ,"PRACTICUM IN ATHLETIC TRAINING II
+",ATTR,ATTR 15092.,None,"The study and clinical application of the competencies in athletic training educational domains. Specific
+ emphasis on the intermediate cognitive and psychomotor components. Clinical hours and completion of specific
+ competencies are required."
+ATTR 35025 ,"ESSENTIALS OF ATHLETIC INJURY MANAGEMENT
+",ATTR,None.,None,"Common injuries related to physical activity and/or athletic participation from the cause, management and care
+ perspectives. American Red Cross sport safety training certification (including adult/child CPR) will be granted.
+ Emphasis on application of skills."
+ATTR 35037 ,"ADVANCED PHYSICAL ASSESSMENT TECHNIQUES
+",ATTR,ATTR 25037 and 25038; and ATTR 25058 or EXSC 25058 or BSCI 11020 or BSCI 20020.,None,"Anatomical, medical and clinical assessment techniques for injuries and illnesses common to the physically
+ active. Emphasis on neurological and non-orthopedic assessment strategies for proper referral and care."
+ATTR 35039 ,"THERAPEUTIC MODALITIES
+",ATTR,ATTR 25036.,None,"The study and practical application of physical modalities including physical principles, physiologic effects,
+ indications/contraindications and standard application procedures. Safety and legal issues of modality usage are
+ also addressed."
+ATTR 35040 ,"STRENGTH AND CONDITIONING
+",ATTR,"ATTR 25057 orEXSC 25057 or BSCI 11010; and athletic training (ATTR), exercise science (EXSI) or physical education-
+professional (PEP) major.
+",None,"Demonstrate didactic understanding and clinical application of energy systems, anatomy and proper techniques
+ for strength and conditioning exercises for practical applications with athletes."
+ATTR 35045 ,"EMERGENCY MEDICAL TECHNICIAN-BASIC
+",ATTR,none.,None,"Preparing for Emergency Medical Technician certification including patient assessment, airway and cardiac
+ management, trauma management, medical patient management and clinical experience. Prepares students to
+ challenge the National Registry Examination for the State of Ohio for EMT-Basic. Clinical hours are required for
+ this course through Hudson EMS."
+ATTR 35050 ,"NEUROLOGICAL PROCESS FOR THE HEALTHCARE PROFESSIONAL
+",ATTR,"ATTR 25057 or EXSC 25057 or BSCI 11010; and ATTR25058 or EXSC 25058 or BSCI 11020 or BSCI 20020.
+",None,"Advanced cognitive content in the areas of normal and pathological function of the nervous system and its
+ components. Specific emphasis on the neurophysiological basis for motor learning, special senses, and memory
+ serves to address the central and peripheral nervous system structure and function. Growth and Development
+ and pathological responses to hypoxia, microbiologic agents, genetic derangements, nutritional deficiencies,
+ chemicals, drugs and aging are addressed."
+ATTR 35054 ,"BIOMECHANICS
+",ATTR,ATTR 25057 or EXSC 25057 or BSCI 11010.,None,"(Cross-listed with EXSC 35054) Anatomical and mechanical bases of human movement. Emphasis is placed on
+ tools and techniques for motion analysis, mechanical concepts, forces and performance analysis. Lecture and
+ laboratory."
+ATTR 35092 ,"PRACTICUM IN ATHLETIC TRAINING III
+",ATTR,ATTR 25092.,None,"The study and clinical application of the competencies in athletic training educational domains. Specific
+ emphasis on the intermediate and advanced cognitive and psychomotor components. Clinical hours and
+completion of specific competencies are required."
+ATTR 43018 ,"ETHICS FOR ALLIED HEALTH PROFESSIONALS
+",ATTR,senior standing.,None,"Examination of specific situations in the allied health professions of athletic training and exercise science from
+ an ethical sensitivity, reasoning and decision making perspective. A problem-oriented case study approach
+ based on contemporary moral issues and moral theory related to clinical and academic health professions."
+ATTR 45017 ,"PROFESSIONAL DEVELOPMENT IN ATHLETIC TRAINING
+",ATTR,Senior standing; athletic training majors only.,None,"An investigation of the issues affecting the student athletic trainer as they prepare for an entry-level career in
+2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 169
+athletic training. Professional development issues and NATABOC exam preparation are included."
+ATTR 45038 ,"ORGANIZATION AND ADMINISTRATION OF ATHLETIC TRAINING
+",ATTR,ATTR 25036.,None,"(Cross-listed with ATTR 55038) Investigation into current philosophies and legal aspects of athletic training.
+ Organization and administration of all aspects of athletic training programs."
+ATTR 45039 ,"THERAPEUTIC REHABILITATION
+",ATTR,"ATTR 25036; and ATTR 25057 or EXSC25057 or BSCI 11010.
+",None,"(Cross-listed with ATTR 55039) The study and clinical application of rehabilitation techniques including
+ strategies for proper exercise selection based on anatomical and physiological considerations, program
+administration and guidelines for program progression."
+ATTR 45040 ,"PATHOLOGY AND PHARMACOLOGY FOR ALLIED HEALTH CARE PROVIDERS
+",ATTR,"ATTR 25058 or EXSC 25058 or BSCI 11020 or BSCI20020.
+",None,"(Cross-listed with ATTR 55040) Investigation of specific pathological conditions presented by professionals,
+ including physicians and pharmacists. Will discuss common pathologies, associated pharmacological treatment
+ and physiologic effects for various afflictions."
+ATTR 45041 ,"ADVANCED THERAPEUTIC INTERVENTIONS
+",ATTR,"ATTR 25057 or2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 170
+EXSC 25057 or BSCI 11010; and ATTR 25058 or EXSC 25058 or BSCI 11020 or BSCI 20020; and ATTR 35054
+ and ATTR 45039.
+",None,"Addresses the physiological considerations of specific injuries and conditions commonly encountered in the
+ athletic training profession. Focus is on contemporary rehabilitative programming for all of the major body
+ regions. Specific units on Aquatic therapy and rehabilitation, Neurological considerations for rehabilitation,
+ Return to Running Considerations, and Return to Throwing protocols are included."
+ATTR 45091 ,"SENIOR SEMINAR IN ATHLETIC TRAINING
+",ATTR,"senior standing andathletic training (ATTR) major.
+",None,"(Repeatable for credit)Contemporary issues related to preparing students for entry-level careers in the athletic
+ training profession including development of the foundational behaviors of professional practice. Specific
+ emphasis on employment preparation or graduate school preparation."
+ATTR 45096 ,"INDIVIDUAL INVESTIGATION IN ATHLETIC TRAINING
+",ATTR,special approval.,None,"(Repeatable for a maximum of 6 credit hours)Independent study completed under the supervision of a faculty
+ member. Written approval of supervising faculty member and school director required prior to
+registration."
+ATTR 45192 ,"PRACTICUM IN ATHLETIC TRAINING IV
+",ATTR,ATTR 35092.,None,"The study and clinical application of competencies in athletic training educational domains. Specific emphasis on
+ the advanced cognitive and psychomotor components. Clinical hours and completion of specific competencies
+ are required."
+ATTR 45292 ,"INTERNSHIP IN ATHLETIC TRAINING I
+",ATTR,ATTR 45192 and special approval.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 171
+Internship in approved athletic training setting under the direct supervision of a certified athletic trainer.
+ Students complete 20 hours per week in a clinical experience."
+ATTR 45392 ,"INTERNSHIP IN ATHLETIC TRAINING II
+",ATTR,"ATTR 45292and special approval.
+",None,"Internship in an approved athletic training setting under the supervision of a certified and licensed athletic
+ trainer. Students are required to perform 20 hours per week in clinical experience."
+ATTR 46095 ,"SPECIAL TOPICS IN ATHLETIC TRAINING
+",ATTR,none.,None,(Repeatable for credit)Selected topics in athletic training dependent upon interest.
+ATTR 55038 ,"ORGANIZATION AND ADMINISTRATION OF ATHLETIC TRAINING
+",ATTR,"ATTR 25036 andgraduate standing.
+",None,"(Cross-listed with ATTR 45038) Investigation into current philosophies and legal aspects of athletic training.
+ Organization and administration of all aspects of athletic training programs."
+ATTR 55039 ,"THERAPEUTIC REHABILITATION
+",ATTR,graduate standing.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 172
+(Cross-listed with ATTR 45039) The study and clinical application of rehabilitation techniques including
+ strategies for proper exercise selection based on anatomical and physiological considerations, program
+administration, and guidelines for program progression."
+ATTR 55040 ,"PATHOLOGY AND PHARMACOLOGY FOR ALLIED HEALTH CARE PROVIDERS
+",ATTR,ATTR 25058 or EXSC 25058,None,"Investigation of specific pathological conditions presented by professionals, including physicians and
+ pharmacists. Will discuss common pathologies, associated pharmacological treatments and physiologic effects
+ for various afflictions."
+ATTR 62010 ,"CONTEMPORARY ISSUES IN ATHLETIC TRAINING
+",ATTR,Graduate standing.,None,"A comprehensive examination of contemporary issues, trends and problems affecting athletic training
+ professionals related to the domains of practice for athletic trainers."
+ATTR 62012 ,"EDUCATION AND SUPERVISION PROCESSES IN ATHLETIC TRAINING
+",ATTR,Graduate standing.,None,"A comprehensive examination of educational learning theories, curriculum design, evaluation and supervision
+ strategies in athletic training education programs from didactic and clinical perspectives. Additional applications
+ for continuing education programs will be included."
+ATTR 62014 ,"ADVANCED CLINICAL PRACTICE IN ATHLETIC TRAINING
+",ATTR,Graduate standing.,None,"A comprehensive examination of advanced topics in athletic training such as advanced evaluation skills, multi-
+dimensional approaches to therapeutic rehabilitation skills and applications in non-traditional athletic training
+ settings such as industrial medicine and physician extender."
+ATTR 62016 ,"CLINICAL INQUIRY IN ATHLETIC TRAINING
+",ATTR,Graduate standing.,None,"Principles of athletic training research methodologies with a focus on clinical athletic training research.
+ Completion of a clinical research project will be required in this course."
+ATTR 63018 ,"ETHICS FOR ALLIED HEALTH PROFESSIONALS
+",ATTR,graduate standing.,None,"Examination of specific situations in the allied health professions of athletic training and exercise science from
+ an ethical sensitivity, reasoning and decision making perspective. A problem-oriented case study approach
+ based upon contemporary moral issues and moral theory related to clinical and academic health professionals."
+ATTR 63094 ,"COLLEGE TEACHING IN HEALTH SCIENCES
+",ATTR,graduate standing and special approval.,None,"Guided teaching experiences in the Health Sciences. Specific emphasis on establishing and implementing a
+ teaching philosophy in an instructional setting in the Health Sciences. Development of Professional Teaching
+Behaviors will be addressed. A comprehensive teaching experience rooted in contemporary teaching literature
+ will guide this course."
+ATTR 63095 ,"RESEARCH SEMINAR
+",ATTR,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with ATTR 73095 and EXPH 63095 and EXPH 73095 and SRM 63095 and
+ SRM 73095) Presentation and discussion of research by faculty and students. A total of 2 credits may be applied
+toward degree requirements."
+ATTR 63096 ,"INDIVIDUAL INVESTIGATION IN ATHLETIC TRAINING
+",ATTR,graduate standing and special approval.,None,"(Repeatable for a maximum of 6 credit hours)Independent study completed under the supervision of a faculty
+ member. Written approval of supervising faculty member and School director required prior to registration.
+ Repeatable to 6 credit hours."
+ATTR 63098 ,"RESEARCH
+",ATTR,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with EXPH 63098 and SRM 63098 and EXPH 83098) Research or individual
+ investigation."
+ATTR 63193 ,"VARIABLE TITLE WORKSHOP IN ATHLETIC TRAINING
+",ATTR,graduate standing.,None,(Repeatable for credit)Workshop in athletic training; topics vary. Maximum 4 hours applied to the degree.
+ATTR 63195 ,"SPECIAL TOPICS IN ATHLETIC TRAINING
+",ATTR,graduate standing.,None,(Repeatable for a maximum of 6 credit hours)Selected and varied topics of relevance in athletic training.
+ATTR 63199 ,"THESIS I
+",ATTR,Graduate standing.,None,"(Cross-listed with EXPH 63199 and SRM 63199) Thesis students must register for a total of 6 hours, 2 to 6
+ hours in a semester distributed over several semesters if desired."
+ATTR 63299 ,"THESIS II
+",ATTR,ATTR 63199 and graduate standing.,None,"(Cross-listed with EXPH 63299 and SRM 63299)Thesis students must continue registration each semester until
+ all degree requirements are met."
+ATTR 65004 ,"BIOMECHANICS
+",ATTR,graduate standing,None,"(Cross-listed with EXPH 75004) Survey of biomechanics, with particular emphasis on skeletal muscle
+ mechanics."
+ATTR 73094 ,"COLLEGE TEACHING IN HEALTH SCIENCES
+",ATTR,doctoral standing and special approval.,None,"Guided teaching experiences in health sciences. Specific emphasis on establishing and implementing a teaching
+ philosophy in an instructional setting in the health sciences. Development of Professional Teaching Behaviors
+ will be addressed. A comprehensive teaching experience rooting in contemporary literature will guide this
+ course."
+ATTR 73095 ,"RESEARCH SEMINAR
+",ATTR,Doctoral standing.,None,"(Repeatable for credit) (Cross-listed with ATTR 63095 and EXPH 63095 and EXPH 73095 and SRM 63095 and
+ SRM 73095) Presentation and discussion of research by faculty and students. A total of 2 credits may be applied
+toward degree requirements."

@@ -1,0 +1,736 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+TECH 10001 ,"INFORMATION TECHNOLOGY
+",TECH,None.,None,"Introduction to the operation and use of computer systems in technology-related applications. Laboratory
+ assignments include the use of microcomputers for solving technical problems."
+TECH 11071 ,"WOODS TECHNOLOGY I
+",TECH,None.,None,"Provides experience in fundamental hand and machine processes in wood-fabrication. Projects are designed,
+ planned and constructed by the student according to curricular needs and interests."
+TECH 13580 ,"ENGINEERING GRAPHICS I
+",TECH,None.,None,"Technique of engineering drawing, lettering, instrument use, freehand drawing, orthogonal projection, sections,
+ single and double auxiliaries,
+dimensioning, screw threads, charts and graphs."
+TECH 20001 ,"ENERGY/POWER
+",TECH,TECH 21021.,None,"Study of basic thermodynamic laws and how they apply to the conversion and transfer of heat energy into
+ useful power."
+TECH 20002 ,"MATERIALS AND PROCESSES
+",TECH,None.,None,"Study and practice addressing the nature of basic manufacturing materials and the processes by which they are
+ converted into manufactured products. Includes laboratory experience."
+TECH 20004 ,"FUNDAMENTALS OF ELECTRONIC CIRCUITS
+",TECH,"MATH 11010and
+ 11022. ",MATH 12002.,"Introduction to electronic circuits consisting of resistors, capacitors and inductors. Calculation of voltages and
+ currents in the circuits for the case of constant and time varying currents."
+TECH 21021 ,"SURVEY OF ELECTRICITY AND ELECTRONICS
+",TECH,"PHY13002.
+",None,"Survey of DC and AC circuits, semiconductors, and electronic devices, including diodes and transistors. Includes
+ laboratory."
+TECH 22095 ,"SPECIAL TOPICS IN TECHNOLOGY
+",TECH,Permission.,None,"(repeated registration permitted) various special topics to be announced
+in the schedule of classes,offering
+ current topics in technology based areas of study."
+TECH 23010 ,"COMPUTER HARDWARE I
+",TECH,TECH 21021.,None,"Introduction to the hardware, architecture and operation of the personal
+computer and associated devices.
+ Topics include personal computer architecture and operation fundamentals; basic hardware; data buses and
+ports; hardware component packaging; auxiliary hardware components; computer assembly; basic hardware
+ installation and configuration; and basic troubleshooting."
+TECH 23581 ,"COMPUTER-AIDED ENGINEERING GRAPHICS
+",TECH,"TECH 10001and TECH
+ 13580.
+",None,"Study of working drawings, descriptive geometry, geometrical tolerancing, structural/weldments, cams, gears,
+ piping and considerable time with the Hewlett Packard 900 CAD system."
+TECH 26010 ,"INTRODUCTION TO COMPUTER ENGINEERING TECHNOLOGY
+",TECH,None,None,"Describes Computer Engineering Technology concepts and principles.Topics
+include computer hardware,
+ computer hardware operations, digital systems design, networking hardware, technology of networking,
+ computer aided design and embedded systems. Pre/corequisite: MATH 11022."
+TECH 26301 ,"NETWORKING HARDWARE I
+",TECH,TECH 16010 or 21021 or DSCI 26010.,None,"A hands-on, applied engineering-focused course emphasizing the operation, maintenance, and performance
+ aspects of personal computer networking hardware. Topics include networking hardware operation,
+ characteristics, configuration, and troubleshooting fundamentals. Course also includes network standards,
+ protocols, configuration, topologies, and administrative fundamentals as related to networking hardware
+ systems. Note: This course is part of the Networking Hardware course sequence required for students enrolled
+ in the Computer Engineering Technology concentration."
+TECH 26310 ,"WEB DESIGN AND DEVELOPMENT
+",TECH,none.,None,"An introduction to Web Programming. Concepts, principles, techniques, and methods associated with the design
+ and implementation of Web pages and Internet-based applications. Includes fundamentals of web site and web
+ page creation, development, and maintenance; Web page programming languages; Web design software and
+ production tools; creation of dynamic, interactive web-based multimedia presentations; and Web client and
+ server technologies."
+TECH 27210 ,"INTRODUCTION TO SUSTAINABILITY
+",TECH,none.,None,"Introduces the students to the concepts of sustainability and its three pillars, namely, economic growth,
+ environmental protection, and social equality. Students taking the course will understand the language and
+concepts of sustainability and will acquire the knowledge to further study sustainability."
+TECH 31000 ,"CULTURAL DYNAMICS OF TECHNOLOGY
+",TECH,ENG 11011 or ENG 02007.,None,Study of technology and the forces it exerts upon society.
+TECH 31010 ,"ENGINEERING AND PROFESSIONAL ETHICS
+",TECH,None.,None,"Applications of codes of ethics in the engineering and technology professions reflective of social and moral
+ responsibilities to the public, and accountability in engineering practice."
+TECH 31016 ,"MANUFACTURING TECHNOLOGY
+",TECH,"TECH 10001 and TECH 13580 and TECH20002.
+",None,"Classroom, laboratory and field experiences involving the major aspects of a manufacturing enterprise including
+ product design, production financing and marketing."
+TECH 31020 ,"AUTOMATED MANUFACTURING
+",TECH,None.,None,"Theory and operation of computer controlled machine tools, robots and processes."
+TECH 31032 ,"POWER TECHNOLOGY
+",TECH,"TECH 20001 andTECH 20004.
+",None,"Principles of energy conversion and power application. Overview of basic
+heat engines, machines and
+ transmission devices. Alternative energy systems and conservation techniques."
+TECH 31043 ,"PRINCIPLES OF CONCRETE CONSTRUCTION
+",TECH,TECH 21071.,None,"An introductory course on the use of concrete in the construction industry. Students will gain a basic
+ understanding of the strength and behavior of reinforced concrete members and simple reinforced concrete
+structural systems."
+TECH 31065 ,"CAST METALS
+",TECH,TECH 20002.,None,"Principles and processes of metal casting with a focus on current industrial practices. Includes laboratory
+ experience with nonferrous metals and industrial tours."
+TECH 31067 ,"MACHINING TECHNOLOGY I
+",TECH,None.,None,Lecture and laboratory experiences in basic machine tool principles and processes.
+TECH 31071 ,"WOODS TECHNOLOGY II
+",TECH,TECH 11071.,None,"Emphasis on basic woodworking machinery processes, fundamental construction and materials. Project design
+ and development."
+TECH 31087 ,"DESIGN FOR TECHNOLOGY
+",TECH,none.,None,"Design as creative process. Individual and group experiences in problem solving. Relevance to art industry and
+ education."
+TECH 32002 ,"MATERIALS AND PROCESSES II
+",TECH,TECH 20002.,None,"Advanced study and practice in materials and processes. Emphasis will be
+upon developing skills and knowledge
+ in producing a product and conducting problem solving activities."
+TECH 32101 ,"POLYMERS I
+",TECH,None.,None,"Description of various polymers, thermoplastics and thermosets. Processes used to produce products. Outline of
+ polymer chemistry including methods of testing and identification."
+TECH 32105 ,"CONSTRUCTION JOBSITE MANAGEMENT
+",TECH,None.,None,"Course concentrates on the procedures and methods that are used by the construction contractor during the
+ construction and post-construction phases of a project."
+TECH 33010 ,"COMPUTER HARDWARE
+",TECH,junior standing.,None,"Introduction to the hardware, architecture and operation of the personal
+computer and associated devices.
+ Topics include personal computer architecture and operation fundamentals, basic hardware, data busses and
+ ports, hardware component packaging, auxiliary hardware components, computer assembly, basic hardware
+ installation, configuration and troubleshooting."
+TECH 33016 ,"PC/NETWORK ENGINEERING AND TROUBLESHOOTING
+",TECH,EERT 22014 or TECH 33010.,None,"Covers the service, maintenance, upgrade and optimization of personal computers. Specification, installation
+ and maintenance of local area networks are covered. Students learn communication protocols and network
+ architecture. Two lectures and two labs a week."
+TECH 33020 ,"COMPUTER HARDWARE II
+",TECH,"TECH23010
+",None,"An in-depth look at personal computer design and hardware components, and an introduction to the
+ fundamentals of personal computer networks. Topics include the operation, assembly, configuration, diagnosis,
+ and unit-level troubleshooting of personal computers and their associated hardware components. Also includes
+ an introduction to PC network configuration, hardware, and troubleshooting fundamentals."
+TECH 33030 ,"COMPUTER PERIPHERALS AND SPECIAL USE HARDWARE
+",TECH,TECH 23010 and TECH 26301.,None,"Operation, installation, hardware configuration, software configuration,
+fault analysis, troubleshooting, and
+ repair of various peripheral devices, interface cards, and special use hardware components used by personal
+ computers."
+TECH 33031 ,"PROGRAMMABLE LOGIC CONTROLLERS
+",TECH,TECH 10001 and TECH 21021.,None,"An introduction to programmable logic controllers (PLCS) covering hardware, ladder logic programming,
+ networking and communications. Programming timers, counters and sequencers and an introduction to human
+ machine interfaces (HMIS)."
+TECH 33032 ,"PROGRAMMABLE LOGIC CONTROLLERS II
+",TECH,TECH 33031.,None,"Advanced principles and applications of programmable logic controllers with a focus on using sequential function
+ charts to control complex industrial processes. Includes real time control issues, PLC networking,
+programming
+ languages other than ladder logic, standards, motion control, supervisory control and data acquisition, process
+ control, alarm management, power failure strategies and safety."
+TECH 33033 ,"HYDRAULICS/PNEUMATICS
+",TECH,"MATH 11022; and PHY 13001 or PHY23101.
+",None,"Fluid properties, hydraulic design, viscosity, hydraulic components, pumps, systems and circuits, maintenance
+ and safety, pneumatics, air systems control and design."
+TECH 33040 ,"MOTORS AND CONTROLLERS
+",TECH,TECH 21021.,None,"AC and DC motors, motor control, and machine operations in mechatronic systems. Includes introduction to
+ basic control system terms and devices, input and output transducers, signal conditioning, open loop and closed
+ loop control, stability and performance."
+TECH 33092 ,"COOPERATIVE EDUCATION - PROFESSIONAL DEVELOPMENT
+",TECH,sophomore standing; 2.25 GPA; and special approval.,None,"(Repeatable for a maximum of 6 credit hours) Supervised work-study experience in approved business or
+ industrial environment relative to the student's major. The 3 credit hour co-op experience must be for a period
+ of at least 12 consecutive weeks at 40 hours per week, or 30 hours per week for 15 weeks, totaling not less
+ than 450 hours. Most co-ops occur during the summer. Students can earn up to an additional 3 credit hours
+ (one to three per co-op – 150 work hours per credit hour) over the course of their college career as long as
+ each co-op has a
+different focus."
+TECH 33095 ,"SPECIAL TOPICS:APPLIED SCIENCE AND TECHNOLOGY
+",TECH,Junior standing and special approval.,None,(Repeatable for credit)Special topics of immediate interest in applied science and technology.
+TECH 33111 ,"STRENGTH OF MATERIALS
+",TECH,PHY 13001.,None,"An analytical study of the relaxation between the external forces applied to elastic materials and the resulting
+ deformations and stresses."
+TECH 33220 ,"ELECTRONIC DEVICES
+",TECH,TECH 20004. ,TECH 23200.,"Introduction to electronic non-linear devices including, diodes, transistors, opotoelectronic devices and
+ operational amplifiers. Use and
+application of these devices in different types of application like rectifiers,
+ amplifiers and linear integrated circuits."
+TECH 33222 ,"DIGITAL DESIGN FOR COMPUTER ENGINEERING
+",TECH,TECH 21021.,None,"Introduction to digital design. The operation and use of digital devices
+and components as used in
+ microprocessors and digital computers. Topics
+include binary arithmetic operations, Boolean algebra, logic
+ gates, combinational and sequential logic, buffers, registers, memory devices, counters, latches, timers,
+ comparators, encoders, decoders, multiplexers
+and demultiplexers."
+TECH 33223 ,"ELECTRONIC COMMUNICATION
+",TECH,TECH 21021.,None,"Principles of digital and analog telecommunications and data signals. Topics include electromagnetic signal time
+ and frequency characteristics, signal propagation, signal modulation, transmission lines, wireless signals,
+ antennas, digital signal characteristics and protocols, signal multiplexing, microwave devices and applications."
+TECH 33363 ,"METALLURGY AND MATERIALS SCIENCE
+",TECH,Junior standing.,None,"Scientific study of modern manufacturing materials (metals, plastics and
+ceramics) and the laboratory test
+ methods used to determine their manufacturing specifications and properties."
+TECH 33657 ,"INTRODUCTION TO LEAN SIX SIGMA
+",TECH,MATH 11010.,None,"An introduction to lean six sigma. Including understanding the systems, measuring and defining performance,
+ analyzing, improving, and controlling processes, and leading six sigma initiatives."
+TECH 33700 ,"QUALITY TECHNIQUES
+",TECH,none.,None,"Introduction to quality management and the tools and techniques including the basic tools identified by ASQ
+ (American Society for Quality) as well as an introduction to Lean and Six Sigma. Information presented helps
+ prepare the student to qualify for the Quality Process Analyst Certification."
+TECH 33870 ,"FACILITY DESIGN AND MATERIAL HANDLING
+",TECH,junior standing.,None,"Provides students with a fundamental understanding of how layout affects
+the flow through a system. Both
+ qualitative and quantitative tools are presented for complete approach to facility design and material handling."
+TECH 34002 ,"ADVANCED CAD II
+",TECH,"MERT 12001 and CADT 22000; orTECH 23581.
+",None,"Continuation of CADT 22000 with an emphasis on the use of a Parametric-based CAD software (PRO-
+ENGINEER) for the design and modeling
+of industrial products."
+TECH 35765 ,"QUALITY AND RELIABILITY ENGINEERING
+",TECH,MATH 11010.,None,"Introduction to reliability and quality engineering with an emphasis on manufacturing and techniques for
+ improving quality and reliability. Includes reliability, reliability prediction, quality techniques, modeling statistical
+ process control, control charts, sampling, experimental design, and designing and manufacturing for quality and
+ reliability."
+TECH 36302 ,"NETWORKING HARDWARE II
+",TECH,TECH 26301.,None,"Continuation of TECH 26301. In-depth coverage of personal computer-based
+enterprise networking systems
+ hardware with a focus on network hardware
+and software configuration, fault analysis, diagnostics, and
+troubleshooting. Topics include router and switch operation, programming, configuration, and troubleshooting,
+ along with overall enterprise network maintenance, troubleshooting, and repair. Course also
+includes WAN and
+ VLAN fundamentals, intermediate TCP_IP, and network administration and maintenance as related to fielding
+ and maintaining networking hardware components and systems."
+TECH 36620 ,"PROJECT MANAGEMENT IN ENGINEERING AND TECHNOLOGY
+",TECH,Junior standing or Senior standing.,None,"The planning, organizing, directing, and controlling of company technology resources for project-based
+ management functions. Includes project coordination requirements, management and planning methods and
+the use of various management and planning tools."
+TECH 41001 ,"METHODS IN TECHNOLOGY EDUCATION
+",TECH,Special approval.,None,"Methods of teaching curriculum development and evaluation which are unique to the profession of technology
+ education."
+TECH 41002 ,"ORGANIZATION IN TECHNOLOGY EDUCATION
+",TECH,Junior standing.,None,"Principles and practices involved in housing,equipping organizing maintaining and operating industrial arts
+ technology education courses."
+TECH 41003 ,"METHODS AND ORANIZATION IN TECHNOLOGY EDUCATION
+",TECH,junior standing.,None,"Curriculum development, organization, and evaluation for technology education's role in STEM. Includes
+ demonstration techniques and safety instruction, lesson plan development and facility design principles."
+TECH 41051 ,"FOUNDATIONS AND CONTEMPORARY THEORIES OF TECHNOLOGY EDUCATION
+",TECH,None.,None,"This course explores the history, contemporary theories and practices of
+technology education. Included are site
+ visits to exemplary technology education programs."
+TECH 41052 ,"TECHNOLOGY AND ENGINEERING FOR K TO 8 STEM
+",TECH,None.,None,"Using discussion, laboratory experience and field experiences this course explores technology education as it
+ relates to all content areas of the K-12 curriculum."
+TECH 41055 ,"INDUSTRIAL PRACTICE
+",TECH,Junior standing.,None,Practical experience in industry of cooperative work-study nature. Repeatable for a total of 8 hours.
+TECH 41093 ,"VARIABLE TITLE WORKSHOP IN TECHNOLOGY
+",TECH,None.,None,"(Repeatable for credit)Specialized instructional unit oriented toward the application of current technology
+ concepts."
+TECH 41096 ,"INDIVIDUAL INVESTIGATION IN TECHNOLOGY EDUCATION
+",TECH,Special approval.,None,(Repeatable for a maximum of 4 credit hours) Individual investigation course.
+TECH 41196 ,"INDIVIDUAL INVESTIGATION IN TECHNOLOGY EDUCATION
+",TECH,"Special approval bydepartment.
+",None,(Repeatable for a maximum of 4 credit hours)Individual investigation course.
+TECH 42100 ,"TRAINING TOPICS IN TECHNOLOGY
+",TECH,Permission.,None,"(Repeatable for credit) Specialized advanced instruction oriented primarily to the theoretical base and
+ application of current technology developed by experts in the specific technology. This course requires
+substantial base knowledge."
+TECH 42103 ,"CONSTRUCTION SPECIFICATIONS AND SERVICES
+",TECH,TECH 22200.,None,"Educates the student in the fundamental tenants that all the stakeholders in the design and construction
+industry hold to. With a firm understanding of what the roles and responsibilities that each stakeholder has to
+ the others the student participates in the process of
+construction confident that they understand what they are
+ expected to do in their role as well as what they can expect of the architect, the owner and the various trades."
+TECH 43016 ,"ADVANCED PC-NETWORK ENGINEERING AND TROUBLESHOOTING
+",TECH,TECH 33020 and TECH 36302.,None,"An in-depth look at the architecture, operation, configuration, fault analysis, troubleshooting and repair of
+ personal computer and computer network hardware components. Topics include the operation, assembly,
+configuration, diagnosis, and unit-level troubleshooting of personal computer hardware, computer networking
+ hardware, and related hardware components."
+TECH 43026 ,"MICROPROCESSOR SYSTEMS
+",TECH,"TECH33222 and TECH 46330.
+",None,"Introduction to the architecture, operation and applications of an advanced microprocessor, focusing on
+ assembly language programming and interfacing of standard programmable peripherals."
+TECH 43030 ,"MECHATRONICS
+",TECH,"PHY 23102,TECH 33032 and TECH 33040.
+",None,"Application of automation concepts in motion control, electrical circuits, fundamental mechanics, control
+ systems and programming including modeling, interfacing and signal conditioning."
+TECH 43031 ,"MECHATRONICS II
+",TECH,TECH 43030.,None,"Advanced modeling, system response, closed loop control and system software for mechatronic systems."
+TECH 43050 ,"INVENTIVE PROBLEM SOLVING
+",TECH,junior or senior standing.,None,"Theory of Inventive Problem Solving, TRIZ, is a collection of powerful problem-solving tools for a broad range of
+ inventive problems. Capstone web-based course for students finishing their bachelor¿s degree. Assists students
+ in utilizing material learned in earlier courses to solve many real world problems in multiple disciplines."
+TECH 43060 ,"MANAGEMENT OF TECHNOLOGY INNOVATION
+",TECH,Junior or senior standing.,None,"Subjects covered in this course are case studies of innovative companies, elements of an innovation process,
+ review of major problem solving methods, technical opportunity analysis, technical planning, technological
+ forecasting, concept development and elements of patents. A
+project is included that utilizes TRIZ software and
+ innovation model elements."
+TECH 43080 ,"INDUSTRIAL AND ENVIRONMENTAL SAFETY
+",TECH,None.,None,Examines the occupational safety and health act and fundamentals of industrial safety programs.
+TECH 43096 ,"INDIVIDUAL INVESTIGATION IN APPLIED SCIENCE AND TECHNOLOGY
+",TECH,Junior standing and special approval.,None,"(Repeatable for credit)Work study of an individual nature on a topic in a
+field of applied science and technology."
+TECH 43220 ,"ELECTRICAL MACHINERY
+",TECH,TECH 23224.,None,"Principles of operation and application of motors, generators, transformers and other magnetic devices;
+ electrical power generation, distribution and use."
+TECH 43221 ,"DIGITAL CONTROL SYSTEMS AND INSTRUMENTATION
+",TECH,TECH 43026 and MATH12003 and PHY 23102. ,TECH 33223.,"Focuses on applications of instrumentation and control systems using computers and cirocontrollers including
+ sensors, transducers, instruments, data acquisition boards, software programs, signal conditioning and
+ transmission methods."
+TECH 43222 ,"COMPUTER HARDWARE ENGINEERING AND ARCHITECTURE
+",TECH,"TECH 26010 orTECH 33222.
+",None,"Internal architecture and operation of digital computers. Topics include
+computer processor datapaths and
+ control, computer memory datapaths and
+control, pipelining and parallel processing, memory architecture and
+management, IO control, system bus architecture and properties, and computer control timing and
+ synchronization."
+TECH 43550 ,"COMPUTER-AIDED MANUFACTURING
+",TECH,"TECH 10001and TECH 20002.
+",None,The application of computers to the preparation of machine tool control programs.
+TECH 43580 ,"COMPUTER-AIDED MACHINE DESIGN
+",TECH,"TECH 10001 and TECH33111 and TECH 34002 and MATH 12002 and PHY 13001.
+",None,"Application of the principles of mechanics and strength of materials, with computer assistance to the design and
+ selection of machine components under both static and dynamic loads."
+TECH 43700 ,"COMPUTER INTEGRATED MANUFACTURING
+",TECH,TECH 43550.,None,"Study of the computer integrated manufacturing system as it relates to product design, estimating inventory,
+ machining and assembly, quality control and distribution."
+TECH 43800 ,"APPLIED ENGINEERING TECHNOLOGY SEMINAR
+",TECH,"applied engineering technology (AENG) major and seniorstanding.
+",None,"As the capstone course in Applied Engineering, students will develop and
+participate in all aspects of a project
+ involving the solution of a problem through application of technology. Students must pass the ATMAE Cetrified
+ Technical Manager (CTM) exam."
+TECH 46031 ,"STUDENT TEACHING
+",TECH,"Special approval by department; and Official valid certification of Child Safety Training, approvedBasic Life Support and A.L.I.C.E. Training must be presented to the campus office of clinical experience or
+ designated faculty/staff at Regional campuses as prerequisite for student teaching. ",TECH 49525.,"Provides a 12 week student teaching experience in technology education program. All professional courses must
+ be completed along with 75% of all technology courses and 100 hours of technology education program visits.
+ Students are required to complete Bureau of Criminal Investigation and Identification (BCII) and Federal Bureau
+ of Investigation (FBI) background checks and submit the results to authorized personnel at their assigned
+ ""school/agency"" before the first day of the semester in which student teaching/internship will take place."
+TECH 46170 ,"CASE STUDIES IN FRAUD EXAMINATION
+",TECH,"TECH36110 and TECH 36318.
+",None,"Application of principles of fraud examination, detection and evaluation
+of recommended action plans to specific
+ fraud cases."
+TECH 46312 ,"WIRELESS NETWORK AND TELECOMMUNICATION SYSTEMS
+",TECH,TECH 36302,None,"Topics covered include the Public Switch Telephone Network infrastructure, electronic switching systems,
+ transmission systems and emerging wireless networks. Note: This course is part of the Networking Hardware
+ course sequence required for students enrolled in the Computer Engineering Technology concentration."
+TECH 46330 ,"VISUAL BASIC PROGRAMMING IN ENGINEERING TECHNOLOGY
+",TECH,TECH 10001 or TECH 16010.,None,"The course content includes programming in a high-level object-oriented,
+event- driven visual programming
+ language, Visual Basic 2010 Express, conditional statements, iterative statements, arrays, object oriented
+programming, classes, objects, methods, inheritance, exception handling,
+graphical user interfaces with
+ Windows Forms."
+TECH 46350 ,"NETWORK MANAGEMENT AND DESIGN TECHNOLOGY
+",TECH,TECH 36302.,None,"Course covers the technical aspects of centrally managed and distributed
+Wide Area Networks, with an
+ emphasis on the techniques used to maintain
+and improve the performance of telecommunications and data
+ networks. Students will use software packages to monitor the real-time performance
+of a network and to
+ diagnose various networking hardware and software problems. Topics include the five stacks of network
+ management (fault management, configuration management, performance management, security
+management, and accounting management). Examples of current specific network management products are
+reviewed."
+TECH 46411 ,"REQUIREMENTS ENGINEERING AND ANALYSIS
+",TECH,"may be waived for students withindustry experience in software development or consent from the instructor. Prerequisites: minimum C (2.000)
+ grade in TECH 16010 or DSCI 15310 or CS
+13001.
+",None,"Describes requirements engineering concepts for practical systems. Topics include identifying stakeholders and
+ how to work with them effectively, requirements elicitation techniques, requirements engineering in the
+ Problem Domain, developing Use-Case scenarios, reference models, systems requirements specifications,
+ validating and prototyping requirements and case study presentations by Industry SMEs. Some knowledge of a
+ programming language or good analytical background is assumed."
+TECH 47200 ,"SYSTEMS ENGINEERING
+",TECH,junior standing.,None,"Systems engineering as a method to solve problems. Introduction to the fundamental systems engineering
+ principles, processes, and methodologies used to analyze, design, develop, and deploy complex, sustainable
+ systems. Focuses on systems engineering as a logical, disciplined, systematic, and coherent approach to the
+ design and development of a system, across the full life cycle of the system. Special emphasis is made on the
+ concepts, methods, and activities used to analyze systems, to define and allocate requirements, to transform
+ requirements into a system design, and to verify and validate the system."
+TECH 47210 ,"SUSTAINABLE ENERGY I
+",TECH,None.,None,"A comprehensive overview of energy sources and energy systems, with an emphasis on renewable energy and
+ the implementation and sustainability of various forms of energy. Examines the characteristics of conventional
+ non-renewable energy systems, along with alternate, renewable energy sources and systems. Includes
+ fundamental energy concepts and the conversion, delivery, distribution, and storage of energy. Explores the
+technological application of various sources of energy and compares their benefits and limitations. Also presents
+ an overview of present U.S. and global energy needs and demands, and the sustainable energy technologies
+ that may be used to meet future energy demands."
+TECH 47211 ,"SUSTAINABLE ENERGY II
+",TECH,TECH 47210.,None,"An in-depth study of the analysis, selection, and implementation of various energy and power sources, with an
+ emphasis on the use of renewable, sustainable energy systems. Focuses on determining energy needs, and on
+ assessing and comparing energy systems with respect to efficiency, technical feasibility, available resources,
+ cost and sustainability characteristics. Includes economics of energy systems, methods for determining costs,
+ and cost-benefit analysis of various energy and power systems. Also includes the social, economic and
+environmental impact associated with the development, implementation and
+use of various forms of energy."
+TECH 49525 ,"INQUIRY INTO PROFESSIONAL PRACTICE
+",TECH,None,TECH 46031.,"Seminar during student teaching to explore issues and techniques appropriate to teaching technology
+ education."
+TECH 50000 ,"QUALITY STANDARDS
+",TECH,"Graduatestanding.
+",None,"This course introduces students to issues in quality standards, quality assurance and statistical inference in
+ applied technology and process control. Topics include systems reliability, quality control, SPC, control charts,
+ principles and methods of statistical analysis and prediction, and hypothesis testing."
+TECH 51001 ,"METHODS IN TECHNOLOGY EDUCATION
+",TECH,"Graduatestanding.
+",None,"Methods of teaching curriculum development and evaluation which are unique to the profession of technology
+ education."
+TECH 51002 ,"ORGANIZATION IN TECHNOLOGY EDUCATION
+",TECH,Graduate standing.,None,"Principles and practices involved in curriculum and facility design appropriate for technology education including
+ equipment maintenance."
+TECH 51003 ,"METHODS AND ORGANIZATION IN TECHNOLOGY EDUCATION
+",TECH,graduate standing.,None,"Curriculum development, organization, and evaluation for technology education's role in STEM. Includes
+ demonstration techniques and safety instruction, lesson plan development and facility design principles."
+TECH 51051 ,"FOUNDATIONS AND CONTEMPORARY THEORIES OF TECHNOLOGY EDUCATION
+",TECH,Graduate standing.,None,"This course explores the history, contemporary theories and practices of
+technology education. Included are site
+ visits to exemplary technology education programs."
+TECH 51052 ,"TECHNOLOGY AND ENGINEERING FOR K TO 8 STEM
+",TECH,Graduate standing.,None,"Using discussion, laboratory experience and field experiences this course explores technology education as it
+ relates to all content areas of the K-12 curriculum."
+TECH 51055 ,"INDUSTRIAL PRACTICE
+",TECH,Graduate standing and special approval.,None,"Practical experience in industry of cooperative work-study nature. Not available for persons who have taken
+ TECH 33056."
+TECH 51093 ,"VARIABLE TITLE WORKSHOP IN TECHNOLOGY
+",TECH,Graduate standing.,None,"(Repeatable for credit)Specialized instructional unit oriented toward the application of current technology
+ concepts."
+TECH 52200 ,"RADIATION PROCESSING OF MATERIALS
+",TECH,Graduate standing.,None,"Description of the radiation sources used in radiation technology and the study of the effects of electrons and
+ gamma rays on materials of technological interest. Experiments deal with the effects of radiation in different
+ materials."
+TECH 52400 ,"RADIATION DOSIMETRY AND SAFETY
+",TECH,TECH 52200 and graduate standing.,None,"Basic concepts of dosimetry and its units as applied to radiation technology, including theory of dosimeter
+ response and use of dosimeters
+in radiation environments. Safety principles and practices followed in radiation
+ environments, including terminology, maximum exposure limits, and procedures to minimize exposure to
+ radiation."
+TECH 53026 ,"INTRODUCTION TO MICROPROCESSORS
+",TECH,"TECH33222 and 46330.
+",None,"Introduction to the architecture, operation and applications of an advanced microprocessor, focusing on
+ assembly language programming and interfacing of standard programmable peripherals."
+TECH 53221 ,"DIGITAL CONTROL SYSTEMS AND INSTRUMENTATION
+",TECH,TECH 33223; and TECH 43026 or 53026; and graduate standing.,None,"Focuses on applications of instrumentation and control systems using computers and microcontrollers including
+ sensors, transducers, instruments, data acquisition boards, software programs, signal conditioning and
+ transmission methods."
+TECH 53222 ,"COMPUTER HARDWARE ENGINEERING AND ARCHITECTURE
+",TECH,"graduatestanding.
+",None,"Internal architecture and operation of digital computers. Topics include
+computer processor datapaths and
+ control, computer memory datapaths and
+control, pipelining and parallel processing, memory architecture and
+management, IO control, system bus architecture and properties, computer
+control timing, and synchronization
+ of controls."
+TECH 53550 ,"COMPUTER-AIDED MANUFACTURING
+",TECH,TECH 23581 and graduate standing.,None,"The application of computers to the preparation of machine tool control programs, rapid prototyping and robotic
+ control. Two hours lecture and two hours lab."
+TECH 53700 ,"COMPUTER INTEGRATED MANUFACTURING
+",TECH,"TECH 31020 andTECH 53550 and graduate standing.
+",None,"The study of computer integrated manufacturing as system control, product design, machining, assembly,
+ material logistics, quality, information usage and system integration relates to it."
+TECH 53800 ,"APPLIED ENGINEERING TECHNOLOGY SEMINAR
+",TECH,Special approval and graduate standing.,None,An individual or group project involving the solution of a problem through the application of technology.
+TECH 55551 ,"INTRODUCTION TO NANOTECHNOLOGY
+",TECH,graduate standing.,None,"Provides an in-depth overview of the fundamentals of nanoscience and nanotechnology. Includes a survey of
+ developments within the breadth of the nanotechnology in various fields such as electronics, materials, energy,
+ and biomedical science, etc."
+TECH 56312 ,"WIRELESS NETWORK AND TELECOMMUNICATION SYSTEMS
+",TECH,graduate standing.,None,"Wireless and telecommunication electronic systems technologies. Topics covered include the Public Switch
+ Telephone Network infrastructure, electronic switching systems, transmission systems, and emerging wireless
+ networks."
+TECH 56321 ,"WEB DATABASE INTEGRATION
+",TECH,COMT 21005 and COMT 21036 and graduate standing.,None,"Laboratory course focused on integrating data sources into web sites. Current topics include server-side
+ processing principles, Web forms, database programming objects and structured query language."
+TECH 56330 ,"VISUAL BASIC PROGRAMMING IN ENGINEERING TECHNOLOGY
+",TECH,graduate standing.,None,"The course content includes programming in a high-level object-oriented,
+event- driven visual programming
+ language, Visual Basic 2010 Express, conditional statements, iterative statements, arrays, object oriented
+programming, classes, objects, methods, inheritance, exception handling,
+graphical user interfaces with
+ Windows Forms. Includes a graduate-level
+VB programming project."
+TECH 56350 ,"NETWORK MANAGEMENT AND DESIGN TECHNOLOGY
+",TECH,graduate standing.,None,"The technical aspects of centrally managed and distributed Wide Area Networks, with an emphasis on the
+ techniques used to maintain and improve the performance of telecommunications and data networks. Students
+ will use software packages to monitor the real-time performance
+of a network and to diagnose various
+ networking hardware and software problems. Topics include the five stacks of network management (fault
+management, configuration management, performance management, security management, and accounting
+ management). Examples of current specific network management products are reviewed."
+TECH 56411 ,"REQUIREMENTS ENGINEERING AND ANALYSIS TECHNOLOGY
+",TECH,"TECH 46330 or TECH 56330 or CS61002; and graduate standing.
+",None,"Techniques to conceptualize, develop and analyze requirements engineering specifications for practical systems.
+ Topics covered include
+identifying stakeholders and how to effectively work with them, requirements elicitation
+ techniques; requirements engineering in the problem and solution domains. The students are provided with an
+opportunity to participate in formal review of their projects by industry experts. Strong analytic skills,
+ algorithms or programming experience is recommended."
+TECH 57000 ,"SUSTAINABLE SYSTEMS AND TECHNOLOGY
+",TECH,graduate standing.,None,"Introduction to the fundamental concepts and principles of sustainability, sustainable technologies and
+ sustainable systems. Provides students with an understanding of the basic principles and key issues of
+ environmental, social and economic sustainability. Closely examines sustainability as it applies to the
+ relationships among human beings, technology and the environment, with a special emphasis on sustainability
+ in the context of ""meeting humanity's current needs."" Also stresses the ethics and importance of sustainability
+ and the use of
+sustainable systems."
+TECH 57010 ,"ETHICS, TECHNOLOGY AND THE ENVIRONMENT
+",TECH,uiste: graduate standing.,None,"Explores the fundamental issues of the interconnections between human beings and the environment, with an
+ emphasis on the ethics and the importance of the sustainability. Takes an in-depth look at basic environmental
+ concepts, ethics and values, as they relate to a wide range of practical subject matters, including technology,
+ from global and national perspectives. Provides an in-depth look at sustainable systems and the ethical issues
+ associated with sustainability as it relates to technology by focusing on common and future impacts as they
+apply to ethics, values and justice."
+TECH 57200 ,"SYSTEMS ENGINEERING
+",TECH,"graduatestanding.
+",None,"Systems engineering as a method to solve problems. Introduction to the fundamental systems engineering
+ principles, processes, and methodologies
+used to analyze, design, develop, and deploy complex, sustainable
+systems. Focuses on systems engineering as a logical, disciplined, systematic, and coherent approach to the
+ design and the development of a
+system, across the full life cycle of the system. Special emphasis is made on
+ the concepts, methods and activities used to analyze systems, to
+define and allocate requirements , to
+ transform requirements into a system design, and to verify and validate the system."
+TECH 57210 ,"SUSTAINABLE ENGERGY I
+",TECH,"graduatestanding.
+",None,"(Cross-listed with TECH 47210) A comprehensive overview of energy sources and energy systems, with an
+ emphasis on renewable energy and the
+implementation and sustainability of various forms of energy. Examines
+the characteristics of conventional non-renewable energy systems, along with alternate, renewable energy
+ sources and systems. Includes fundamental energy concepts and the conversion, delivery, distribution, and
+ storage of energy. Explores the technological application of various
+sources of energy and compares their
+ benefits and limitations. Also presents an overview of presents U.S. and global energy needs and demands, and
+ the sustainable energy technologies that may be used to meet future energy demands."
+TECH 57211 ,"SUSTAINABLE ENERGY II
+",TECH,graduate standing and TECH 57210.,None,"(Cross-listed with TECH 47211) An in-depth study of the analysis, selection, and implementation of various
+ energy and power sources, with an emphasis on the use of renewable, sustainable energy systems. Focuses
+on
+ determining energy needs, and on assessing and comparing energy systems with respect to efficiency, technical
+ feasibility, available resources, cost and sustainability characteristics. Includes economics of energy systems,
+methods for determining costs, and cost-benefit analysis of various energy and power systems. Also includes
+ the social, economic, and environmental impact associated with the development, implementation, and use of
+ various forms of energy."
+TECH 60000 ,"PROJECT MANAGEMENT IN A TECHNOLOGICAL ENVIRONMENT
+",TECH,Graduate standing.,None,"The planning, organizing, directing and controlling of company technology resources for relatively short term
+ objectives. Students will
+also learn to make application of current projects."
+TECH 60001 ,"QUANTITATIVE METHODS IN TECHNOLOGY
+",TECH,graduate standing.,None,"Descriptive and inferential statistics used in technology and engineering. Emphasis is on the methods of
+ analysis and the interpretation of data associated with research and development in technological and
+ engineering environments. Course topics include representation of data, descriptive statistics, probability and
+probability distributions, inferential statistics, statistical design, and the analysis of experiments. No previous
+ familiarity with probability or statistics is assumed. The ability to utilize basic algebra is required."
+TECH 60003 ,"SIX-SIGMA: TOOLS AND APPLICATIONS FOR TECHNOLOGY MANAGEMENT
+",TECH,"TECH 50000 and 60001; and graduatestanding.
+",None,"Principles and concepts of six-sigma to improve organizational efficiency, effectiveness and productivity by
+ improving quality, reducing waste, defects and failures."
+TECH 60078 ,"RESEARCH METHODS IN TECHNOLOGY
+",TECH,Graduate standing.,None,"Research techniques for the technologist. Methods for designing, conducting, analyzing and interpreting results
+ of technological research."
+TECH 61000 ,"INDUSTRIAL TECHNOLOGY EDUCATION
+",TECH,Graduate standing.,None,"This course provides students with an understanding of the rationale and
+issues related to developing the
+ industrial technology education program."
+TECH 61095 ,"SPECIAL TOPICS IN TECHNOLOGY
+",TECH,Graduate standing.,None,"(Repeatable for credit)Study of special topics in technology including technological tours offered irregularly as
+ interest and opportunities permit. When offered contact College of Technology office for details."
+TECH 61098 ,"RESEARCH
+",TECH,Graduate standing.,None,"(Repeatable for credit)Research or individual investigation for master's
+level graduate students. Credits earned
+ may be applied toward meeting degree requirements if department approves."
+TECH 61199 ,"THESIS I
+",TECH,Advisor's special approval and graduate standing.,None,"Thesis option student must register for a total of 6 hours, 2 to 6 in a single semester or to be distributed over
+ several semesters if desired."
+TECH 61299 ,"THESIS II
+",TECH,TECH 61199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+TECH 62396 ,"INDIVIDUAL INVESTIGATION IN ELECTRONIC TECHNOLOGY
+",TECH,TECH 53221 and graduate standing.,None,"(Repeatable for credit)Individual investigation of a student-selected topic oriented toward the technical aspects
+ of electronics."
+TECH 63010 ,"COMPUTER HARDWARE
+",TECH,graduate standing.,None,"Introduction to the hardware, architecture and operation of the personal
+computer and associated devices.
+ Topics include personal computer architecture and operation fundamentals, basic hardware, data busses and
+ ports, hardware component packaging, auxiliary hardware components, and
+computer assembly, basic
+ hardware installation, configuration and troubleshooting."
+TECH 63020 ,"FIBER OPTIC SYSTEMS
+",TECH,TECH 33220 and graduate standing.,None,"Principles and characteristics of fiber optics, fiber optic system components and applications of fiber optics in
+ electronic communication systems."
+TECH 63031 ,"PROGRAMMABLE LOGIC CONTROLLERS
+",TECH,graduate standing.,None,"Programmable logic controllers (PLCS) covering hardware, ladder logic programming, networking and
+ communications. Programming timers, counters
+and sequencers and an introduction to human machine
+ interfaces (HMIS). An understanding of basic electricity and computer technology is required."
+TECH 63032 ,"ADVANCED PROGRAMMABLE LOGIC CONTROLLERS
+",TECH,"TECH 33031 or TECH 63031;and graduate standing.
+",None,"Advanced principles and applications of programmable logic controllers with a focus on using sequential function
+ charts to control complex industrial processes. Includes real time control issues, PLC networking,
+programming
+ languages other than ladder logic, standards, motion control, supervisory control and data acquisition, process
+ control, alarm management, power failure strategies and safety."
+TECH 63040 ,"ELECTRONIC COMMUNICATIONS
+",TECH,TECH 33223 and graduate standing.,None,"Study of electronic communications systems fundamentals, characteristics, design considerations and
+ implementation. Topics include signal modulation and demodulation, multiplexing, noise, transmitters,
+ receivers, signal propagation, digital communications, transmission lines, antennas and practical applications."
+TECH 63041 ,"MOTORS AND CONTROLLERS
+",TECH,"TECH 21021 andgraduate standing.
+",None,"Theory and application of AC and DC motors, motor control, and machine operations in mechatronic systems.
+ Includes introduction to basic control system terms and devices, input and output transducers, signal
+conditioning, open loop and closed loop control, stability and performance."
+TECH 63045 ,"MECHATRONICS
+",TECH,"TECH 33032or TECH 63932; and TECH 33040 or TECH 63040; and PHY 23102; and graduate standing.
+",None,"Application of automation concepts in motion control, electrical circuits, fundamental mechanics, control
+systems and programming including modeling, interfacing and signal conditioning."
+TECH 63046 ,"ADVANCED MECHATRONICS
+",TECH,TECH 43030 or TECH 63045; and graduate standing.,None,"Advanced modeling, system response, closed loop control and system software for mechatronic systems."
+TECH 63050 ,"TRIZ-THEORY OF INVENTIVE PROBLEM SOLVING
+",TECH,graduate standing.,None,"Theory of Inventive Problem Solving, TRIZ, is a collection of powerful problem-solving tools for a broad range of
+ inventive problems. The theory originated in Russia by the study of over 2 million patents. Web-based capstone
+ for students finishing their master¿s degree. Students utilize material learned in earlier courses to solve real
+ world
+problems in multiple disciplines."
+TECH 63060 ,"MANAGEMENT OF TECHNOLOGY INNOVATION
+",TECH,graduate standing.,None,"Subjects covered in this course include: case studies of innovative companies, elements of an innovation
+ process, review of major problem solving methods, technical opportunity analysis, technical planning,
+technological forecasting, concept development and elements of patents. A
+project is included that utilizes TRIZ
+ software and innovation model elements."
+TECH 63070 ,"COMPUTER HARDWARE DESIGN AND INTEGRATION
+",TECH,EERT 22014 or TECH 33010; and graduate standing.,None,"In-depth study of personal computer (PC) and computer networking hardware. Topics include PC design, basic
+ and auxiliary PC hardware components, PC assembly, PC upgrade and optimization, and PC repair, diagnosis
+ and troubleshooting. Additional topics include computer networking hardware, network architecture, network
+communication protocols, and network installation, configuration and maintenance. Includes laboratory."
+TECH 63100 ,"COMPUTER-AIDED DESIGN
+",TECH,TECH 23581 and graduate standing.,None,"Study of modern industrial practice using computers in advanced graphics, design and analysis including
+ geometric dimensioning and tolerancing, parametric design, solid modeling and finite element analysis. Two
+ hours lecture and two hours lab."
+TECH 63496 ,"INDIVIDUAL INVESTIGATION IN ENERGY/POWER TECHNOLOGY
+",TECH,"TECH 31032 andgraduate standing.
+",None,(Repeatable for credit)Individual investigation of selected topics within the energy/power technology systems.
+TECH 63870 ,"FACILTY DESIGN AND MATERIAL HANDLING
+",TECH,graduate standing.,None,"Intended to provide students with a fundamental understanding of how layout affects the flow through a
+ system. Both qualitative and quantitative tools are presented for a complete approach to facility design and
+ material handling."
+TECH 64010 ,"CONNECTIVITY AND INTEROPERABILITY IN INDUSTRY
+",TECH,TECH 46311 and graduate standing.,None,"This course focuses on integrating and administering multiple systems in
+an industrial environment. Two-and-a-
+half-hour lecture and 30-minute lab weekly."
+TECH 64012 ,"INFORMATION TECHNOLOGY AND AUTOMATION IN INDUSTRY
+",TECH,"Special approval andgraduate standing.
+",None,"This course will focus on developing systems that analyze and automate industrial processes and provide
+ decision support. Two and one half hours lecture and one half hour lab."
+TECH 64095 ,"SPECIAL TOPICS IN COMPUTER TECHNOLOGY
+",TECH,Graduate standing.,None,(Repeatable for credit)Study of various topics that focus on current computer technologies.
+TECH 64312 ,"ADVANCED WIRELESS TELECOMMUNICATION SYSTEM AND NETWORK TECHNOLOGIES
+",TECH,TECH 56312 and graduate standing.,None,"Describes technologies associated with wireless and telecommunications systems. Topics covered include Public
+ Switch Telephone Network Infrastructures, Intelligent Networks, Wireless Technologies in Manufacturing
+ Enterprises, 3GPP Standards, ITU Standards."
+TECH 64396 ,"INDIVIDUAL INVESTIGATION IN COMMUNICATION TECHNOLOGY
+",TECH,Special approval and graduate standing.,None,"(Repeatable for credit)Independent research consisting of a problem statement followed by literature search
+ and application of an industrial
+practice. A proposal must be developed and a written paper project presented to
+ faculty and industrial representatives."
+TECH 65330 ,"ADVCANCED VISUAL BASIC PROGRAMMING IN ENGINEERING TECHNOLOGY
+",TECH,graduate standing and TECH 56330.,None,"Advanced concepts in Visual Basic Programming for solving engineering problems. Topics covered include
+ classes and objects; SQL server databases, Language Integrated Query, creating web apps, programming web
+ forms, and security. Familiarity with Visual Basic Programming in Engineering Technology (TECH 56330) is
+ strongly recommended."
+TECH 65400 ,"EVALUATING QUALITY SYSTEM THROUGH PROCESS CONTROL
+",TECH,Graduate standing.,None,"Evaluating industrial quality through statistical process control. Methods to produce design process control and
+ process capability are analyzed and evaluated for industrial quality control. Use of inspection
+equipment and
+ assurance of receiving fabricating and shipping acceptable materials products and systems. Scientific
+ management."
+TECH 65500 ,"QUALITY SYSTEMS AND INDUSTRIAL PRODUCTIVITY
+",TECH,Graduate standing.,None,"Tools and techniques for increasing industrial productivity through total quality management. Productivity
+ improvement techniques involving human, technology, material, product and processes, utilizing value
+engineering, analytical models and scientific management tools in high-technology environment."
+TECH 65550 ,"DESIGN AND ANALYSIS OF EXPERIMENTS IN TECHNOLOGY
+",TECH,"graduatestanding.
+",None,"Introduces planning and conducting experiments, as well as analyzing the
+resulting data using statistical
+ techniques to obtain valid and objective conclusions. Also focuses on experiments performed in areas such as
+ product design, manufacturing process development and process improvement."
+TECH 65700 ,"APPLIED RELIABILITY ENGINEERING
+",TECH,"TECH 65400and graduate standing.
+",None,"Designed to provide technical managers, applied engineers, technologists
+and manufacturing personnel practical
+ working knowledge of reliability measurement and testing. Concepts of reliability engineering are analyzed to
+ determine failure rates for various types of destructive and
+nondestructive testing."
+TECH 65800 ,"BURN-IN/STRESS TESTING FOR RELIABILITY
+",TECH,"TECH 65700 and graduatestanding.
+",None,"Comprehensive course on reliability testing to analyze and establish reliability standards for components,
+ products and systems. Specific emphasis on burn-in and stress testing procedures to perform effective
+reliability statistical calculations will be the major focus of the course."
+TECH 66350 ,"ADVANCED NETWORK MANAGEMENT AND DESIGN TECHNOLOGY
+",TECH,"TECH 56350; and graduatestanding.
+",None,"Covers network management techniques including the TMN framework and the
+ISO Model for managing WAN
+ communication networks. Topics covered include network management technologies, TMN protocols, Common
+Management Information Protocol, ISO Model, Management Information Base (MIB) architecture, Network
+ Operations Center and Network Design. Examples of current network management tools are reviewed. Upon
+completion of this course, students will have a good understanding of network management framework and
+ network management technologies for communication networks."
+TECH 66380 ,"ADVANCED NETWORKING
+",TECH,graduate standing.,None,"Provides student with experience in fundamental and advanced computer networking techniques including
+ network architectures, LAN systems, network security, and network management and administration."
+TECH 66411 ,"WIRELESS AND TELECOMMUNICATION SYSTEMS REQUIREMENTS ENGINEERING
+",TECH,TECH 56411 and graduate standing.,None,"Methods and techniques to develop requirements engineering specifications for wireless and telecommunication
+ systems. Topics covered include Industry standards for telecom and wireless communications, reference data
+ models, functional requirements specifications, performance analysis, the requirements review process, and
+ systems verification. Familiarity with Requirements Engineering and Analysis (TECH 56411) concepts is
+ recommended."
+TECH 66596 ,"INDIVIDUAL INVESTIGATION IN MATERIALS TECHNOLOGY
+",TECH,TECH 20002 or TECH 33363 and graduate standing.,None,(Repeatable for credit)Research directed toward the study and application of metallic and nonmetallic materials.
+TECH 66796 ,"INDIVIDUAL INVESTIGATION IN INDUSTRIAL PROCESSES
+",TECH,TECH 20002 and graduate standing.,None,"(Repeatable for credit)Individual investigation of a student-selected topic oriented towards
+ industrial/manufacturing processes."
+TECH 67220 ,"LIFE CYCLE DESIGN I
+",TECH,graduate standing.,None,"An in-depth investigation of Life Cycle Design of sustainable systems. Explores the cradle to cradle path of
+ products with an emphasis on system Life Cycle stages and processes from a sustainability perspective.
+ Examines how environmentally conscious system design can be
+accomplished by considering the environmental
+ impact of technology and engineering as the part of the sustainable design process. Includes the study of
+ sustainable development with respect to Green Technologies, hazardous materials and processes and reducing
+ the environmental impact of product development and utilization. Also includes an introduction to
+Life Cycle
+ Assessment and various Environmental and Life Cycle standards."
+TECH 67221 ,"LIFE CYCLE DESIGN II
+",TECH,graduate standing and TECH 67220.,None,"An in-depth study of environmental performance, environmentally conscious design and sustainable
+ development. Focuses on Life Cycle Analysis and Assessment as a means to determine the potential economic,
+environmental, and ecological impact of products, processes, and activities across their entire life cycle. Takes a
+ close look at the beneficial and detrimental effects of various technologies, materials, products and processes
+ with special attention to the reduction of harmful effects to human beings, the ecosystem, and the
+ environment. Covers the analysis and assessment of energy consumption, natural resource depletion, and
+ environmental degradation,, and ways to minimize
+detrimental effects on the environment. Includes the use of
+ various life cycle engineering and assessment processes, models and analytical tools to identify, evaluate, and
+ compare the environmental consequences associated with various products/activities, across a wide range of
+impact categories, to assist in design and decision making."
+TECH 67496 ,"INDIVIDUAL INVESTIGATION IN CONSTRUCTION TECHNOLOGY
+",TECH,Special approval and graduate standing.,None,"(Repeatable for credit)Provides advanced work in a selected investigation in one or more of the many areas of
+ construction technology. In some instances an introduction to construction technology
+is considered depending
+ upon student needs. ""IP"" permissible."
+TECH 67596 ,"INDIVIDUAL INVESTIGATION IN MANUFACTURING TECHNOLOGY
+",TECH,Graduate standing.,None,"(Repeatable for credit)Independent study related to manufacturing industries. The study may include the
+ development of a product for manufacture (or service) or the in depth examination of an element of
+manufacturing."
+TECH 68196 ,"INDIVIDUAL INVESTIGATION IN ENGINEERING GRAPHICS
+",TECH,"TECH31087 and graduate standing.
+",None,"(Repeatable for credit)Investigation of selected topics within engineering graphics including computer-aided
+ design."
+TECH 68796 ,"INDIVIDUAL INVESTIGATION IN INDUSTRIAL TECHNOLOGY SYSTEMS DESIGN
+",TECH,Graduate standing.,None,"(Repeatable for credit)The study of two-and three dimensional design as related to manufacturing construction
+ communication and energy power including patents creativity and problem solving approaches."

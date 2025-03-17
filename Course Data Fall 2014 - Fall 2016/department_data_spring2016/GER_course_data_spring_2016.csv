@@ -1,0 +1,146 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+GER 11201 ,"ELEMENTARY GERMAN I
+",GER,None.,None,An introduction to the German language in the context of the cultures of German-speaking lands.
+GER 11202 ,"ELEMENTARY GERMAN II
+",GER,GER 11201.,None,"A continuation of the introduction to the German language in the context
+of the cultures of German-speaking
+ lands."
+GER 21201 ,"INTERMEDIATE GERMAN I
+",GER,GER 11202.,None,"Continued development of speaking, listening, reading and writing skills
+using a variety of cultural materials."
+GER 21202 ,"INTERMEDIATE GERMAN II
+",GER,GER 21201.,None,Continuation of GER 21201.
+GER 31095 ,"SPECIAL TOPICS
+",GER,Junior standing.,None,(Repeatable for credit)Topic announced in schedule of classes.
+GER 31201 ,"INTENSIVE GERMAN GRAMMAR
+",GER,GER 21202.,None,A systematic approach to German grammar and syntax.
+GER 31211 ,"GERMAN COMPOSITION AND CONVERSATION
+",GER,GER 21202 and special approval.,None,Grammar review and practice in writing and speaking German.
+GER 31215 ,"GERMAN PHONETICS AND DICTION
+",GER,GER 21202.,None,"Study of the German sound system with emphasis on pronunciation and intonation. Reading and performance
+ of a series of skits and short plays."
+GER 31231 ,"TRANSLATION PRACTICE:GERMAN
+",GER,None,TRST 30230.,Translation practice with German texts using principles and techniques learned in the lecture class.
+GER 31240 ,"CONVERSATION FOR BUSINESS AND SPECIAL PURPOSES:GERMAN
+",GER,GER 31211.,None,"Introduction to the special vocabulary of business and other special subject areas; introduces the concept of
+ language for special purposes and emphasizes the use of special vocabulary in conversations in business and
+ other settings."
+GER 31303 ,"INTRODUCTION TO GERMAN LITERATURE
+",GER,GER 21202 and GER 31201.,None,Introduction to German literature and textual analysis.
+GER 31421 ,"GERMAN CIVILIZATION
+",GER,"Six hours upperdivision German courses.
+",None,A survey of German history and intellectual life to 1918; taught in German.
+GER 41095 ,"SPECIAL TOPICS
+",GER,Senior standing.,None,(Repeatable for credit) (Cross-listed with GER 51095) Topic announced in schedule of classes.
+GER 41096 ,"INDIVIDUAL INVESTIGATION
+",GER,"6 hours of upper division German and special approval of the departmentchairperson.
+",None,"(Repeatable for credit) (Cross-listed with GER 51096) Independent investigation of problems in German
+ language or literature."
+GER 41211 ,"ADVANCED GERMAN COMPOSITION AND CONVERSATION
+",GER,GER 31211.,None,Advanced practice in speaking and writing German.
+GER 41216 ,"CONTEMPORARY GERMAN CULTURE
+",GER,"Six hours of upper divisionGerman courses.
+",None,"(Cross-listed with GER 51216) A study of selected sociological, political, cultural and economic issues in
+ contemporary German- speaking
+countries using readings, films and legal documents as the basis for
+discussions. Taught in German."
+GER 41230 ,"ADVANCED TRANSLATION PRACTICE:GERMAN
+",GER,GER 31231.,None,"Theory and practice course that discusses translation theory and emphasizes German-to-English translation of
+ selected texts in business, technology, medicine and law."
+GER 41240 ,"BUSINESS AND SPECIAL TEXTS:GERMAN
+",GER,GER 31211.,None,"Survey of the typical text types of business in the German culture and language. Practice sessions focus on
+ reading and understanding specialized texts, and on the translation and composition of selected special texts in
+ German."
+GER 41330 ,"TWENTIETH-CENTURY GERMAN AUTHORS
+",GER,Special approval.,None,(Cross-listed with GER 51330) A survey of the major movements and authors of the twentieth century.
+GER 41332 ,"GERMAN LITERATURE BY WOMEN
+",GER,Junior standing.,None,(Cross-listed with GER 51332) Readings of works by female German authors. Taught in German.
+GER 41334 ,"THE GERMAN NOVELLA
+",GER,Special approval.,None,"(Cross-listed with GER 51334) Development of the German novella from the
+eighteenth century to the present.
+ Readings of major works lectures analyses taught in German."
+GER 41338 ,"GERMAN POETRY
+",GER,Six hours of upper division German courses.,None,"An examination of the nature of poetry with particular attention to its development in Germany, Austria and
+ Switzerland. Taught in German."
+GER 41340 ,"HISTORY OF GERMAN LITERATURE TO 1750
+",GER,GER 31303 and 31421.,None,"A history of the development of German literature from the Germanic tribes through the Age of Enlightenment
+ (the first half of the eighteenth century)."
+GER 41341 ,"HISTORY OF GERMAN LITERATURE 1750 TO THE PRESENT
+",GER,GER 31303 and 31421.,None,"A history of the development of German literature from the Age of Sensibility (the second half of the eighteenth
+ century) to the present."
+GER 41365 ,"CLASSICAL GERMAN LITERATURE
+",GER,Special approval.,None,"(Cross-listed with GER 51365) Reading and critical analysis of major works of the classical age with emphasis
+ on Goethe."
+GER 41399 ,"RESEARCH PROJECT IN GERMAN LITERATURE
+",GER,6 hours at the 40000-level.,None,(Repeatable for credit) Thesis or other independent study.
+GER 41731 ,"SURVEY OF GERMAN CINEMA
+",GER,"Six hours of upper division German courses.2015 Kent State University Catalog - Spring 2016 Course Descriptions
+",None,"(Cross-listed with GER 51731) A survey of major contributions to the German cinema from the beginnings to
+ the present; taught in German."
+GER 51095 ,"SPECIAL TOPICS
+",GER,Graduate standing.,None,(Repeatable for credit) (Cross-listed with GER 41095) Topic announced in schedule of classes.
+GER 51096 ,"INDIVIDUAL INVESTIGATION
+",GER,Graduate standing.,None,"(Repeatable for credit) (Cross-listed with GER 41096) Independent investigation of problems in German
+ language or literature. Permission of the department chair required."
+GER 51212 ,"STYLISTICS
+",GER,Graduate standing.,None,"Development of written German style through selected readings, textual analysis and stylistic exercises."
+GER 51216 ,"CONTEMPORARY GERMAN CULTURE
+",GER,Graduate standing.,None,"(Cross-listed with GER 41216) A study of selected sociological, political, cultural and economic issues in
+ contemporary German-speaking countries, using readings, films and legal documents as the basis for
+discussion. Taught in German."
+GER 51330 ,"20TH-CENTURY GERMAN AUTHORS
+",GER,Graduate standing.,None,(Cross-listed with GER 41330) A survey of the major movements and authors of the twentieth century.
+GER 51332 ,"GERMAN LITERATURE BY WOMEN
+",GER,Graduate standing.,None,(Cross-listed with GER 41332) Readings of works by female German authors. Taught in German.
+GER 51334 ,"THE GERMAN NOVELLA
+",GER,Graduate standing.,None,"(Cross-listed with GER 41334) Development of the German novella from the
+18th century to the present.
+ Readings of major works, lectures, analyses; taught in German."
+GER 51340 ,"HISTORY OF GERMAN LITERATURE TO 1750
+",GER,graduate standing.,None,"A history of the development of German literature from the Germanic tribes through the Age of Enlightenment
+ (the first half of the eighteenth century)."
+GER 51341 ,"HISTORY OF GERMAN LITERATURE 1750 TO THE PRESENT
+",GER,graduate standing.,None,"A history of the development of German literature from the Age of Sensibility (the second half of the eighteenth
+ century) to the present."
+GER 51365 ,"CLASSICAL GERMAN LITERATURE
+",GER,Graduate standing.,None,"(Cross-listed with GER 41365) Reading and critical analysis of major works of the classical age with emphasis
+ on Goethe."
+GER 51731 ,"SURVEY OF GERMAN CINEMA
+",GER,Graduate standing.,None,"(Cross-listed with GER 41731) A survey of major contributions to the German cinema from the beginnings to
+ the present; taught in German."
+GER 61001 ,"GRADUATE RESEARCH AND WRITING IN GERMAN
+",GER,Graduate standing.,None,"Individual instruction and assistance with problems encountered in academic research and writing in German.
+ Required of all graduate students in their first semester of graduate work."
+GER 61010 ,"THE PRACTICE OF GERMAN TRANSLATION
+",GER,graduate standing. ,TRST 60010.,Students apply linguistic and communication science concepts to case studies of language mediation.
+GER 61091 ,"VARIABLE TOPIC SEMINAR
+",GER,Graduate standing.,None,(Repeatable for credit)Topic announced in schedule of classes.
+GER 61199 ,"THESIS I
+",GER,Graduate standing.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in a single semester distributed over several
+ semesters if desired."
+GER 61240 ,"LITERARY AND CULTURAL TRANSLATION
+",GER,Graduate standing.,None,"Translating documents from a variety of literary and cultural sources, including literature, expository and
+ journalistic prose, scholarly treatises and essays. Translation into German will also be emphasized."
+GER 61250 ,"COMMERCIAL, LEGAL AND DIPLOMATIC TRANSLATION
+",GER,TRST 60010 and graduate standing.,None,"An introduction to methods and resources for the translation of commercial, economic, financial, legal,
+ diplomatic and governmental documents."
+GER 61251 ,"SCIENTIFIC, TECHNICAL AND MEDICAL TRANSLATION
+",GER,TRST 60010 and graduate standing.,None,"An introduction to methods and resources for the translation of scientific, technical, industrial and medical
+ documents."
+GER 61299 ,"THESIS II
+",GER,GER 61199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+GER 61350 ,"SEMINAR ON THE LYRIC
+",GER,Graduate standing.,None,
+GER 61398 ,"RESEARCH
+",GER,Special approval and graduate standing.,None,"(Repeatable for credit)Research for master's level graduate students. Credit toward degree requirements may
+ be given with department approval."
+GER 61901 ,"READING GERMAN FOR GRADUATE STUDENTS
+",GER,Graduate standing.,None,"Introduction to the fundamentals of German grammar for graduate students. Practice in reading and
+ translation."
+GER 61902 ,"READING GERMAN FOR GRADUATE STUDENTS
+",GER,"GER 61901and graduate standing.
+",None,"Continued practice in reading and translation. Independent study of scholarly texts in the student's own
+ discipline."
+GER 61979 ,"CASE STUDY IN TRANSLATION
+",GER,Special approval and graduate standing.,None,"Students will be responsible for a major translation and a terminology glossary as well as a critical analysis of
+ the source text,the problems encountered during the translation process and the strategies used to solve them."

@@ -1,0 +1,164 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+CMGT 10001 ,"INTRODUCTION TO CONSTRUCTION MANAGEMENT
+",CMGT,none.,None,"Serves to introduce the basic terms, concepts, procedures and current trends in the construction industry."
+CMGT 11044 ,"CONSTRUCTION SAFETY
+",CMGT,none.,None,"The theories and principles of construction safety and health applied to real-world setting. Upon completion of
+course materials and required attendance hours, students receive their OSHA 30 certification."
+CMGT 11071 ,"CONSTRUCTION MATERIALS AND METHODS I
+",CMGT,none.,None,"An introduction to principles of building construction including preparation for the structures and environmental
+control sequences. Includes a more detailed and systematic look at wood light frame construction."
+CMGT 21071 ,"CONSTRUCTION MATERIALS AND METHODS II
+",CMGT,none.,None,"Ties together steel and concrete structural systems and the integration of building service systems with a focus
+on the construction and detailing of building enclosure systems."
+CMGT 22200 ,"CONSTRUCTION DOCUMENT READING
+",CMGT,none.,None,"The reading and understanding of the drawings that are used to communicate information about commercial and
+residential buildings."
+CMGT 25000 ,"PRINCIPLES OF L.E.E.D.
+",CMGT,none.,None,"Review LEED as it applies to the construction industry with a focus on preparation for the LEED Green Associate
+exam."
+CMGT 31015 ,"CONSTRUCTION TECHNOLOGY
+",CMGT,none.,None,"This course provide basic concepts and practices of the construction industry, including estimating, materials,
+tools, techniques and production of residential construction."
+CMGT 31023 ,"CONSTRUCTION SURVEYING
+",CMGT,CMGT 22200.,None,"The study of surveying including fieldwork using state of the art equipment and its relationship to the
+construction documents."
+CMGT 31033 ,"MECHANICAL SYSTEMS
+",CMGT,none.,None,An overview of mechanical systems in commercial and residential buildings.
+CMGT 31040 ,"ELECTRICAL SYSTEMS FOR CONSTRUCTION MANAGERS
+",CMGT,none.,None,An overview of electrical systems in commercial and residential buildings.
+CMGT 31044 ,"ADVANCED CONSTRUCTION SAFETY AND MANAGEMENT
+",CMGT,CMGT 11044.,None,"This course will build on the Construction Safety course to enable the student to be able to properly manage the
+construction safety techniques and practices learned in the OSHA 30 hour course. Further, this course will
+provide the student with the opportunity to learn how to utilize management skills to lead and implement an
+effective construction safety program."
+CMGT 31045 ,"CONSTRUCTION RISK MANAGEMENT
+",CMGT,none.,None,"This course provides an in-depth study of various risks associated with construction projects and how those risks
+impact the construction industry. Topics of discussion include analytical and management techniques used to
+identify, analyze and respond to risks. Students will review actual legal case studies and develop written opinion
+papers."
+CMGT 31046 ,"INTRODUCTION TO INSURANCE AND WORKER'S COMPENSATION
+",CMGT,none.,None,"This course will introduce the students to construction related insurance products and worker's compensation
+practices and policies. Further, students will understand the legal, management and costing implications
+associated with each of these both prior to and during a construction project."
+CMGT 32001 ,"PROPOSAL DEVELOPMENT AND ANALYSIS
+",CMGT,"CMGT 10001 andspecial approval. 
+",None,"(Repeatable twice for credit) Create and combine Project Management, Safety, and Quality Control plans and
+prepare quantity takeoffs and schedule for a construction project, in the form of a construction proposal and
+presentation. Further analysis will be done on general construction proposals."
+CMGT 37295 ,"SPECIAL TOPICS IN CONSTRUCTION MANAGEMENT
+",CMGT,none.,None,"Analysis of significant and current issues in Construction Management not covered in regular courses. Offered
+when opportunities and resources permit; the topic is announced when the course is scheduled."
+CMGT 41040 ,"CONSTRUCTION ESTIMATING I
+",CMGT,CMGT 22200.,None,"Introduction to estimating and the quantity takeoff process needed to complete accurate estimates for all types
+of construction projects."
+CMGT 41041 ,"CONSTRUCTION ESTIMATING II
+",CMGT,CMGT 41040.,None,"Putting costs to the project, finalizing the bid, incorporating the estimate into the schedule, buying out the
+project, bidding ethics and using computer spreadsheets including Excel to automate estimating functions."
+CMGT 41047 ,"FUNDAMENTALS OF INDUSTRIAL AND CONSTRUCTION HYGIENE
+",CMGT,none.,None,"This course is a part of the Safety Management Concentration in the Bachelor of Science in Construction
+Management and focuses on the environmental, community and occupational health issues within facilities and
+construction sites. It will provide the opportunity for students to recognize, evaluate and control occupational
+hazards."
+CMGT 41048 ,"OCCUPATIONAL SAFETY AND HEALTH LAW
+",CMGT,none.,None,"This course focuses on general legal doctrine and practical considerations of the Occupational Safety and Health
+Act (OSHA). Further, it covers the scope of the act, duties under the act, enforcement, adjudication, and OSHA-
+related litigation."
+CMGT 42030 ,"BUILDING INFORMATION MODELING FOR CONSTRUCTION MANAGERS
+",CMGT,TECH 13580.,None,"This course will further reinforce and investigate the usage of Building Information Modeling (BIM) as a
+Construction Management tool. BIM models will be created, with scheduling and cost loading, utilized to
+understand how BIM usage is maximized within the Built Environment. This course utilizes software applications
+to create the BIM model and integrate the construction schedule and estimate."
+CMGT 42050 ,"INTERNATIONAL CONSTRUCTION MANAGEMENT
+",CMGT,none.,None,"The course focuses on the culture and management of international design and construction operations, with an
+emphasis on business development, financing, planning, contracts and negotiations, special construction
+techniques in adverse environments, procurement, and logistics. A short term study abroad trip is included in
+this course."
+CMGT 42051 ,"ALTERNATIVE ENERGY SYSTEMS IN BUILDING DESIGN
+",CMGT,none.,None,"This course focuses on the construction application of alternative mechanical, electrical, and plumbing systems
+in the built environment. The course has an emphasis on energy efficient systems, energy conservation, cost
+benefits, building issues, and construction techniques to develop these systems."
+CMGT 42052 ,"MECHANICAL AND ELECTRICAL ESTIMATING
+",CMGT,CMGT 31040 and CMGT 31033.,None,"The course focuses on estimating mechanical, electrical, plumbing, and fire protection systems for the built
+environment. The course covers detailed estimating practices of mechanical systems including indirect costs,
+direct costs, bidding strategies, piping, pumps, plumbing systems, fire protection, HVAC, ductwork, insulation,
+automatic temperature controls. supports, and manpower."
+CMGT 42053 ,"SUBCONTRACTOR LEADERSHIP AND PRACTICES
+",CMGT,none.,None,"This course focuses on the leadership, operations, and overall management of construction subcontractor
+companies. The course has an emphasis on how subcontractor leaders can avoid mistakes and manage risk to
+make their scopes of work run more intelligently, effectively, and efficiently."
+CMGT 42054 ,"CIVIL ESTIMATING
+",CMGT,CMGT 10001 and CMGT 41040.,None,"This course will provide an in depth review and application of Civil Construction Estimating techniques and
+technology associated with Civil Estimating practices. This course will cover site work, site utilities,
+substructures, and heavy equipment estimating."
+CMGT 42055 ,"CIVIL UTLITY SYSTEMS
+",CMGT,"CMGT10001. 
+",None,"This course discusses the installation, construction, renewal, estimating, and management of underground utility
+systems; while maintaining an emphasis on minimal soil and environmental disturbance."
+CMGT 42056 ,"SOILS AND MATERIALS
+",CMGT,"CMGT10001. 
+",None,"This course will build on the students previous knowledge of construction and enable the student to explore the
+nature of soils, how they can influence construction operations, soil safety, soils within the construction contract,
+soil classifications, soil strengths, and specification sections tied to soils and materials."
+CMGT 42105 ,"CONSTRUCTION CONTRACTS AND LAW
+",CMGT,none.,None,"The fundamentals of construction contracts and law, the impact of information technology on contracts and
+contracting, and the effect of contracts and law on the management, administration and the costs of
+construction work."
+CMGT 42107 ,"CONSTRUCTION SCHEDULING
+",CMGT,none.,None,"The traditional theory of planning, scheduling and controlling construction projects. Current industry standard
+computer applications for scheduling is utilized."
+CMGT 42110 ,"CONSTRUCTION MANAGEMENT CAPSTONE
+",CMGT,senior standing.,None,"The application of all previous construction management courses and experiences to ensure all major learning
+objectives have been obtained and that these learning objectives can be applied to performance similar to
+industry practices."
+CMGT 43096 ,"INDIVIDUAL INVESTIGATION IN CONSTRUCTION MANAGEMENT
+",CMGT,"Junior standing; andspecial approval. 
+",None,"(Repeatable for credit) Independent study carried out by a student under the supervision of a faculty member.
+Subject content, objectives, assignments, and evaluation methods may vary."
+CMGT 51040 ,"CONSTRUCTION ESTIMATING I
+",CMGT,graduate standing.,None,"Introduction to estimating and the quantity takeoff process needed to complete accurate estimates for all types
+of construction projects. The ability to read and understand construction drawings is needed."
+CMGT 51041 ,"CONSTRUCTION ESTIMATING II
+",CMGT,CMGT 41040 or CMGT 51040 and graduate standing.,None,"Putting costs to the project, finalizing the bid, incorporating the estimate into the schedule, buying out the
+project, bidding ethics and using computer spreadsheets including Excel to automate estimating functions."
+CMGT 52105 ,"CONSTRUCTION CONTRACTS AND LAW
+",CMGT,graduate standing.,None,"The fundamentals of construction contracts and law, the impact of information technology on contracts and
+contracting, and the effect of contracts and law on the management, administration and the costs of
+construction work."
+CMGT 52107 ,"CONSTRUCTION SCHEDULING
+",CMGT,graduate standing.,None,"The traditional theory of planning, scheduling and controlling construction projects. Current industry standard
+computer applications for scheduling are utilized."
+CMGT 52110 ,"ADVANCED CONSTRUCTION MANAGEMENT
+",CMGT,"graduatestanding and special approval. 
+",None,"A comprehensive application of construction management principles and practices to various situations and
+projects according to construction industry methods and performance standards."
+CMGT 62030 ,"BUILDING INFORMATION MODELING FOR CONSTRUCTION MANAGEMENT
+",CMGT,graduate standing.,None,"This course will further reinforce and investigate the usage of Building Information Modeling (BIM) as a
+Construction Management tool. BIM models will be created, with scheduling and cost loading and utilized to
+understand how BIM usage is maximized within the Built Environment. This course will utilize software
+applications to create the BIM model and integrate the construction schedule and estimate. Research on the
+application of BIM in the industry will also be performed."
+CMGT 62040 ,"CONSTRUCTION METHODS IMPROVEMENTS
+",CMGT,graduate standing.,None,"A focused study of the philosophy and principles of quality management as applied to the construction industry.
+Course presents a project-based approach to the principles and practices of Total Quality Management (TQM) in
+construction projects and the application of TQM and other quality measures during different phases of the
+construction process."
+CMGT 62050 ,"INTERNATIONAL CONSTRUCTION MANAGEMENT
+",CMGT,graduate standing.,None,"Topics include operating and sustaining an international business or business presence, the global market,
+project funding, case studies, and best practices. Course includes project specific case studies."
+CMGT 67295 ,"ST IN CONSTRUCTION MANAGEMENT
+",CMGT,graduate standing.,None,"Analysis of significant and current issues in Construction Management not covered in regular courses. Offered
+when opportunities and resources permit; the topic is announced when the course is scheduled."
+CMGT 67296 ,"INDIVIDUAL INVESTIGATION IN CONSTRUCTION MANAGEMENT
+",CMGT,"graduate standing and specialapproval. 
+",None,"Independent study carried out by a student under the supervision of a faculty member. Subject content,
+objectives, assignments, and evaluation methods may vary."
+CMGT 67320 ,"APPLIED SUSTAINABILITY IN CONSTRUCTION MANAGEMENT
+",CMGT,"graduatestanding and special approval. 
+",None,"Investigation of strategies and methods used by construction managers and others to assist in developing
+sustainable built environments. Takes a close look at standards for environmentally sustainable construction and
+at the application of Best Management Practices for construction activities. Focus is on LEED Certification,
+International Standards on Environmental Management Systems, and other established criteria, guidelines,
+standards, and tools associated with Green Building. Provides an in-depth discussion and practical application of
+LEED assessment, guidelines and standards for various building sectors. Includes a major individual design
+project/case study involving research in green construction and design on a particular construction project,
+along with the application of LEED guidelines, assessment and methods to the project."

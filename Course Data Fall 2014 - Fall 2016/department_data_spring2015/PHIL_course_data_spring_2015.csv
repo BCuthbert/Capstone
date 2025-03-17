@@ -1,0 +1,323 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+PHIL 11001 ,"INTRODUCTION TO PHILOSOPHY
+",PHIL,None.,None,"An introduction to the diverse methods and subject matters of philosophy. Primary philosophic sources from
+ varied philosophical traditions focus on at least three philosophic areas."
+PHIL 11009 ,"CRITICAL THINKING
+",PHIL,none.,None,"An exploration of the place of argument in reasoning through a consideration of the structure, expression and
+ function of arguments. Attention is also given to the evaluation of arguments and the identification of common
+ errors in reasoning."
+PHIL 21001 ,"INTRODUCTION TO ETHICS
+",PHIL,None.,None,"This course considers what constitutes ethics, not just which specific acts or act- kinds are ethical, using at least
+ three primary philosophic sources from varied ethical traditions."
+PHIL 21002 ,"INTRODUCTION TO FORMAL LOGIC
+",PHIL,None.,None,"Techniques of formal logic, traditional and contemporary."
+PHIL 30015 ,"MEDICINE AND MORALITY
+",PHIL,None.,None,"A philosophical exploration of at least three issues related to current medical practices, which may include
+ ethical, religious, legal and clinical aspects."
+PHIL 30025 ,"ENVIRONMENTAL ETHICS
+",PHIL,None.,None,"A philosophical examination of ethical issues in environmental studies, including topics such as: animal ethics
+ and the sources of our food; the value of nature and environmental aesthetics; sustainability and biodiversity;
+ ecofeminism, social justice and radical ecology; and the human response to climate change. The course is
+ designed to complement fields of study such as geography, environmental studies and biology."
+PHIL 31001 ,"ANCIENT GREEK PHILOSOPHY
+",PHIL,"at least oneof PHIL 11009 or PHIL 21002 or PHIL 41038; and at least one of PHIL 11001 or PHIL 21001.
+",None,Examination of issues of Greek thought from its inception through Plato and Aristotle.
+PHIL 31002 ,"MEDIEVAL PHILOSOPHY
+",PHIL,"At least one of PHIL 11009 or PHIL 21002 or PHIL 41038; and at least one of PHIL11001 or PHIL 21001.
+",None,"Examination of issues in medieval thought; for instance, the existence and nature of God and the problem of
+ universals."
+PHIL 31003 ,"CONTINENTAL RATIONALISM
+",PHIL,"At least one of PHIL11009 or PHIL 21002 or PHIL 41038; and at least one of PHIL 11001or PHIL 21001.
+",None,"Selections from Rationalists; for instance Descartes, Spinoza and Leibniz."
+PHIL 31004 ,"BRITISH EMPIRICISM
+",PHIL,"At least one of PHIL11009 or PHIL 21002 or PHIL 41038; and at least one of PHIL 11001 or PHIL 21001.
+",None,"Selections from British Empiricists; for instance, Locke, Berkeley and Hume."
+PHIL 31005 ,"GERMAN CRITICAL PHILOSOPHY
+",PHIL,"At least one of PHIL 11009 or PHIL 21002 or PHIL 41038;and at least one of PHIL 11001 or PHIL 21001.
+",None,Selections from Kant and post-Kantians.
+PHIL 31006 ,"NINETEENTH-CENTURY PHILOSOPHY
+",PHIL,"At least one of PHIL 11009 or PHIL 21002and at least one of PHIL 11001 or PHIL 21001.
+",None,Selections from works of 19th-century philosophers.
+PHIL 31010 ,"TWENTIETH-CENTURY PHILOSOPHY
+",PHIL,"At least one of PHIL 11009 orPHIL 21002 or PHIL 41038; and at least one of PHIL 11001 or PHIL 21001.
+",None,"Selections from the most influential schools of thought within 20th-century philosophy: existentialism,
+ pragmatism, logical positivism, analytic philosophy, phenomenology."
+PHIL 31020 ,"AMERICAN PHILOSOPHY
+",PHIL,"At least one ofPHIL 11009 or PHIL 21002 or PHIL 31020; and at least one of PHIL 11001 or PHIL 21001.
+",None,Selections from principal American philosophers from Colonial times to present.
+PHIL 31030 ,"EXISTENTIALISM
+",PHIL,"one course inphilosophy (PHIL).
+",None,"Development and themes of existentialism. Students with junior standing or above, who have not taken a
+ Philosophy (PHIL) course, should contact the department for a prerequisite override."
+PHIL 31035 ,"PHILOSOPHY AND JUSTICE
+",PHIL,"one course in Philosophy(PHIL).
+",None,"Consideration of topics and issues in the general sphere of justice from different perspectives by classical and
+ contemporary philosophers. Students with junior standing or above, who have not taken a Philosophy (PHIL)
+ course, should contact the department for a prerequisite override."
+PHIL 31040 ,"WOMEN AND PHILOSOPHY
+",PHIL,"one course inphilosophy [PHIL].
+",None,"Examines the influences and contributions of women to philosophy and the influences philosophy has had on
+ women, either historically or currently. Students with junior standing or above, who have not taken a
+Philosophy [PHIL] course should contact the department for a prerequisite override."
+PHIL 31060 ,"AESTHETICS
+",PHIL,one course in Philosophy (PHIL).,None,"Investigation of concepts such as the aesthetic object and creative expression, and critique of certain theories
+ designed to solve various problems of aesthetic evaluations. Students with junior standing or above, who have
+ not taken a Philosophy (PHIL) course, should contact the department for a prerequisite override."
+PHIL 31070 ,"AFRICAN AND AFRICAN-AMERICAN PHILOSOPHIES
+",PHIL,one course in Philosophy (PHIL).,None,"Exploration of philosophical issues in African and African-American thought systems including examination of
+ traditional and emerging approaches to developing conceptions of African and African-American philosophies.
+ Students with junior standing or above, who have not taken a Philosophy (PHIL) course, should contact the
+ department for a prerequisite override."
+PHIL 31072 ,"AMERICAN INDIAN PHILOSOPHIES
+",PHIL,"one course inphilosophy [PHIL].
+",None,"Examination of philosophical issues and themes in American Indian world views with attention given to the
+ reflections of contemporary native scholars. Students with junior standing or above, who have not taken a
+Philosophy [PHIL] course should contact the department for a prerequisite override."
+PHIL 31075 ,"PHILOSOPHY AND MULTICULTURALISM
+",PHIL,one course in Philosophy (PHIL).,None,"Philosophical examination of various approaches to multiculturalism, in terms of definitions, justifications and
+ relevant alternative views regarding the scope and nature of multiculturalism. Students with junior standing or
+ above, who have not taken a Philosophy (PHIL) course, should contact the department for a prerequisite
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1512
+override."
+PHIL 31080 ,"FOUNDATIONS IN THE HISTORY AND PHILOSOPHY OF SCIENCE
+",PHIL,None.,None,"(Cross-listed with HIST 31500) An introduction to the study of science as a social, cultural, and historical
+ phenomenon with an emphasis on the history of science primarily in western civilization since 1500 and the
+ major philosophical approaches to science developed in the twentieth century."
+PHIL 32091 ,"SEMINAR:PHILOSOPHICAL REFLECTIONS
+",PHIL,one course in Philosophy (PHIL).,None,"Exploration of philosophic literature for contrasting or developing man. Conceptions of human beings. Students
+ with junior standing or above, who have not taken a Philosophy (PHIL) course, should contact the department
+ for a prerequisite override."
+PHIL 40005 ,"HEALTH CARE ETHICS
+",PHIL,"one course in Philosophy(PHIL).
+",None,"Ethical problems in health care critically assessed, and consideration of how these specific ethical problems
+ illuminate the ethical enterprise. Students with junior standing or above, who have not taken a Philosophy
+ (PHIL) course, should contact the department for a prerequisite override."
+PHIL 40093 ,"VARIABLE TITLE WORKSHOP IN PHILOSOPHY
+",PHIL,Permission.,None,(Repeatable for credit)S/u graded.
+PHIL 41010 ,"PROBLEMS IN THE PHILOSOPHY OF RELIGION
+",PHIL,"one of the following: PHIL 31001 or PHIL 31002 or PHIL 31003 or PHIL 31004 or PHIL 31005 orPHIL 31006 or PHIL 31010 or PHIL 31020
+",None,Philosophical examination of issues and problems presented by various writers in philosophy of religion.
+PHIL 41020 ,"SOCIAL PHILOSOPHY
+",PHIL,"one of thefollowing - PHIL 31001, 31002 31003, 31004, 31005, 31006, 31010 or 31020.
+",None,Philosophic examination of theories of societies as proposed by various writers.
+PHIL 41025 ,"PHILOSOPHY OF LAW
+",PHIL,"one of the following: PHIL 31001 or PHIL31002 or PHIL 31003 or PHIL 31004 or PHIL 31005 or PHIL 31006 or PHIL 31010 or PHIL 31020
+",None,Critical examination of the nature and function of law.
+PHIL 41030 ,"ETHICAL THEORY
+",PHIL,"Atleast one of PHIL 31001 or PHIL 31002 or PHIL 31003 or PHIL 31004 or PHIL 31005 or PHIL 31006 or PHIL
+ 31010 or PHIL 31020.
+",None,Intensive and in-depth study of some aspects of ethical theory in the philosophical tradition.
+PHIL 41035 ,"PHILOSOPHY OF SCIENCE
+",PHIL,"one of the following - PHIL 31001,31002, 31003, 31004, 31005, 31006, 31010 or 31020.
+",None,Analysis of methodological problems in scientific disciplines.
+PHIL 41036 ,"PHILOSOPHY OF COGNITIVE SCIENCE
+",PHIL,"PHIL 31001 or PHIL 31002 or PHIL 31003 orPHIL 31004 or PHIL 31005 or PHIL 31006 or PHIL 31010 or PHIL 31020.
+",None,"(Slashed with PHIL 51036) Designed to analyze the core philosophical commitments that define contemporary
+ cognitive science and to examine the debates about foundational issues such as, for example, modularity,
+innateness, computationalism, and consciousness."
+PHIL 41037 ,"RENAISSANCE AND EARLY MODERN PHILOSOPHY AND SCIENCE
+",PHIL,"PHIL 31001or PHIL 31002 or PHIL 31003 or PHIL 31004 or PHIL 31005 or PHIL 31006 or PHIL 31010 or PHIL 31020.
+",None,"(Slashed with PHIL 51037) An investigation of the work of the most important European philosophers of the
+ 15th-17th centuries, with a particular emphasis on the interrelation between philosophy and science in their
+ thought, and on the influence of Greek philosophy on the intellectual life of the time."
+PHIL 41038 ,"INTERMEDIATE LOGIC
+",PHIL,"one course inPhilosophy (PHIL).
+",None,"(Cross-listed with CS 41038 and MATH 41038 and MATH 51038 and PHIL 51038) Study of first order predicate
+ calculus with identity and function symbols.Students with junior standing or above, who have not taken a
+ Philosophy (PHIL) course, should contact the department for a prerequisite override."
+PHIL 41040 ,"EPISTEMOLOGY
+",PHIL,"one of the following - PHIL2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1515
+31001, 31003, 31004, 31005, 31006, 31010 or 31020.
+",None,Study of various theories of knowledge in the philosophical tradition.
+PHIL 41042 ,"METAPHYSICS
+",PHIL,"One of the following courses: PHIL 31001or PHIL 31002 or PHIL 31003 or PHIL 31004 or PHIL 31005 or PHIL 31006 or PHIL 31010 or PHIL 31020.
+",None,"Philosophical examination of at least three issues in metaphysics with an emphasis on the historical debates
+ that give rise to them and their contemporary contexts."
+PHIL 41045 ,"METALOGIC
+",PHIL,PHIL 41038.,None,"(Cross-listed with CS 41045 andCS 51045 and MATH 41045 and MATH 51045 and PHIL 51045) Consideration of
+ various metatheorems including soundness and completeness of propositional and predicate calculus,
+undecidability of predicate calculus, and incompleteness of the theory of arithmetic."
+PHIL 41048 ,"METAETHICS
+",PHIL,PHIL 31001 or 31002 or 31003 or 31004 or 31005 or 31006 or 31010 or 31020.,None,"Examination of the semantics, ontology and modes of justification employed in ethical theories."
+PHIL 41050 ,"ANALYTIC PHILOSOPHY
+",PHIL,"At least oneof PHIL 31001 or PHIL 31002 or PHIL 31003 or PHIL 31004 or PHIL 31005 or PHIL 31006 or PHIL 31010 or
+ PHIL 31020.
+",None,Study of major problems in analytic philosophy and subsequent philosophical analysis.
+PHIL 41055 ,"PHENOMENOLOGY
+",PHIL,"one of the following - PHIL 31001, 31002, 31003, 31004, 31005,31006, 31010 or 31020.
+",None,"Investigation of phenomenological movement, its methods and the scope and course of its applications in
+ philosophy and other disciplines."
+PHIL 41060 ,"PRAGMATISM
+",PHIL,"one of the following - PHIL 31001, 31002,31003, 31004, 31005, 31006, 31010 or 31020.
+",None,"Detailed reading from classical American pragmatists along with some attention to later interpretations and
+ explorations of current re-appraisals and developments."
+PHIL 41065 ,"PLATO
+",PHIL,"one of the following - PHIL 31001, 31002, 31003,31004, 31005, 31006, 31010 or 31020.
+",None,"Detailed examination of selected Platonic dialogues, with some attention to Plato's development and dismissal
+ of certain pre-Socratic (and Socratic) themes."
+PHIL 41070 ,"ARISTOTLE
+",PHIL,"one of the following - PHIL 31001, 31002,31003, 31004, 31005, 31006, 31010 or 31020.
+",None,"Detailed examination of selected works of Aristotle, with some attention given to Aristotle's development and
+ dismissal of certain pre-Socratic and Platonic themes."
+PHIL 41076 ,"CONTINENTAL PHILOSOPHY
+",PHIL,"one of the following - PHIL 31001, 31002, 31003, 31004, 31005, 31006, 31010 or 31020.",None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1517
+Investigation of some figure, issue or theme in continental philosophy from Descartes to present."
+PHIL 41077 ,"BRITISH AND AMERICAN THOUGHT
+",PHIL,"one of the following -PHIL 31001, 31002, 31003, 31004, 31005, 31006, 31010 or 31020.
+",None,Detailed investigation of a figure or issue in British or American philosophy.
+PHIL 41080 ,"PHILOSOPHY AND ART IN THE MODERN AGE
+",PHIL,None.,None,"Exploring, with emphasis on the modern age, philosophical conceptions of art in their interplays with, especially,
+ practicing artists' attitudes toward theory."
+PHIL 41086 ,"PHILOSOPHY OF EXPRESSION
+",PHIL,"one of the following - PHIL 31001, 31002, 31003, 31004, 31005, 31006, 31010 or 31020.",None,"Concentrated study of expression through philosophy of literature, of music, of body, of language or of symbols."
+PHIL 41091 ,"SEMINAR IN WORLD PHILOSOPHY
+",PHIL,"PHIL 310001 or 31002 or 31003 or 31004 or 31005 or 31006 or 31010 or31020.
+",None,"(Repeatable for a maximum of 3 credit hours) Intensive primary-source reading and critical appreciation of the
+ significant works of one or more philosophical figures or one or more philosophical issues from traditions outside
+ the Western canon."
+PHIL 41491 ,"SEMINAR IN ASIAN PHILOSOPHY
+",PHIL,"at least one of PHIL 31001 or 31002 or 31003 or 31004or 31005 or 31006 or 31010 or 31020.
+",None,"(Repeatable a maximum of 2 times) (Cross-listed with PHIL 51491) Intensive primary-source reading and
+ critical appreciation of the significant works of one or more philosophical figures or one or more philosophical
+ issues from traditions in Asian philosophy."
+PHIL 41591 ,"SEMINAR IN THE HISTORY OF ETHICS
+",PHIL,"at least of of PHIL 31001 or 31002 or 31003 or31004 or 31005 or 31006 or 31010 or 31020.
+",None,"(Repeatable a maximum of 2 times) (Cross-listed with PHIL 51591) Intensive primary-source reading and
+ critical appreciation of the significant works of one or more philosophical figures or one or more philosophical
+ issues from traditions in the history of ethics."
+PHIL 49995 ,"SPECIAL TOPICS
+",PHIL,special approval.2.000 OR ,None,(Repeatable for credit when topic varies)
+PHIL 49996 ,"INDIVIDUAL INVESTIGATION
+",PHIL,"departmental specialapproval prior to registration.
+",None,(Repeatable for credit with departmental approval prior to registration)
+PHIL 49999 ,"SENIOR HONORS PROJECT
+",PHIL,Departmental permission before registration.2.000 OR ,None,"(Repeated registration permitted with departmental approval prior to registration) Thesis or other independent
+ study or creative project."
+PHIL 50005 ,"HEALTH CARE ETHICS
+",PHIL,Graduate standing.,None,"Ethical problems in health care critically assessed and consideration of how these specific ethical problems
+ illuminate the ethical enterprise."
+PHIL 50093 ,"VARIABLE TITLE WORKSHOP IN PHILOSOPHY
+",PHIL,Graduate standing.,None,(Repeatable for credit)
+PHIL 51010 ,"PROBLEMS IN THE PHILOSOPHY OF RELIGION
+",PHIL,Graduate standing.,None,Philosophical examination of issues and problems presented by various writers in philosophy of religion.
+PHIL 51015 ,"PHILOSOPHICAL STUDY OF RELIGION
+",PHIL,Graduate standing.,None,"A philosophical examination of pivotal issues, schools and theorists in the study of religion and the future of
+ comparative studies. This course pursues the academic study of religion at an advanced level."
+PHIL 51020 ,"SOCIAL PHILOSOPHY
+",PHIL,"Graduatestanding.
+",None,Philosophical examination of theories of society as proposed by various writers.
+PHIL 51025 ,"PHILOSOPHY OF LAW
+",PHIL,Graduate standing.,None,Critical examination of nature and function of law.
+PHIL 51030 ,"ETHICAL THEORY
+",PHIL,Graduate standing.,None,Intensive and in-depth study of some aspects of ethical theory in the philosophical tradition.
+PHIL 51035 ,"PHILOSOPHY OF SCIENCE
+",PHIL,Graduate standing.,None,Analysis of methodological problems in scientific disciplines.
+PHIL 51036 ,"PHILOSOPHY OF COGNITIVE SCIENCE
+",PHIL,Graduate standing.,None,"(Slashed with PHIL 41036) Designed to analyze the core philosophical commitments that define contemporary
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1521
+cognitive science, and to examine the debates about foundational issues such as modularity, innateness,
+computationalism, and consciousness."
+PHIL 51037 ,"RENAISSANCE AND EARLY MODERN PHILOSOPHY AND SCIENCE
+",PHIL,"Graduatestanding.
+",None,"(Slashed with PHIL 41037) An investigation of the work of the most important European philosophers of the
+ 15th-17th centuries, with a particular emphasis on the interrelation between philosophy and science in their
+ thought, and on the influence of Greek philosophy on the intellectual life of the time."
+PHIL 51038 ,"INTERMEDIATE LOGIC
+",PHIL,Graduate standing.,None,"(Cross-listed with CS 41038 and MATH 41038 and MATH 51038 and PHIL 41038) Study of first order predicate
+ calculus with identity and function symbols."
+PHIL 51040 ,"EPISTEMOLOGY
+",PHIL,Graduate standing.,None,Study of various theories of knowledge in the philosophical tradition.
+PHIL 51042 ,"METAPHYSICS
+",PHIL,Graduate standing.,None,"A philosophical examination of at least three issues in metaphysics with an emphasis on the historical debates
+ that give rise to them and their contemporary contexts."
+PHIL 51045 ,"METALOGIC
+",PHIL,"Graduatestanding.
+",None,"(Cross-listed with CS 41045 and CS 51045 and MATH 41045 and MATH 51045 and PHIL 41045) Consideration
+ of various metatheorems including soundness and completeness of propositional and predicate calculus,
+undecidability of predicate calculus and incompleteness of the theory of arithmetic."
+PHIL 51048 ,"METAETHICS
+",PHIL,graduate standing.,None,"Examination of the semantics, ontology, and modes of justification employed in ethical theories."
+PHIL 51050 ,"ANALYTIC PHILOSOPHY
+",PHIL,"Graduatestanding.
+",None,Study of major problems in analytic philosophy and subsequent philosophical analysis.
+PHIL 51055 ,"PHENOMENOLOGY
+",PHIL,Graduate standing.,None,"Investigation of phenomenological movement, its methods and the scope and course of its applications in
+ philosophy and other disciplines."
+PHIL 51060 ,"PRAGMATISM
+",PHIL,"Graduate standing.2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1523
+",None,"Detailed reading from classical american pragmatists along with some alert to later interpretations and
+ exploration of current reappraisals and developments."
+PHIL 51065 ,"PLATO
+",PHIL,Graduate standing.,None,"Detailed examination of selected platonic dialogues, with some attention to Plato's development and dismissal
+ of certain pre-Socratic (and Socratic) themes."
+PHIL 51070 ,"ARISTOTLE
+",PHIL,Graduate standing.,None,"Detailed examination of selected works of Aristotle, with some attention given to Aristotle's development and
+ dismissal of certain pre-Socratic and Platonic themes."
+PHIL 51076 ,"CONTINENTAL PHILOSOPHY
+",PHIL,Graduate standing.,None,"Investigation of some figure, issue or theme in continental philosophy from Descartes to present."
+PHIL 51077 ,"BRITISH AND AMERICAN PHILOSOPHY
+",PHIL,Graduate standing.,None,Detailed investigation of a figure or issue in British or American philosophy.
+PHIL 51080 ,"PHILOSOPHY AND ART IN THE MODERN AGE
+",PHIL,Graduate standing.,None,"2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1524
+Exploring, with emphasis, on the modern age philosophical conceptions of art in their interplays with, especially,
+ practicing artists' attitudes toward theory."
+PHIL 51086 ,"PHILOSOPHY OF EXPRESSION
+",PHIL,Graduate standing.,None,"Concentrated study of expression through philosophy of literature, of music, of body, of language or of symbols."
+PHIL 51091 ,"SEMINAR IN WORLD PHILOSOPHY
+",PHIL,graduate standing.,None,"(Repeatable for a maximum of 3 credit hours) Intensive primary-source reading and critical appreciation of the
+ significant works of one or more philosophical figures or one or more philosophical issues from traditions outside
+ the Western canon."
+PHIL 51491 ,"SEMINAR IN ASIAN PHILOSOPHY
+",PHIL,graduate standing.,None,"(Repeatable for a maximum of 2 times) (Cross-listed with PHIL 41491) Intensive primary-source reading and
+ critical appreciation of the significant works of one or more philosophical figures or one or more philosophical
+ issues from traditions in Asian philosophy."
+PHIL 51591 ,"SEMINAR IN THE HISTORY OF ETHICS
+",PHIL,"graduatestanding.
+",None,"Intensive primary-source reading and critical appreciation of the significant works of one or more philosophical
+ figures or one or more philosophical issues from traditions in the history of ethics."
+PHIL 59995 ,"SPECIAL TOPICS
+",PHIL,Graduate standing.,None,"(Repeatable for credit)When content varies, may be repeated for credit."
+PHIL 59996 ,"INDIVIDUAL INVESTIGATION
+",PHIL,Special approval and graduate standing.,None,(Repeatable for credit with department approval)
+PHIL 60191 ,"GRADUATE SEMINAR
+",PHIL,Graduate standing.,None,"(Repeatable for credit)Intensive primary-source reading and critical appreciation of the significant works of one
+ or more philosophical figures or one or more philosophical issues."
+PHIL 60201 ,"SEMINAR:HISTORY OF PHILOSOPHY
+",PHIL,Graduate standing.,None,"Intensive primary-source reading and critical appreciation of the significant works of one or more historical
+ philosophers (other than Plato and Aristotle) or one or more historical philosophical issues."
+PHIL 61000 ,"RESPONSIBLE CONDUCT OF RESEARCH
+",PHIL,Graduate standing.,None,"(Cross-listed with BMS 61000 and BMS 71000) Introduction into professional and ethical conduct of research.
+ Topics include codes and laws governing research, identification of scientific misconduct, plagiarism, authorship
+2014 Kent State University Catalog - Spring 2015 Course DescriptionsPage 1526
+and intellectual properties, ethical animal and human research."
+PHIL 61050 ,"PHILOSOPHY OF LANGUAGE
+",PHIL,Graduate standing.,None,"(Cross-listed with ENG 65050 and ENG 75050) Critical examination of nature and function of language
+ especially in relation to mental function and development."
+PHIL 61055 ,"SEMEIOTICS
+",PHIL,Graduate standing.,None,"(Cross-listed with MCLS 60020) An introduction to contemporary theories of semeiotics and to the application of
+ those theories to linguistics, literature, translation and technology."
+PHIL 61056 ,"HERMENEUTICS
+",PHIL,Graduate standing.,None,"Critical appreciation of the theories and practices of interpretation comprehended according to certain classical,
+ current and emergent philosophic styles and traditions."
+PHIL 61085 ,"METAETHICS
+",PHIL,Graduate standing.,None,"Examination of the conceptions, presuppositions and value judgments of ethical theories."
+PHIL 69194 ,"COLLEGE TEACHING OF PHILOSOPHY
+",PHIL,graduate standing.,None,"(Repeatable for credit)Discussion, critique and development of concepts to guide the teaching of philosophy
+ including concepts of procedures and tactics for planning, pacing, presenting, representing and reviewing
+philosophic texts figures and issues."
+PHIL 69198 ,"FIRST YEAR PAPER
+",PHIL,"graduatestanding.
+",None,Research paper for graduate students conducted under direction of the advisory group.
+PHIL 69199 ,"THESIS I
+",PHIL,Departmental special approval before registration and graduate standing.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in a single semester distributed over several
+ semesters if desired."
+PHIL 69299 ,"THESIS II
+",PHIL,PHIL 69199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+PHIL 69995 ,"SPECIAL TOPICS
+",PHIL,Special approval and graduate standing.,None,(Repeatable for credit)Selected topics in Philosophy.
+PHIL 69997 ,"COLLOQUIUM
+",PHIL,Graduate standing.,None,"(Repeatable for credit)Student, faculty and invited guests participate in conference-like contexts to present and
+ discuss issues of current philosophic interest."
+PHIL 69998 ,"RESEARCH
+",PHIL,Special approval and graduate standing.,None,"(Repeatable for credit)Research or individual investigation for master's level graduate students. Credits earned
+ may be applied toward meeting degree requirements."

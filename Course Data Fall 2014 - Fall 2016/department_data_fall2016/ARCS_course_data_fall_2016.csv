@@ -1,0 +1,47 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+ARCS 10121 ,"REPRESENTATION OF DESIGN I
+",ARCS,none.,None,"A survey of the techniques and assumptions of basic architectural design concepts and representation of the
+built environment through analytical and synthetic exercises that introduce fundamental design skills. In order to
+integrate students into the college and the field, the exercises are supplemented by readings in contemporary
+visual culture."
+ARCS 10122 ,"REPRESENTATION OF DESIGN II
+",ARCS,ARCS 10121 or ARCH 10101.,None,"Continuation of ARCS 10121 with an emphasis on 3-D thinking and representation,critical skills and the role of
+images in architectural culture and society. The course also introduces the wider application of design principles
+in graphic design, digital media and the visualization of information."
+ARCS 20121 ,"STUDIO FOR ARCHITECTURAL STUDIES
+",ARCS,"AED 10102; andArchitectural Studies (ARCS) major. 
+",None,"Course exposes students to the distinct design processes, final products, and interconnectedness of various
+allied design disciplines including (but not limited to) graphic design, interior design, landscape architecture,
+urban design, industrial design, architecture and historic preservation."
+ARCS 20122 ,"STUDIO FOR ARCHITECTURAL STUDIES II
+",ARCS,ARCS 20121 or ARCH 20101.,None,"Studio allows students to further develop their design skills in relation to a theme or shared research topic that
+crosses the disciplinary boundaries of architecture and challenges conventional ideas of the role design can play
+in developing knowledge."
+ARCS 30123 ,"MATERIALS AND PROCESS OF MAKING
+",ARCS,AED 10102; and architectural studies (ARCS) major.,None,"Seeks to introduce and foster an ease of mobility through various digital design environments utilizing familiar
+techniques of design production (i.e. drawing, modeling, rendering, etc.). Students engage in digital modes of
+production that will enable the testing of material, spatial, and tectonic performance through scalar prototyping."
+ARCS 30124 ,"METHODS AND THEORIES OF REPRESENTATION
+",ARCS,"AED 10102; and architecturalstudies (ARCS) major. 
+",None,"Seeks to examine traditional and contemporary methods of architectural representation as generative tools that
+mediate between individual idea and constructed environment."
+ARCS 30321 ,"STRUCTURAL TYPOLOGY
+",ARCS,"AED 10102 or ARCH 10012; andarchitectural studies (ARCS) major or minor. 
+",None,"Course provides a non-computational introduction to structures that focuses on: structure as organization, the
+historical development of structural prototypes, the structural properties of materials. Utilizes lab exercises to
+introduce students to basic structural principles and to discuss the effect of scientific method, structural
+engineering and materials science on architectural design."
+ARCS 30421 ,"ENVIRONMENTAL IMPERATIVES
+",ARCS,"AED 10102 or ARCH 10012; and architectural studies (ARCS) major orminor. 
+",None,"Course introduces students to various viewpoints on sustainable built environments with emphasis on the
+ethical, ecological, social, political, economic, and technical implications. Engages students in debates on
+theoretical and practical positions on sustainability, and the organizations that support sustainable practices in
+the building industry."
+ARCS 40022 ,"URBAN DESIGN DISCOURSE
+",ARCS,ARCH 45213; and architectural studies (ARCS) major or minor.,None,"Course explores the interconnections among making space, image creation and inhabiting the city; engages
+students in visual and textual documentation of urban life and phenomena. Course presents history, theory and
+practices of documentation in conjunction with investigation of, and frequent visits to, Cleveland sites as the
+basis for student projects."
+ARCS 40114 ,"THEORY AND CRITICISM IN ARCHITECTURAL MEDIA
+",ARCS,ARCH 45213; and architectural studies (ARCS) major or minor.,None,"Aimed at investigating the increasingly intertwined issues that link contemporary architectural theory and
+criticism with the world of media."

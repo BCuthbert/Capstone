@@ -1,0 +1,192 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+DAN 17001 ,"STUDIO MODERN I
+",DAN,None.,None,Practice of basic modern dance technique. Open to all university students.
+DAN 17002 ,"STUDIO MODERN DANCE II
+",DAN,DAN 17001.,None,"Exploration of modern dance technique foundations and improvisation with emphasis on the movement and
+ performing qualities of modern dance. Open to all university students."
+DAN 17004 ,"STUDIO JAZZ I
+",DAN,None.,None,Practice of basic jazz techniques. Open to all university students.
+DAN 17005 ,"STUDIO JAZZ II
+",DAN,DAN 17004.,None,"Continuation of jazz dance technique foundations with emphasis on more advanced dance combinations. Open
+ to all university students."
+DAN 17007 ,"STUDIO TAP I
+",DAN,None.,None,Basic tap steps and combinations with varying sound intensities and rhythms. Open to all university students.
+DAN 17008 ,"STUDIO TAP II
+",DAN,DAN 17007.,None,Continuation of tap dance technique foundations with emphasis on more advanced dance combinations.
+DAN 17009 ,"STUDIO TAP III
+",DAN,DAN 17008.,None,"(Repeatable for a maximum of 8 credit hours) Advanced tap dance techniques with emphasis on clarity, speed
+ and performance skills."
+DAN 17010 ,"STUDIO BALLET I
+",DAN,None.,None,"Introduction to the foundations of ballet placement, vocabulary and movement for the beginner. Open to all
+ university students."
+DAN 17011 ,"STUDIO BALLET II
+",DAN,DAN 17010.,None,"Continuation of ballet technique foundations with emphasis on more advanced dance combinations. Open to all
+ university students."
+DAN 17012 ,"STUDIO BALLET III
+",DAN,DAN 17011.,None,"(Repeatable for a maximum of 4 credit hours) This course presents high intermediate ballet techniques for the
+ serious non-major dance student. Students will apply the principles of body alignment to an ever expanding
+ movement vocabulary. Intricate combinations in adagio, petite and grand allegro and turns will be offered.
+ Focus will be on the strength, flexibility and endurance required to master movements at this more advanced
+ level."
+DAN 17013 ,"STUDIO AFRICAN DANCE I
+",DAN,None.,None,Designed to acquaint students with basic elements of African dance. Open to all university students.
+DAN 17016 ,"STUDIO SWING DANCE I
+",DAN,None.,None,"(Repeatable for a maximum of 2 credit hours) Practice of basic swing dance movements with emphasis on social
+ partnering skills. Open to all students."
+DAN 17019 ,"STUDIO HIP HOP I
+",DAN,none.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 535
+(Repeatable for a maximum of 4 credit hours) Introduction to Hip Hop dance including warm-up techniques,
+ movement across the floor and dance combinations. Open to all university students. No previous experience is
+ necessary."
+DAN 17020 ,"STUDIO HIP HOP II
+",DAN,DAN 17019.,None,"(Repeatable for a maximum of 4 credit hours) Hip Hop II is for students with previous experience in hip hop and
+ will explore in greater depth fundamentals, history, technique and personal style."
+DAN 17049 ,"FUNDAMENTALS OF BALLET AND MODERN DANCE
+",DAN,DAN 17001 and 17010.,None,"Introduction to intensive exploration of ballet and modern dance technique for nonmajors with special emphasis
+ on alignment, body awareness and movement vocabulary."
+DAN 17050 ,"INTRODUCTION TO DANCE
+",DAN,Dance major and special approval.,None,"Overview of modern dance as a performing art. Specifically focusing on preparation, basic knowledge and
+ career choices."
+DAN 17051 ,"MODERN DANCE TECHNIQUE I-A
+",DAN,Dance major and special approval.,None,"Development of skill acquisition in basic technique, understanding and appreciation for the creative nature of
+ dance through exposure to improvisational experiences."
+DAN 17052 ,"BALLET I-A
+",DAN,"Dance major and specialapproval.
+",None,Ballet techniques: pre-barre; beginning barre and beginning center work.
+DAN 17053 ,"PRINCIPLES OF DANCE MECHANICS I
+",DAN,Dancemajor and special approval. ,DAN 17051 or 17052.,The study and application of alignment and basic movement principles to dance techniques.
+DAN 17151 ,"MODERN DANCE TECHNIQUE I-B
+",DAN,"Dance major and DAN 17051 andspecial approval.
+",None,"Continued exploration of basic modern dance technique and improvisation begun in DAN 17051. Continued
+ study of dance innovators and their historical significance."
+DAN 17152 ,"BALLET I-B
+",DAN,Dance major and DAN 17052 and special approval.,None,(Repeatable for a maximum of 8 credit hours) Continuation of ballet techniques studied in DAN 17052.
+DAN 27070 ,"JAZZ STYLES I
+",DAN,special approval.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 537
+Development of basic jazz dance skills for dance majors and minors."
+DAN 27071 ,"MODERN DANCE TECHNIQUE II-A
+",DAN,DAN 17051 and special approval.,None,"(Repeatable for a maximum of 12 credit hours) Intermediate modern dance styles emphasizing complex
+ movement phrases."
+DAN 27072 ,"BALLET II-A
+",DAN,"Dance major; DAN17152 and special approval.
+",None,(Repeatable for a maximum of 8 credit hours) Intermediate ballet technique.
+DAN 27074 ,"DANCE COMPOSITION I
+",DAN,special approval.,None,"(Repeatable for a maximum of 6 credit hours) Movement exploration and improvisation including developing the
+ body as an instrument of expression."
+DAN 27076 ,"DANCE AS AN ART FORM
+",DAN,None.,None,"Survey of the various types, styles and functions of dance with emphasis on understanding dance as an art
+ form and an expression of culture."
+DAN 27170 ,"JAZZ STYLES II
+",DAN,DAN 27070 and special approval.,None,Continued development of basic jazz dance skills.
+DAN 27171 ,"MODERN DANCE TECHNIQUE II-B
+",DAN,DAN 27071 and special approval.,None,"(Repeatable for a maximum of 12 credit hours) Continuation of intermediate level dance styles with emphasis
+ on complex movement phrases."
+DAN 27172 ,"BALLET II-B
+",DAN,"DAN27072 and special approval.
+",None,(Repeatable for a maximum of 8 credit hours) Continuation of intermediate ballet technique.
+DAN 28010 ,"DANCE ACCOMPANIMENT LABORATORY I
+",DAN,none.,None,"(Course is repeatable for a maximum of 4 credit hours) Students will be introduced to the techniques and
+ strategies of modern dance and ballet technique class accompaniment. Emphasis is placed on supervised
+ student accompaniment and acquiring familiarity with dance class protocols, procedures, and the accompanist-
+instructor relationship. Course meets concurrently with one of the professional-level modern dance or ballet
+technique classes offered by the Dance Division."
+DAN 37035 ,"DANCE COMPOSITION II
+",DAN,DAN 27074 and special approval.,None,"Basic principles of dance composition with attention to design, thematic material, structure, form and small
+2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 539
+groups."
+DAN 37053 ,"PRINCIPLES OF DANCE MECHANICS II
+",DAN,"DAN 17053 andspecial approval.
+",None,(Repeatable for a maximum of 16 credit hours) Continuation of DAN 17053.
+DAN 37057 ,"DANCE FOR CHILDREN
+",DAN,"Dance or Early ChildhoodEducation major.
+",None,"(Repeatable for a maximum of 6 credit hours) The theory and practice of children's dance in the pre-school,
+ elementary, middle schools, private studio and recreation settings."
+DAN 37058 ,"METHODS AND MATERIALS OF DANCE
+",DAN,DAN 27057 and special approval.,None,"(Repeatable for a maximum of 6 credit hours) Theory and practice of teaching dance technique from middle
+ school to adults with an emphasis on modern dance."
+DAN 37067 ,"BALLET III-A
+",DAN,"DAN 27172 and specialapproval.
+",None,(Repeatable for a maximum of 8 credit hours) Advanced ballet technique.
+DAN 37068 ,"MODERN DANCE TECHNIQUE III-A
+",DAN,"DAN 27171and special approval.
+",None,(Repeatable for a maximum of 15 credit hours) Advanced modern dance technique.
+DAN 37070 ,"DANCE COMPOSITION III
+",DAN,DAN 27174 and special approval.,None,"(Repeatable for a maximum of 8 credit hours) Development of individual movement style through
+ improvisational studies and movement manipulation exercises of structure and form resulting in a substantial
+ solo modern dance work."
+DAN 37071 ,"MOVEMENT NOTATION
+",DAN,Dance major and special approval.,None,"Analyzing and recording human movement. The common aspects of movement in all forms of sports, dance and
+ aquatics. Analysis and recording with the labanotation system."
+DAN 37072 ,"DANCE AND TECHNOLOGY
+",DAN,Dance (DANC) major or minor; and special approval.,None,"This course introduces students to new technologies as resources for creative expression, performance and
+ documentation of dance. Students will learn a brief history of screen dance, techniques for archiving dance,
+ shooting and editing video with dance as the subject and approaches to interactive performance. Students will
+ gain a basic understanding of how new media interacts with current practice in dance creation, production,
+ education and research."
+DAN 37167 ,"BALLET III-B
+",DAN,DAN 37067 and special approval.,None,Continuation of advanced ballet technique.
+DAN 37168 ,"MODERN DANCE TECHNIQUE III-B
+",DAN,DAN 37068 and special approval.,None,Continuation of advanced modern dance technique.
+DAN 37170 ,"DANCE COMPOSITION IV
+",DAN,DAN 37070 and special approval.,None,"Exploration of advanced composition skills in preparation for the B.F.A. senior choreography project and future
+ choreographic endeavors."
+DAN 37192 ,"DANCE PRACTICUM
+",DAN,special approval.,None,"(repeatable for a total of 4 hours) practical experience in cocurriculum dance activities under faculty
+ supervision."
+DAN 37271 ,"DANCE ENSEMBLE
+",DAN,Dance major and special approval.,None,"Participation in rehearsal, preparation and performance of public dance concerts in an established dance
+ ensemble."
+DAN 37310 ,"MUSIC FOR DANCERS
+",DAN,special approval.,None,"Students will build theoretical, analytical and performance skills in music specific to the needs of dancers, dance
+ teachers and choreographers."
+DAN 38001 ,"APPLIED SKILLS FOR DANCE ACCOMPANIMENT
+",DAN,DAN 28010.,None,"(Course is repeatable for a maximum of 8 credit hours) Private applied music instruction in performance skills
+ necessary to accompany a modern dance or ballet class. Emphasis is placed on hand drum and frame drum
+technique, keyboard repertoire, and keyboard improvisation skills."
+DAN 38010 ,"DANCE ACCOMPANIMENT LABORATORY II
+",DAN,two semesters of DAN 28010 and special approval.,None,"(Course is repeatable) Students will receive intermediate and advanced instruction in modern dance or ballet
+ technique class accompaniment. Emphasis will be placed on continued development of accompaniment
+strategies for specific styles of movement and increasing the students' range of accompaniment repertoire and
+ improvisational vocabulary."
+DAN 47055 ,"BALLET IV-A
+",DAN,DAN 37167.,None,A continuation of DAN 37167 with increasing clarity and control of movements.
+DAN 47060 ,"PROFESSIONAL ASPECTS IN DANCE
+",DAN,DAN 27170 and special approval.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 543
+development of pragmatic skills for entrance into professional dance careers. Emphasis on resume writing,
+ preparation for auditions and economic survival."
+DAN 47063 ,"DANCE HISTORY I
+",DAN,Dance major and approval.,None,History of dance from antiquity to 1900.
+DAN 47070 ,"JAZZ STYLES III
+",DAN,DAN 27170 and special approval.,None,Jazz style for students with advanced dance technique.
+DAN 47095 ,"SPECIAL TOPICS IN DANCE
+",DAN,none.,None,"(repeatable for a total of 24 hours) offered when resources permit a topic different from existing courses. Topic
+ to be announced when scheduled."
+DAN 47155 ,"BALLET IV-B
+",DAN,"DAN 47055 andspecial approval.
+",None,A continuation of DAN 47055 with increasing clarity and dynamic expression.
+DAN 47156 ,"DANCE PRODUCTION
+",DAN,Dance major and special approval.,None,"Study of elements involved in planning and implementing a concert. Experiential work in technical and
+ management components."
+DAN 47163 ,"DANCE HISTORY II
+",DAN,"DAN47063 and special approval.
+",None,History of the development of concert and theatrical dance forms from 1900 to present day.
+DAN 47170 ,"JAZZ STYLES IV
+",DAN,DAN 47070 and special approval.,None,Continuation of DAN 47070.
+DAN 47174 ,"SENIOR CHOREOGRAPHY PROJECT
+",DAN,DAN 37170 and special approval.,None,Creation of a modern dance work to be performed with full production values in an approved setting.
+DAN 47175 ,"CAPSTONE PROJECT
+",DAN,junior standing and special approval.,None,"2014 Kent State University Catalog - Spring 2015 Course Descriptions Page 545
+The capstone project represents a culminating event for the student. Capstone projects can be taken in the
+ junior or senior year and are identified in consultation with a faculty advisor. Honor students may combine the
+ capstone project with an Honors thesis."
+DAN 47192 ,"INTERNSHIP IN DANCE
+",DAN,"Dancemajor and special approval.
+",None,(Repeatable for credit)Supervised dance apprenticeship in an approved educational setting.
+DAN 47196 ,"INDIVIDUAL INVESTIGATION IN DANCE
+",DAN,Junior standing and special approval.,None,(Repeatable for credit)Individual projects for dance majors.
+DAN 47525 ,"STUDENT TEACHING IN DANCE
+",DAN,"Dance major; and admission to student teaching; and DAN 47192; and special approval;and Official valid certification of Child Safety Training, approved Basic Life Support and A.L.I.C.E. Training must
+ be presented to the campus office of clinical experience or designated faculty/staff at Regional campuses as
+ prerequisite for student teaching.
+",None,"This experience provides for a full semester of student teaching in the broadest range of multi-age school
+ settings."

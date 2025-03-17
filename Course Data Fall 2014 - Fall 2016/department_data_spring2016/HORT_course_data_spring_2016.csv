@@ -1,0 +1,109 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+HORT 16001 ,"INTRODUCTION TO HORTICULTURE
+",HORT,None.,None,"A survey of those opportunities available within the ""green industry"" both in education and as a career option.
+ Guest speakers and field trips
+are part of the class."
+HORT 26001 ,"OCCUPATIONAL REGULATIONS AND SAFETY
+",HORT,None,BSCI 16001 and HORT 16001.,"Presentation of the basic standards, rules, safety regulations and laws pertaining to horticultural and related
+ industries which will affect the
+work atmosphere. Lecture two hours weekly; offered only at the Geauga and
+ Salem campuses."
+HORT 26010 ,"ARBORICULTURE
+",HORT,BSCI 16001 and HORT 16001.,None,"Basics of pruning and tree climbing techniques. Covers the equipment and
+safe use of equipment commonly
+ found in the arboricultural industry. Lecture two hours weekly; lab three hours weekly; offered only at the
+Salem campuses."
+HORT 26011 ,"COOPERATIVE WORK EXPERIENCE IN TREE CARE
+",HORT,None,HORT 26010.,"(Repeatable for credit) Cooperative work program through which the skills necessary to perform professionally
+ in this occupation will be acquired. This course offered only at the Salem Campus. Requires a minimum of 30
+ hours per week of work experience. Not more than 9 semester hours in this or a combination of other work
+ experience classes
+will be allowed."
+HORT 26012 ,"URBAN FORESTRY
+",HORT,HORT 16001 and BSCI 16001.,None,"Urban forestry and the planning and managing of urban green-scapes. Appraisal and computerized GIS/GPS
+ inventory of urban vegetation, urban land use planning and legal ordinances, maintenance and management of
+street and park trees. Outdoor field trips and guest lecturers."
+HORT 26016 ,"IRRIGATION DESIGN AND MAINTENANCE
+",HORT,HORT 16001 and BSCI 16001.,None,"Principles of irrigation design, installation maintenance and drainage. Specific information about the selection of
+ sprinkler heads, pipe, pumps, basic hydraulics, water conservation methods and automatic control systems
+ shall be explored. Drawing of irrigation plans shall be required."
+HORT 26018 ,"LANDSCAPE CONSTRUCTION
+",HORT,HORT 16001 or advisor's approval.,None,"The basic skills and techniques involved in landscape contracting and construction, including building material
+ data, site grading, contour mapping, deck construction, water features, lighting, landscape paving and retaining
+ walls. Field trips and outside hands-on experience."
+HORT 26020 ,"LANDSCAPE MANAGEMENT
+",HORT,BSCI 16001 and HORT 16001.,None,"A detailed discussion and practice of managing trees, shrubs and flowers
+within the landscape. Additional
+ concepts such as the types of equipment used in the ""green industry,"" marketing, writing specifications, bidding
+ projects and personnel management."
+HORT 26021 ,"COOPERATIVE WORK EXPERIENCE IN LANDSCAPE MANAGEMENT
+",HORT,None,HORT 26020.,"(Repeatable for credit) Cooperative work program through which the skills necessary to perform professionally
+ in this occupation will be acquired. This course offered only at the Salem Campus. Requires a minimum of 30
+ hours per week of work experience. Not more than 9 semester hours in this or a combination of other work
+ experience will be
+allowed."
+HORT 26030 ,"TURF GRASS MANAGEMENT
+",HORT,BSCI 16001 and HORT 16001.,None,"Basic principles of turf management. Covers turf equipment and the safe use of equipment commonly found in
+ the turf industry. Lecture two hours weekly; lab three hours weekly; course offered only at the Salem campus."
+HORT 26031 ,"COOPERATIVE WORK EXPERIENCE IN TURF GRASS MANAGEMENT
+",HORT,None,HORT 26030.,"(Repeatable for Credit) Cooperative work program through which the skills necessary to perform professionally
+ in this occupation will be acquired. This course offered only at the Salem Campus. Requires a minimum of 30
+ hours per week of work experience. Not more than 9 semester hours in this or a combination of other work
+ experience classes
+will be allowed."
+HORT 26032 ,"GOLF COURSE MANAGEMENT
+",HORT,HORT 16001 and HORT 26031 and BSCI 16001.,None,"The golf course environment as it relates to turf grass maintenance and pest/disease management. The
+ construction and management of greens, tees, water and bunker management practices, turf aerification
+ issues, topdressing and administrative concerns."
+HORT 26046 ,"LANDSCAPE DESIGN I
+",HORT,"HORT 16001 and BSCI 16001and BSCI 26003.
+",None,"An introduction to landscape appreciation and history, the landscape industry and elements of the landscape
+ design process. Students will assess proper plant placement and uses, develop graphic communication skills
+ and present a project. Field trips and project site work as required."
+HORT 36014 ,"PLANT PROPAGATION AND GREENHOUSE PRODUCTION
+",HORT,HORT 16001 and BSCI 16001.,None,"Asexual/vegetative propagation including anatomical and physical concepts. Techniques covered include
+ cuttings, budding, grafting, layering, dividing and micropropagation. Plant propagation by seeding and plugs are
+ promoted along with crop production. Students provide an annual production schedule. Lecture two hours
+ weekly; lab three hours weekly."
+HORT 36018 ,"LANDSCAPE CONSTRUCTION II
+",HORT,HORT 26018; and junior or senior standing.,None,"2015 Kent State University Catalog - Spring 2016 Course Descriptions
+Advanced landscape construction techniques involved in landscape contracting with an emphasis on the overall
+ layout and planning of a landscape project. Students master and research product documentation, layout plans,
+ written specifications and detailed construction drawings as they pertain to built landscape environments.
+ Specific field site work with real world applications. Lecture two hours weekly; lab 3 hours
+weekly."
+HORT 36025 ,"PROFESSIONAL PRACTICE IN HORTICULTURE
+",HORT,"HORT26001 and 26016 and 26018.
+",None,"Investigation into owning and operating a green industry company including customer relations, wholesale and
+ retail marketing, project bidding, potential profit and loss margins, communication requirements, and overall
+ services to public and private clientele."
+HORT 36034 ,"SPORTS TURF MANAGEMENT
+",HORT,"HORT 26030; and junior orsenior standing.
+",None,"Identification of grass plant species; culture and morphology; turf ecology with practical information on turf
+ establishment and cultural practices. Covers issues of design, renovation, and maintenance of sports grounds
+ and facilities. Class requires 20 hours service learning component."
+HORT 36046 ,"LANDSCAPE DESIGN II
+",HORT,HORT 26012 or 26032 or 26046; and junior or senior standing.,None,"Advanced landscape design looking at overall landscape planning, including site and planting design, site
+ amenities, irrigation design and client needs. Special attention to communication formats such as color
+ rendering and graphics, as well as to overall presentation. Some design modeling and graphic sketching are
+ included."
+HORT 36092 ,"INTERNSHIP IN HORTICULTURE
+",HORT,"6 hours fromHORT 26011 and 26021 and 26031; and special approval.
+",None,"(Repeatable for credit)Internship experience in an advanced field of study within the horticulture/green
+ industry, building on the student's understanding of science-based fundamentals. Internship requires a
+minimum of 210 working hours with an approved public organization or private green industry firm, and 2 hours
+ per week consultation on independent research as approved and supervised by the academic program director.
+ Work includes supporting documentation and written reports as deemed appropriate give the subject studied."
+HORT 41096 ,"INDIVIDUAL INVESTIGATION IN HORTICULTURE
+",HORT,junior or senior standing.,None,"(Repeatable for credit)Research under the direction of a horticulture faculty/program director mentor.
+ Investigation of specific horticulture topics that build upon previous concentration areas of study."
+HORT 46014 ,"GARDEN CENTER AND NURSERY PRODUCTION MANAGEMENT
+",HORT,"BSCI 26002 and BMRT 11000; andjunior or senior standing.
+",None,"Survey of plant production of container, bare-root, balled-in-burlap plant materials in a nursery setting.
+ Exploration of physiological principles involved, including planting, maturity dates for harvest, shipping, garden
+ center activities and wholesale and retail marketing of
+stock."
+HORT 46092 ,"PRACTICUM IN HORTICULTURE
+",HORT,HORT 36092; and junior or senior standing.,None,"(Repeatable for credit) An in-depth individual project, combining field experiences with original research within
+ a green industry niche. Area of interest supports the student's educational goals given their intended
+ concentration of past class work."

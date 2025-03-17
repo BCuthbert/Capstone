@@ -1,0 +1,74 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+ITAP 16620 ,"WORD PROCESSING I
+",ITAP,none.,None,"Builds expertise in creating business documents applying the basic features of popular word processing
+ software. Emphasis on hands on experience."
+ITAP 16621 ,"WORD PROCESSING II
+",ITAP,"ITAP16620.
+",None,Design and create documents by using advanced features of word processing software.
+ITAP 16625 ,"BUSINESS PRESENTATIONS
+",ITAP,none.,None,"Development and production of professional computer-projected presentation materials using popular software.
+ Includes use of graphic design techniques, color layout design principles and transparencies."
+ITAP 16636 ,"DATA MANAGEMENT FOR ADMINISTRATIVE PROFESSIONALS
+",ITAP,None.,None,"Introduction to the role of data and its management and evolution to information and knowledge in business
+ environments."
+ITAP 16639 ,"DATABASE APPLICATIONS
+",ITAP,None.,None,"Concepts, terminology and use of current database software to manage and
+retrieve business information.
+ Emphasis on hands-on experiences."
+ITAP 16640 ,"ADVANCED DATABASE APPLICATIONS
+",ITAP,"ITAP 16639 and specialapproval.
+",None,"Provides the student with the skills and knowledge on creating advanced queries, forms and reports. Students
+ learn how to customize, automate and secure the database structure."
+ITAP 16680 ,"COMPUTER KEYBOARDING
+",ITAP,None.,None,"Basic keyboarding course using computers for students having no previous
+keyboarding instruction or a speed
+ of less than 30 words a minute. To pass the course students must keyboard above 30 words a minute for three
+ minutes with no more than three errors."
+ITAP 26611 ,"SPREADSHEET APPLICATIONS
+",ITAP,none.,None,"Use of electronic spreadsheets from beginning to advanced applications that may prepare for software
+ certification."
+ITAP 26622 ,"DESKTOP PUBLISHING I
+",ITAP,"ITAP16620.
+",None,"Study and application of the principles of proper document design using high-end desktop publishing software
+ for newsletters, brochures, reports, forms and other computer-based business documents."
+ITAP 26623 ,"DESKTOP PUBLISHING II
+",ITAP,"ITAP26622.
+",None,"High-end layout design and illustration software. Includes advanced documents, Web publishing, makeovers,
+ computer graphic concepts and formatting, image editing techniques and the use of color."
+ITAP 26635 ,"ADMINISTRATIVE RESOURCE MANAGEMENT
+",ITAP,None.,None,"Explores how office professionals can apply resource management skills to the areas of space/workflow, forms,
+ budgetary control, staff and materials supplies."
+ITAP 26636 ,"PROJECT MANAGEMENT FOR ADMINISTRATIVE PROFESSIONALS
+",ITAP,None.,None,"Provides the basic tools needed to effectively manage projects and to automate and streamline such functions
+ as resource allocation, work scheduling and communication. Project management software is used in the
+ course."
+ITAP 26638 ,"BUSINESS COMMUNICATIONS
+",ITAP,ENG 11011 or HONR 10197.,None,"Theory and application of oral and written business communication with emphasis on business letters, reports,
+ employment process, visual presentations and electronic communications. Basic word processing skills are
+ suggested."
+ITAP 26640 ,"CURRENT TECHNOLOGIES
+",ITAP,None.,None,Current trends and technology for the marketplace from an end user perspective.
+ITAP 26650 ,"MEDICAL BILLING PROCEDURES
+",ITAP,ITAP 26655; and ITAP 26656.,None,"Introductory course in the preparation of various medical documents and forms in the health care industry. Use
+ of computers and various word processing software is included. This course requires a 30 clock hour internship."
+ITAP 26655 ,"ICD CODING
+",ITAP,ITAP 26651 or HED 14020.,None,"Basic medical coding using the current version of the ICD classification
+system and nomenclature."
+ITAP 26656 ,"CPT CODING
+",ITAP,ITAP 26655.,None,"Introduction to coding rules for the CPT and Level II coding systems, incorporating and applying ICD rules to
+ code patient services."
+ITAP 26691 ,"SEMINAR FOR ADMINISTRATIVE PROFESSIONALS
+",ITAP,"Sophomorestanding.
+",None,"Refines job search strategies, integrates coursework with realistic office settings, presents interpersonal and
+ ethical issues, provides outreach activities, and emphases career management."
+ITAP 26692 ,"INTERNSHIP FOR ADMINISTRATIVE PROFESSIONALS
+",ITAP,Sophomore standing and 2.000 GPA or better in major and special approval.,None,"(Repeatable for a maximum of 4 credit hours)Supervised field experience of ten hours per week paid or seven
+ hours per week unpaid in a business environment functioning as an administrative professional."
+ITAP 26695 ,"SPECIAL TOPICS IN INFORMATION TECHNOLOGY FOR ADMINISTRATIVE
+",ITAP,Permission.,None,"PROFESSIONALS
+(Repeatable for credit)Special topics in information technology topics for administrative professionals."
+ITAP 26696 ,"INDIVIDUAL INVESTIGATION:INFORMATION TECHNOLOGY FOR ADMINISTRATIVE
+",ITAP,"12 credit hours of ITAP courses and special approval of a full-time ITAP facultymember.
+",None,"PROFESSIONALS
+(Repeatable for credit)Independent, in-depth research of an ITAP topic supervised and coordinated by an ITAP
+ faculty member."

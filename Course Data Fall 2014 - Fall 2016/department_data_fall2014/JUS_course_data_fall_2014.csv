@@ -1,0 +1,270 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+JUS 12000 ,"INTRODUCTION TO JUSTICE STUDIES
+",JUS,None.,None,"Surveys the U.S. criminal justice system and its component institutions and processes, including overviews of
+policing, corrections, courts, and their inter-relations in the criminal justice system. An overview is also
+provided of the nature and measurement of crime, patterns of offending and victimization, and criminal justice
+responses to offending and victimization. Historical and emerging issues are introduced including a variety of
+insights related to effective, professional and ethical practices in criminal justice."
+JUS 22100 ,"BASIC INTERVIEWING
+",JUS,JUS 12000.,None,"Foundation of basic interviewing principles including communication models,question format, distortions, topic
+control, inhibitors, facilitators, listening, types of interviews and practical exercises."
+JUS 22300 ,"POLICE ROLE
+",JUS,JUS 12000.,None,"Systematic analysis of the police role. An examination of the related research with an emphasis on divergent
+perspective and development of conceptual models."
+JUS 22301 ,"THE INVESTIGATIVE PROCESS
+",JUS,JUS 12000.,None,"An examination of established investigative processes, techniques employed in conducting a systematic
+investigation and legal implications."
+JUS 26701 ,"CORRECTIONS
+",JUS,JUS 12000.,None,"Course topics include history of corrections, punishment, community corrections, correctional institutions,
+correctional administration, issues in corrections, and future trends of corrections."
+JUS 26704 ,"ISSUES IN LAW AND SOCIETY
+",JUS,none.,None,"General treatment of the legal system with special emphasis on its origin, structure and functional
+consequences on issues and problems in modern society."
+JUS 27095 ,"SPECIAL TOPICS JUSTICE STUDIES
+",JUS,none.2.000 OR ,None,"(Repeatable for a maximum of 6 credit hours)Intensive analysis of issues significant and current in the field
+which are not covered in regular courses."
+JUS 27311 ,"VICTIMOLOGY
+",JUS,JUS 12000.,None,"Patterns of victim-offender relationship and process of victimization. Role of victims in criminal process.
+Problems of adjustment to victimization and issues in victim compensation."
+JUS 32200 ,"POLICE AND COMMUNITY
+",JUS,"JUS 12000 and 22300; andsophomore standing. 
+",None,"An examination of the rights of individuals, citizen involvement, the police as members of the community, and
+the development implementation and evaluation of related programs."
+JUS 32400 ,"RESEARCH METHODS IN JUSTICE STUDIES
+",JUS,JUS 12000 and junior standing.,None,"Scientific approaches to the study of criminal justice. Survey of methods and designs used in criminal justice
+research; uses of research in criminal justice. Exercises included."
+JUS 32500 ,"CRISIS INTERVENTION
+",JUS,"JUS 12000; and JUS 22300 or27311; and sophomore standing. 
+",None,"Crisis intervention situations in criminal justice are considered. The service role of criminal justice personnel,
+community resources and skill development are also considered."
+JUS 33200 ,"CRIMINAL LAW
+",JUS,JUS 12000.,None,"Developmental backgrounds and principles of criminal law; structure, functions of criminal law; rules of
+criminal liability and procedural requisites in criminal proof. Case analysis included."
+JUS 33300 ,"DEVELOPMENT OF JUSTICE IN AMERICA
+",JUS,JUS 12000 and sophomore standing.,None,"Course focuses on the evolution of the criminal justice process from its establishment in the United States to
+the present."
+JUS 33400 ,"CRIME AND JUSTICE IN POPULAR CULTURE
+",JUS,JUS 12000 and sophomore standing.,None,"Crime and criminal justice as they are socially constructed and portrayed in popular culture including
+television, news and entertainment, popular film and other media of popular culture. Critical analysis of
+relations between popular culture, media institutions, crime and justice. Role of popular culture media in
+shaping public opinions about crime and justice, and in turn the relevance of public opinion for understanding
+criminal justice politics and policy."
+JUS 34200 ,"CRIMINAL PROCEDURES AND EVIDENCE
+",JUS,JUS 12000 or PLST 18000.,None,"This course focuses on the use of evidence and the legal procedures followed in the processing of criminal
+cases. Case analysis and writing assignments required."
+JUS 34311 ,"YOUTH AND THE JUSTICE SYSTEM
+",JUS,JUS 12000.,None,"Analysis of situations involving the legal rights of children and youths which demand intervention by justice
+institutions or service agencies."
+JUS 36702 ,"CRIMINOLOGY
+",JUS,"JUS 12000 orSOC 12050; and junior standing. 
+",None,"Examines crime from the legal and social viewpoints; including extent and patterns of criminal behavior.
+Special emphasis on theoretical explanations of criminal behavior and crime rates."
+JUS 36703 ,"JUVENILE DELINQUENCY
+",JUS,JUS 12000 and 36702.,None,"Social and personal factors in juvenile delinquency; operation of juvenile justice system; prevention and
+control of delinquency."
+JUS 37091 ,"SEMINAR IN CRITICAL ISSUES IN JUSTICE
+",JUS,JUS 12000 and sophomore standing.,None,"(Repeatable for credit)Intense analysis of issues significant and current in the justice field which are not
+covered in regular courses."
+JUS 37095 ,"SPECIAL TOPICS IN JUSTICE STUDIES
+",JUS,none.,None,"(Repeatable for a maximum of 6 credit hours)Intensive analysis of issues significant and current in the field
+which are not covered in regular courses. Repeatable for a total of 6 hours."
+JUS 37311 ,"MINORITIES IN CRIME AND JUSTICE
+",JUS,junior standing.,None,"Focus on the role of social and ethnic minorities as victims, offenders and participants in the justice process."
+JUS 37411 ,"WOMEN IN CRIME AND JUSTICE
+",JUS,junior standing.,None,"Women as a significant group in crime and their role in the development and operation of the criminal justice
+system."
+JUS 37511 ,"IMMIGRATION: LAW, CRIME AND JUSTICE
+",JUS,"juniorstanding. 
+",None,"Covers issues of immigration related to law, crime, and justice. Students will be introduced to issues of
+international diversity through the consideration of issues of law, criminal justice, and social justice related to
+immigration. Topics to be covered include legal and illegal immigration, immigration law enforcement,
+immigrants as criminal offenders and as crime victims, police-community relations, immigrants in correctional
+or detention facilities, and immigration as a national security concern and controversy."
+JUS 44400 ,"JUSTICE ADMINISTRATION
+",JUS,JUS 12000 and 22300 and 26704.,None,"Identification of administrative and management functions, leadership management styles and supervision of
+personnel in justice organizations."
+JUS 45093 ,"VARIABLE TITLE WORKSHOP IN JUSTICE STUDIES
+",JUS,Special approval.,None,(Repeatable for credit)
+JUS 45096 ,"INDIVIDUAL INVESTIGATION
+",JUS,"JUS 120000 and 26704; and SOC 32210; and junior standing; andspecial approval. 
+",None,"(Repeatable for a maximum of 6 credit hours when topic varies) Involves an individual research project of
+considerable depth in a subject area not covered by regular course offerings. Prior consent of supervising
+faculty member is required."
+JUS 46200 ,"ADVANCED CRIMINAL AND LEGAL ISSUES
+",JUS,JUS 12000 or PLST 18000; and junior standing.,None,"Focuses on reading, analyzing, and discussing current criminal, evidentiary and procedural issues as set forth
+in recent and historical U.S. Supreme Court cases. Case analysis, discussion and writing assignments are
+required."
+JUS 46701 ,"CRIME, JUSTICE AND SUBSTANCE ABUSE
+",JUS,JUS 12000 and 26704.,None,"Examination of the relationship between drug and alcohol abuse and criminal behavior. Efforts to regulate,
+control, prevent and treat chemical abuse offenders are considered."
+JUS 46705 ,"COMMUNITY CORRECTIONS
+",JUS,JUS 12000 and JUS 26701.,None,"(Cross-listed with JUS 56705) This course is devoted to an examination of formal and informal approaches to
+correctional supervision and treatment through probation, parole and community residential treatment."
+JUS 46707 ,"CORRECTIONAL INSTITUTIONS
+",JUS,"12credit hours of justice studies (JUS) coursework, including JUS 12000 and 26701. 
+",None,"A thorough examination of the correctional institution, including the structure and organization, personnel,
+inmate social world and examination of the issues in contemporary correctional institutions."
+JUS 46708 ,"TREATMENT METHODS
+",JUS,JUS 12000 and 26701; and junior standing.,None,"(Cross-listed with JUS 56708) Various methods of treatment are applied to corrections field. Focus is on
+specific techniques in community and institutional correctional settings. Direct observation utilized when
+possible."
+JUS 46792 ,"INTERNSHIP
+",JUS,"9 credit hours of justicestudies (JUS) coursework, including JUS 12000; and junior standing; and special approval. 
+",None,"(Repeatable for a maximum of 12 credit hours) Work experience under direction of supervising faculty
+member in private, federal, state or local justice agency or law agency."
+JUS 46798 ,"RESEARCH IN JUSTICE STUDIES
+",JUS,JUS 12000 and 26704; and SOC 32210; and special approval.,None,"(Repeatable for a maximum of 12 credit hours)Individual research under direct supervision of a faculty
+member to provide direct hands-on research experience working on faculty research projects. Prior consent of
+supervising faculty member is required. Only 6 hours of nontraditional coursework can count towards the
+major."
+JUS 46800 ,"INTELLIGENCE AND NATIONAL SECURITY
+",JUS,JUS 12000 and junior standing.,None,"(Cross-listed with JUS 56800) Addresses topics related to global security, including economic and industrial
+espionage, trade secret thefts, law and technology and cyber-crimes. Implications of industrial espionage and
+intellectual property theft for the global economy, national and international security, and the control and
+regulation of white collar crime. Foundational exploration of Intelligence and Counterintelligence (IC) as
+concepts, processes and careers."
+JUS 46801 ,"HOMELAND SECURITY
+",JUS,"JUS 12000and junior standing. 
+",None,"(Cross-listed with JUS 56801) Explores the nexus between terrorism and homeland security as it relates to
+homeland security strategy, assessment, evaluation, preparation, responses, and recovery actions and
+mechanisms relating to terrorism and homeland security. There is a focus on the importance of coordination
+of various assessments, plans, strategies and implementation of plans of action involving local, county, state,
+federal and international responses pertaining to terrorism and homeland security."
+JUS 46802 ,"TERRORISM AND COUNTERTERRORISM
+",JUS,JUS 12000 and junior standing.,None,"(Cross-listed with JUS 56802) Examines the origins and evolution of modern terrorism, challenges posed by
+terrorist groups to states and to the international system, and strategies employed to confront and combat
+terrorism. Assesses a wide variety of terrorist organizations, and explores the psychological, socioeconomic,
+political, and religious causes of terrorist violence past and present. Also analyzes the strengths and
+weaknesses of various counterterrorism efforts."
+JUS 46803 ,"INFORMATION AND CYBER SECURITY
+",JUS,JUS 12000 and junior standing.,None,"(Cross-listed with JUS 56803) Vulnerabilities of computer networks and techniques for protecting networks
+and data are discussed. Basic elements of symmetric and asymmetric cryptography, secure e-commerce,
+involving secure transmission, authentication, digital signatures, digital certificates and Public Key
+Infrastructure (PKI) are presented. Provides students with an introduction to the field of information security
+risk assessment. Incorporates cases in risk analysis derived from actual state and law enforcement agencies
+or private firms."
+JUS 46904 ,"ISSUES IN POLICE WORK
+",JUS,JUS 12000 and JUS 22300; and junior standing.,None,"(Cross-listed with JUS 56904) Analysis of police practices and functions at the municipal, state and federal
+level. Examination of emerging trends and issues in policing. Review of changes in police department policies
+and research on problem-solving in policing."
+JUS 47002 ,"HUMAN SERVICE AGENCIES AND LAW
+",JUS,JUS 12000 and junior standing.,None,"(Cross-listed with JUS 57002) An overview of the law as it pertains to human service agencies, as well as on
+the relationships between such agencies and the criminal and juvenile justice systems. Focused attention is
+given to agencies that closely connect with vulnerable populations (such as children and the poor) and those
+that work closely with policing and corrections (such as mental health agencies and halfway houses)."
+JUS 47003 ,"RESTORATIVE JUSTICE AND VICTIM ASSISTANCE
+",JUS,"JUS 12000 and JUS27311; and junior standing. 
+",None,"(Cross-listed with JUS 57003) An inquiry into the theories and research in restorative justice, as well as an
+assessment of victim assistance protocols and programs. Examines restorative justice and victim assistance
+initiatives that provide an alternative framework for dealing with crime that places victim needs in a primary
+position, while addressing legal concerns and interagency differences."
+JUS 47004 ,"LEGAL PERSPECTIVES AND RIGHTS IN VICTIMIZATION
+",JUS,"JUS 12000 and JUS 27311; andjunior standing. 
+",None,"(Cross-listed with JUS 57004) An analysis of the legal rights of victims of crime at state and federal levels as
+well as a review of how these laws relate to the treatment of victims within the criminal and juvenile justice
+systems, with particular focus on the courts and correctional institutions. Relevant legislative and
+Constitutional changes and challenges are also addressed."
+JUS 47095 ,"SPECIAL TOPICS IN JUSTICE STUDIES
+",JUS,JUS 12000 and 26704.,None,"(Repeatable for credit)Intensive analysis of issues significant and current in the field which are not covered in
+regular courses."
+JUS 47211 ,"COURT FUNCTIONS
+",JUS,"JUS12000 and 26704. 
+",None,"Analysis of the structure, functions and critical role of incumbents in the criminal court."
+JUS 47311 ,"COMPARATIVE JUSTICE SYSTEMS
+",JUS,JUS 12000 and 26704.,None,"A systematic comparison of the developmental backgrounds, structure and functioning of the major systems
+of justice in the modern world."
+JUS 55093 ,"VARIABLE TITLE WORKSHOP IN JUSTICE STUDIES
+",JUS,Special approval and graduate standing.,None,"(Repeatable for credit)Classroom presentations and field study focused on professional and disciplinary
+concerns. Specific content varies with workshop topic."
+JUS 56701 ,"CRIME, JUSTICE AND SUBSTANCE ABUSE
+",JUS,Graduate standing.,None,"Examination of the relationship between drug and alcohol abuse and criminal behavior. Efforts to regulate,
+control, prevent and treat chemical abuse offenders are considered."
+JUS 56705 ,"COMMUNITY CORRECTIONS
+",JUS,Graduate standing.,None,"(Cross-listed with JUS 46705) Study of community-based correctional supervision and treatment, examining
+probation, parole, and related residential programs. Topics covered include the history and organization of,
+and best practices in, community corrections."
+JUS 56708 ,"TREATMENT METHODS
+",JUS,Graduate standing.,None,"(Cross-listed with JUS 46708) Addresses institutional- and community-based treatment of offenders. Coverage
+includes the theoretical foundations of treatment and common intervention strategies, including evidence-
+based practices."
+JUS 56709 ,"EMERGING TRENDS AND ISSUES IN CORRECTIONS
+",JUS,graduate standing.,None,"Explores recent developments pertinent to the field of corrections, including sentencing trends, innovative
+practices, and legal developments. Analysis of emerging strategies for offender treatment, re-entry, and
+institutional and community safety."
+JUS 56800 ,"INTELLIGENCE AND NATIONAL SECURITY
+",JUS,graduate standing.,None,"(Cross-listed with JUS 46800) Addresses topics related to global security, including economic and industrial
+espionage, trade secret thefts, law and technology and cyber-crimes. Implications of industrial espionage and
+intellectual property theft for the global economy, national and international security, and the control and
+regulation of white collar crime. Foundational exploration of Intelligence and Counterintelligence (IC) as
+concepts, processes and careers."
+JUS 56801 ,"HOMELAND SECURITY
+",JUS,"graduatestanding. 
+",None,"(Cross-listed with JUS 46801) Explores the nexus between terrorism and homeland security as it relates to
+homeland security strategy, assessment, evaluation, preparation, responses, and recovery actions and
+mechanisms relating to terrorism and homeland security. There is a focus on the importance of coordination
+of various assessments, plans, strategies and implementation of plans of action involving local, county, state,
+federal and international responses pertaining to terrorism and homeland security."
+JUS 56802 ,"TERRORISM AND COUNTERTERRORISM
+",JUS,graduate standing.,None,"(Cross-listed with JUS 46802) Examines the origins and evolution of modern terrorism, challenges posed by
+terrorist groups to states and to the international system, and strategies employed to confront and combat
+terrorism. Assesses a wide variety of terrorist organizations, and explores the psychological, socioeconomic,
+political, and religious causes of terrorist violence past and present. Also analyzes the strengths and
+weaknesses of various counterterrorism efforts."
+JUS 56803 ,"INFORMATION AND CYBER SECURITY
+",JUS,graduate standing.,None,"(Cross-listed with JUS 46803) Vulnerabilities of computer networks and techniques for protecting networks
+and data are discussed. Basic elements of symmetric and asymmetric cryptography, secure e-commerce,
+involving secure transmission, authentication, digital signatures, digital certificates and Public Key
+Infrastructure (PKI) are presented. Provides students with an introduction to the field of information security
+risk assessment. Incorporates cases in risk analysis derived from actual state and law enforcement agencies
+or private firms."
+JUS 56904 ,"ISSUES IN POLICE WORK
+",JUS,graduate standing.,None,"(Cross-listed with JUS 46904) Analysis of police practices and functions at the municipal, state and federal
+level. Examination of emerging trends and issues in policing. Review of changes in police department policies
+and research on problem-solving in policing."
+JUS 57002 ,"HUMAN SERVICE AGENCIES AND THE LAW
+",JUS,graduate standing.,None,"An overview of the law as it pertains to human service agencies, as well as on the relationships between such
+agencies and the criminal and juvenile justice systems. Focused attention is given to agencies that closely
+connect with vulnerable populations (such as children and the poor) and those that work closely with policing
+and corrections (such as mental health agencies and halfway houses)."
+JUS 57003 ,"RESTORATIVE JUSTICE AND VICTIM ASSISTANCE
+",JUS,graduate standing.,None,"(Cross-listed with JUS 47003) An inquiry into the theories and research in restorative justice, as well as an
+assessment of victim assistance protocols and programs. Examines restorative justice and victim assistance
+initiatives that provide an alternative framework for dealing with crime that places victim needs in a primary
+position, while addressing legal concerns and interagency differences."
+JUS 57004 ,"LEGAL PERSPECTIVES AND RIGHTS IN VICTIMIZATION
+",JUS,graduate standing.,None,"(Cross-listed with JUS 47004) An analysis of the legal rights of victims of crime at state and federal levels as
+well as a review of how these laws relate to the treatment of victims within the criminal and juvenile justice
+systems, with particular focus on the courts and correctional institutions. Relevant legislative and
+Constitutional changes and challenges are also addressed."
+JUS 57095 ,"SPECIAL TOPICS IN JUSTICE STUDIES
+",JUS,Special approval and graduate standing.,None,"(Repeatable for credit)Intensive analysis of issues significant and current in the field which are not covered in
+regular courses."
+JUS 66199 ,"THESIS I
+",JUS,Graduate standing.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in a single semester distributed over several
+semesters if desired."
+JUS 66299 ,"THESIS II
+",JUS,JUS 66199 and graduate standing.,None,Thesis students must continue to register for each semester until all degree requirements are met.
+JUS 66761 ,"LAW, JUSTICE AND SOCIETY
+",JUS,graduate standing.,None,"Review of the origins, structure and functioning of law in relation to social context and process. Critical
+assessment of the use of law and legal institutions to address societal problems. Examination of the role that
+social inequality plays in crime and justice, nationally and internationally."
+JUS 66762 ,"PROSEMINAR IN ISSUES IN CONTEMPORARY JUSTICE
+",JUS,"graduatestanding; and JUS 56705 or 66766; and JUS 56800 and 66761 and 66763 and 66768 and 66770 and 66772. 
+",None,"Capstone experience required of all MA students. An analysis of current issues in the legislative, policing,
+judicial, and correctional components of the justice system. Students synthesize knowledge through the
+completion of an approved, written project that is analytical and research-based."
+JUS 66763 ,"THEORIES OF CRIME AND DELINQUENCY
+",JUS,Graduate standing.,None,"Study of the nature and causes of criminal and delinquent behavior, with an emphasis on major contemporary
+criminological theories. Includes critical analysis of relevant research and policy implications."
+JUS 66768 ,"RESEARCH METHODS IN CRIMINOLOGY AND JUSTICE STUDIES
+",JUS,"graduatestanding. 
+",None,"Examines the methodology of research designs and techniques used in criminology and criminal justice.
+Provides students with an overview of the logic of research in order to critically evaluate research in the field.
+Focuses on the specific skills needed to conduct basic and evaluation research."
+JUS 66795 ,"SPECIAL TOPICS
+",JUS,"Special approval and graduatestanding. 
+",None,"(Repeatable for credit)Offered irregularly ,this course provides opportunity to study special issues
+developments and programs in justice studies. Topics vary."
+JUS 66796 ,"INDIVIDUAL INVESTIGATION
+",JUS,Special approval and graduate standing.,None,"(Repeatable for credit)Intensive study of a subject which the student cannot normally pursue in a regularly
+scheduled course. Individual investigation topic must be approved by instructor and graduate coordinator."

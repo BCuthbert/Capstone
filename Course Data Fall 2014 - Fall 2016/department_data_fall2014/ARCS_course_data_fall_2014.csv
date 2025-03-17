@@ -1,0 +1,47 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+ARCS 10121 ,"REPRESENTATION OF DESIGN I
+",ARCS,none.,None,"A survey of the techniques and assumptions of basic architectural design concepts and representation of the
+built environment through analytical and synthetic exercises that introduce fundamental design skills. In order
+to integrate students into the college and the field, the exercises are supplemented by readings in
+contemporary visual culture."
+ARCS 10122 ,"REPRESENTATION OF DESIGN II
+",ARCS,"ARCS 10121 orARCH 10101. 
+",None,"Continuation of ARCS 10121 with an emphasis on 3-D thinking and representation,critical skills and the role of
+images in architectural culture and society. The course also introduces the wider application of design
+principles in graphic design, digital media and the visualization of information."
+ARCS 20121 ,"STUDIO FOR ARCHITECTURAL STUDIES
+",ARCS,"ARCS 10122 or AED 10102; and ArchitecturalStudies (ARCS) major. 
+",None,"An introduction to basic issues in architectural design and composition. Through sketch projects and design
+exercises in a variety of media, students gain a familiarity with basic architectural problems and the kinds of
+thinking architects use to address those problems."
+ARCS 20122 ,"STUDIO FOR ARCHITECTURAL STUDIES II
+",ARCS,ARCS 20121 or ARCH 20101.,None,"Studio allows students to further develop their design skills in relation to a theme or shared research topic
+that crosses the disciplinary boundaries of architecture and challenges conventional ideas of the role design
+can play in developing knowledge."
+ARCS 30022 ,"URBAN DESIGN DISCOURSE
+",ARCS,ARCH 20113 or AED 10102; and Architectural Studies (ARCS) major or minor.,None,"Starting in the 1960s, a series of theorist attempted to understand the city as a form of writing, producing
+some of the most influential design books of the last generation. Course investigates this literature, using a
+range of writing exercises in which students interpret both urban space and the writing it inspires."
+ARCS 30123 ,"MATERIALS AND PROCESS OF MAKING
+",ARCS,AED 10002; and architectural studies (ARCS) major or minor.,None,"Seeks to introduce and foster an ease of mobility through various digital design environments utilizing familiar
+techniques of design production (i.e. drawing, modeling, rendering, etc.). Students engage in digital modes of
+production that will enable the testing of material, spatial, and tectonic performance through scalar
+prototyping."
+ARCS 30124 ,"METHODS AND THEORIES OF REPRESENTATION
+",ARCS,"AED 10002; andarchitectural studies (ARCS) major or minor. 
+",None,"Seeks to examine traditional and contemporary methods of architectural representation as generative tools
+that mediate between individual idea and constructed environment."
+ARCS 30321 ,"STRUCTURAL TYPOLOGY
+",ARCS,AED 10002; and architectural studies (ARCS) major or minor.,None,"Course provides a non-computational introduction to structural principles, materials and building technologies.
+Historical and contemporary examples are used as case studies. The goal of the course is to give students an
+understanding of the role structural engineering and materials science play in design thinking and how they
+can drive design innovation."
+ARCS 30421 ,"THE ENVIRONMENTAL IMPERATIVE
+",ARCS,"AED 10002; orspecial permission by both the instructor and program coordinator. 
+",None,"Course begins with a historical introduction to the transformative role played by environmental technologies in
+modern architecture. This discussion is then brought into the present through an introduction to a wide range
+of contemporary thinking about sustainability in architecture and urbanism."
+ARCS 40114 ,"THEORY AND CRITICISM IN ARCHITECTURAL MEDIA
+",ARCS,"AED 10002; and architectural studies (ARCS) major; andjunior or senior standing. 
+",None,"Aimed at investigating the increasingly intertwined issues that link contemporary architectural theory and
+criticism with the world of media."

@@ -1,0 +1,13 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+HRTG 10101 ,"ELEMENTARY I (VARIABLE LANGUAGE)
+",HRTG,None.,None,An introduction to a heritage language in the context of the culture of its speakers.
+HRTG 10102 ,"ELEMENTARY II (VARIABLE LANGUAGE)
+",HRTG,HRTG 10101 and special approval.,None,"A continuation of the introduction to a heritage language in the context
+of the culture of its speakers."
+HRTG 20201 ,"INTERMEDIATE I (VARIABLE LANGUAGE)
+",HRTG,HRTG 10102 and special approval.,None,"Continued development of speaking, listening, reading and writing skills
+using a variety of cultural materials."
+HRTG 20202 ,"INTERMEDIATE II (VARIABLE LANGUAGE)
+",HRTG,HRTG 20201.,None,Continuation of HRTG 20201.
+HRTG 30095 ,"SPECIAL TOPICS
+",HRTG,Permission.,None,(Repeatable for credit)Topic announced in schedule of classes.

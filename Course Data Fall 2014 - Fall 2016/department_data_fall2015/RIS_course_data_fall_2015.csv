@@ -1,0 +1,311 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+RIS 34001 ,"INTRODUCTION TO DIAGNOSTIC MEDICAL SONOGRAPHY
+",RIS,Special approval.,None,"Provides an introduction to diagnostic medical sonography. The course orients new students to the profession.
+ Topics covered include basic sonographic principles, scanning technique, and introduction patient management
+ techniques."
+RIS 34003 ,"RADIATION THERAPY PRINCIPLES/PRACTICE I
+",RIS,radiologic and imaging sciences (RIS) major.,RIS 34030.,"An overview of cancer, radiation therapy and its physical and technical aspects. Includes the
+ roles/responsibilities of the therapist, treatment
+parameters, documentation and delivery of patient care,
+ education and procedures."
+RIS 34004 ,"RADIATION THERAPY PATIENT MANAGEMENT
+",RIS,radiologicand imaging sciences (RIS) major.,RIS 34030.,"Provides the basic concepts in patient assessment and evaluation. Includes communication skills, infection
+ control, nutrition, medications, exams ,emergencies, patient transfer techniques, medical ethics and law as
+ applied to radiation therapy."
+RIS 34008 ,"RADIATION THERAPY PHYSICS I
+",RIS,radiologic and imaging sciences (RIS)major. ,RIS 34030.,"Introduction to radiation therapy physics, including the fundamentals of
+atomic structure, radiation properties,
+ radiation production, radiation
+quality, interactions of radiation with matter and principles of radiation detectors."
+RIS 34030 ,"RADIATION THERAPY CLINICAL EDUCATION I
+",RIS,radiologic and imaging sciences (RIS) major and special approval.,None,"Observation and supervised clinical education with emphasis on administering radiation therapy treatments and
+ patient care."
+RIS 34040 ,"PATIENT MANAGEMENT IN DIAGNOSTIC MEDICAL SONOGRAPHY
+",RIS,radiologic and imaging sciences (RIS) majors. ,"RIS34045.
+","Methods of patient management in diagnostic medical sonography are examined with emphasis on patient
+ communication, clinical assessment, medical legal aspects, medical records, emergencies, pharmacology, safety
+ issues, ethics and critical thinking."
+RIS 34042 ,"ABDOMINAL SONOGRAPHY I
+",RIS,radiologic andimaging sciences (RIS) major. ,RIS 34045.,"Anatomy, physiology and pathology of the abdomen; instrumentation and scanning techniques; normal and
+ abnormal sonographic appearances of abdominal structures will be presented."
+RIS 34044 ,"ULTRASOUND PHYSICS AND INSTRUMENTATION
+",RIS,radiologic and imaging sciences (RIS) major.,RIS 34045.,"Ultrasound principles to include interaction of sound with matter, propagation of sound in tissue, physical units,
+ transducer parameters, image storage and display, quality assurance, bioeffects, image artifacts and physical
+ principles of doppler."
+RIS 34045 ,"ULTRASOUND CLINICAL EDUCATION I
+",RIS,radiologic imaging science (RIS) major and special approval.,None,"Provides clinical education and experience at a lab and clinical site to
+allow students the opportunity to practice
+ skills necessary to obtain high quality sonographic images, to alter protocols on patients and to identify image
+ quality problems. Content includes sonography of the liver, gallbladder, pancreas and spleen."
+RIS 34052 ,"ABDOMINAL SONOGRAPHY II
+",RIS,RIS 34042 and radiologic and imaging science (RIS) major.,None,"Continuation of RIS 34042; anatomy, physiology and pathology of the abdomen; instrumentation and
+ sonographic scanning techniques; normal and
+abnormal sonographic appearance of abdominal structures will be
+ presented."
+RIS 34060 ,"ULTRASOUND CLINICAL EDUCATION II
+",RIS,RIS 34045. ,RIS 34052.,"Provides clinical education and experience at a clinical site to allow students the opportunity to practice skills
+ necessary to obtain high quality sonographic images, to alter protocols based on patients and to identify image
+ quality problems. Content includes sonography of the abdominal vessels, kidneys, adrenal glands, lymphatics
+ and gynecologic pelvis."
+RIS 34062 ,"OBSTETRICS AND GYNECOLOGY SONOGRAPHY I
+",RIS,RIS 34045 and radiologic and imaging sciences (RIS) major.,None,"Anatomy and pathophysiology of the non-pregnant female pelvis; instrumentation and scanning techniques;
+ normal and abnormal sonographic
+appearances; and findings of the female reproductive tract are covered."
+RIS 34065 ,"ULTRASOUND CLINICAL EDUCATION III
+",RIS,RIS 34062.,RIS 44072.,"Provides clinical education and experience at clinical sites to allow students the opportunity to practice skills
+ necessary to obtain high quality sonographic images, to alter protocols based on patients and to evaluate image
+ quality. Content includes first, second and third trimester obstetric sonography."
+RIS 34082 ,"SMALL PARTS SONOGRAPHY
+",RIS,RIS 34083 and radiologic and imaging sciences (RIS) major.,None,"Anatomy and pathophysiology of superficial structures; instrumentation and scanning techniques; normal and
+ abnormal sonographic appearances of superficial structures; correlation with laboratory findings and other
+imaging modalities are presented."
+RIS 34083 ,"SECTIONAL ANATOMY IN MEDICAL IMAGING
+",RIS,"radiologic and imaging sciences(RIS) major; and BSCI 11000 and 11020 or 20020.
+",None,"Presentation of sectional anatomy of the body in the transverse (axial),
+sagittal and coronal planes as seen in
+ medical images in CT, MRI and diagnostic medical sonography."
+RIS 34084 ,"COMPUTED TOMOGRAPHY AND MAGNETIC RESONANCE IMAGING SECTIONAL ANATOMY
+",RIS,radiologic and imaging science (RIS) major and special approval.,None,"I
+Presentation of sectional anatomy of the human body in computed tomography and magnetic resonance
+ imaging. Includes orientation of organs and structures and pathological processes present in images."
+RIS 34086 ,"COMPUTED TOMOGRAPHY AND MAGNETIC RESONANCE IMAGING SECTIONAL ANATOMY
+",RIS,RIS 34084 and radiologic and imaging science (RIS) majors.,None,"II
+Presentation of sectional anatomy of the human body in computed tomography and magnetic resonance
+ imaging. Includes orientation of organs and structures and pathological processes present in images as seen in
+ the extremities."
+RIS 41095 ,"SPECIAL TOPICS IN RADIOLOGIC AND IMAGING SCIENCES
+",RIS,"Radiologicand imaging sciences (RIS) major.
+",None,"(Repeatable for credit)Courses will consist of various topics in medical
+imaging designed to enhance learning
+ outcomes."
+RIS 44000 ,"INTRODUCTION TO RADIOLOGIC AND IMAGING SCIENCES
+",RIS,"RIS majors and specialapproval.
+",None,"An introduction to radiology patient care techniques and clinical procedures for freshman entry students
+ admitted to the RIS major in nuclear medicine and radiation therapy."
+RIS 44001 ,"PATIENT MANAGEMENT IN NUCLEAR MEDICINE
+",RIS,Radiologic and imaging science (RIS) majors and special approval.,RIS 44002 and RIS 44005 and RIS 44006 and RIS 44011.,"Provides the student with a working knowledge of a health care facility's function, basic patient care skills,
+ emergency care, patient communications and professionalism. Interactions and care of diverse populations will
+also be addressed. Course enables the student to provide appropriate care for the patient while undertaking any
+ nuclear medicine procedure."
+RIS 44002 ,"NUCLEAR MEDICINE PROCEDURES I
+",RIS,radiologic and imaging science(RIS) major and special approval. ,RIS 44001 and 44005 and 44006 and 44011.,"An anatomical and physiological review of the skeletal, cardiovascular, gastrointestinal, endocrine,
+ genitourinary, respiratory, lymphatic and central nervous organ systems. Basic nuclear medicine imaging
+ procedures
+as related to the above listed organ systems is covered."
+RIS 44005 ,"NUCLEAR MEDICINE CLINICAL EDUCATION I
+",RIS,radiologic and imaging science (RIS) major and special approval. ,"RIS 44001and 44002 and 44006 and 44011.
+","Students acquire clinical experience in nuclear medicine procedures and patient care at the assigned clinical
+ education site. Includes an orientation to program and policies, observations of procedures, patient
+ management, radiopharmacy, radiation safety, quality control and equipment orientation. competency testing
+ begins."
+RIS 44006 ,"NUCLEAR MEDICINE PHYSICS AND INSTRUMENTATION I
+",RIS,radiologic and imaging science (RIS) major and special approval. ,"RIS 44001 and44002 and 44005 and 44011.
+","Explores the concepts of the physical principles of nuclear physics including radioactive decay and interactions
+ with matter. Radiation detector and laboratory equipment applications, functions and limitations is included."
+RIS 44009 ,"RADIATION THERAPY PRINCIPLES AND PRACTICE II
+",RIS,RIS 34003. ,RIS 44053.,"Examines the multidisciplinary treatment approaches. Consists of advanced topics in therapy, chemotherapy,
+ immunotherapy, and surgery for
+combined modalities, for benign conditions, for emergencies and for managing
+ side effects."
+RIS 44010 ,"NUCLEAR MEDICINE CLINICAL EDUCATION II
+",RIS,"RIS 44005; radiologic and imaging sciences(RIS) major and special approval.
+ ","RIS 44012 and 44014 and44017.
+","Continuation of Clinical Education I. Instructed at both the clinical education sites and Salem Campus, with
+ particular emphasis on clinical procedures covered in RIS 44002 (Nuclear Medicine Procedures I) and RIS 44012
+ (Nuclear Medicine Procedures II). Clinical correlation for Radiopharmacy rotations and RIS 44014 (Nuclear
+ Medicine Physics and Instrumentation II) included. Competency testing continues; proficiency testing
+ begins."
+RIS 44011 ,"NUCLEAR MEDICINE RADIOPHARMACY
+",RIS,usite: radiologic and imaging science (RIS) major. ,"RIS 44001and RIS 44002 and RIS 44005 and RIS 44006.
+","Course includes the methodologies, calculations and basic properties of radiopharmaceuticals.
+ Radiopharmaceutical chemistry is applied. Localization methods, quality control and radiation safety issues are
+examined. Non-radioactive interventional drugs, radiopharmacy management
+and governing rules and
+ regulations are also explored."
+RIS 44012 ,"NUCLEAR MEDICINE PROCEDURES II
+",RIS,RIS 44002;and radiologic and imaging science (RIS) major. ,RIS 44010.,"Biological, anatomical, physiological and procedural aspects of nuclear medicine as related to the cardiovascular
+ system, the endocrine system, the genitourinary system, inflammatory and tumor imaging, the central nervous
+ system, the gastrointestinal system, the respiratory system and the skeletal system."
+RIS 44014 ,"NUCLEAR MEDICINE PHYSICS AND INSTRUMENTATION II
+",RIS,RIS 44001 and 44002 and 44006 and44011 and radiologic and imaging science (RIS) major and special approval. ,"RIS 44010 and44012 and 44017.
+","Explores the use and quality control of nuclear medicine instrumentation. Students understand the function of
+ radiation detection devices to include counting and imaging equipment and SPECT instrumentation. Computer
+ applications as related to nuclear medicine is
+addressed."
+RIS 44015 ,"NUCLEAR MEDICINE CLINICAL EDUCATION III
+",RIS,"RIS44010; radiologic and imaging science (RIS) major;
+ and special approval. ",RIS 44016.,"Instructed at both the clinical education sites and Salem Campus. Emphasizes clinical procedures covered in RIS
+ 44012 (Nuclear Medicine Procedures II) and RIS 44014 (NM Physics and Instrumentation II). competency
+ testing and proficiency testing continues."
+RIS 44016 ,"NUCLEAR MEDICINE PROCEDURES III
+",RIS,RIS 44012; and radiologicand imaging sciences; and special approval. ,RIS 44015.,"Nuclear medicine hematology and immunology, radionuclide therapy, pediatric imaging, and emerging
+ technologies, including PET CT, SPECT CT
+and PET MRI procedures."
+RIS 44017 ,"NUCLEAR MEDICINE RADIATION SAFETY
+",RIS,RIS 44006; and radiologic and imaging science (RIS)major; and special approval. ,RIS 44014.,"Includes the units of radiation measurement, radiation exposure dose limits, radiation safety regulations and
+ monitoring devices, safe handling and contamination control of radioactive materials. Also presented are
+ biologic effects of radiation, patient dosimetry, NRC/ODH licensing requirements, rules and regulations,
+ including Title 10 CFR Parts 19, 20 and 35."
+RIS 44018 ,"RADIATION THERAPY PHYSICS II
+",RIS,RIS 34008.,None,"Continuation of the principles of radiation therapy physics and the study of photon beam dosimetry, electron
+ beam dosimetry and treatment planning."
+RIS 44019 ,"NUCLEAR MEDICINE PROCEDURES IV
+",RIS,RIS 44012 and 44016; and special approval.,None,Correlates nuclear medicine imaging procedures covered in RIS 44012 and RIS 44016 with clinical practice.
+RIS 44020 ,"NUCLEAR MEDICINE CLINICAL EDUCATION IV
+",RIS,RIS 44015; radiologic and imaging science (RIS) major; and special approval. ,"RIS 44026 and44032.
+","Instructed at both the clinical education sites and Salem Campus. Emphasizes advanced procedures, SPECT and
+ PET scanning, advanced and emerging technologies, teleradiology and PACS, and critical thinking skills for the
+ clinical site. Competency testing is completed. Graduate competency evaluations are performed."
+RIS 44021 ,"PATIENT MANAGEMENT IN COMPUTED TOMOGRAPHY
+",RIS,radiologic and imaging sciences (RIS) major. ,RIS 44025.,"Provides knowledge about care-giving skills for patients undergoing CT exams. Information includes effective
+ communication, problem-solving techniques, patient safety/comfort ,patient preparation, monitoring, contrast
+ agents and venipuncture."
+RIS 44023 ,"NUCLEAR MEDICINE PHYSICS AND INSTRUMENTATION III
+",RIS,RIS 44006 and 44014; radiologic and imaging sciences (RIS)major; and special approval. ,RIS 44015 and 44016.,"Explains the physics and use of Computed Tomography instrumentation and PET instrumentation as well as
+ quality assurance. Fusion imaging with PET CT and SPECT CT as well as other emerging technologies in
+instrumentation is addressed."
+RIS 44025 ,"COMPUTED TOMOGRAPHY (CT) CLINICAL EDUCATION I
+",RIS,"radiologic and imaging sciences (RIS) major andspecial approval.
+",None,"Provides clinical education at a clinical site so students can observe and become familiar with CT equipment and
+ procedures,and apply knowledge
+of physics and patient care. Students begin to perform some CT procedures
+ under direct supervision of CT technologists.."
+RIS 44027 ,"COMPUTED TOMOGRAPHY (CT) CLINICAL EDUCATION II
+",RIS,RIS 44025.,None,"Continuation of RIS 44025. Students apply knowledge of physics, patient care, sectional anatomy and
+ pathology in the performance of CT clinical competency exams. Students act more independently using critical
+thinking skills."
+RIS 44028 ,"RADIATION THERAPY RADIOBIOLOGY
+",RIS,RIS 44018.,None,"Establishes a foundation in radiation biology for radiation therapy. Cell biology and its response to radiation are
+ reviewed as well as the effect of radiation on pathology and body systems."
+RIS 44029 ,"RADIATION THERAPY PATHOLOGY I
+",RIS,RIS 34003 and 34083. ,RIS 44053.,"General overview of various disease processes with emphasis on cancer types. Includes epidemiology, etiology,
+ symptoms, metastases, histology,
+tumor grading, staging, detection, screening and diagnosis, treatment, side
+ effects and prognosis of malignancies of the head and neck, central
+nervous, respiratory, digestive, and female
+ reproductive systems."
+RIS 44030 ,"PHYSICAL PRINCIPLES OF COMPUTED TOMOGRAPHY I
+",RIS,radiologic and imaging sciences (RIS) major. ,RIS 44025.,"(Repeatable for a maximum of 4 credit hours) Computer fundamentals, operations and applications of CT
+ equipment. Principles of CT system operation and components, image processing and display and image quality."
+RIS 44031 ,"PATIENT MANAGEMENT IN MRI
+",RIS,radiologic and imagingsciences (RIS) major. ,RIS 44035.,"Provides information on the role of the MRI technologist in maintaining patient safety and comfort as well as
+ personal and co-worker safety. MR contrast agents and venipuncture will be studied. Includes problem solving
+ with diverse patient types."
+RIS 44033 ,"COMPUTED TOMOGRAPHY TECHNIQUES
+",RIS,RIS 34084 and 44030 and 44047.,None,"Integrates concepts of computed tomography including patient care, imaging procedures, physics and
+ instrumentation in preparation for national certification examination in computed tomography."
+RIS 44035 ,"MRI CLINICAL EDUCATION I
+",RIS,Radiologic and Imaging Sciences (RIS) major; and special approval.,None,"Students observe and become familiar with MRI equipment and procedures, and apply knowledge of physics,
+ MRI safety and patient care. Students begin to perform some procedures under direct supervision of
+technologists."
+RIS 44036 ,"MRI CLINICAL EDUCATION II
+",RIS,RIS 44035.,None,"Continuation of RIS 44035. Students apply knowledge of physics, patient care, anatomy and pathology when
+ performing clinical competency exams as
+well as quality assurance procedures. Some applications to special
+procedure exams."
+RIS 44037 ,"MRI CLINICAL EDUCATION III
+",RIS,RIS 44036.,None,"Continuation of RIS 44036. Students use critical thinking skills in performing MRI exams in the clinical setting
+ and solve problems in a more independent manner. Students complete all required clinical competency exams."
+RIS 44038 ,"RADIATION THERAPY PHYSICS III
+",RIS,RIS 44018.,None,"Covers concepts of radioactivity and brachytherapy. Describes specialized treatment units Discussion of human
+ resource, therapy department budgets and billing, accreditation, certification, professional societies."
+RIS 44039 ,"NUCLEAR MEDICINE TECHNIQUES
+",RIS,"RIS44023, RIS 44011, RIS 44017; and special approval. ",RIS 44026.,"Course integrates concepts of radiation physics, and nuclear medicine instrumentation and quality control,
+ radiopharmacy and radiation safety in preparation for national certification examinations."
+RIS 44041 ,"RADIATION THERAPY QUALITY MANAGEMENT
+",RIS,RIS 44018.,None,"Provides overview of quality management programs and continuing quality improvement in radiation therapy.
+ Topics include validity of quality assurance checks, chart checks, image checks, testing on simulators, linear
+ accelerators and brachytheraphy sources."
+RIS 44042 ,"RADIATION THERAPY PATHOLOGY II
+",RIS,RIS 34083 and 44029.,RIS 44056.,"Continuation of Radiation Therapy Pathology I to include epidemiology, etiology, symptoms, metastases,
+ histology, tumor grading, staging, detection, screening and diagnosis, treatment, side effects and prognosis of
+ malignancies of the male reproductive, urinary, endocrine, circulatory, lymphatic, integumentary and
+ musculoskeletal systems as well as pediatric solid malignancies."
+RIS 44043 ,"RADIATION THERAPY PRINCIPLES/PRACTICE III
+",RIS,"RIS 44013 and radiologic and imaging science (RIS) major.Prerequisites: RIS 44009
+and 44018 and 44028 and 44042.
+",None,"Review and testing of major subject areas from all radiation therapy courses to prepare students to successfully
+ pass the national certification exam based on the content specifications from the American
+Registry of
+ Radiologic Technologists (ARRT)."
+RIS 44044 ,"MRI PROCEDURES I
+",RIS,radiologic andimaging science (RIS) major. ,RIS 44035.,"Provides the imaging techniques related to the body, special clinical applications, coil selection, scan sequences,
+ protocols, positioning criteria, normal and abnormal anatomical and pathologic structures and signal
+ characteristics for all areas of the body except extremities and vascular areas."
+RIS 44045 ,"MAGNETIC RESONANCE IMAGING PROCEDURES II
+",RIS,"RIS 44044 and radiologic and imagingscience (RIS) major.
+",RIS 44036.,"Provides the imaging techniques related to the body, special clinical applications, coil selection, scan sequences,
+ protocols, positioning criteria, normal and abnormal anatomical and pathologic structures and signal
+ characteristics for the extremities and vascular areas."
+RIS 44046 ,"MAGNETIC RESONANCE IMAGING TECHNIQUES
+",RIS,special approval.,None,"Integrates concepts of magnetic resonance imaging including patient care, imaging procedures, data
+ acquisitions and processing as well as principles of image formation."
+RIS 44047 ,"COMPUTED TOMOGRAPHY PROCEDURES I
+",RIS,radiologic and imaging science (RIS) major. ,RIS 44025.,"(Repeatable for a maximum of 2 credit hours) Introduction to CT procedures with scanning protocols,
+ positioning and non-contrast anatomy."
+RIS 44048 ,"COMPUTED TOMOGRAPHY PROCEDURES II
+",RIS,"specialapproval.Prerequisite: RIS 44047.
+",None,"Overview of the procedures presented in CT Procedures I course, anatomy as seen on scans both with and
+ without contrast media, advanced processing, and advanced imaging procedures.O"
+RIS 44049 ,"PHYSICAL PRINCIPLES OF COMPUTED TOMOGRAPHY II
+",RIS,RIS 44030.,None,"Image post processing, image quality, radiation dose in CT, 3-D CT imaging, virtual reality CT, Cardiac Scoring,
+ Positron Emission Tomography and CT Scanners, Pediatric Imaging and Quality Assurance techniques are
+ presented."
+RIS 44051 ,"MAGNETIC RESONANCE EQUIPMENT AND IMAGE ACQUISITION I
+",RIS,radiologic and imaging science (RIS) major. ,RIS 44035.,"Develops and understanding of the physics of MR image acquisition and the hardware used. Provides
+ information in the use and manipulation of the instrumentation and technical parameters used in the generation
+ of images. Establishes safety procedures."
+RIS 44052 ,"MAGNETIC RESONANCE EQUIPMENT AND IMAGE ACQUISITION II
+",RIS,RIS 44051 and radiologic and imaging science (RIS) majors. ,RIS 44036.,"Develops an understanding of MR image acquisittion and the hardware used. Provides information in the use
+ and manipulation of the hardware and technical parameters used in the generation of images. Reviews safety
+ special applications such as advanced imaging techniques. Enables
+the student to maximize MR image quality."
+RIS 44053 ,"RADIATION THERAPY CLINICAL EDUCATION II
+",RIS,RIS 34030.,None,Continuation of Clinical Education I with emphasis on clinical practice of treatment techniques and planning.
+RIS 44055 ,"ULTRASOUND CLINICAL EDUCATION IV
+",RIS,RIS 34062. ,RIS 34082.,"Provides clinical education and experience at a clinical site to allow students the opportunity to practice skills
+ necessary to obtain high quality sonographic images, to alter protocols based on patients and to identify image
+ quality problems. Content includes sonography of superficial structures."
+RIS 44056 ,"RADIATION THERAPY CLINICAL EDUCATION III
+",RIS,RIS 44053.,None,"Continuation of Clinical Education II with added emphasis on critical thinking, problem solving and clinical
+ competency."
+RIS 44060 ,"RADIATION THERAPY CLINICAL EDUCATION IV
+",RIS,RIS 44056.,None,"Continuation of Clinical Education III with added emphasis on critical thinking, problem solving and clinical
+ competency. Students are assigned
+to clinical education site for approximately 24 hours per week."
+RIS 44065 ,"ULTRASOUND CLINICAL EDUCATION V
+",RIS,RIS 44055. ,RIS 44074.,"Provides clinical education and experience at a clinical site to allow students the opportunity to practice skills
+ necessary to obtain high quality sonographic images, to alter protocols based on patients and to identify image
+ quality problems. Content includes abdominal, pelvic, obstretrical, superficial structure and vascular
+ sonography."
+RIS 44072 ,"OBSTETRICS AND GYNECOLOGY SONOGRAPHY II
+",RIS,RIS 34062.,None,"Embryonic and fetal development throughout gestation; fetal measurements, normal fetal anatomy and
+ physiology; and abnormal sonographic appearances of the fetus will be covered as well as invasive
+obstetric
+ procedures and antepartum testing."
+RIS 44074 ,"VASCULAR SONOGRAPHY
+",RIS,RIS 44055 and radiologic and imaging sciences (RIS) major.,None,"Anatomy, physiology and hemodynamics of the cerebrovascular, abdominal and peripheral vascular systems;
+ normal and abnormal sonographic vascular appearances; Doppler instrumentation and scanning techniques are
+ covered."
+RIS 44078 ,"SONOGRAPHIC TECHNIQUES
+",RIS,RIS 34044 and 34052 and 44072.,None,Course integrates diagnostic medical sonography concepts in preparation for certification exams.
+RIS 44080 ,"RADIATION THERAPY CLINICAL EDUCATION V
+",RIS,RIS 44060.,None,"Continuation of Clinical Education IV with added emphasis on clinical practice, treatment procedures, simulation
+ and treatment planning."
+RIS 44083 ,"PATHOPHYSIOLOGY FOR MEDICAL IMAGING
+",RIS,"radiologic and imaging sciences (RIS)major; and RIS 34045 or RIS 44025 or RIS 44035.
+",None,"Provides students with basic information on the causes of disease and the body's response to disease, as well as
+ the medical imaging modalities that will demonstrate them."
+RIS 44084 ,"ULTRASOUND IMAGE EVALUATION
+",RIS,"RIS 34065 and radiologic and imagingsciences (RIS) major.
+",None,"Presentation of sonographic findings in specific disease processes, with
+evaluation of image quality and
+ emphasis on diagnostic features of pathologic entities."
+RIS 44096 ,"INDIVIDUAL INVESTIGATION IN MEDICAL IMAGING DIRECTED READINGS
+",RIS,"Radiologic and imaging sciences(RIS) major and special approval.
+",None,"(Repeatable for credit) Students are assigned prescribed number of medical imaging journal articles, completes
+ post test and submits a summary paper and online discussions."
+RIS 44098 ,"RESEARCH IN MEDICAL IMAGING
+",RIS,"RIS 34030 or 34045 or 44025or 44035; and radiologic and Imaging Science (RIS) major.
+",None,"(Repeatable for credit)Fundamental concepts and procedures for systematic collection,analysis critique and
+ application of qualitative and quantitative data in medical imaging."

@@ -1,0 +1,316 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+ECED 10120 ,"INTRODUCTION TO EARLY CHILDHOOD SERVICES
+",ECED,None,None,Orientation to the field of early childhood education: historical and present day programs and services for young
+ECED 20163 ,"UNDERSTANDING YOUNG CHILDREN:TYPICAL AND ATYPICAL PATHWAYS
+",ECED,ECED 10120; and special approval. ,"ECED 30134 and 30164 and 40145.Pre or Corequisite: SPED 23000; and admission to advanced study. 
+","Growth and development of young children from birth to age eight as it occurs along both typical and atypical
+pathways."
+ECED 30123 ,"LANGUAGE AND LITERACY FOR THE PRESCHOOL CHILD
+",ECED,admission to advanced study. ,"ECED 30142 and ECED30147 and ECED 40165 and ECED 40192 (ECED Block II). 
+","(Equivalent to ECET 22130) An examination of the process of language and literacy development in preschool
+children. The course focuses on how preschool teachers integrate knowledge of development with early school
+and family literacy learning."
+ECED 30134 ,"INTEGRATED EXPRESSIVE ARTS AND SOCIAL STUDIES IN PRESCHOOL
+",ECED,admission toadvanced study. ,ECED 20163 and ECED 30164 and ECED 40145 (ECED Block I).,"Young children's development in the expressive arts and social studies; implications for development of the
+environment, integrated curriculum and teaching methods for preschool children."
+ECED 30142 ,"PARTNERSHIPS AND GUIDANCE FOR PRESCHOOL CHILDREN
+",ECED,admission to advanced study. ,"ECED 30123 and ECED 30147 and ECED 40165 and ECED 40192(ECED Block II). 
+","(Equivalent to ECET 21005) Appropriate guidance strategies set the foundation for positive experiences our
+youngest children in school; patterns learned early often set a foundation for primary school entry. This course
+addresses the concerns of guidance family partnerships and inclusive schooling with preschool children and their
+educators. It takes a proactive stance, helping teachers develop a constructive guidance approach."
+ECED 30144 ,"INTEGRATED CURRICULUM FOR SOCIAL STUDIES
+",ECED,ECED 30134 and admission to advanced study. ,"ECED40142 and ECED 40105 and ECED 40107 and ECED 40123. 
+","Objectives, resources, curriculum development, methods of teaching social studies and expressive arts at
+kindergarten and primary levels; emphasis on developing integrated social studies curriculum; infusing multiple
+forms of expressive arts into integrated curriculum and assessment; and engaging professional collaboration
+with teachers in the field."
+ECED 30147 ,"EARLY EXPERIENCES IN MATHEMATICS AND SCIENCE
+",ECED,C (2.000) or better in MATH 14001 and14002 and admission to advanced study. ,"ECED 30123 and ECED 30142 and ECED 40165 andECED 40192. 
+","Instructional psychology and materials for effective teaching of mathematics and science in preschool settings
+with a theoretical emphasis on cognitive development."
+ECED 30164 ,"PRESCHOOL EDUCATION
+",ECED,admission to advanced standing. ,ECED 20163 and ECED 30134 and ECED 40145 (ECED Block I).,"Integrated curriculum utilizing principles of developmentally appropriate practice in settings for children under
+five. Field experience two mornings a week. Students are required to complete Bureau of Criminal Investigation
+and Identification (BCII) and Federal Bureau of Investigation (FBI) background checks and submit the results to
+authorized personnel at their assigned school or agency before the first day of the semester."
+ECED 40092 ,"INTEGRATED FIELD EXPERIENCES
+",ECED,admission toadvanced study. ,ECED 40114 and ECED 40126 and ECED 40127 and ECED 40147.,"(Repeatable for credit) Participation in experiences offering opportunity to plan and teach reading, language
+arts, integrated content units and observe students in early childhood classrooms. Students are required to
+complete Bureau of Criminal Investigation and Identification (BCII) and Federal Bureau of Investigation (FBI)
+background checks and submit the results to authorized personnel at their assigned schoolagency before the
+first day of the semester in which student teaching internship will take place."
+ECED 40093 ,"VARIABLE TITLE WORKSHOP IN EARLY CHILDHOOD EDUCATION
+",ECED,Permission.,None,"(Repeatable for credit) (Cross-listed with ECED 50093 and ECED 70093) Topics of special interest to students
+desiring to intensify their knowledge in particular areas. Presenters include Kent early childhood faculty
+members and may include experts from outside agencies and other institutions. S u/graded."
+ECED 40105 ,"APPROPRIATE PHONICS INSTRUCTION FOR KINDERGARTEN AND PRIMARY CHILDREN
+",ECED,ECED 30123 and admission to advanced study. ,"ECED 30144 ECED 40107 and ECED40123 and ECED 40142 (Block III). 
+","(Cross-listed with ECED 50105) An examination of phonics in early reading and writing development, effective
+strategies for teaching and assessing phonics appropriate for kindergarten and primary grade children."
+ECED 40107 ,"TEACHING MATHEMATICS: EARLY YEARS I
+",ECED,ECED 30147 and MATH 14001 and 14002 and admission toadvanced study. ,ECED 30144 and ECED 40105 and ECED 40123 and ECED 40142.,"Instructional psychology and materials for effective teaching of mathematics in grades K-1 with a theoretical
+emphasis on cognitive development."
+ECED 40114 ,"TEACHING SCIENCE IN THE EARLY YEARS
+",ECED,ECED 30147 and admission to advanced study.,ECED 40126 and ECED 40127 and ECED 40092 and ECED 40147 (Block IV).,"(Cross-listed with ECED 50114) This course investigates engaging young children in inquiry-based processes of
+science. Emphasis is given to creating developmentally appropriate experiences in accordance to NAEYC
+guidelines. National and state science standards as well as the college and graduate school of education
+conceptual framework. Attention is focused on the use of science materials safety planning assessment and
+incorporating science across the curriculum."
+ECED 40123 ,"CRITICAL INQUIRY INTO INTERATED CURRICULUM IN THE PRIMARY YEARS
+",ECED,Admission to advanced study. ,ECED 30144 and ECED 40105 and ECED 40107 and ECED 40142.,"(Cross-listed with ECED 50123) Theoretical and content background addressing integration of curriculum and
+global perspectives aligned with the International Baccalaureate Primary Years Programme."
+ECED 40125 ,"INQUIRY INTO PROFESSIONAL PRACTICE
+",ECED,Admission to advanced study.,None,"Interdisciplinary inquiry into teaching as a professional practice in ECED; emphasis on teacher as researcher.
+Utilization of teaching learning technologies."
+ECED 40126 ,"DEVELOPMENTAL READING AND WRITING:EARLY YEARS
+",ECED,ECED 40105 and admission to advanced study. ,"ECED 40114 and ECED40127 and ECED 40092 and ECED 40147. 
+","(Cross-listed with ECED 50126) This course builds on work begun in 40105. It explores how teachers support
+primary children's literacy development through small group strategic instruction based on formative
+assessments."
+ECED 40127 ,"DEVELOPING A BALANCED LITERACY PROGRAM
+",ECED,ECED 40105 and admission toadvanced study. ,ECED 40114 and ECED 40126 and ECED 40092 and ECED 40147.,"This course expands on the previous three literacy courses to explore how research-based instruction requires a
+balance of literacy learning formats; an integration with learning in the content areas and is based on
+assessment of individual children's reading and writing abilities."
+ECED 40142 ,"HOME-SCHOOL-COMMUNITY-PARTNERSHIPS IN DIVERSE CONTEXTS
+",ECED,admission toadvanced study. ,ECED 30144 and ECED 40105 and 40107 and 40123.,"(Cross-listed with ECED 50142) Approaches to parent and community involvement in the education and welfare
+of children are examined, applied, and discussed. Focuses are theories, policies, practices, skills, and
+knowledges of partnership building in educational settings. An emphasis on differentiation of practices for
+diverse communities is applied to teaching and learning in the primary grades."
+ECED 40145 ,"MUSIC AND RHYTHMS IN PRE-PRIMARY EDUCATION
+",ECED,admission to advanced study. ,ECED 20163 and ECED 30134 and ECED 30164 (ECED Block I).,"(Cross-listed with ECED 50145) Music and rhythms for preprimary children. Optional course intended for majors
+in early childhood education or other persons desiring additional work with preprimary children."
+ECED 40147 ,"TEACHING MATHEMATICS:EARLY YEARS II
+",ECED,C or better in MATH 14001 and 14002 and admission toadvanced study. ,ECED 40114 and 40126 and 40127 and 40092 (Block IV).,"Instructional psychology and materials for effective teaching of mathematics in grades K-3 with a theoretical
+emphasis on cognitive development."
+ECED 40151 ,"GUIDANCE OF YOUNG CHILDREN
+",ECED,admission to advanced study. ,"ECED 40105 and 40107 and40142 and CULT 29535. 
+","Principles and practices of appropriate guidance for young children, intervention strategies, resources and
+materials for guidance."
+ECED 40165 ,"INTEGRATED APPLICATION OF PRESCHOOL CURRICULUM
+",ECED,ECED 30164. ,ECED 30123 and ECED 30142 and ECED 30147 and ECED.,"(Equivalent to ECET 22140) Internship in preschool. Advanced integrated preschool curriculum utilizing
+principles of developmentally appropriate practice focusing on infant toddler and preschool age children.
+Students are required to complete Bureau of Criminal Investigation and Identification (BCII) and Federal Bureau
+of Investigation (FBI) background checks and submit the results to authorized personnel at their assigned
+school-agency before the first day of the semester in which student teaching internship will take place."
+ECED 40192 ,"INTERNSHIP IN PRESCHOOL
+",ECED,"ECED 30164and admission to advanced study; and Official valid certification of Child Safety Training, approved Basic Life
+Support and A.L.I.C.E. Training must be presented to the campus office of clinical experience or designated
+faculty/staff at Regional campuses as prerequisite for student teaching. ","ECED 30123 and ECED30142 and ECED 30147 and ECED 40165 
+","(Equivalent to ECET 22150) Internship in preschool settings, full day for fifteen weeks."
+ECED 40196 ,"INDIVIDUAL INVESTIGATION IN EARLY CHILDHOOD EDUCATION
+",ECED,Admission to advanced study and special approval.,None,"(Repeatable for credit) Open to seniors in ECED. Intensive individual study on an early childhood topic selected
+by student and adviser."
+ECED 40292 ,"INTERNSHIP IN KINDERGARTEN/PRIMARY
+",ECED,"admission to advanced study; andOfficial valid certification of Child Safety Training, approved Basic Life Support and A.L.I.C.E. Training must be
+presented to the campus office of clinical experience or designated faculty/staff at Regional campuses as
+prerequisite for student teaching. ",ECED 40125.,"(Repeatable for credit) Internship in grades K-3, full day for 15 weeks. Students are required to complete
+Bureau of Criminal Investigation and Identification (BCII) and Federal Bureau of Investigation (FBI) background
+checks and submit the results to authorized personnel at their assigned school-agency before the first day of the
+semester in which student teaching internship will take place."
+ECED 50093 ,"VARIABLE TITLE WORKSHOP IN EARLY CHILDHOOD EDUCATION
+",ECED,Graduate standing and special approval.,None,"(Repeatable for credit) (Cross-listed with ECED 40093 and ECED 70093) Variable topic workshop in early
+childhood education."
+ECED 50105 ,"APPROPRIATE PHONICS INSTRUCTION FOR KINDERGARTEN AND PRIMARY CHILDREN
+",ECED,graduate standing; andearly childhood education (ECDE) major; and ECED 60167. ,"ECED 50147, ECED 50114 and ECED50126. 
+","An examination of phonics in early reading and writing development, effective strategies for teaching and
+assessing phonics appropriate for kindergarten and primary grade children."
+ECED 50114 ,"TEACHING SCIENCE IN THE EARLY YEARS
+",ECED,"Graduate standing in the Master of Arts in Teaching(MAT) program. 
+",None,"(Cross-listed with ECED 40114) This course investigates engaging young children in inquiry-based processes of
+science. Emphasis is given to creating developmentally appropriate experiences in accordance to NAEYC
+guidelines. National and state science standards as well as the college and graduate school of education
+conceptual framework. Attention is focused on the use of science materials safety planning assessment and
+incorporating science across the curriculum."
+ECED 50123 ,"CRITICAL INQUIRY INTO INTEGRATED CURRICULUM IN THE PRIMARY YEARS
+",ECED,"ECED60113 and 60152; and graduate standing. 
+",None,"(Cross-listed with ECED 40123) Theoretical and content background addressing integration of curriculum and
+global perspectives aligned with the International Baccalaureate Primary Years Programme."
+ECED 50125 ,"INQUIRY INTO PROFESSIONAL PRACTICE
+",ECED,admission to advanced study and graduate standing.,None,"Interdisciplinary inquiry into teaching as a professional practice in ECED; emphasis on teacher as researcher.
+Utilization of teaching learning technologies."
+ECED 50126 ,"DEVELOPMENTAL READING AND WRITING: THE EARLY YEARS
+",ECED,admission to the ECED MAT program. ,ECED 50105 and 50147 and 50114 and 50126.,"Taken in conjunction with ECED 50105 in the MAT program. It explores how teachers support primary children's
+literacy development through small and whole group strategic instruction based on formative assessments."
+ECED 50142 ,"HOME, SCHOOL AND COMMUNITY RELATIONS
+",ECED,Graduate standing.,None,"(Cross-listed with ECED 40142) Approaches to parent and community involvement in the education and welfare
+of children. Understanding of role of community agencies and organizations."
+ECED 50145 ,"MUSIC AND RHYTHMS IN PREPRIMARY EDUCATION
+",ECED,Special approval from instructor. Graduate standing.,None,"(Cross-listed with ECED 40145) Comprehensive coverage of music and rhythms for preprimary child. Intended
+for early childhood education majors or other persons desiring additional work in music with preprimary children."
+ECED 50147 ,"TEACHING MATHEMATICS:EARLY YEARS
+",ECED,Graduate standing.,None,"Instructional psychology and materials for effective teaching of mathematics in prekindergarten through grade
+three with a theoretical emphasis on cognitive development."
+ECED 60101 ,"CONSTRUCTIVIST TEACHING IN TRADITIONAL AND NON-TRADITIONAL EARLY
+",ECED,graduate standing.,None,"CHILDHOOD SETTINGS
+Theorists and researchers with a constructivist orientation will be examined in relationship to teacher beliefs and
+diverse settings. The course will focus on constructivist practices emphasizing child sensitive curriculum within
+traditional (classrooms and schools) and non-traditional settings (museums, forests, etc.)."
+ECED 60102 ,"DEVELOPING A BALANCED LITERACY PROGRAM
+",ECED,"Graduatestanding. 
+",None,"An examination of own teaching practice focusing on assessment strategies to inform decision making for
+individual children and evaluation strategies to fine tune a balanced literacy program."
+ECED 60110 ,"TEACHING HUMANITIES: EARLY YEARS
+",ECED,admission to advanced study and graduate standing.,None,"Looking at Humanities through the lens of a young child’s experience in learning with a focus on visual thinking
+and expression, music and movement."
+ECED 60112 ,"HUMANITIES FOR CHILDREN
+",ECED,Graduate standing.,None,(Cross-listed with ECED 70112) Relevance of humanities as applied to education of young children.
+ECED 60113 ,"PRESCHOOL EDUCATION
+",ECED,Graduate standing.,None,(Cross-listed with ECED 70113) In-depth study of curriculum development in preschool programs.
+ECED 60115 ,"SCIENCE TECHNOLOGY ENGINEERING AND MATH FOUNDATIONS FOR EARLY
+",ECED,graduate standing.,None,"CHILDHOOD EDUCATION
+This course introduces early childhood educators to STEM (Science, Technology, Engineering, Mathematics) for
+young children. This includes a foundation and overview of the what, how, and why STEM is included in preK-3
+classrooms. As a foundations course, students will gain exposure to integrating the STEM disciplines, assessment
+of mathematics and science in STEM, and aspects of developmentally appropriate STEM for early childhood
+settings."
+ECED 60116 ,"SCIENCE TECHNOLOGY ENGINEERING AND MATH INQUIRY FOR EARLY CHILDHOOD
+",ECED,"ECED60115 and graduate standing. 
+",None,"EDUCATION
+This course builds on STEM Foundations for Early Childhood Education. Interdisciplinary teaching of STEM for
+young children is the main focus, with attention to specific pedagogical applications. Thus, inquiry as a
+pedagogic approach to STEM application is a central, concurrent feature of this course."
+ECED 60145 ,"TEACHING SOCIAL STUDIES: EARLY YEARS
+",ECED,graduate standing.,None,"Involves the systematic study of the theories, methods, and materials necessary to successfully teach social
+studies to diverse populations of pre-Kindergarten and elementary school students growing up in a global
+society. The course will consider aspects of the history of social studies and theory and research in social
+education as a background for understanding methods and materials."
+ECED 60151 ,"SOCIOMORAL ENVIRONMENT IN EARLY CHILDHOOD EDUCATION
+",ECED,Graduate standing.,None,"(Cross-listed with ECED 70151) Children's social and moral development will be explored in relationship to the
+context of primary classrooms. Children's social problem-solving, friendship making, guidance strategies and
+interventions, building and facilitating classroom communities and promoting caring classrooms will be the focus
+of this course."
+ECED 60152 ,"APPLICATION OF SELECTED THEORETICAL PRINCIPLES TO THE DEVELOPMENT OF
+",ECED,Graduate standing.,None,"YOUNG CHILDREN
+(Cross-listed with ECED 70152) Examination of theories pertaining to child development which have special
+relevance in understanding and meeting developmental needs of young children. Application of selected
+theoretical principles to child development."
+ECED 60158 ,"RECONCEPTUALIZING EARLY CHILDHOOD CURRICULUM
+",ECED,Graduate standing.,None,"(Cross-listed with ECED 70158) Course examines postmodern understanding of early childhood education
+curricula in relationship to teaching (instruction-oriented teaching vs. pedagogy-based teaching). Social,
+historical, legal, political, international and cultural issues that have affected early childhood education curricula
+practices will be critically examined."
+ECED 60159 ,"FAMILY PROFESSIONAL COLLABORATION IN EARLY CHILDHOOD
+",ECED,Graduate standing.,None,"(Cross-listed with SPED 63952) Examines issues facing families and professionals serving young children who
+are at risk, disabled and typically developing."
+ECED 60160 ,"TYPICAL AND ATYPICAL DEVELOPMENT IN YOUNG CHILDREN
+",ECED,Graduate standing and special approval.,None,"(Cross-listed with SPED 63955) Overview of typical/atypical development pathways age three to grade three:
+theories of behavior, implications of atypical development on play/learning; development within ecological
+framework."
+ECED 60163 ,"CONTEMPORARY ISSUES AND TRENDS IN EARLY CHILDHOOD EDUCATION
+",ECED,graduate standing.,None,"(Slashed with ECED 70163) The course is an examination of contemporary issues with young children, families,
+school communities, and diverse populations detailing the philosophical, social, and political ramifications of the
+study of children highlighting current research, practices and policies. This course will examine a body of
+literature, (recent seminal works of impact in early childhood), which encompass a few of the pervasive
+dilemmas and debates shaping the early childhood field in the U.S. today (with a global international backdrop).
+International perspectives on issues will be liberally juxtaposed in conjunction with U.S. issues, and overall this
+course will address how educators have and can structure their practice with various communities to support
+young children, families, and society."
+ECED 60167 ,"LANGUAGE AND LITERACY:UNDERSTANDING DEVELOPMENT
+",ECED,Graduate standing. ,ECED 60152.,"(Cross-listed with ECED 70167) The development of language in children from birth through age eight with a
+focus on the process of typical language development and the diversity of multi-cultural language. Topics
+specifically related to classroom teaching include the assessment of language delays and disorders and
+strategies for connecting oral language to literacy in preschool."
+ECED 60169 ,"UNDERSTANDING EMERGENT BILINGUAL AND IMMIGRANT STUDENTS AND THEIR
+",ECED,graduate standing.,None,"FAMILIES
+This course is designed to help the general practitioner understand and know foundational concepts about multi-
+lingual students, immigrants, English Language Learners and their families."
+ECED 60170 ,"WRITING FOR PUBLICATION AND DISSEMINATION IN EARLY CHILDHOOD EDUCATION
+",ECED,graduate standing.,None,"The seminar examines publication possibilities within early childhood education. A wide range of writing (e.g.,
+journals, book reviews, training modules-manuals) will be reviewed for topics concerning young children (i.e.,
+education, development, families, care, schools, health, and-or their teachers-providers.) This seminar will rely
+greatly on student participation for determining topics in support of individual interests, research, teaching
+practices at the university level, curriculum practices in the early childhood classrooms and settings, and more."
+ECED 60171 ,"TEACHING EMERGENT BILINGUAL AND IMMIGRANTS IN THE EARLY YEARS
+",ECED,ECED 60169.,None,"General educators will explore the application of teaching methods and a variety of curriculum approaches for
+immigrant and bi-literate children, and apply more fully their work with families and communities."
+ECED 60199 ,"THESIS I
+",ECED,Graduate standing and special approval.,None,"Thesis students must register for a total of 6 hours, 2 to 6 hours in a single semester distributed over several
+semesters if desired."
+ECED 60299 ,"THESIS II
+",ECED,ECED 60199. Graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+ECED 67291 ,"SEMINAR IN EARLY CHILDHOOD EDUCATION
+",ECED,Graduate standing and special approval.,None,(Repeatable for credit) (Cross-listed with ECED 77291) Seminar in early childhood education.
+ECED 67292 ,"PRACTICUM AND INTERNSHIP IN EARLY CHILDHOOD EDUCATION
+",ECED,"Graduate standing; and Official valid certification of Child Safety Training, approved Basic LifeSupport and A.L.I.C.E. Training must be presented to the campus office of clinical experience or designated
+faculty/staff at Regional campuses as prerequisite for student teaching. 
+",None,"(Repeatable for credit) (Cross-listed with ECED 77292) Practicum/internship in early childhood education.
+Students are required to complete Bureau of Criminal Investigation and Identification (BCII) and Federal Bureau
+of Investigation (FBI) background checks and submit the results to authorized personnel at their assigned
+school/agency before the first day of the semester in which student teaching/ internship will take place."
+ECED 67295 ,"SPECIAL TOPICS IN EARLY CHILDHOOD EDUCATION
+",ECED,Graduate standing and special approval.,None,(Repeatable for credit) (Cross-listed with ECED 77295) Special topics in early childhood education.
+ECED 67296 ,"INDIVIDUAL INVESTIGATION IN EARLY CHILDHOOD EDUCATION
+",ECED,"Graduate standing andpermission. 
+",None,(Repeatable for credit)Individual investigation in early childhood education.
+ECED 67298 ,"RESEARCH IN EARLY CHILDHOOD EDUCATION
+",ECED,"Graduate standing and specialapproval. 
+",None,(Repeatable for credit)Research in early childhood education.
+ECED 70093 ,"VARIABLE TITLE WORKSHOP IN EARLY CHILDHOOD EDUCATION
+",ECED,"Doctoral standing andspecial approval. 
+",None,(Repeatable for credit) (Cross-listed with ECED 40093 and ECED 50093)
+ECED 70101 ,"CONSTRUCTIVIST TEACHING IN EARLY CHILDHOOD CLASSROOMS
+",ECED,Doctoral standing.,None,"Theorists and researchers with a constructivist orientation will be examined in relationship to teacher beliefs.
+The course will focus on constructivist practices emphasizing child-sensitive curriculum and teaching practices."
+ECED 70102 ,"DEVELOPING A BALANCED LITERACY PROGRAM
+",ECED,"Doctoralstanding. 
+",None,"An examination of own teaching practice focusing on assessment strategies to inform decision-making for
+individual children and evaluation strategies to fine tune a balanced literacy program."
+ECED 70112 ,"HUMANITIES FOR CHILDREN
+",ECED,Doctoral standing.,None,(Cross-listed with ECED 60112) Relevance of humanities as applied to education of young children.
+ECED 70113 ,"PRESCHOOL EDUCATION
+",ECED,Doctoral standing.,None,(Cross-listed with ECED 60113) In-depth study of curriculum development in preschool programs.
+ECED 70151 ,"SOCIOMORAL ENVIRONMENT IN EARLY CHILDHOOD EDUCATION
+",ECED,Doctoral standing.,None,"(Cross-listed with ECED 60151) Children's social and moral development will be explored in relationship to the
+context of primary classrooms. Children's social problem-solving, friendship- making, guidance strategies and
+interventions, building and facilitating classroom communities and promoting caring classrooms will be the focus
+of this course."
+ECED 70152 ,"APPLICATION OF SELECTED THEORETICAL PRINCIPLES TO THE DEVELOPMENT OF
+",ECED,Doctoral standing.,None,"YOUNG CHILDREN
+(Cross-listed with ECED 60152) Examination of theories pertaining to child development which have special
+relevance in understanding and meeting developmental needs of young children. Application of selected
+theoretical principles to child development."
+ECED 70158 ,"RECONCEPTUALIZING EARLY CHILDHOOD CURRICULUM
+",ECED,Doctoral standing.,None,"(Cross-listed with ECED 60158) Course examines postmodern understanding of early childhood education
+curricula in relationship to teaching (instruction-oriented teaching vs. pedagogy-based teaching). Social,
+historical, legal, political, international and cultural issues that have affected early childhood education curricula
+practices will be critically examined."
+ECED 70163 ,"CONTEMPORARY ISSUES AND TRENDS IN EARLY CHILDHOOD EDUCATION
+",ECED,doctoral standing.,None,"(Slashed with ECED 60163) The course is an examination of contemporary issues with young children, families,
+school communities, and diverse populations detailing the philosophical, social, and political ramifications of the
+study of children highlighting current research, practices and policies. This course will examine a body of
+literature (recent seminal works of impact in early childhood), which encompass a few of the pervasive dilemmas
+and debates shaping the early childhood field in the U.S. today (with a global international backdrop).
+International perspectives on issues will be liberally juxtaposed with U.S. issues, and overall this course will
+address how educators have and can structure their practice with various communities to support young
+children, families and society."
+ECED 70167 ,"LANGUAGE AND LITERACY:UNDERSTANDING DEVELOPMENT
+",ECED,Doctoral standing.,None,"(Cross-listed with ECED 60167) The development of language in children from birth through age eight with a
+focus on the process of typical language development and the diversity of multi-cultural language. Topics
+specifically related to classroom teaching include the assessment of language, delays and disorders and
+strategies for connecting oral language to literacy in preschool."
+ECED 70170 ,"WRITING FOR PUBLICATION AND DISSEMINATION IN EARLY CHILDHOOD EDUCATION
+",ECED,doctoral standing.,None,"(Slashed with ECED 60170) The seminar examines publication possibilities within the field of early childhood
+education. A wide range of writing (e.g., journals, boos reviews, training modules-manuals) will be reviewed for
+topics concerning young children (i.e., education, development, families, care, schools, health, and-or their
+teachers providers.) This seminar will rely a great deal on student participation for determining topics in support
+of individual interests, research, teaching practices at the university level, curriculum practices in the early
+childhood classrooms and settings and more."
+ECED 77291 ,"SEMINAR IN EARLY CHILDHOOD EDUCATION
+",ECED,"Doctoral standing andspecial approval. 
+",None,(Repeatable for credit) (Cross-listed with ECED 67291) Seminar in ECED.
+ECED 77292 ,"PRACTICUM AND INTERNSHIP IN EARLY CHILDHOOD EDUCATION
+",ECED,"Doctoral standingand special approval. 
+",None,"(Repeatable for credit) (Cross-listed with ECED 67292) Practicum/internship in ECED. Students are required to
+complete Bureau of Criminal Investigation and Identification (BCII) and Federal Bureau of Investigation (FBI)
+background checks and submit the results to authorized personnel at their assigned school/agency before the
+first day of the semester in which student teaching/ internship will take place."
+ECED 77295 ,"SPECIAL TOPICS IN EARLY CHILDHOOD EDUCATION
+",ECED,"Doctoral standingand special approval. 
+",None,(Repeatable for credit) (Cross-listed with ECED 67295) Special topics in ECED.
+ECED 80291 ,"ADVANCED SEMINAR IN EARLY CHILDHOOD EDUCATION
+",ECED,Doctoral standing and permission.,None,(Repeatable for credit)Advanced seminar in ECED.
+ECED 80295 ,"SPECIAL TOPICS IN EARLY CHILDHOOD EDUCATION
+",ECED,Doctoral standing and special approval.,None,(Repeatable for credit)Special topics in ECED.
+ECED 80298 ,"RESEARCH IN EARLY CHILDHOOD EDUCATION
+",ECED,Doctoral standing.,None,(Repeatable for credit)Research in ECED.

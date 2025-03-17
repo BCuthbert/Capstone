@@ -1,0 +1,335 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+PHY 11030 ,"SEVEN IDEAS THAT SHOOK THE UNIVERSE
+",PHY,None.,None,"Description of major revolutionary physical concepts and their implications for understanding the physical
+universe. Not counted toward requirements for physics major."
+PHY 12000 ,"INTRODUCTORY PHYSICS SEMINAR
+",PHY,None.,None,"To provide a nurturing course for new physics majors, ideally to be taken in their first semester as majors. The
+course includes a journal club component, informational talks by industrial physicists and training in a select
+group of essential skills and tools for future work in the physics program."
+PHY 12111 ,"PHYSICS FOR HEALTH TECHNOLOGIES
+",PHY,none.,None,"Basic physics applied to health technologies: measurement techniques, force and motion of solids and fluids,
+energy, heat wave phenomena, electricity. Students taking this course should be in a health technologies major."
+PHY 12201 ,"TECHNICAL PHYSICS I
+",PHY,MATH 11010; and pre- or ,None,Introduction to principles of physics: mechanics. Two-hour lecture/recitation and two- hours laboratory weekly.
+PHY 12202 ,"TECHNICAL PHYSICS II
+",PHY,PHY 12201.,None,"Introduction to principles of physics: fluids, thermodynamics, electricity and magnetism. Three-hour
+lecture/recitation and two-hour laboratory weekly."
+PHY 13001 ,"GENERAL COLLEGE PHYSICS I
+",PHY,MATH 11022 orMATH 12001 with minimum C grade; or pre/,PHY 13021.,"Principles of mechanics, heat and sound. Three-hour lecture, one-hour recitation."
+PHY 13002 ,"GENERAL COLLEGE PHYSICS II
+",PHY,PHY 13001 or PHY 23101. ,PHY 13022.,"Principles of electricity and magnetism, optics and modern physics. Three hours lecture and one hour recitation
+weekly."
+PHY 13011 ,"COLLEGE PHYSICS I
+",PHY,MATH 11022 or MATH 12001 with a minimum C grade; or pre/,PHY 13021.,"Principles of classical physics, primarily mechanics. Three-hour lecture and one-hour recitation weekly. This is a
+flexibly scheduled course that meets concurrently with PHY 13001 for the first half of the regular term."
+PHY 13012 ,"COLLEGE PHYSICS II
+",PHY,PHY 13001 or PHY 13011 or PHY 23101.,None,"Principles of classical physics, primarily electricity and magnetism. Three-hour lecture and one-hour recitation
+weekly. This is a flexibly scheduled course that meets concurrently with PHY 13002 for the first half of a regular
+term."
+PHY 13021 ,"GENERAL COLLEGE PHYSICS LABORATORY I
+",PHY,None,PHY 13001 or PHY 13011.,Introductory lab to accompany PHY 13001 or PHY 13011.
+PHY 13022 ,"GENERAL COLLEGE PHYSICS LABORATORY II
+",PHY,None,PHY 13002 or PHY 13012.,Introductory lab to accompany PHY 13002 or PHY 13012.
+PHY 20095 ,"SPECIAL TOPICS
+",PHY,None.,None,(Repeatable for credit)Topic announced when scheduled.
+PHY 20096 ,"INDIVIDUAL INVESTIGATION IN PHYSICS
+",PHY,Special approval.,None,(Repeatable for credit) Individual projects in physics.
+PHY 21040 ,"PHYSICS IN ENTERTAINMENT AND THE ARTS
+",PHY,None.,None,"Descriptive introduction to physics underlying selected forms of art and entertainment. Examples are drawn
+from music, visual arts and communications media. Not counted toward requirements for physics major."
+PHY 21041 ,"PHYSICS IN ENTERTAINMENT AND THE ARTS LABORATORY
+",PHY,None,None,"Laboratory component of PHY 21040, two hours weekly. Pre/corequisite: PHY 21040."
+PHY 21430 ,"FRONTIERS IN ASTRONOMY
+",PHY,None.,None,"Modern description of astrophysical observations, the results of these observations and the physical principles
+based on them. Not counted toward requirements for physics major."
+PHY 21431 ,"FRONTIERS IN ASTRONOMY LABORATORY
+",PHY,None,None,Laboratory component of PHY 21430. Pre/corequisite: PHY 21430.
+PHY 22564 ,"INTRODUCTION TO MATERIALS PHYSICS
+",PHY,PHY 23102.,None,"Survey of mechanical and electronic properties of materials with application in science and technology. Metals,
+semiconductors, ceramics, polymers and liquid crystals, and other special materials will be addressed."
+PHY 23101 ,"GENERAL UNIVERSITY PHYSICS I
+",PHY,None,None,"Principles of mechanics, heat and sound at calculus level. Four hours lecture/recitation and three hours lab
+weekly. Pre/corequisite MATH 12002."
+PHY 23102 ,"GENERAL UNIVERSITY PHYSICS II
+",PHY,PHY 13001 or PHY 23101. Pre/,None,"Principles of electricity, magnetism, light and modern physics at calculus level. Four hours lecture/ recitation and
+three-hour lab weekly."
+PHY 30020 ,"INTERMEDIATE PHYSICS LABORATORY
+",PHY,PHY 36001 and 10 hours of additional physics courses.,None,"(Repeatable for credit) Experiments in classical and modern physics are selected to accompany and to
+supplement junior-level physics courses."
+PHY 30095 ,"SPECIAL TOPICS
+",PHY,Permission.,None,(Repeatable for credit)Topic announced when scheduled.
+PHY 32511 ,"ELECTRONICS
+",PHY,MATH 12002 and; PHY 13002 or PHY 23102.,None,"""Hands-on"" course to give the student a working knowledge of analog electronics and of AC and DC circuits
+typically used by the scientist."
+PHY 34000 ,"COSMOLOGY
+",PHY,PHY 36001.,None,"This course will provide a quantitative introduction to modern cosmology,from the Big Bang to the formation of
+the first stars. Subjects include the evolution of the geometry and temperature of the universe its composition
+and select aspects of general relativity."
+PHY 35101 ,"CLASSICAL MECHANICS
+",PHY,PHY 23102 and MATH 32052.,None,"Modern description of mechanics including both LaGrangian and Hamilton formulations, with applications to
+central force, motion, coupled oscillations, rigid body motion and motion in non- inertial reference frames."
+PHY 36001 ,"INTRODUCTORY MODERN PHYSICS
+",PHY,MATH 12003 and PHY 23102.,None,"Special theory of relativity, Rutherford-Bohr model of atom, quantization of light, matter waves, Schroedinger
+equation, hydrogen atom, electron spin, multi-electron atoms."
+PHY 36002 ,"APPLICATIONS OF MODERN PHYSICS
+",PHY,PHY 36001.,None,"Survey of applications of twentieth century physics. Topics include molecular bonding, conducting and insulating
+solids, degenerate matter, quantum condensates, subatomic and sub-nuclear particle physics, cosmology."
+PHY 40020 ,"ADVANCED PHYSICS LABORATORY
+",PHY,PHY 30020; and pre- or ,None,"(Repeatable for credit) Advanced experiments in classical and modern physics are selected to accompany and to
+supplement senior-level physics courses."
+PHY 40060 ,"PHYSICAL LITERATURE
+",PHY,Permission.,None,Study of current or topical literature.
+PHY 40092 ,"INTERNSHIP IN PHYSICS
+",PHY,Permission.,None,"(Repeatable for credit)Supervised capstone experience in physics at a national laboratory,a research university
+in industry or at a local research site. No more than 3 credit hours may be applied toward the major electives for
+physics majors."
+PHY 40095 ,"SPECIAL TOPICS
+",PHY,Permission.,None,(Repeatable for credit)Topic announced when scheduled.
+PHY 40096 ,"INDIVIDUAL INVESTIGATION
+",PHY,"20 hours of physics; and specialapproval of department chairperson. 
+",None,(Repeatable for credit)Individual projects for physics majors.
+PHY 40099 ,"SENIOR HONORS THESIS
+",PHY,Honors senior standing and special approval.,None,"Thesis for departmental, general or university honors must be 1-10 hours with continuous registration
+throughout the senior year beginning in the summer prior to the senior year. Students taking this course must
+consult with their department and the Honors College and receive approval prior to the first semester of the
+senior year."
+PHY 40195 ,"SPECIAL TOPICS
+",PHY,"specialapproval. 
+",None,(Repeatable for credit) (Slashed with PHY 50195) Topic announced when scheduled.
+PHY 41010 ,"BIOPHOTONICS
+",PHY,special approval.,None,"(Slashed with PHY 51010; Cross-listed with BSCI 41110 and BSCI 51110 and CHEM 41010 and CHEM 51010)
+Interdisciplinary overview of the basics of biophotonics; application of biophotonic techniques to probe biological
+samples. Introduction to the foundations of optics and photonics and how the molecular structure of organic
+molecules translates into unique photonic properties and targeting in biological cells or tissue. Preparation of
+fluorescent materials, advanced spectroscopy and cell visualization using regular and confocal fluorescence
+microscopy."
+PHY 44600 ,"INTRODUCTION TO BIOLOGICAL PHYSICS
+",PHY,PHY 23102.,None,"Introduces ideas essential to physical understanding of biological systems. Topics include: introduction to
+molecular components of the cell; statistical mechanics and transport in biological systems; selected topics in
+biophysics."
+PHY 44802 ,"ASTROPHYSICS
+",PHY,MATH 12003.,None,"Galactic structure, stellar formation and evolution, origin of the elements (or nucleosynthesis), nonoptical
+astronomies, and description of various cosmological theories."
+PHY 45201 ,"ELECTROMAGNETIC THEORY
+",PHY,"MATH 32052and PHY 23102. 
+",None,"Properties of electric and magnetic fields developed by vector methods. Treatment on static fields in vacuum and
+matter. Theory of classical electromagnetic fields with emphasis on dynamic fields."
+PHY 45301 ,"THERMAL PHYSICS
+",PHY,PHY 36001.,None,"An introduction to thermodynamics and statistical mechanics, with applications in material science and
+engineering."
+PHY 45401 ,"MATHEMATICAL METHODS IN PHYSICS
+",PHY,MATH 32052.,None,"Consolidation of vector analysis, curvilinear coordinate systems, tensors, matrix algebra, vector spaces, common
+groups in physics, calculus of residues, contour integration, methods for differential equations in physics;
+additional topics important for physics selected from special functions, integral equations, calculus of variations."
+PHY 45403 ,"DATA ANALYSIS AND COMPUTATIONAL PHYSICS TECHNIQUES
+",PHY,MATH 12003 and PHY 23102.,None,"(Slashed with PHY 55403) Study of uncertainties in physical measurements. Data reduction and error analysis
+techniques. Monte Carlo simulation method. Least-squares fits to data. Basic computational physics techniques."
+PHY 45501 ,"ELECTROMAGNETIC WAVES AND MODERN OPTICS
+",PHY,PHY 45201.,None,"Interactions between light and matter from both a macroscopic and microscopic perspective; producing and
+controlling light devices and spectroscopic techniques based on modern optics."
+PHY 46101 ,"QUANTUM MECHANICS
+",PHY,PHY 36001. Pre- or ,None,"Systematic introduction to the principles and solution techniques of quantum mechanics, including the
+Schroedinger equation in one and three dimensions. Topics include: angular momentum formalism, introductory
+Dirac notation and vector space formalism, intrinsic spin, identical particle systems and perturbation theory."
+PHY 46301 ,"INTRODUCTION TO NUCLEAR AND PARTICLE PHYSICS
+",PHY,PHY 36001. Pre- or ,None,"(Cross-listed with PHY 56301) Introduction to nuclear and particle physics including particle detectors and
+accelerators, experimental techniques, nuclear fission and fusion, nuclear reactors, medical applications, and
+connections to astrophysics and cosmology."
+PHY 46401 ,"INTRODUCTION TO SOLID STATE PHYSICS
+",PHY,PHY 36002.,None,"Fundamental unifying concepts and experimental techniques needed to understand thermal,electrical and optical
+properties of ions and electrons in solids. Special topics of current research."
+PHY 50020 ,"ADVANCED PHYSICS LAB
+",PHY,Graduate standing.,None,"(Repeatable for credit) Advanced experiments in classical and modern physics are selected to accompany and to
+supplement graduate-level physics courses."
+PHY 50093 ,"VARIABLE TITLE WORKSHOP IN PHYSICS
+",PHY,Special approval and graduate standing.,None,"(Repeatable for credit)Workshops individually designed to provide instruction and training in specific areas of
+physics."
+PHY 50095 ,"SPECIAL TOPICS
+",PHY,Special approval and graduate standing.,None,(Repeatable for credit)Topic announced when scheduled.
+PHY 50096 ,"INDIVIDUAL INVESTIGATION
+",PHY,Graduate standing.,None,(Repeatable for credit)Individual projects for physics graduate students.
+PHY 50195 ,"SPECIAL TOPICS
+",PHY,"specialapproval and graduate standing. 
+",None,(Repeatable for credit) (Slashed with PHY 40195). Topic announced when scheduled.
+PHY 51010 ,"BIOPHOTONICS
+",PHY,special approval and graduate standing.,None,"(Slashed with PHY 41010; Cross-listed with BSCI 41110 and BSCI 51110 and CHEM 41010 and CHEM 51010)
+Interdisciplinary overview of the basics of biophotonics; application of biophotonic techniques to probe biological
+samples. Introduction to the foundations of optics and photonics and how the molecular structure of organic
+molecules translates into unique photonic properties and targeting in biological cells or tissue. Preparation of
+fluorescent materials, advanced spectroscopy and cell visualization using regular and confocal fluorescence
+microscopy."
+PHY 54600 ,"INTRODUCTION TO BIOLOGICAL PHYSICS
+",PHY,Special approval and graduate standing.,None,"Introduces ideas essential to physical understanding of biological systems. Topics include: introduction to
+molecular components of the cell; statistical mechanics and transport in biological systems; selected topics in
+biophysics."
+PHY 54802 ,"ASTROPHYSICS
+",PHY,MATH 12003. Graduate standing.,None,"Galactic structure, stellar formation and evolution, origin of the elements (or nucleosynthesis), non optical
+astronomies, and a description of various cosmological theories."
+PHY 55201 ,"ELECTROMAGNETIC THEORY
+",PHY,"graduatestanding. 
+",None,"Properties of electric and magnetic fields developed by vector methods. Treatment of static fields in vacuum and
+matter. Theory of classical electromagnetic fields with emphasis on dynamic fields."
+PHY 55301 ,"THERMAL PHYSICS
+",PHY,PHY 36001 and graduate standing.,None,"An introduction to thermodynamics and statistical mechanics, with applications in material science and
+engineering."
+PHY 55401 ,"MATHEMATICAL METHODS IN PHYSICS
+",PHY,MATH 32052 and graduate standing.,None,"Consolidation of vector analysis, curvilinear coordinate systems, tensors, matrix algebra, vector spaces, common
+groups in physics, calculus of residues, contour integration, methods for differential equations in physics;
+additional topics important for physics selected from special functions, integral equations, calculus of variations."
+PHY 55403 ,"DATA ANALYSIS AND COMPUTATIONAL PHYSICS TECHNIQUES
+",PHY,MATH 12003 and PHY 23102 and graduate standing.,None,"(Slashed with PHY 45403) Study of uncertainties in physical measurements. Data reduction and error analysis
+techniques. Monte Carlo simulation method. Least-squares fits to data. Basic computational physics techniques."
+PHY 55501 ,"ELECTROMAGNETIC WAVES AND MODERN OPTICS
+",PHY,"PHY 55201 andgraduate standing. 
+",None,"Interactions between light and matter from both a macroscopic and microscopic perspective; producing and
+controlling light; devices and spectroscopic techniques based on modern optics."
+PHY 56101 ,"QUANTUM MECHANICS
+",PHY,Special approval and graduate standing.,None,"Systematic introduction to the principles and solution techniques of quantum mechanics, including the
+Schroedinger equation in one and three dimensions. Topics include: angular momentum formalism, introductory
+Dirac notation and vector space formalism, intrinsic spin, identical particle systems, and perturbation theory."
+PHY 56301 ,"INTRODUCTION TO NUCLEAR AND PARTICLE PHYSICS
+",PHY,graduate standing.,None,"(Cross-listed with PHY 46301) Introduction to nuclear and particle physics including particle detectors and
+accelerators, experimental techniques, nuclear fission and fusion, nuclear reactors, medical applications, and
+connections to astrophysics and cosmology."
+PHY 56401 ,"INTRODUCTION TO SOLID STATE PHYSICS
+",PHY,"PHY 36002 andgraduate standing. 
+",None,"Fundamental unifying concepts and experimental techniques needed to understand thermal,electrical and optical
+properties of ions and electrons in solids. Special topics of current research."
+PHY 60091 ,"PHYSICS SEMINAR
+",PHY,Graduate standing.,None,"(Repeatable for credit)Discussion of current literature or of original research in physics. Participation by
+students, faculty and guests."
+PHY 60093 ,"VARIABLE TITLE WORKSHOP IN PHYSICS
+",PHY,Graduate standing.,None,"(Repeatable for credit)Workshops individually designed to provide instruction and training in specific areas of
+physics."
+PHY 60094 ,"COLLEGE TEACHING OF PHYSICS
+",PHY,Graduate standing.,None,"(Repeatable for credit)Methodology of teaching in a university, college or junior college. Includes observation of
+kinds of teaching and practice teaching."
+PHY 60098 ,"RESEARCH
+",PHY,Graduate standing.,None,"(Repeatable for credit)Research or individual investigation. Credits earned may be applied toward meeting
+degree requirements if department approves."
+PHY 60199 ,"THESIS I
+",PHY,Special approval of adviser and graduate standing.,None,"Thesis students must register for total of 6 hours, 2 to 6 hours in a single semester distributed over several
+semesters if desired."
+PHY 60295 ,"ADVANCED TOPICS
+",PHY,"Special approval andgraduate standing. 
+",None,(Repeatable for credit)Selected special topics of current research interest.
+PHY 60299 ,"THESIS II
+",PHY,PHY 60199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+PHY 64101 ,"ADVANCED PROBLEM SOLVING IN PHYSICS
+",PHY,"PHY 6/75101 or PHY 6/75203 or PHY 6/76161 or PHY 6/75301 or departmentalinstructor approval. Graduate standing. 
+",None,"The course imparts advanced problem-solving skills not acquired in regular courses. Examples from four basic
+areas of physics (classical mechanics, electricity and magnetism, quantum mechanics and statistical physics) will
+be emphasized."
+PHY 65101 ,"CLASSICAL MECHANICS
+",PHY,"specialapproval and graduate standing. 
+",None,"Lagrange's equations, variational principles, two-body central force problem and rigid body motion. Hamilton's
+equations, canonical transformations, Hamilton-Jacobi theory and small oscillations."
+PHY 65203 ,"CLASSICAL ELECTRODYNAMICS I
+",PHY,"apecial approval andgraduate standing. 
+",None,"Introduction to electrostatics, boundary-value problems, multipoles, electrostatics of macroscopic media,
+magnetostatics, time-varying fields, Maxwell's equations, conservation laws."
+PHY 65204 ,"CLASSICAL ELECTRODYNAMICS II
+",PHY,PHY 6/75203 and graduate standing.,None,"Plane electromagnetic waves, simple radiating systems, scattering, special theory of relativity, relativistic
+dynamics, radiation of moving charges, Bremsstrahlung."
+PHY 65301 ,"STATISTICAL MECHANICS I
+",PHY,Graduate standing.,None,"An introduction to statistical mechanics, including classical and quantum statistics. Derives thermodynamic
+quantities from a statistical viewpoint."
+PHY 66161 ,"QUANTUM MECHANICS I
+",PHY,Special approval and graduate standing.,None,"Fundamental concepts of non-relativistic quantum mechanics. Solution of simple one dimensional problems.
+Abstract Hilbert-space description. Matrix representations. Quantum dynamics. Extension to three dimensions.
+Spin and orbital angular momentum."
+PHY 66162 ,"QUANTUM MECHANICS II
+",PHY,PHY 6/76161 and graduate standing.,None,"Angular momentum theory. Symmetries and conservation laws. Application of approximation methods to
+realistic problems. Systems of identical particles. Scattering theory. Relativistic single particle wave equations."
+PHY 66201 ,"PARTICLE PHYSICS
+",PHY,PHY 6/76162 and graduate standing.,None,"Discussion of particle detectors, invariance principles and conservation laws, fundamental interactions, quark
+model of hadrons, basic concepts of field theory, the Standard Model and selected topics of current interest."
+PHY 66302 ,"MODERN NUCLEAR PHYSICS
+",PHY,PHY 56101; and graduate standing.,None,"Survey of basic physics of nucleons and nuclei including associated experimental techniques, emphasizing
+interaction of radiation with matter. Applications covered include detectors, electron scattering from nuclei,
+quark-parton model of the nucleon, heavy-ion collisions, quark-gluon plasma, and nuclear astrophysics."
+PHY 66401 ,"SOLID STATE PHYSICS I
+",PHY,"PHY 56101 orPHY 6/76161; and graduate standing. 
+",None,"Crystalline state, with emphasis on wave propagation, zone and band theory, phonons. Applications to electrical
+and thermal conductivities, specific heats, optical, dielectric and magnetic properties."
+PHY 66403 ,"ADVANCED CONDENSED MATTER PHYSICS
+",PHY,"PHY 66402 and graduatestanding. 
+",None,"(Slashed with PHY 76403) Advanced theories of solids, fluids, superfluids, magnetic, ferroelectric and liquid
+crystal systems and the experimental methods that probe them."
+PHY 68401 ,"LIQUID CRYSTAL PHYSICS
+",PHY,Graduate standing in physics or chemical physics.,None,"The molecular structure and properties of liquid crystals and their role in biological systems and industrial
+applications."
+PHY 70094 ,"COLLEGE TEACHING OF PHYSICS
+",PHY,Doctoral standing.,None,"(Repeatable for credit)Methodology of teaching in a university, college or junior college. Includes observation of
+kinds of teaching and practice teaching."
+PHY 70095 ,"SPECIAL TOPICS
+",PHY,Special approval and doctoral standing.,None,(Repeatable for credit)Topic announced when scheduled.
+PHY 70295 ,"ADVANCED TOPICS
+",PHY,"Special approval anddoctoral standing. 
+",None,(Repeatable for credit)Selected special topics of current research interest.
+PHY 74101 ,"ADVANCED PROBLEM SOLVING IN PHYSICS
+",PHY,"PHY 6/75101 or PHY 6/75203 or PHY 6/76161 or PHY 6/75301; or departmentalinstructor approval. Doctoral standing. 
+",None,"The course imparts advanced problem-solving skills not acquired in regular courses. Examples from four basic
+areas of physics (classical mechanics, electricity and magnetism, quantum mechanics and statistical physics) will
+be emphasized."
+PHY 75101 ,"CLASSICAL MECHANICS
+",PHY,"Special approvaland doctoral standing. 
+",None,"Lagrange's equations, variational principles, two-body central force problems, rigid body motion, Hamilton's
+equations, canonical transformations, Hamilton-Jacobi theory, small oscillations."
+PHY 75203 ,"CLASSICAL ELECTRODYNAMICS I
+",PHY,"Special approval anddoctoral standing. 
+",None,"Introduction to electrostatics, boundary value problems, multipoles, electrostatics of macroscopic media,
+magnetostatics, time-varying fields, Maxwell's equations, conservation laws."
+PHY 75204 ,"CLASSICAL ELECTRODYNAMICS II
+",PHY,PHY 6/75203 and doctoral standing.,None,"Plane electromagnetic waves, simple radiating systems, scattering special theory of relativity, relativistic
+dynamics, radiation of moving charges, Bremsstrahlung."
+PHY 75301 ,"STATISTICAL MECHANICS I
+",PHY,Doctoral standing.,None,"An introduction to statistical mechanics, including classical and quantum statistics. Derives thermodynamic
+quantities from a statistical viewpoint."
+PHY 76161 ,"QUANTUM MECHANICS I
+",PHY,Permission and doctoral standing.,None,"Fundamental concepts of non-relativistic quantum mechanics. Solution of simple one dimensional problems.
+Abstract Hilbert space description. Matrix representations. Quantum dynamics. Extension to three dimensions.
+Spin and orbital angular momentum."
+PHY 76162 ,"QUANTUM MECHANICS II
+",PHY,PHY 6/76161 and doctoral standing.,None,"Angular momentum theory. Symmetries and conservation laws. Application of approximation methods to
+realistic problems. Systems of identical particles. Scattering theory. Relativistic single particle wave equations."
+PHY 76163 ,"QUANTUM MECHANICS III
+",PHY,PHY 6/76162 and doctoral standing.,None,"Second quantization and field theory formalism are developed for the many-particle system. Topics include the
+electron gas and nuclear matter."
+PHY 76201 ,"PARTICLE PHYSICS
+",PHY,PHY 6/76162 and doctoral standing.,None,"Discussion of particle detectors, invariance principles and conservation laws, fundamental interactions, quark
+model of hadrons, basic concepts of a field theory, the Standard Model and selected topics of current interest."
+PHY 76303 ,"APPLICATIONS OF QUANTUM CHROMODYNAMICS
+",PHY,PHY 76163. ,PHY 66201 or PHY 76201.,"Introduces the key attributes and techniques of Quantum Chromodynamics, which is the relativistic quantum
+field theory of the strong interaction. Topics treated include the properties, structure and interactions of strongly
+interacting sub-nuclear particles (hadrons) and the physics of hadronic and nuclear matter at finite temperature
+and density, as applicable to modern nuclear particle physics research."
+PHY 76401 ,"SOLID STATE PHYSICS I
+",PHY,"PHY 56101 orPHY 6/76161; and doctoral standing. 
+",None,"Crystalline state, with emphasis on wave propagation zone and band theory phonons. Applications to electrical
+and thermal conductivities specific heats optical dielectric and magnetic properties."
+PHY 76403 ,"ADVANCED CONDENSED MATTER PHYSICS
+",PHY,"PHY 66402 or 76402; anddoctoral standing. 
+",None,"(Slashed with PHY 66403) Advanced theories of solids, fluids, superfluids, magnetic, ferroelectric and liquid
+crystal systems, and the experimental methods that probe them."
+PHY 78401 ,"LIQUID CRYSTAL PHYSICS
+",PHY,Doctoral standing in physics or chemical physics.,None,"The molecular structure and properties of liquid crystals and their role in biological systems and industrial
+applications."
+PHY 80091 ,"PHYSICS SEMINAR
+",PHY,Doctoral standing.,None,"(Repeatable for credit)Discussion of current literature or of original research in physics. Participation by students
+faculty and guests."
+PHY 80097 ,"PHYSICS COLLOQUIUM
+",PHY,Doctoral standing.,None,"(Repeatable for credit)Presentation by invited speakers of research and other topics on graduate level followed
+by discussion period. Regular attendance of all physics majors expected. Three or more meetings each semester
+as arranged."
+PHY 80098 ,"RESEARCH
+",PHY,Special approval and doctoral standing.,None,"(Repeatable for credit)Research or individual investigation for doctoral students who have not yet passed their
+candidacy exams. Credit earned may be applied toward the degree if the department approves."
+PHY 80199 ,"DISSERTATION I
+",PHY,Special approval and doctoral standing.,None,"(Repeatable for credit)Doctoral dissertation, for which registration in at least two semesters is required; the first
+of which will be the semester in which dissertation work is begun, and continuing until the completion of 30
+hours."
+PHY 80299 ,"DISSERTATION II
+",PHY,"PHY 80199 anddoctoral standing. 
+",None,"(Repeatable for credit)Continuing registration required of doctoral students who have completed the initial 30
+hours of dissertation and continuing until all degree requirements are met."

@@ -1,0 +1,266 @@
+Course Number,Course Name,Department,Prerequisites,Corequesites,Description
+ECON 12060 ,"PERSONAL FINANCE
+",ECON,None.,None,"Examines economic issues and problems of everyday life. Goal is to enable individuals to analyze their personal
+ finances in order to learn how to get the most out of their income, increase income through a better
+ understanding of possible investments, and protect what they have
+through selecting appropriate insurance.
+ Topics covered include budgeting and financial planning, federal income taxes, insurance, borrowing, and
+ investment principles and strategies."
+ECON 22060 ,"PRINCIPLES OF MICROECONOMICS
+",ECON,"MATH 00007 or one course from MATH 00023-49999;or ALEKS math assessment score of 45; or
+ MATH ACT 22 or MATH SAT 520.
+",None,"Principles and policies affecting prices, including factor incomes, under alternative market structures. Tools
+ developed to examine social problems, including poverty, crime, pollution and international relations."
+ECON 22061 ,"PRINCIPLES OF MACROECONOMICS
+",ECON,"ECON22060.
+",None,"Principles and policies affecting aggregate production, consumption, investment and government expenditures.
+ Includes role of money, the banking system, inflation, unemployment and economic growth."
+ECON 32025 ,"MONEY, CREDIT AND BANKING
+",ECON,ECON 22060 and 22061.,None,"Organization of our money, credit and banking system principles and problems of monetary policy. Not open to
+ students who have completed ECON 32030."
+ECON 32040 ,"INTERMEDIATE MICROECONOMIC THEORY AND APPLICATIONS
+",ECON,ECON 22060 and 22061.,None,"The study of individual choices under conditions of relative scarcity, and their consequences for prices and the
+ allocation of resources in the
+economic system. Develops the analytical and theoretical tools pertinent in
+ determining how scarce resources are allocated among competing wants and demonstrates how these tools are
+ used in real world applications."
+ECON 32041 ,"INTERMEDIATE MACROECONOMIC THEORY AND POLICY
+",ECON,"ECON22060 and 22061.
+",None,"Analysis of how an economy such as the United States operates from an aggregate perspective. The
+ determination for the level of income, employment, inflation, international trade and economic growth is
+analyzed. Discussion of monetary and fiscal policies."
+ECON 32050 ,"APPLIED ECONOMETRICS
+",ECON,MATH 11012 or MATH 12002; and ECON 22060 and 22061 and MIS 24056.,None,Application of econometric methods such as regression analysis to a variety of economics questions.
+ECON 32070 ,"LABOR PROBLEMS
+",ECON,ECON 22060 and 22061.,None,"Surveys of the major institutions, features and functioning of the labor
+market as well as some of its
+ outstanding problems. Does not count toward economics major or minor. Not open to students who have
+ completed
+ECON 42072."
+ECON 32082 ,"INTRODUCTION TO MANAGERIAL ECONOMICS
+",ECON,ECON 22060.,None,"Combines economic theory and quantitative analysis to develop resource-allocation decision-making skills which
+ enable managers to evaluate problems, identify possible solutions and finally implement and
+monitor the best
+ alternative to accomplish their stated objectives. Covers such topics as supply and demand, consumer theory,
+ production, costs, contracts, game theory, principal-agent problems, and the basic economic models of perfect
+ competition, oligopoly,monopolistic, competition and monopoly. Cannot be taken by economics majors. Not
+ open to students who have completed ECON 32040."
+ECON 32083 ,"THE ECONOMICS OF POVERTY
+",ECON,ECON 22060.,None,"Nature and causes of poverty in United States. Analysis of impact of poverty upon economy and study of
+ measures both real and potential for alleviating it."
+ECON 32084 ,"ECONOMICS OF THE ENVIRONMENT
+",ECON,ECON 22060.,None,"Examines economic theory of environmental and resource economics in a fashion that is understandable by
+ students with varied backgrounds in economics. Emphasis on microeconomic theory and its application to
+environmental issues. Topics covered include ""market failure"" and its impact on the environment; cost benefit
+ analysis; and input-output analysis. Designed for those interested in the environment or who may be
+planning
+ careers in environmental or natural sciences."
+ECON 42065 ,"PROBLEMS OF MONETARY AND FISCAL POLICY
+",ECON,"ECON32041.
+",None,"Analysis of objectives, techniques and economic effects of monetary and fiscal policies."
+ECON 42068 ,"INDUSTRIAL ORGANIZATION AND PUBLIC POLICY
+",ECON,ECON 32040.,None,"(Cross-listed with ECON 52068) Theoretical, empirical and critical examination of structure, operation and
+ performance of industrial markets in American economy."
+ECON 42072 ,"ECONOMICS OF LABOR MARKETS
+",ECON,"ECON32040.
+",None,"(Cross-listed with ECON 52072) The economic analysis of the decisions of
+workers and firms in determination of
+ wages and employment. Topics include labor supply decisions, marginal productivity theory, discrimination,
+ demand for education, effects of trade unions, immigration and growing wage inequality."
+ECON 42075 ,"INTERNATIONAL ECONOMIC RELATIONS
+",ECON,ECON 22060 and 22061.,None,"Principles, problems and policies of international economic relations with extensive references to the United
+ States, Western Europe, Latin America and former communist countries. Covers international aspects of
+interdependency, cooperation and multinational institutions."
+ECON 42076 ,"ECONOMIC DEVELOPMENT
+",ECON,ECON 22060 and 22061.,None,"(Cross-listed with ECON 52076) Analysis of nature of significance of barriers to and future potential for
+ economic development of a nation. Special emphasis on theories and strategic factors pertaining to economic
+ growth."
+ECON 42080 ,"REGIONAL ECONOMICS
+",ECON,ECON 22060 and 22061.,None,"(Cross-listed with ECON 52080) Examines techniques of regional economic analysis to promote understanding
+ of interregional disparities in developed nations and suggests policy alternatives for alleviating problems arising
+ from disparities."
+ECON 42081 ,"URBAN ECONOMICS
+",ECON,"ECON 22060 and22061.
+",None,"(Cross-listed with ECON 52081) Application of economic principles to urban spatial patterns, economic
+ development and public policy in housing, transportation, pollution, welfare, etc."
+ECON 42085 ,"PUBLIC FINANCE
+",ECON,ECON 22060.,None,"(Cross-listed with ECON 52085) Examination of public expenditure and taxation policies, including the theory of
+ public goods, collective decision making, cost- benefit analysis, equity and efficiency aspects of taxation and
+ current government policy issues."
+ECON 42086 ,"ECONOMICS OF HEALTH CARE
+",ECON,ECON 22060.,None,"(Cross-listed with ECON 52086) Overall objective is to use economic analysis to understand and evaluate what
+ has and is happening to the health care profession and current health care policies under consideration. Topics
+ include issues such as Medicare, health care reform,HMOs and increasing costs in health care."
+ECON 42191 ,"SENIOR SEMINAR IN ECONOMICS
+",ECON,ECON 32050 or MATH 40012; and ECON 32040 and 32041.,None,Advanced investigation of selected topics in economic analysis and issues in economic policy.
+ECON 42291 ,"VARIABLE CONTENT SEMINAR IN ECONOMICS
+",ECON,Permission.,None,"(Repeatable for a maximum of 12 hours) (Cross-listed with ECON 52291) Various special seminars will be
+ announced in the schedule of classes under this course number."
+ECON 42292 ,"INTERNSHIP IN ECONOMICS
+",ECON,"Economics (ECON) major; and a minimum cumulative 2.250 GPA; and ECON32040 and 32041; and one additional ECON 30000 - 40000 course; and special approval.
+",None,"(Repeatable for credit) Supervised practical experience in economics. Does not count toward the economics
+ major electives. May count as business elective. Satisfactory/unsatisfactory (S/U) graded. In-progress
+(IP)
+ mark permissible."
+ECON 42293 ,"VARIABLE TOPIC WORKSHOP IN ECONOMICS
+",ECON,Permission.,None,"(repeated registration permitted when topic varies;repeatable for a total of 18 hours) various special workshops
+ will be announced in the schedule of classes under this course number."
+ECON 42295 ,"SPECIAL TOPICS IN ECONOMICS
+",ECON,special approval.,None,"(Repeatable for a maximum of 9 credit hours) (Cross-listed with ECON 52295) Various special topics will be
+ announced in the schedule of classes under this course number."
+ECON 42296 ,"INDIVIDUAL INVESTIGATION IN ECONOMICS
+",ECON,"Senior economicsmajor; special approval.
+",None,"(Repeatable for credit)Independent study done under the supervision of a
+faculty member. Written approval of
+ supervising faculty member and department chair required prior to registration."
+ECON 42298 ,"RESEARCH IN ECONOMICS
+",ECON,"Senior economicsmajor; special approval.
+",None,"(Repeatable for credit)Research project done under the supervision of a faculty member. Written approval of
+ supervising faculty member and department chair required prior to registration."
+ECON 42299 ,"SENIOR PROJECT
+",ECON,"Senior economicsmajor; special approval.
+",None,"Thesis or independent study project done under the supervision of a faculty member. Written approval of
+ supervising faculty member and department chair required prior to registration."
+ECON 52065 ,"PROBLEMS OF MONETARY AND FISCAL POLICY
+",ECON,"ECON32041 or ECON 62021; and graduate standing.
+",None,"Analysis of objectives, techniques and economic effects of monetary and fiscal policies."
+ECON 52068 ,"INDUSTRIAL ORGANIZATION AND PUBLIC POLICY
+",ECON,Graduate standing.,None,"(Cross-listed with ECON 42068) Theoretical, empirical and critical examination of structure, operation and
+ performance of industrial markets in American economy."
+ECON 52072 ,"ECONOMICS OF LABOR MARKETS
+",ECON,"ECON32040; graduate standing; for students that did not attend Kent State University for their undergraduate
+ degree, please contact department for
+approval.
+",None,"(Cross-listed with ECON 42072) The economic analysis of the decisions of
+workers and firms in determination of
+ wages and employment. Topics include labor supply decisions, marginal productivity theory, discrimination,
+ demand for education, effects of trade unions, immigration and growing wage inequality."
+ECON 52076 ,"ECONOMIC DEVELOPMENT
+",ECON,Graduate standing.,None,"(Cross-listed with ECON 42076) Analysis of nature and significance of barriers to and future potential for
+ economic development of a nation. Special emphasis on theories and strategic factors pertaining to economic
+ growth."
+ECON 52081 ,"URBAN ECONOMICS
+",ECON,"Graduatestanding.
+",None,"(Cross-listed with ECON 42081) Application of economic principles to urban spatial patterns, economic
+ development, and public policy in housing, transportation, pollution, welfare, etc."
+ECON 52085 ,"PUBLIC FINANCE
+",ECON,"ECON22060;graduate standing.
+",None,"(Cross-listed with ECON 42085) Examination of public expenditure and taxation policies including the theory of
+ public goods,collective decision making, cost-benefit analysis, equity and efficiency aspects of
+taxation and
+ current government policy issues."
+ECON 52086 ,"ECONOMICS OF HEALTH CARE
+",ECON,Graduate standing and ECON 62022.,None,"(Cross-listed with ECON 42086) Overall objective is to use economic analysis to understand and evaluate what
+ has and is happening to the health care profession and current health care policies under consideration. Topics
+ include issues such as Medicare, health care reform, HMO's and increasing costs in health care."
+ECON 52291 ,"VARIABLE CONTENT SEMINAR IN ECONOMICS
+",ECON,"Special approval and graduatestanding.
+",None,"(Repeatable for a maximum of 12 credit hours) (Cross-listed with ECON 42291) Various special seminars will be
+ announced in the schedule of classes under this course number."
+ECON 52293 ,"VARIABLE TOPIC WORKSHOP IN ECONOMICS
+",ECON,Special approval and graduate standing.,None,"(Repeatable for a maximum of 18 credit hours)Various special workshops will be announced in the schedule of
+ classes under this course number."
+ECON 52295 ,"SPECIAL TOPICS IN ECONOMICS
+",ECON,"Special approval and graduatestanding.
+",None,"(Repeatable for a maximum of 9 credit hours) (Cross-listed with ECON 42295) Various special topics will be
+ announced in the schedule of classes under this course number."
+ECON 62010 ,"SURVEY OF ECONOMICS
+",ECON,Graduate standing.,None,"Survey of basic economic concepts and methods of analysis of both micro-
+and macroeconomics. Emphasis is
+ placed on the use and relevance of economic concepts and tools in business decision-making."
+ECON 62015 ,"ECONOMICS OF INFORMATION
+",ECON,Graduate standing.,None,"Introduction to microeconomic theory and decision-making and its applications to the information economy.
+ Overview of the economics of information. Consumer behavior and production theory; the demand for
+information; information as a factor of production; information costs and pricing. Case studies in the
+ information industry."
+ECON 62021 ,"BUSINESS CONDITIONS ANALYSIS AND PUBLIC POLICY
+",ECON,MIS 64005 (may be taken concurrently). Graduate standing.,None,"(Cross-listed with BAD 72021) Analysis of forces determining economic growth, employment, inflation and
+ international competitiveness with emphasis on understanding the business cycle and government stabilization
+ policies."
+ECON 62022 ,"MANAGERIAL ECONOMICS
+",ECON,"MIS 64005; and MATH 11012 or MATH 12002 or ECON 62010; andgraduate standing.
+",None,"(Cross-listed with BAD 72022) Uses economic theory and quantitative methodologies to develop decision-
+making skills which enable managers of
+local, national and multinational companies to evaluate problems and
+allocate resources efficiently."
+ECON 62050 ,"MICROECONOMIC THEORY I
+",ECON,"ECON 62022. (It would be useful ifthe student had some facility in integral and differential calculus.) Graduate standing.
+",None,"(Cross-listed with BAD 72050) Comprehensive analysis of methodology of economics, consumer behavior
+ production and costs the firm, markets and welfare economics."
+ECON 62051 ,"MACROECONOMIC THEORY I
+",ECON,ECON 62021; ECON 62022; graduate standing.,None,"(Cross-listed with BAD 72051) Analysis of the determination of the level
+of income, employment inflation
+ economic growth consumption investment money demand and supply the international sector and economic
+ policy are
+discussed."
+ECON 62054 ,"ECONOMETRICS I
+",ECON,Graduate standing.,None,"(Cross-listed with BAD 72054) Introduction to problems and methods of the empirical estimation of economic
+ relationships."
+ECON 62055 ,"ECONOMETRICS II
+",ECON,"ECON62054 and graduate standing.
+",None,"(Cross-listed with BAD 72055) Covers generalized linear regression, mixed estimation, simultaneous equation
+ systems, their identification and estimation by single equation and systems estimation."
+ECON 62056 ,"TIME SERIES ANALYSIS
+",ECON,"Special approval of instructor and graduatestanding.
+",None,"Covers various linear and non-linear time series models, market risk and
+value at risk (VAR). Students will gain
+ hands on-experience with all models learned in the course. This course uses advanced analytical software and
+ hardware on the financial engineering trading floor."
+ECON 62061 ,"MONETARY THEORY AND POLICY
+",ECON,"ECON62021; graduate standing.
+",None,"(Cross-listed with BAD 72061) A study of the nature and definition of money, its relationship to prices, output,
+ employment, and interest rates and problems related to the conduct of monetary policy."
+ECON 62072 ,"ECONOMICS OF LABOR MARKETS
+",ECON,"ECON 32040 or ECON 62022; and ECON 62054or MIS 84023; and graduate standing.
+",None,"The economic analysis of the decisions of workers and firms in determination of wages and employment. Topics
+ include labor supply decisions, marginal productivity theory, discrimination, demand for education, effects of
+ trade unions, immigration and wage inequality."
+ECON 62075 ,"INTERNATIONAL TRADE
+",ECON,"ECON 62021and ECON62022; graduate standing.
+",None,"(Cross-listed with BAD 72075) Study of modern international trade theory
+and policy, including free trade
+ areas, international trade organizations, current issues in international trade and the effect of international
+ trade on domestic policy."
+ECON 62076 ,"INTERNATIONAL FINANCE
+",ECON,ECON 62021; graduate standing.,None,"(Cross-listed with BAD 72076) Study of the international monetary relations between nations, including the
+ determination of exchange rates, managed exchange rate policies, balance of payments crises, optimum
+currency areas, and international capital flows."
+ECON 62077 ,"ECONOMIC PROBLEMS OF DEVELOPING AREAS
+",ECON,"ECON 52076. Graduatestanding.
+",None,In-depth analysis of selected topics and issues in development economics.
+ECON 62092 ,"INTERNSHIP IN ECONOMICS
+",ECON,"Admittedto the Master of Arts in Economics program; special approval.
+",None,"(Repeatable for credit) Supervised practical experience in economics. Students must have a minimum 3.000
+ GPA in the economics major within the
+MAE degree and completed 4 courses from the MAE."
+ECON 62095 ,"SPECIAL TOPICS IN ECONOMICS
+",ECON,special approval and graduate standing.,None,"(Repeatable 3 times for credit) Various special topics will be announced
+in the Schedule of Classes under this
+ course number."
+ECON 62096 ,"INDEPENDENT STUDY
+",ECON,Special approval and graduate standing.,None,"(Repeatable for credit)Independent study on a particular project or sequence of subjects. Maximum of 6
+ semester hours of work may be earned in independent study although no more than 3 hours in any one
+ semester."
+ECON 62098 ,"RESEARCH
+",ECON,Graduate standing.,None,"(Repeatable for credit)Research for master's students. May apply toward degree requirements if approved in
+ advance by department."
+ECON 62180 ,"REGIONAL ECONOMICS
+",ECON,Graduate standing.,None,"Examines techniques of regional economic analysis with the object of promoting understanding of interregional
+ disparities in developed nations and policies for alleviating problems arising from disparities."
+ECON 62199 ,"THESIS I
+",ECON,Special approval of adviser and graduate standing.,None,"Thesis students must register for total of 6 hours, 2 to 6 hours in a single semester, distributed over several
+ semesters if desired."
+ECON 62299 ,"THESIS II
+",ECON,ECON 62199 and graduate standing.,None,Thesis students must continue registration each semester until all degree requirements are met.
+ECON 64004 ,"QUANTITATIVE METHODS IN BUSINESS ADMINISTRATION I
+",ECON,"Graduatestanding.
+",None,"(Cross-listed with BAD 74004) Introduction to fundamentals of matrix algebra, differential calculus and linear
+ programming. Both algebraic and transcendental functions are included in discussion."
+ECON 82024 ,"SEMINAR IN APPLIED ECONOMIC ANALYSIS
+",ECON,doctoral standing.,None,"Discussion and analysis of selected current economic problems confronting the economy and the business
+ sector. Emphasis will be on applied analysis."
+ECON 82072 ,"ECONOMICS OF LABOR MARKETS
+",ECON,"ECON 32040 or ECON 62022; and ECON 62054or BAD 84023; and doctoral standing.
+",None,"The economic analysis of the decisions of workers and firms in determination of wages and employment. Topics
+ include labor supply decisions, marginal productivity theory, discrimination, demand for education, effects of
+ trade unions, immigration and wage inequality."
