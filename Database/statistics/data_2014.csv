@@ -1,0 +1,165 @@
+,Keywords,Similar Departments
+ACCT,"Accounting, Auditing, Cost, Crossliste, Emphasize, Financial, Tax","ACTT, FIN, EMBA"
+ACTT,"Accounting, Cost, Fraud, Income, Payroll, Statement",ACCT
+ADED,"Bureau, School, Secondary, Teach, Teaching","MCED, EDUC, CI, ECET, SPSY, ECED, CTTE, EDAD, HED, SPED"
+AED,"Design, Designer, Environmental, Larc, Space, Thesis","ARCH, LARC, ARCS, VCD, ID"
+AERN,"Aircraft, Airport, Aviation, Faa, Flight",
+AGRI,"Agribusiness, Business, Crop, Farm, Management, Price","ECON, MIS, EMBA, BMRT, MKTG, FIN"
+ANTH,"Anthropological, Anthropology, Archaeology, Crossliste, Human, Prehistoric, Primate","BMS, BSCI, HIST, GEOG, CI, EMBA, HDFS, ARTH, EXPH, ARCH"
+ARAB,"Arabic, Colloquial, Continuation, Translation","TRST, CHIN, HRTG, SPAN, JAPN"
+ARCH,"Architectural, Architecture, Building, Construction, Crossliste, Design, Urban","LARC, ARCS, UD, ID, VCD, AED, ARTH, DSCI, CS, CMGT"
+ARCS,"Architectural, Architecture, Contemporary, Design, Exercise, Play","ARCH, VCD, DSCI, AED, LARC, ID, UD"
+ARTC,"Cloth, Craft, Design, Glass, Jewelry, Loom, Textile, Weave","KBA, VCD, ARCH"
+ARTE,"Andor, Associate, Clinical, Education, Fiftyfour, Lead, Practice, Prevail, Teach, Teacher","CULT, CTTE, HIED, CI, ECED, SPED, RADT, ADED, HED"
+ARTF,"Conceive, Continuation, Fine, Intaglio, Late, Painting, Photographic, Portfolio, Produce, Retain, Sculpture, Studio","ARTH, ART"
+ARTH,"Architecture, Arts, Century, Crossliste, Late, Painting, Prehistoric, Sculpture, Th","HIST, ARCH, ARTF, CLAS, ANTH"
+ART,"Art, Away, Creative, Involve, Reflection, Site, Travelbase, Visual",ARTF
+ASL,"American, Bilingualbicultural, Community, Cumulative, Deaf, Expressive, Immersion, Inclass, Language, Receptive, Sign","SPED, MCLS"
+ASTU,"Air, Commission, Defense, Force, Mandatory, Military, Optional, Rotc, Scholarship, Task, Undertake",MSCI
+AS,"Adequately, Authoritative, Coursework, Dean, Encourage, Formulate, Interdisciplinary, Legal, Promptly, Treat","CA, US"
+ATTR,"Athletic, Clinical, Training","EXPH, EXSC"
+BAD,"Business, Crossliste, Doctoral, Economic, Estimation, Graduate, International, Mba, Policy, Trade","ECON, EMBA, FIN, POL, MIS, BMS, CI, EDAD"
+BMRT,"Business, Labor, Management, Security","MIS, EMBA, FIN, DSCI, ENTR, IAKM, MKTG, AGRI, TECH"
+BMS,"Approves, Crossliste, Degree, Department, Dependent, Human, Importance, Laboratory, Per, Recent, Week","BSCI, ANTH, EXPH, CI, EMBA, CHEM, EPSY, BAD, CS, GEOL"
+BSCI,"Animal, Biological, Biology, Crossliste, Ecology, Ecosystem, Genetic, Molecular, Organism, Plant","BMS, ANTH, EXPH, BSC, CHEM, CI, GEOL, EMBA, ARCH, HED"
+BSC,"Anatomy, Body, Clinical, Disease, Organ","BSCI, GMD, RIS"
+BST,"Generalize, Health, Linear, Logistic, Model, Multivariate, Regression, Sas, Statistical, Survival, Table","EPI, HPM, PH, HED, EHS"
+BTEC,"Biotechnology, Director, Protein",
+BUS,"Basis, Business, Concurrent, Cooperate, Creditpreparation, Creditspecial, Different, Offer, Onthejob",
+CACM,"Conflict, Negotiation, Nonviolent",POL
+CADT,"Animation, Computer, Computeraide, Creation, Design, Draft, Engineering, Game, Interactive, Modeling, Productivity","CDAG, CS, IERT"
+CA,"Adequately, Administer, Clear, College, Committee, Creditthis, Dean, Encourage, Make, Promptly, Propose, Request, Scheduling, School, Sponsor, Treat",AS
+CCI,"Andor, Collaborative, Coursework, Cover, Creditinterdisciplinary, Crossliste, Doctoral, Experience, Interdisciplinary, Learning, Traditional",
+CDAG,"Animation, Atp, Game, Multimedia, Scripting",CADT
+CHDS,"Counsel, Counseling, Counselor, Crossliste, School","HED, SPSY, EDAD, CI, RHAB, SPED, HDFS, ECED, EPSY, COMM"
+CHEM,"Chemistry, Crossliste, Organic, Synthesis","BSCI, BMS, GEOL"
+CHIN,"Active, Authentic, Chinese, Chinesespeaking, Comprehension, Connected, Continuation, Conversational, Discourse, Intermediate, Mandarin, Text, Vocabulary","ARAB, HRTG"
+CI,"Bureau, Crossliste, Curriculum, Education, Learn, Literacy, Mathematic, Teaching","ECED, MCED, ADED, EDAD, HED, CTTE, CULT, ECET, SPSY, EPSY"
+CLAS,"Ancient, Antiquity, Christianity, Crossliste, Genre, Greek, Roman","GRE, LAT, ARTH, HIST, ENG"
+CLI,"Care, Cleveland, Clinical, Foot, Month, Patient, Podiatric, Rotation, Surgical, Year","SUR, PMD, RIS, GMD, NURS, RADT"
+CLS,"Blood, Characterization, Consideration, Fluid, Identification, Isolation, Laboratory, Pathogenic, Practical, Theoretical",VTEC
+CMD,"Concern, Disease, Enter, Health, Issue, Jurisprudence, Marketplace, Medical, Medicine, Podiatric, Podiatrist, Presents, Provision","PH, HED, HPM, EHS"
+CMGT,"Bid, Building, Construction, Contract, Estimate, Project","ARCH, HORT"
+COMM,"Communication, Crossliste, Health, Interpersonal, Medium","HED, HDFS, CI, JMC, PH, POL, EDAD, HPM, EMBA, ENG"
+COMT,"Computer, Eventdriven, File, Lan, Network, Objectoriente, Technology, Web","TECH, CS, MIS, LIS, IAKM, DSCI, ITEC"
+CPHY,"Crossliste, Crystal, Liquid, Phase, Polymer",LCDE
+CS,"Algorithm, Computer, Crossliste, Database, Language, Network, Programming","COMT, TECH, ARCH, MIS, MATH, DSCI, CI, LIS, IAKM, CADT"
+CTTE,"Career, Careertechnical, Crossliste, Education, Technical","CI, CULT, HIED, ADED, MCED, HED, ECED, ARTE, ECET, EDAD"
+CULT,"Crossliste, Cultural, Education, Educational, Foundation, Social","HIED, ARTE, CI, EDAD, CTTE, EPSY, HED, SPED, EVAL, ECED"
+DAN,"Ballet, Dance, Technique",
+DSCI,"Architecture, Business, Creditanalysis, Design, Digital, Enterprise, Technology","IAKM, MIS, TECH, ARCH, ARCS, LIS, BMRT, CS, COMT, LARC"
+ECED,"Bureau, Child, Childhood, Crossliste, Curriculum, Development, Early, Education, Preschool, Teaching, Young","CI, MCED, ECET, ADED, SPED, SPSY, EDAD, EDUC, CTTE, HED"
+ECET,"Authorize, Bcii, Bureau, Check, Criminal, Day, Fbi, Identification, Investigation, Personnel, Result, Schoolagency, Submit, Teachinginternship","MCED, ADED, SPSY, EDUC, ECED, CI, CTTE, HED"
+ECON,"Analysis, Crossliste, Economic, Policy, Trade, Wage","BAD, EMBA, POL, AGRI, FIN, IERT, MIS, HIST, HPM"
+EDAD,"Administrator, Crossliste, Educational, Leader, School","CI, CULT, SPSY, EPSY, ECED, HIED, HED, SPED, ADED, CHDS"
+EDST,"Aspiration, Attempt, Congruent, Coursework, Dependent, Diverse, Educational, Field, Individual, Member, Placement, Previous, Prior","IHS, CULT"
+EDUC,"Alice, Balanced, Bureau, Campus, Designate, Elementary, Facultystaff, Full, Official, Regional, Secondary, Teach, Training, Valid","ADED, MCED, ECET, SPSY, ECED, CI, HED, CTTE, SPED"
+EERT,"Circuit, Control, Dc, Electricalelectronic, Engineering, Microprocessor, Network","TECH, IERT"
+EHS,"Assessment, Environmental, Hazard, Health, Risk","PH, HPM, HED, EVHS, SBS, CMD, BST, IHS, NURS"
+EMBA,"Business, Crossliste, Economic, Executive, Managerial, Seminar, Series","BAD, ECON, MIS, FIN, BMRT, CI, ACCT, MKTG, BMS, EDAD"
+ENG,"Clause, Count, Crossliste, English, Graduation, Language, Literary, Literature, Practice, Write","MCLS, CI, HIST, SPED, CLAS, SPAN, COMM, FR, EDAD, ARCH"
+ENTR,"Business, Entrepreneur, Entrepreneurial, Entrepreneurship, Startup, Venture","BMRT, MKTG, MIS, EMBA"
+EPI,"Datum, Disease, Epidemiologic, Epidemiology, Infectious, Model","BST, PH, HED"
+EPSY,"Crossliste, Development, Educational, Human, Implication, Learn, Learning, Setting","CI, CULT, EDAD, EVAL, SPED, HDFS, ITEC, ECED, BMS, HIED"
+EVAL,"Assessment, Classroom, Crossliste, Educational, Irt, Measurement, Multivariate, Response","EPSY, SPED, CI, CULT, EDAD, PSYC"
+EVHS,"Environmental, Fire, Hazard, Hazardous, Poison, Safety, Technology","EHS, PH, FESA"
+EXPH,"Crossliste, Exercise, Physiology","EXSC, BMS, BSCI, ATTR, CI, ANTH, EMBA, EDAD"
+EXSC,"Crossliste, Exercise, Fitness, Science","EXPH, ATTR"
+FDM,"Design, Fashion, Garment, Market",
+FESA,"Emergency, Fire",EVHS
+FIN,"Derivative, Financial, Investment, Risk, Trading","EMBA, ACCT, BMRT, ECON, BAD, MIS, AGRI"
+FR,"Francophone, French, Translation","TRST, SPAN, ENG"
+GAE,"Cell, Fuel",
+GEOG,"Climate, Crossliste, Geographic, Geography, Gis, Spatial","ANTH, GEOL, ARCH"
+GEOL,"Crossliste, Earth, Geology, Rock, Trip, Water","BSCI, GEOG, CHEM, CI, ARCH, BMS"
+GERO,"Administration, Adulthood, Care, Crossliste, Discussion, Every, Gerontology, Hour, Longterm, Ltc, Old, Oncampus, Week",NURS
+GER,"German, Translation","TRST, MCLS"
+GMD,"Cardiovascular, Dermatologic, Diagnosis, Disease, Etiology, Lecture, Nonpodiatric, Organ, Patient, Podiatric, Series, Treatment","SUR, BSC, CLI, PMD"
+GRE,"Ancient, Classical, Excerpt, Greek, Plato",CLAS
+HDFS,"Development, Family, Human, Pyd, Service, Youth","HST, SPED, EPSY, ECED, COMM, CI, EDAD, HED, CHDS, ANTH"
+HEBR,"Continuation, Culture, Hebrew, Israeli, Language, Listening, Modern, Speaking","HRTG, MCLS"
+HED,"Crossliste, Education, Health, Promotion","HPM, PH, EHS, CI, CMD, CTTE, SBS, SPSY, CULT, NURS"
+HIED,"College, Crossliste, Education, High, Institution","CULT, CI, CTTE, EDAD, ARTE, HED, SPED, ECED, EPSY, HIST"
+HIST,"Crossliste, Europe, History, Political, Social, War","POL, PAS, ARTH, ENG, ANTH, CI, CLAS, CULT, ARCH, HIED"
+HM,"Food, Hospitality, Management",
+HONR,"Creditdirecte, Creditonesemester, Creditsee, Department, Freshman, Idea, Independent, Interdisciplinary, Mean, One, Senior, Sequence, Theme, Twosemester",
+HORT,"Campus, Green, Industry, Landscape, Plant, Salem, Turf","LARC, CMGT"
+HPM,"Care, Grant, Health, Management, Policy","PH, HED, EHS, SBS, IHS, NURS, CMD, IAKM, BST, MIS"
+HRTG,"Continuation, Credittopic, Culture, Heritage, Language, Listening, Speaker, Speaking","HEBR, MCLS, ARAB, CHIN"
+HST,"Agency, Avenue, Client, Human, Joint, Service, Universityagency",HDFS
+IAKM,"Cms, Community, Design, Emr, Knowledge, Management","MIS, DSCI, LIS, TECH, HPM, PH, COMT, BMRT, ARCH, HED"
+ID,"Design, Interior, Space","ARCH, VCD, LARC, ARCS, AED"
+IERT,"Chart, Economic, Engineering, Industrial, Technology","TECH, MERT, EERT, ECON, CADT"
+IHS,"Credentialing, Diverse, Field, Health, Healthhuman, Human, Observationwork, Practicum, Profession, Service, Servicerelate, Singlesubject","EDST, HPM, HED, PH, NURS, EHS"
+ILS,"Community, Correlation, Crisis, Firstyear, Healthrelate, Kent, Medical, Mental, Science, Sciences, Sociological, Stateneoucom",
+INS,"Casualty, Health, Insurance, Insurer, Life, Property",
+ITAL,"Italian, Language",MCLS
+ITAP,"Business, Document, Highend, Medical, Minute, Processing, Software, Word","MIS, VCD, IAKM"
+ITEC,"Design, Instructional, Learning, Online, Technology","CI, TECH, ADED, EPSY, SPED, VCD, IAKM, COMT, MIS, JMC"
+JAPN,"Japanese, Translation","TRST, ARAB"
+JMC,"Broadcast, Gpa, Mass, Medium, News, Video","COMM, VCD, ITEC"
+JUS,"Correctional, Crime, Criminal, Homeland, Justice, Police, Security, Victim",POL
+KBA,"Art, Content, Exploration, Fee, Fiber, Glass, Jewelry, Metal, Offer, Photography, Printmake, Section, Studio, Vary",ARTC
+KBM,"Chamber, Horn, Music, Orchestral, Performance, Piano, Rehearsal, Repertoire, String, Woodwind",MUS
+KBT,"Company, Division, Hoursintensive, Maximum, Performance, Periodic, Porthouse, Practical, Production, Seminar, Session, Supervision, Theatre",THEA
+LARC,"Architecture, Design, Ecological, Landscape, Plant, Scale, Small, Studio, Urban","ARCH, UD, ID, AED, HORT, VCD, ARCS, DSCI"
+LAT,"Consideration, Latin, Prose, Roman",CLAS
+LCDE,"Behind, Crystal, Device, Display, Electrooptical, Lcds, Liquid, Optical",CPHY
+LIB,"Access, Become, Enable, Fill, Fluentable, Informational, Literate, Move, Seamlessly, Socially, Success, Teach, Technology, Variety, Whether, Workplace",
+LIS,"Access, Digital, Library, Museum","IAKM, COMT, DSCI, MIS, TECH, CS"
+MATH,"Algebra, Calculus, Creditseminar, Differential, Equation, Function, Number, Numerical, Ring, Theorem",CS
+MCED,"Authorize, Bcii, Bureau, Check, Fbi, Grade, Investigation, Mathematic, Schoolagency, Submit, Teach, Teaching","ADED, ECET, CI, ECED, SPSY, EDUC, CTTE, HED, SPED, EDAD"
+MCLS,"Elementary, Foreign, Language, Second","ENG, HRTG, CI, SPED, ASL, HEBR, ITAL, SPA, GER"
+MERT,"Design, Engineering, Fluid, Kinematic, Mechanical, Property, Stress","IERT, TECH"
+MFGT,"Bearing, Cam, Cnc, Code, Factory, Helical, Lathe, Mill, Offset, Programming, Pulley, Rubber",
+MIS,"Business, Chain, Management, Operation, Strategic, Supply","IAKM, TECH, BMRT, EMBA, DSCI, COMT, CS, PADM, AGRI, LIS"
+MKTG,"Firm, Marketing, Sale","MMTG, EMBA, MIS, BMRT, AGRI, ENTR"
+MMTG,"Communication, Decisionmake, Incorporate, Marketing, Software, Tool","MKTG, EMBA"
+MSCI,"Decisionmake, Dimension, Execute, Leader, Leadership, Military, Organizational, Stress, Task, Undertake",ASTU
+MUS,"Accept, Audition, Minor, Music, Performance, Repertoire, Technique",KBM
+NRST,"Care, Nursing, Selfcare, Therapeutic",NURS
+NSE,"Academic, Await, Back, Creditthis, Hold, Keeping, Kent, Mean, Real, Record, State, Transfer",
+NURS,"Achieve, Care, Clinical, Health, Nurse, Nursing, Practicum, Progress","NRST, HED, HPM, PH, IHS, RTT, CLI, GERO, IAKM, SPED"
+NUTR,"Diet, Dietetic, Food, Nutrition, Nutritional",
+OCAT,"Assistant, Dysfunction, Healthcare, Occupational, Therapeutic, Therapy",PTST
+OIA,"Approve, Creditthis, Enrol, Exchange, Foreign, Involve, Kent, Program, Register, State, Studyabroad, University, Vehicle",
+ORT,"Biomechanic, Extremity, Foot, Incidence, Pathology, Pathomechanic","PMD, SUR"
+PADM,"Administration, Budget, Governance, Nonprofit, Organization","POL, MIS"
+PAS,"Africa, African, American, Kiswahili",HIST
+PHIL,"Ethical, Figure, Override, Philosophic, Philosophical, Philosophy, Primarysource, Tradition",
+PHY,"Equation, Mechanic, Nuclear, Particle, Physics, Quantum",
+PH,"Disease, Environmental, Health","HPM, HED, EHS, CMD, SBS, EVHS, IHS, NURS, EPI, IAKM"
+PLST,"Also, Law, Legal, Patent, Trademark",
+PMD,"Academy, Ankle, Diabetic, Foot, Monthly, Patient, Podiatric","SUR, ORT, CLI, GMD, RIS"
+POL,"Conflict, Policy, Politic, Political","CACM, HIST, PADM, ECON, BAD, COMM, JUS, MIS, SOC"
+PSYC,"Assessment, Behavior, Cognitive, Disorder, Personality, Psychological, Psychology, Psychopathology, Psychotherapy","SPSY, SPED, SPA, SOC, EVAL"
+PTST,"Assistant, License, Physical, Pt, Pta, Therapist, Therapy","OCAT, RTT"
+RADT,"Clinical, Education, Image, Imaging, Medical, Radiation, Radiographic, Radiologic","RIS, ARTE, CLI"
+REL,"Belief, Comparative, Pivotal, Religion, Religious, Study, Theorist",
+RERT,"Appraisal, Cover, Estate, Market, Mortgage, Property, Real, Transaction",
+RHAB,"Counselor, Disability, Job, Rehabilitation, Vocational","CHDS, SPED"
+RIS,"Clinical, Ct, Image, Imaging, Instrumentation, Nuclear, Patient, Procedure, Quality, Radiation, Sonographic","RADT, CLI, RTT, BSC, VTEC, PMD"
+RPTM,"Disability, Leisure, People, Recreation, Service, Tourism, Travel","SRM, SPED"
+RTT,"Cardiopulmonary, Care, Clinical, Laboratory, Respiratory, Therapy, Ventilation","RIS, VTEC, NURS, PTST"
+RUSS,"Russian, Translation",TRST
+SBS,"Alcohol, Behavior, Behavioral, Dietary, Grant, Health, Injury, Prevention, Science, Social, Sociobehavioral, Substance, Tobacco","HPM, PH, HED, EHS, SOC"
+SEED,,
+SOC,"Akron, Food, Gender, Social, Sociological","SBS, POL, PSYC, HDFS"
+SPAD,"Golf, Sport",SRM
+SPAN,"Hispanic, Literary, Spanish, Spanishamerican, Text, Translation","TRST, FR, ENG, ARAB"
+SPA,"Audiologic, Audiology, Clinical, Disorder, Hear, Language, Pathology, Speech","SPED, PSYC, MCLS"
+SPED,"Assessment, Child, Deaf, Disability, English, Interpreter, Interpreting","ECED, CI, SPSY, EDAD, EVAL, SPA, HDFS, ASL, HED, ADED"
+SPSY,"Authorize, Bcii, Behavioral, Bureau, Clinicalfield, Fbi, Investigation, Psychologist, Psychology, School","ADED, ECET, MCED, EDUC, ECED, CI, EDAD, SPED, HED, CHDS"
+SRM,"Leisure, Recreation, Sport, Tourism","SPAD, RPTM, CI"
+SUR,"Ankle, Deformity, Foot, Indication, Patient, Physician, Podiatric, Surgery, Surgical, Trauma","CLI, PMD, GMD, ORT"
+SVCD,"Design, Graphic, Guest, Hourssummer, Illustration, Investigate, Maximum, Offering, Photography, Primarily, Specialized, Summer, Teach",VCD
+TAS,"Articulate, Bachelor, Career, Competency, Cornerstone, Describe, Entrepreneurial, Evolve, Familiarity, Help, Instruct, Job, Organization, Part, Personalize, Reflect, Role, Stage",
+TECH,"Computer, Control, Energy, Hardware, Network, Technology","EERT, COMT, CS, MIS, DSCI, IAKM, IERT, ITEC, LIS, ARCH"
+THEA,"Musical, Performance, Production, Theatre",KBT
+TRST,"Language, Multilingual, Text, Translation","SPAN, FR, ARAB, RUSS, JAPN, GER"
+UD,"Character, Design, Project, Urban","LARC, ARCH, VCD, ARCS"
+US,"Append, Career, Equip, Experiential, Plus, Reflective",AS
+VCD,"Communication, Design, Graphic, Illustration, Photography, Studio, Typography, Visual","SVCD, ARCH, ARCS, ID, LARC, AED, ITEC, ARTC, ITAP, IAKM"
+VIN,"Vineyard, Viticulture, Wine, Winemake, Winemaking, Winery",
+VTEC,"Animal, Clinical, Disease, Laboratory, Nursing, Patient, Veterinary","RTT, RIS, CLS"
+WMST,"Feminism, Feminist, Study, Variesstudy, Woman, Women, Womens",

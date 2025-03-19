@@ -1,0 +1,10 @@
+10010,FAA REGULATIONS AND DOCUMENTATION FAA,AMRT,,AMRT10040.,"history, inspections, documentation and aircraft drawings. Comprehensive course for the AMRT candidate to meet the requirements for FAA certification. Corequisite: AMRT10040.",2011
+10020,AIRCRAFT TOOLS AND TECHNIQUES ,AMRT,,AMRT 10010.,Welding for the aviation maintenance technician and understanding of fluid lines and fittings. Comprehensive course for the AMRT candidate to meet the requirements for FAA certification. Corequisite: AMRT 10010.,2011
+10030,AIRFRAME I ,AMRT,,AMRT 10010.,Understanding aircraft systems and corrosion control. Comprehensive course for the AMRT candidate to meet the requirements for FAA certification. Corequisite: AMRT 10010.,2011
+10040,AVIATION POWER PLANT I ,AMRT,,AMRT 10010.,Study of aviation engines and propellers. Comprehensive course for the AMRT candidate to meet the requirements for FAA certification. Corequisite: AMRT 10010.,2011
+20010,AIRFRAME II ,AMRT,AMRT10030.,,Understanding aircraft structures. Comprehensive course for the AMRT candidate to meet the requirements for FAA certification.,2011
+20020,AIRFRAME III ,AMRT,,AMRT 20010.,Advanced airframe course. Comprehensive course for the AMRT candidate to meet the requirements for FAA certification. Corequisite: AMRT 20010.,2011
+20030,AVIATION ELECTRONICS ,AMRT,EERT 12001.,,Electronics and systems for the aviation maintenance technician. Comprehensive course for the AMRT candidate to meet the requirements for FAA certification.,2011
+20040,PRINCIPLES OF FLIGHT ,AMRT,PHY 12202.,,"Nature of light, sound and aerodynamics. Comprehensive course for the AMRT candidate to meet the requirements for FAA certification.",2011
+20050,PRACTICUM IN ADVANCED AVIATION ,AMRT,AMRT 10040.,,Aviation maintenance experience. Comprehensive course for the AMRT candidate to meet the requirements for FAA certification.,2011
+20060,AVIATION POWER PLANT II ,AMRT,AMRT 10040.,,Further studies into aircraft engines. Comprehensive course for the AMRT candidate to meet the requirements for FAA certification.,2011
