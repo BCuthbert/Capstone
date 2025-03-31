@@ -11,13 +11,15 @@ from nltk.stem import WordNetLemmatizer
 import glob
 import os 
 import numpy as np
+import networkx
+import math
 
 nltk.download('stopwords')
 nltk.download('wordnet')
 nlp = spacy.load("en_core_web_sm")
 
 PATH = "D:/.Downloads/Database"
-PATH_SAVE = "D:/.Downloads/Database"
+PATH_SAVE = "D:/.Downloads/Database/statistics"
 
 # Requires the path of the file, path to save the output to, year (for file name purposes), and column numbers (starting at column 0) for the department name and course description for each column
 # Returns data_{year}.csv for the given year which has the columns for department name, keywords, and similar departments
@@ -108,7 +110,6 @@ def extract(path, path_save, year, column_name, column_description):
 
     df = pd.concat([pd.DataFrame.from_dict(depts_keywords, orient="index", columns=["Keywords"]), pd.DataFrame.from_dict(depts_similarities, orient="index", columns=["Similar Departments"])], axis=1)
     df.to_csv(f"{path_save}/data_{year}.csv")
-    print(f"File saved for {year}")
         
 
 
@@ -141,10 +142,76 @@ def preprocess(text):
 
 
 
-# extract(path=f"{PATH}/fall2009_course_data", path_save = PATH_SAVE, year=2009, column_name=2, column_description=4)
-# extract(path=f"{PATH}/2011", path_save = PATH_SAVE, year=2011, column_name=2, column_description=5)
-# extract(path=f"{PATH}/2012", path_save = PATH_SAVE, year=2012, column_name=2, column_description=5)
-# extract(path=f"{PATH}/2013", path_save = PATH_SAVE, year=2013, column_name=2, column_description=5)
-# extract(path=f"{PATH}/department_data_fall2014", path_save = PATH_SAVE, year=2014, column_name=2, column_description=5)
-# extract(path=f"{PATH}/department_data_fall2015", path_save = PATH_SAVE, year=2015, column_name=2, column_description=5)
-# extract(path=f"{PATH}/department_data_fall2016", path_save = PATH_SAVE, year=2016, column_name=2, column_description=5)
+# Requires the path of the department files for a specific year (separated department and without headers)
+# Requires the path to the data_{year}.csv for the given year output by the keyword extractor
+# Works by reading through all files in the path (assuming a course is present) and adding the graph JSON-esque format used in cytoscape to its own column on the statistics file
+def graphGrab(path_courses, path_stats):
+    outfile = pd.read_csv(path_stats)
+
+    files = glob.glob(os.path.join(path_courses, "*.csv"))
+    debts_graphs = {}
+
+    # Reads through each department catalog
+    for dept in files:
+        dept = pd.read_csv(dept)
+        courselist = []
+        nodes = []
+        edges = []
+        graph_string = ""
+
+        # Grabs the department name-- if it fails then there is not 
+        try:
+            dept_name = dept.iloc[1,2]
+        except:
+            dept_name = ""
+
+        # Grabs the course number, pre-reqs, and coreqs
+        dept_info = dept.iloc[:, [0, 3, 4]]
+        
+        # Converts the prereqs and coreqs into edges 
+        for coursenum, prereqs, coreqs in zip(dept_info.iloc[:, 0], dept_info.iloc[:, 1], dept_info.iloc[:, 2]):
+            if dept_name + str(coursenum) not in courselist:
+                courselist.append(dept_name + str(coursenum))
+            if type(prereqs) == str:
+                prereqs = re.findall(r'[A-Z]{2,5} \d{5}', prereqs)
+            else:
+                prereqs = []
+
+            if type(coreqs) == str:
+                coreqs = re.findall(r'[A-Z]{2,5} \d{5}', coreqs)
+            else: 
+                coreqs = []
+            
+            for edge in prereqs + coreqs:
+                edge = edge.replace(" ", "")
+                # Adds the edge to the edges and any courses not in the listed courses in the non-json version of the list 
+                if edge not in courselist:
+                    courselist.append(edge)
+                edges.append(f"data: {chr(123)} id: '{edge + dept_name + str(coursenum)}', source: '{edge}', target: '{dept_name + str(coursenum)}' {chr(125)}")
+        
+        # Converts the courses into json courses
+        for course in courselist:
+            nodes.append(f"data: {chr(123)} id: '{course}' {chr(125)}")
+
+        # Adds the edges and ndoes to the graph representation string
+        for entry in nodes:
+            graph_string += f"{chr(123)} {entry} {chr(125)},"
+        for entry in edges:
+            graph_string += f"{chr(123)} {entry} {chr(125)},"
+        
+        graph_string = "elements: [" + graph_string[:-1] + "]"
+        
+        # Saves the output in the csv location
+        outfile.loc[outfile.iloc[:, 0] == dept_name, "Graph Representation"] = graph_string
+        outfile.to_csv(path_stats, index=False)  
+
+
+# Main loop
+# Goes through each year and extracts keywords, and constructs a graph
+years = list(range(2009, 2025))
+for year in years:
+    extract(f"{PATH}/{year}", path_save=PATH_SAVE, year=year, column_name=2, column_description=5)
+    print(f"Keywords Extracted for {year}")
+    
+    graphGrab(f"{PATH}/{year}", f"{PATH_SAVE}/data_{year}.csv")
+    print(f"Graph constrcuted for {year}")
