@@ -5,10 +5,15 @@ import pandas as pd
 
 
 
-def scrape(year, department, graduate=False):
-    URL = f"https://catalog.kent.edu/previous-catalogs/{year}-{year+1}//coursesaz/{department}/"
+def scrape(year, department, graduate=True, old=True):
+    
+    if old:
+        URL = f"https://catalog.kent.edu/previous-catalogs/{year}-{year+1}//coursesaz/{department}/"
+    else:
+        URL = f"https://catalog.kent.edu/coursesaz/{department}/"
+
     #Save path is ./Database/2017-2018, ./Database/2018-2019, ./Database/2019-2020 etc.
-    save_path = f"./Database/{year}-{year+1}"
+    save_path = f"D:/.Downloads/Database/{year}"
 
     r = requests.get(URL)
     soup = BeautifulSoup(r.content, "lxml")
@@ -18,12 +23,17 @@ def scrape(year, department, graduate=False):
 
     courses_cleaned = []
     for course in courses:
-
+        
         course_html = course
         course = str(course)
-        
         # Regexes out the entire course title (EX: "ENG 01001 INTRODUCTION TO COLLEGE WRITING-STRETCH 3 Credit Hours)
-        course_title_information = re.search(r'<p class="courseblocktitle noindent"><strong>(.*?)</strong></p>', course).group(1)
+        try:
+            course_title_information = re.search(r'<p class="courseblocktitle noindent"><strong>(.*?)</strong></p>', course).group(1)
+        except:
+            course_title_information = ""
+        if course_title_information == "":
+            continue
+        
         course_title_information = re.split("\xa0\xa0\xa0\xa0", course_title_information)
         course_title_information[0] = course_title_information[0].replace("\xa0", " ") # id
         course_title_information[1] = course_title_information[1].strip() # name
@@ -45,8 +55,11 @@ def scrape(year, department, graduate=False):
             course_corequisites = course_corequisites[18:-1].replace('\xa0', ' ')
 
         # Gets the description
-        course_description = course_html.find_all("p")[1].get_text().replace('\xa0', ' ')
-
+        try:
+            course_description = re.findall(r'<p class="courseblockdesc noindent">\s*(?!<strong>)(.*?)</p>', course)[0]
+        except:
+            course_description = ""
+        
         # Gets the numbers from the id (without the department)
         course_numbers = re.sub("[^0-9]", "", course_id)
         
@@ -54,20 +67,20 @@ def scrape(year, department, graduate=False):
         # Unless the user specifies they want graduate (optional parameter graduate=True must be set to grab graduate courses)
         if int(course_numbers) < 50000 or graduate:
             # Appends the [df] tuple into the courses_cleaned 
-            courses_cleaned.append(tuple([course_id, course_name, course_prerequisites, course_corequisites, course_description]))
+            courses_cleaned.append(tuple([course_numbers, course_name, course_prerequisites, course_corequisites, course_description]))
     
     # Template for how each course will be represented in csv
-    output_df = pd.DataFrame(columns=["course_name", "department", "prerequisites", "corequisites", "description", "year"]) ## updated this for the sql database
+    output_df = pd.DataFrame(columns=["Course Number", "Course Name", "Department", "Pre-requisites", "Co-requisites", "Description", "Year"]) ## updated this for the sql database
     
     # Adds each course to the dataframe
 
     output_data = []
     for course in courses_cleaned:
-        output_data.append({"course_name": course[1], "department": department.upper(), "prerequisites": course[2], "corequisites": course[3], "description": course[4], "course_year": year})
+        output_data.append({"Course Number": course[0], "Course Name": course[1], "Department": department.upper(), "Pre-requisites": course[2], "Co-requisites": course[3], "Description": course[4], "Year": year})
     output_df = pd.DataFrame(output_data)
 
     # Saves the df
-    output_df.to_csv(f"{save_path}/{department}_data{year}-{year+1}.csv", header=False, index=False) # no header, so that importing it into the SQL database is easy.
+    output_df.to_csv(f"{save_path}/{department}_data{year}.csv",header=False, index=False) # no header, so that importing it into the SQL database is easy.
     
     
 #Takes in URL with the courses, and if the cataloge is >= 2020
@@ -119,6 +132,13 @@ while year != 2024:
         scrape(year, element)
     year += 1
 
-print("Done Scraping!")
+# Modern course catalog
+year = 2024
+print(f"Scraping {year} - {year + 1}...")
+depts = scrapeDepts("https://catalog.kent.edu/coursesaz/")
+for element in depts: 
+    scrape(year, element, old=False)
 
-# Works for 23-24, 22-23, 21-22, 20-21, 19-20, 18-19, 17-18
+
+print("Done Scraping!")
+# Works for 24-25, 23-24, 22-23, 21-22, 20-21, 19-20, 18-19, 17-18
