@@ -108,7 +108,7 @@ def extract(path, path_save, year, column_name, column_description):
 
     ### Create CSV
 
-    df = pd.concat([pd.DataFrame.from_dict(depts_keywords, orient="index", columns=["Keywords"]), pd.DataFrame.from_dict(depts_similarities, orient="index", columns=["Similar Departments"])], axis=1)
+    df = pd.concat([pd.DataFrame.from_dict(depts_keywords, orient="index", columns=["keywords"]), pd.DataFrame.from_dict(depts_similarities, orient="index", columns=["similar_depts"])], axis=1)
     df.to_csv(f"{path_save}/data_{year}.csv")
         
 
@@ -157,6 +157,8 @@ def graphGrab(path_courses, path_stats):
         courselist = []
         nodes = []
         edges = []
+        in_course = []
+        out_course = []
         graph_string = ""
 
         # Grabs the department name-- if it fails then there is not 
@@ -188,10 +190,29 @@ def graphGrab(path_courses, path_stats):
                 if edge not in courselist:
                     courselist.append(edge)
                 edges.append(f"data: {chr(123)} id: '{edge + dept_name + str(coursenum)}', source: '{edge}', target: '{dept_name + str(coursenum)}' {chr(125)}")
+
+                out_course.append(edge)
+                in_course.append(dept_name + str(coursenum))
         
         # Converts the courses into json courses
         for course in courselist:
             nodes.append(f"data: {chr(123)} id: '{course}' {chr(125)}")
+
+        # Computes max in-degrees, max out-degrees, and density 
+        if len(in_course) != 0:
+            max_indeg = max(map(in_course.count, in_course))
+        else:
+            max_indeg = 0
+        if len(out_course) != 0:
+            max_outdeg = max(map(out_course.count, out_course))
+        else:
+            max_outdeg = 0 
+        num_nodes = len(nodes)
+        num_edges = len(edges)
+        if (num_nodes * (num_nodes - 1) != 0):
+            density = num_edges / (num_nodes * (num_nodes - 1))
+        else:
+            density = None
 
         # Adds the edges and ndoes to the graph representation string
         for entry in nodes:
@@ -202,7 +223,11 @@ def graphGrab(path_courses, path_stats):
         graph_string = "elements: [" + graph_string[:-1] + "]"
         
         # Saves the output in the csv location
-        outfile.loc[outfile.iloc[:, 0] == dept_name, "Graph Representation"] = graph_string
+        outfile.loc[outfile.iloc[:, 0] == dept_name, "graph_representation"] = graph_string
+        outfile.loc[outfile.iloc[:, 0] == dept_name, "max_indegrees"] = max_indeg
+        outfile.loc[outfile.iloc[:, 0] == dept_name, "max_outdegrees"] = max_outdeg
+        outfile.loc[outfile.iloc[:, 0] == dept_name, "density"] = density
+        outfile.loc[outfile.iloc[:, 0] == dept_name, "year"] = year
         outfile.to_csv(path_stats, index=False)  
 
 
@@ -215,3 +240,20 @@ for year in years:
     
     graphGrab(f"{PATH}/{year}", f"{PATH_SAVE}/data_{year}.csv")
     print(f"Graph constrcuted for {year}")
+
+
+# Main loop pt 2
+# Aggregates each stat into one file
+newfile = pd.DataFrame()
+path = f"D:/.Downloads/Database/statistics/"
+files = glob.glob(os.path.join(path, "*.csv"))
+for file in files:
+    file_loc = file
+
+    try:
+        file = pd.read_csv(file)
+        newfile = pd.concat([newfile, file], ignore_index=True)
+    except:
+        pass
+newfile.to_csv(f"D:/.Downloads/Database/stats.csv", index=False)
+print(f"All files aggregated")
